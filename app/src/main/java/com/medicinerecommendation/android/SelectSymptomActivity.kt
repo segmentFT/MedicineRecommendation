@@ -75,32 +75,47 @@ class SelectSymptomActivity : AppCompatActivity() {
 
     fun sendRequestToSelfDiagnosis(position: String) {
         thread {
-            val url = URL("https://jbk.39.net/SelfDiagnosis/DiagnosisHandler.ashx")
-            val connection = url.openConnection() as HttpURLConnection
-            connection.requestMethod="POST"
-            connection.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; charset=utf-8")
-            connection.setRequestProperty("User-Agent",
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0")
+            var connection: HttpURLConnection? = null
 
-            val requestForm = "act=body&" +
-                    "q=${convertPositionToUTF8(position)}&" +
-                    "sex=${convertGenderToUTF8(individualInformation["gender"]!!)}&" +
-                    "age=${convertAgeRangeToUTF8(individualInformation["ageRange"]!!)}&" +
-                    "jid=${occupationNameToId(individualInformation["occupation"]!!)}"
+            try {
+                val url = URL("https://jbk.39.net/SelfDiagnosis/DiagnosisHandler.ashx")
+                connection = url.openConnection() as HttpURLConnection
+                connection.requestMethod = "POST"
+                connection.setRequestProperty(
+                    "Content-Type",
+                    "application/x-www-form-urlencoded; charset=utf-8"
+                )
+                connection.setRequestProperty(
+                    "User-Agent",
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0"
+                )
 
-            val request = DataOutputStream(connection.outputStream)
-            request.use {
-                request.writeBytes(requestForm)
-            }
+                val requestForm = "act=body&" +
+                        "q=${convertPositionToUTF8(position)}&" +
+                        "sex=${convertGenderToUTF8(individualInformation["gender"]!!)}&" +
+                        "age=${convertAgeRangeToUTF8(individualInformation["ageRange"]!!)}&" +
+                        "jid=${occupationNameToId(individualInformation["occupation"]!!)}"
 
-            val response = BufferedReader(InputStreamReader(connection.inputStream))
-            val responseText = StringBuilder()
-            response.use {
-                response.forEachLine {
-                    responseText.append(it)
+                val request = DataOutputStream(connection.outputStream)
+                request.use {
+                    request.writeBytes(requestForm)
                 }
+
+                val response = BufferedReader(InputStreamReader(connection.inputStream))
+                val responseText = StringBuilder()
+                response.use {
+                    response.forEachLine {
+                        responseText.append(it)
+                    }
+                }
+                displaySymptomList(responseText.toString())
+            } catch (e: Exception) {
+                runOnUiThread {
+                    connectionAlertDialog(this).show()
+                }
+            } finally {
+                connection?.disconnect()
             }
-            displaySymptomList(responseText.toString())
         }
     }
 

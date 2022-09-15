@@ -49,34 +49,47 @@ class SelfDiagnosisActivity : AppCompatActivity() {
 
     fun sendRequestToSelfDiagnosis() {
         thread {
-            val url = URL("https://jbk.39.net/SelfDiagnosis/DiagnosisHandler.ashx")
-            val connection = url.openConnection() as HttpURLConnection
-            connection.requestMethod = "POST"
-            connection.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; charset=utf-8")
-            connection.setRequestProperty("User-Agent",
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0")
+            var connection: HttpURLConnection? = null
+            try {
+                val url = URL("https://jbk.39.net/SelfDiagnosis/DiagnosisHandler.ashx")
+                val connection = url.openConnection() as HttpURLConnection
+                connection.requestMethod = "POST"
+                connection.setRequestProperty(
+                    "Content-Type",
+                    "application/x-www-form-urlencoded; charset=utf-8"
+                )
+                connection.setRequestProperty(
+                    "User-Agent",
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0"
+                )
 
-            val requestForm = "act=result&" +
-                    "sex=${intent.getStringExtra("sex")}&" +
-                    "age=${intent.getStringExtra("age")}&" +
-                    "jid=${intent.getStringExtra("occupationId")}&" +
-                    "ids=${intent.getStringExtra("symptomId")}"
-            val request = DataOutputStream(connection.outputStream)
-            request.use {
-                request.writeBytes(requestForm)
-            }
-
-            Log.v("ResponseText", requestForm)
-
-            val responseText= StringBuilder()
-            val response = BufferedReader(InputStreamReader(connection.inputStream))
-            response.use {
-                response.forEachLine {
-                    responseText.append(it)
+                val requestForm = "act=result&" +
+                        "sex=${intent.getStringExtra("sex")}&" +
+                        "age=${intent.getStringExtra("age")}&" +
+                        "jid=${intent.getStringExtra("occupationId")}&" +
+                        "ids=${intent.getStringExtra("symptomId")}"
+                val request = DataOutputStream(connection.outputStream)
+                request.use {
+                    request.writeBytes(requestForm)
                 }
+
+                Log.v("ResponseText", requestForm)
+
+                val responseText = StringBuilder()
+                val response = BufferedReader(InputStreamReader(connection.inputStream))
+                response.use {
+                    response.forEachLine {
+                        responseText.append(it)
+                    }
+                }
+                displayDiagnoses(responseText.toString())
+            } catch (e: Exception) {
+                runOnUiThread {
+                    connectionAlertDialog(this).show()
+                }
+            } finally {
+                connection?.disconnect()
             }
-            displayDiagnoses(responseText.toString())
-            connection.disconnect()
         }
     }
 

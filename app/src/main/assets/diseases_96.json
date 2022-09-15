@@ -1,0 +1,938 @@
+[
+  {
+    "disease_name": "痛风和高尿酸血症",
+    "information": {
+      "introduction": "痛风(gout)是由于遗传性或获得性病因，引起嘌呤代谢紊乱所致的疾病。其临床特征是;高尿酸血症及由此引起的痛风性急性关节炎反复发作，痛风石沉积，痛风石性慢性关节炎和关节畸形，常累及肾脏引起慢性间质性肾炎和尿酸性肾结石形成，也可由尿酸结石引起急性肾功能衰竭。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "关节",
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "中年后发病率增加，男性的高...",
+        "symptom": [
+          "发烧",
+          "头痛",
+          "关节痛",
+          "疲乏",
+          "头痛"
+        ],
+        "complication": [
+          "2型糖尿病",
+          "冠心病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "风湿科"
+        ],
+        "cost": "市三甲医院约（2000 —— 3000元）",
+        "ratio": "需要终身治疗，目前不能治愈",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿酸",
+          "血尿酸"
+        ],
+        "medicine": [
+          "秋水仙碱片",
+          "吲哚美辛",
+          "苯溴马隆片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肺吸虫病",
+    "information": {
+      "introduction": "肺吸虫病主要是童虫或成虫在人体组织与器官内移行，寄居造成的机械性损伤，及其代谢物等引起的免疫病理反应。当人生食或半生食含有肺吸虫活囊蚴的蟹、蜊蛄、沼虾、水生昆虫红娘华等可获得感染。肺并殖吸虫的第1中间宿主是20多种淡水螺，第2中间宿主是蟹类，蛄寻甲壳类动物。终宿主是人或狗、猫、猪等哺乳类动物，除人以外这些动物又称保虫宿主，是构成自然疫源地的主要传染源。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "殖吸虫病，并殖吸虫病 ",
+        "part": [
+          "肺"
+        ],
+        "infection": "有传染性",
+        "people": "喜生食者多见",
+        "symptom": [
+          "高热",
+          "囊性肿块",
+          "胸痛",
+          "低烧",
+          "肚子疼"
+        ],
+        "complication": [
+          "胸腔积液"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮内试验",
+          "并殖吸虫后尾蚴膜反应",
+          "抗原皮内试验",
+          "胸部平片",
+          "痰液寄生虫和虫卵"
+        ],
+        "medicine": [
+          "阿苯达唑片",
+          "阿苯达唑片",
+          "吡喹酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "早期复极综合征",
+    "information": {
+      "introduction": "早期复极综合征(early repolarization syndrome, ERS)是一种较常见的正常心电图变异。主要表现为以胸痛、胸闷、心悸为主，心电图上ST段抬高，酷似变异型心绞痛、心肌梗死超急性期，急性心包炎等图形易误诊为器质性心脏病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "早期复极综合症",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年多见",
+        "symptom": [
+          "疲劳",
+          "电生理异常",
+          "心悸",
+          "心率增快",
+          "胸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "体温",
+          "心电图",
+          "胸部平片"
+        ],
+        "medicine": [
+          "硝酸甘油溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "安眠药中毒",
+    "information": {
+      "introduction": "所谓安眠，是指通过药物或其他措施对中枢神经系统产生广泛抑制作用，从而产生镇静、催眠和抗惊厥等效应。药物剂量不同，临床效果也不相同：使用小剂量镇静剂可起到安静、减轻和消除患者的激动、焦虑不安等症状的作用;中等剂量则可维持人正常睡眠;大剂量则有抗惊厥、麻醉作用。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中青年失眠人群多发",
+        "symptom": [
+          "呼吸速率减慢且规则",
+          "循环衰竭",
+          "恶心",
+          "昏迷",
+          "嗜睡"
+        ],
+        "complication": [
+          "嗜睡症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "20%",
+        "duration": "120天",
+        "method": [
+          "手术治疗（洗胃、催吐、导泻）、药物治疗"
+        ],
+        "examination": [
+          "瞳孔反射"
+        ],
+        "medicine": [
+          "尼莫地平软胶囊",
+          "天麻素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "恶寒发热",
+    "information": {
+      "introduction": "恶寒发热是病人在发热的同时，必伴有怕冷的感觉，其程度虽加衣被，或近火取暖犹不能解其寒。恶寒发热是外感表证的主证，如六经辨证中的太阳病，卫气营血辨证中的卫分证，三焦辨证中的上焦证，均可见此。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "恶寒",
+          "怕冷",
+          "周身不适",
+          "头痛",
+          "口干舌燥"
+        ],
+        "complication": [
+          "发作性睡病",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "新生儿泪囊炎",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清甲型肝炎抗原",
+          "血清甲型肝炎抗体",
+          "体温",
+          "血清甲型肝炎病毒抗原",
+          "回归热螺旋体"
+        ],
+        "medicine": [
+          "小儿柴桂退热颗粒",
+          "清血内消丸",
+          "连花清瘟胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿柴桂退热颗粒(百灵鸟)",
+          "grade": "4.79",
+          "total": "80",
+          "secondary": "72"
+        },
+        {
+          "medicine_name": "清血内消丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "连花清瘟胶囊(以岭)",
+          "grade": "2.11",
+          "total": "168",
+          "secondary": "115"
+        },
+        {
+          "medicine_name": "感冒清热颗粒(无蔗糖)(同仁堂)",
+          "grade": "2.72",
+          "total": "42",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "感冒软胶囊(同仁堂)",
+          "grade": "3.11",
+          "total": "75",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宣肺止嗽合剂(普安康)",
+          "grade": "2.84",
+          "total": "24",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "参苏丸(立效)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿金翘颗粒(一欣和)",
+          "grade": "3.99",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒(孔府)",
+          "grade": "5.0",
+          "total": "8",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "羚翘解毒丸(同仁堂)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "通宣理肺丸(佛山)",
+          "grade": "4.71",
+          "total": "29",
+          "secondary": "27"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "山蜡梅叶颗粒(佑美)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方感冒胶囊",
+          "grade": "3.80",
+          "total": "10",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "红癣",
+    "information": {
+      "introduction": "红癣(erythrasma)是由棒状杆菌属的微细棒状杆菌引起，好发于皮肤皱褶部位，皮损主要损害为境界清楚的红斑。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "成人男性，糖尿病人亦多见",
+        "symptom": [
+          "大腿内侧红斑",
+          "肛门瘙痒",
+          "鳞屑",
+          "瘙痒",
+          "斑疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（2000-4000元）",
+        "ratio": "10%",
+        "duration": "1-2个月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "真菌检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "罗红霉素分散片",
+          "盐酸特比萘芬乳膏",
+          "癣药膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "癣药膏(愈芙)",
+          "grade": "4.41",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高渗性非酮症性糖尿病昏迷",
+    "information": {
+      "introduction": "糖尿病高渗性昏迷(HNDC)是糖尿病一种较少见的严重急性并发症，多见于老年无糖尿病史或非胰岛素依赖型糖尿病轻症患者，但也可见于胰岛素依赖型糖尿病患者。患者原有胰岛素分泌不足，在诱因作用下血糖急骤上升，促进糖代谢紊乱加重，致细胞外液呈高渗状态，发生低血容量高渗性脱水，原有动脉硬化使大脑皮质供血不足和缺氧，以致造成精神神经症状及昏迷。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "消渴厥",
+        "part": [
+          "颅脑",
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "老年人，肾功能下降者 ",
+        "symptom": [
+          "多饮",
+          "多尿",
+          "嗜睡",
+          "烦渴多饮",
+          "呼吸中可有烂苹果味"
+        ],
+        "complication": [
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "葡萄糖可的松耐量试验",
+          "尿丙酮",
+          "尿葡萄糖",
+          "餐后2小时血糖",
+          "血浆渗透压"
+        ],
+        "medicine": [
+          "止渴降糖胶囊",
+          "七味地骨胶囊",
+          "氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "七味地骨胶囊",
+          "grade": "1.94",
+          "total": "14",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "绦虫病",
+    "information": {
+      "introduction": "绦虫病是猪肉绦虫或牛肉绦虫寄生于人体小肠引起的疾病。绦虫病在我国分布较广，猪肉绦虫散发于华北、东北、西北一带，地方性流行区仅见于云南；牛肉绦虫于西南各省及西藏、内蒙、新疆等自治区均有地方性流行，本病的流行和饮食习惯及猪、牛饲养方法不当有密切关系。绦虫的成虫寄生在人的小肠内。成虫在人肠内寿命由数年至20年。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "寸白虫病",
+        "part": [
+          "腹部",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "乏力",
+          "恶心",
+          "粪便中发现白色节片",
+          "指甲出现条纹或斑点",
+          "腹胀"
+        ],
+        "complication": [
+          "视神经萎缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-3000元）",
+        "ratio": "70%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肛门拭子检查法",
+          "嗜酸性粒细胞数"
+        ],
+        "medicine": [
+          "烂积丸",
+          "肥儿宝颗粒",
+          "吡喹酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "烂积丸(同仁堂)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿宝颗粒(立效)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "避孕后闭经综合征",
+    "information": {
+      "introduction": "避孕后闭经综合征是指口服避孕药停服后有时引起闭经、溢乳及月经稀少等一系列症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "避孕后闭经综合症,服避孕药后闭经-溢乳综合征,过多抑制综合征,过剩抑制综合征,口服避孕药后排卵停止综合征",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "生育期女性",
+        "symptom": [
+          "恶心",
+          "头晕",
+          "头痛",
+          "乏力",
+          "恶心"
+        ],
+        "complication": [
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "2-6月",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "雌激素",
+          "促黄体生成素",
+          "血清孕激素",
+          "黄体酮试验",
+          "血清卵泡刺激素"
+        ],
+        "medicine": [
+          "益母草颗粒",
+          "益母草胶囊",
+          "甲磺酸溴隐亭片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益母草颗粒(灵峰)",
+          "grade": "3.06",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "气管肿瘤",
+    "information": {
+      "introduction": "气管肿瘤有良性肿瘤和恶性肿瘤两大类。儿童期的气管肿瘤绝大部分（90%）为良性，成人者恶性占多数。 气管肿瘤由于发病较少及医者对本病的警惕不高和认识不足，常被误诊或漏诊，能及时获得正确治疗者不多。本病不论良性或恶性均应手术治疗。良性肿瘤切除后，完全痊愈，恶性肿瘤若能及时彻底切除，亦能获得良好的疗效。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "气管"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "肺部肿块",
+          "痰有恶臭味",
+          "肩背痛",
+          "咳嗽",
+          "咳痰"
+        ],
+        "complication": [
+          "上气道梗阻",
+          "气管食管瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "外科手术治愈率约为50-70%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "痰咳净散",
+          "止咳橘红丸",
+          "消癌平口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痰咳净散(金龙)",
+          "grade": "3.28",
+          "total": "18",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "止咳橘红丸",
+          "grade": "3.66",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "至灵胶囊",
+          "grade": "2.52",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平片(金马)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平糖浆(都生)",
+          "grade": "3.32",
+          "total": "48",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平片(振霖牌)",
+          "grade": "3.14",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片(三联)",
+          "grade": "2.66",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颞叶癫痫",
+    "information": {
+      "introduction": "颞叶前内基底部痫灶为主引起的钩回发作称之为颞叶癫痫，是局限性癫痫的代表。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "颞叶性癫痫",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "主要发生于青年人",
+        "symptom": [
+          "攻击行为",
+          "烦躁不安",
+          "幻觉",
+          "幻听",
+          "烦躁不安"
+        ],
+        "complication": [
+          "记忆障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "3-5年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "卡马西平片",
+          "癫痫宁片",
+          "卡马西平片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "癫痫宁片(云昆)",
+          "grade": "4.36",
+          "total": "84",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢炎",
+    "information": {
+      "introduction": "卵巢炎是属于女性盆腔炎的一种。是由于受到感染导致了卵巢发炎，卵巢粘连、输卵管包裹、脓肿和梗阻等严重后遗症，造成不孕。一般来说非特异性卵巢炎分为急性和慢性两种。通常情况下急性者会出现发热、腹痛、肛门有坠胀感等症状;而慢性侧全身无力、精神差和月经不调或经量，甚至下腹部会发现包块等体征。通常会伴随着盘腔炎症出现。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "中青年育龄期多见",
+        "symptom": [
+          "腰骶部酸痛",
+          "肚子疼",
+          "纳差",
+          "疲乏"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（300 —— 1000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "性激素六项检查",
+          "腹腔镜",
+          "性激素六项 "
+        ],
+        "medicine": [
+          "桂枝茯苓胶囊",
+          "复方醋酸甲羟孕酮胶囊",
+          "注射用盐酸克林霉素"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "克山病",
+    "information": {
+      "introduction": "克山病(Keshan disease)是一种原因未明的以心肌病变为主的疾病，亦称地方性心肌病。1935年首先在黑龙江省克山县发现，故以克山病命名。过去本病死亡率较高，新中国成立后积极防治本病，使本病发病率和病死率都有大幅度的下降。在预防、治疗方法和病因研究方面也取得了一些重要进展。目前年发病率已降至0.07/10万以下，发病类型由以急型、亚急型为多，转为以潜在型和慢型为主。大量流行病学、病理解剖学、临床防治及实验室研究结果表明，本病是一种独立的地方性心肌病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "地方性心肌病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "低硒地区人群",
+        "symptom": [
+          "恶心",
+          "呼吸困难",
+          "胸闷",
+          "头晕",
+          "恶心"
+        ],
+        "complication": [
+          "心律失常",
+          "心源性休克",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "40%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心电图",
+          "M型超声心动图",
+          "二维超声心动图",
+          "多普勒超声心动图",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "盐酸贝那普利片",
+          "地高辛酏剂",
+          "亚硒酸钠片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "营养性巨幼红细胞性贫血",
+    "information": {
+      "introduction": "营养性巨幼红细胞性贫血又称营养性大细胞性贫血，主要是由于缺乏维生素B12及叶酸所致，常见于婴幼儿时期，也见于孕妇及哺乳妇女，其他年龄较少见，确切的发病率欠详。随着人民生活经济情况的好转，在大中城市此病已属罕见，但在华北，西北，东北和西南等地的农村尚不少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "营养性大细胞性贫血",
+        "part": [
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "多见于婴幼儿、尤其是2岁以",
+        "symptom": [
+          "疲乏",
+          "腱反射亢进",
+          "反应迟钝",
+          "抽搐",
+          "毛发稀少"
+        ],
+        "complication": [
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "营养科"
+        ],
+        "cost": "市三甲医院约（1000——5000元）",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "维生素B12",
+          "血液生化六项",
+          "维生素",
+          "骨髓象分析",
+          "红细胞大小异常"
+        ],
+        "medicine": [
+          "腺苷钴胺片",
+          "维生素C片",
+          "注射用腺苷钴胺"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "十二指肠憩室",
+    "information": {
+      "introduction": "憩室可发生在胃肠道任何部位，为突出于肠壁外之圆形、椭圆形或管形的袋状物，十二指肠憩室(duodenal diverticulum)在胃肠憩室中居第2位，是仅次于结肠憩室的常见部位。但因为很多十二指肠憩室无典型的临床症状，因此不易及时发现。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "40岁-60岁中年人，男略多于女",
+        "symptom": [
+          "恶心",
+          "腹部不适",
+          "腹胀",
+          "发炎",
+          "右上腹痛"
+        ],
+        "complication": [
+          "慢性胰腺炎",
+          "十二指肠溃疡",
+          "结肠瘘",
+          "黄疸",
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元)",
+        "ratio": "外科手术治愈率约为60-70%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、一般治疗（胃肠减压）"
+        ],
+        "examination": [
+          "胆道造影",
+          "上消化道X线钡餐",
+          "CT检查",
+          "十二指肠钡餐造影"
+        ],
+        "medicine": [
+          "颠茄酊",
+          "聚卡波非钙片",
+          "复方铝酸铋颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "颠茄酊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方田七胃痛胶囊(三金)",
+          "grade": "3.33",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "胃舒宁胶囊(金爵)",
+          "grade": "2.5",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

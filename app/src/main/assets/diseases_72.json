@@ -1,0 +1,1014 @@
+[
+  {
+    "disease_name": "原发性早泄",
+    "information": {
+      "introduction": "原发性早泄是指首次性生活开始即有早泄。多数是由于心理因素导致的。少数可能是先天性的泌尿生殖系统畸形。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性多发",
+        "symptom": [
+          "男子性功能障碍",
+          "心理性性功能障碍",
+          "心理伤害"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "SW阴茎超声血流检测",
+          "性激素六项检查",
+          "性激素六项 "
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "神经鞘瘤",
+    "information": {
+      "introduction": "神经鞘瘤(neurilemmoma)又称神经膜纤维瘤(schwann cell tumor)或雪旺瘤(Schwannoma)，通常为单发性神经鞘瘤，来源于神经鞘，头颈部神经鞘瘤主要发生于颅神经，如听神经、面神经、舌下神经、迷走神经;其次可发生于头面部、舌部的周围神经，发生于交感神经的最为少见。临床以坚实的结节伴压痛为主要表现，瘤体生长缓慢，病程较长。手术切除为本病的主要治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "神经膜纤维瘤，许旺氏细胞瘤，雪旺瘤，外周神经胶质瘤",
+        "part": [
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "患者多为30～40岁的中年人",
+        "symptom": [
+          "单发性坚实性结节",
+          "运动功能障碍",
+          "感觉障碍",
+          "声音嘶哑",
+          "结节"
+        ],
+        "complication": [
+          "脑脊液漏",
+          "面神经损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "100%能够治愈",
+        "duration": "2-3周",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "神经系统核医学检查",
+          "神经系统免疫学检验",
+          "神经系统检查",
+          "神经系统细胞学检查",
+          "ECT"
+        ],
+        "medicine": [
+          "苦参碱氯化钠注射液",
+          "红霉素肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "甲状腺功能正常的甲状腺肿大",
+    "information": {
+      "introduction": "甲状腺组织有强大的浓集碘的能力，人的甲状腺每天需要60--80ug的碘以产生具有生理活性甲状腺激素。在体内，甲状腺所分泌的甲状腺激素和垂体所分泌的促甲状腺激素(TSH)间存在着相互依赖、相互制约的反馈关系，缺碘时，甲状腺细胞不能合成足够的甲状腺激素，血中甲状腺激素浓度下降，甲状腺激素对垂体分泌(TSH)的抑制作用减弱，垂体TSH的分泌增加，血中TSH水平升高，引起甲状腺肥大增生。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "青中年多见",
+        "symptom": [
+          "甲状腺肿大",
+          "甲状腺肿",
+          "囊性肿块",
+          "甲状腺肿",
+          "结节"
+        ],
+        "complication": [
+          "甲状腺功能正常的甲状腺肿大"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "内科",
+          "外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清抗甲状腺抗体",
+          "甲状腺B超",
+          "T3抑制试验",
+          "血清促甲状腺激素",
+          "甲状腺素(T4)"
+        ],
+        "medicine": [
+          "左甲状腺素钠片",
+          "夏枯草膏",
+          "碘"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结节性痒疹",
+    "information": {
+      "introduction": "结节性痒疹(prurigo nodularis)又称结节性苔藓(lichen nodularis)，是一种以剧痒结节为特征的慢性皮肤病，多见于成年女性。本病与祖国医学文献中记载的“马疥”相类似。如《诸病源候论》疥候记载：“马疥者，皮肉隐嶙起作根，搔之不知痛。”赵炳南老医生称本病为“顽湿聚结”。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "海德病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性",
+        "symptom": [
+          "结节",
+          "紧张",
+          "脓疱",
+          "鳞屑",
+          "夏季痒疹"
+        ],
+        "complication": [
+          "湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（100——1000元）",
+        "ratio": "对症治疗为主，根治患者占30-40%",
+        "duration": "1-3年",
+        "method": [
+          "中医药物治疗、西医药物治疗、物理治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "复方水杨酸樟碘溶液Ⅰ",
+          "乌蛇止痒丸",
+          "丙酸氟替卡松乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "特发性震颤",
+    "information": {
+      "introduction": "    特发性震颤(essential tremor，ET)又称家族性或良性特发性震颤，是临床常见的运动障碍性疾病，呈常染色体显性遗传，姿势性或动作性震颤是惟一表现，缓慢进展或长期不进展。目前认为，年龄是ET重要的危险因素，患病率随年龄而增长。起病缓慢。任何年龄均可发病，但多起始于成年人，有文献报道男性略多于女性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "家族性震颤,良性特发性震颤,原发性震颤",
+        "part": [
+          "手部",
+          "头部",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "20~30岁和50~60岁这两个年龄段...",
+        "symptom": [
+          "疲劳",
+          "焦虑",
+          "手的搓丸样动作",
+          "静止性震颤",
+          "震颤"
+        ],
+        "complication": [
+          "言语障碍",
+          "书写痉挛",
+          "痉挛性斜颈"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "55%-65%",
+        "duration": "4-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "微量元素",
+          "肌电图",
+          "MRI",
+          "正电子发射计算机断层扫描"
+        ],
+        "medicine": [
+          "扑米酮片",
+          "加巴喷丁",
+          "扑米酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝火眩晕",
+    "information": {
+      "introduction": "肝火眩晕,病证名。肾阴不足，肝火上亢所致的眩晕。《证治汇补·眩晕章》：“肝火眩晕，黑瘦人肾水亏少，肝枯木动，复挟相火，上踞高巅而眩晕。”",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肝着,肝胀",
+        "part": [
+          "肝",
+          "头部"
+        ],
+        "infection": "无传染性",
+        "people": "见于高血压等病症。",
+        "symptom": [
+          "头晕",
+          "头痛",
+          "目赤",
+          "舌质红绛",
+          "面红升火"
+        ],
+        "complication": [
+          "气虚眩晕",
+          "老年人颈性眩晕",
+          "位置性眩晕",
+          "脑囊虫病",
+          "垂体性侏儒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿环磷酸鸟苷",
+          "尿谷氨酰胺",
+          "眼震电图描记法",
+          "Frenzel氏眼镜检查法",
+          "裸眼检查法"
+        ],
+        "medicine": [
+          "同仁牛黄清心丸",
+          "龙胆泻肝丸",
+          "眩晕宁片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "同仁牛黄清心丸(同仁堂)",
+          "grade": "3.26",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(同仁堂)",
+          "grade": "3.35",
+          "total": "58",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "眩晕宁片(三金)",
+          "grade": "4.57",
+          "total": "45",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "降压袋泡茶(孙博士)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "降压袋泡茶(清指)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "降压丸(同仁堂)",
+          "grade": "3.67",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降压袋泡茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃潴留",
+    "information": {
+      "introduction": "胃潴留（gastric retention）或称胃排空延迟（delayed gastric emptying）是指胃内容物积贮而未及时排空。凡呕吐出4～6小时以前摄入的食物，或空腹8小时以上，胃内残留量＞200ml者，表示有胃潴留存在。本病分为器质性与功能性两种，前者包括消化性溃疡所致的幽门梗阻，及胃窦部及其邻近器官的原发或继发的癌瘤压迫、阻塞所致的幽门梗阻。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胃排空延迟",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "长期不规律饮食者",
+        "symptom": [
+          "肚子疼",
+          "钝痛",
+          "空腹时腹部有振水声者",
+          "体重减轻",
+          "脘痞腹胀"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000 —— 8000元）",
+        "ratio": "99%可以治愈",
+        "duration": "2-5周",
+        "method": [
+          "手术、胃肠减压、补液"
+        ],
+        "examination": [
+          "纤维胃镜",
+          "胃总酸度",
+          "胃钡餐造影",
+          "纤维胃镜检查",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "奥美拉唑钠肠溶片",
+          "虚寒胃痛胶囊",
+          "度他雄胺软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "虚寒胃痛胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "翁沥通胶囊(泌列克)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳腺腺病",
+    "information": {
+      "introduction": "乳腺腺病(adenosis of breast)为乳腺上皮和纤维组织增生，有时候会伴随囊肿形成和上皮化生转变为其他组织形态学特点。是乳腺结构不良症的早期。其主要改变是乳腺的腺泡和小导管明显的局灶性增生，并有不同程度的结缔组织增生，小叶结构基本失去正常形态，甚者腺泡上皮细胞散居于纤维基质中。根据病变的发展可分3期：即小叶增生、纤维腺病和硬化性腺病。有文献报道，除小叶增生未发现癌变外，后2期均有癌变存在，该现象有重要临床意义。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳腺小叶硬化病,乳腺硬化性腺病",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "妇女，尤其中年妇女多见",
+        "symptom": [
+          "乳腺隐痛",
+          "结节",
+          "囊肿",
+          "经期前乳房痛",
+          "腋窝痛"
+        ],
+        "complication": [
+          "乳腺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约(500——2000元）",
+        "ratio": "90%",
+        "duration": "2-4月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "外科检查",
+          "乳房活检",
+          "乳房触诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "乳块消胶囊",
+          "门冬酰胺片",
+          "达那唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳块消胶囊(强健)",
+          "grade": "1.83",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "夏季皮炎",
+    "information": {
+      "introduction": "夏季皮炎(dermatitis aestivale)是由于气候炎热引起的一种季节性的炎症性皮肤病，常在6～8月份发病。成人多见。皮损对称发生于躯干、四肢，尤以小腿伸侧为甚。表现为大片鲜红色斑，在红斑基础上有针头至粟粒大小的丘疹、丘疱疹。伴有剧痒，搔抓后可出现抓痕、血痂，久之皮肤粗糙增厚。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "夏令皮炎",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "好发于中年偏胖的女性",
+        "symptom": [
+          "瘙痒",
+          "血痂",
+          "疱疹",
+          "丘疹",
+          "季节性浅红斑片"
+        ],
+        "complication": [
+          "皮炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "60--80%",
+        "duration": "10--30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤涂片显微镜检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "金蝉止痒胶囊",
+          "炉甘石洗剂",
+          "止痒消炎水"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金蝉止痒胶囊(希尔安)",
+          "grade": "3.72",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止痒消炎水(吉春)",
+          "grade": "2.18",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "3.66",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水(欢宝)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水(欢宝)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止痒消炎水",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫内膜结核",
+    "information": {
+      "introduction": "子宫内膜结核是由结核杆菌引起的子宫内膜炎症，而由结核杆菌引起的女性生殖器官感染性疾病常先侵犯输卵管，再逐渐侵入子宫内膜、卵巢，很少累及宫颈、阴道、外阴。多为盆腔结核的一部分，常继发于肺结核、肾结核、胃肠、骨或关节结核等，偶尔也可为全身粟粒性肺结核的一部分。感染的主要来源是肺或腹膜结核。子宫内膜结核在生殖器官结核中占50～ 60%，常常是由输卵管结核蔓延扩展到子宫，病变多局限在子宫内膜，严重时可以侵犯子宫肌层。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "有传染性",
+        "people": "既往有结核病史的妇女多见",
+        "symptom": [
+          "消瘦",
+          "低烧",
+          "盗汗",
+          "消瘦",
+          "阴道分泌物增多"
+        ],
+        "complication": [
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "治愈率82.4%",
+        "duration": "治疗周期9个月",
+        "method": [
+          "抗结核治疗"
+        ],
+        "examination": [
+          "结核菌素皮内试验",
+          "血清免疫抑制酸性蛋白",
+          "妇科常规检查",
+          "浆膜腔积液葡萄糖",
+          "结核杆菌检查"
+        ],
+        "medicine": [
+          "吡嗪酰胺片",
+          "盐酸乙胺丁醇胶囊",
+          "金鸡胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "丹莪妇康煎膏(丹莪)",
+          "grade": "2.79",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "散结镇痛胶囊(康缘)",
+          "grade": "2.14",
+          "total": "51",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "金鸡片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阴茎扭转",
+    "information": {
+      "introduction": "阴茎扭转指阴茎头向一侧扭转，偏离中线，多呈逆时针方向，即向左扭转。该类病人的阴茎一般发育正常，部分病人合并尿道下裂或包皮分布异常。阴茎腹侧中线偏向一侧。很多病例是在做包皮环切或外翻包皮时发现的。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "男性",
+        "symptom": [
+          "阴茎异常勃起",
+          "痛性阴茎勃起",
+          "痛性阴茎勃起",
+          "阴茎异常勃起"
+        ],
+        "complication": [
+          "尿道下裂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约(5000--10000元)",
+        "ratio": "80%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "包皮包茎检查",
+          "阴茎检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "宫颈腺癌",
+    "information": {
+      "introduction": "宫颈腺癌来自宫颈管并浸润宫颈管壁，宫颈腺癌较鳞癌少见，以往报道宫颈腺癌占宫颈鳞癌的15%～20%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "更年期女性",
+        "symptom": [
+          "阴道分泌物增多",
+          "白带增多",
+          "肛门坠胀",
+          "绝经后出血"
+        ],
+        "complication": [
+          "乳腺癌",
+          "直肠癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约10000--50000",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "子宫颈涂片测试",
+          "阴道镜"
+        ],
+        "medicine": [
+          "宫颈癌片",
+          "宫颈癌片",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "宫颈癌片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫颈癌片(糖衣片)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平颗粒(夏生萍)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "冻伤",
+    "information": {
+      "introduction": "冻伤是一种由寒冷所致的末梢部局限性炎症性皮肤病，是一种冬季常见病，以暴露部位出;现充血性水肿红斑，遇温高时皮肤瘙痒为特征，严重者可能会出现患处皮肤糜烂、溃疡等现象。该病病程较长，冬季还会反复发作，不易根治。对于一些年轻女士而言，不仅影响了双手的美观度，还给生活带来了极大的不便。在治疗方面，虽方法较多，但很少能根治，所以常令人感到棘手。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "寒害",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "皮肤冻伤",
+          "脚冻伤",
+          "寒战",
+          "反应迟钝",
+          "耳冻伤"
+        ],
+        "complication": [
+          "低血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "烧伤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物、物理、中医科治疗"
+        ],
+        "examination": [
+          "皮肤颜色",
+          "皮肤弹性"
+        ],
+        "medicine": [
+          "云南白药酊",
+          "如意油",
+          "十灵油"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药酊(云南白药)",
+          "grade": "4.95",
+          "total": "97",
+          "secondary": "97"
+        },
+        {
+          "medicine_name": "如意油",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十灵油",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腰部慢性劳损",
+    "information": {
+      "introduction": "腰肌劳损实为腰部肌及其附着点筋膜、甚或骨膜的慢性损伤性炎症，为腰痛常见原因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "功能性腰痛，慢性下腰损伤，腰臀肌筋膜炎，腰骶部劳损",
+        "part": [
+          "腰部",
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "30--50岁人",
+        "symptom": [
+          "剧烈运动后腰痛",
+          "弯腰时腰痛",
+          "腰软不能直起",
+          "肌肉硬结",
+          "臀部酸痛"
+        ],
+        "complication": [
+          "老年挛缩",
+          "髌股关节疼痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "65%",
+        "duration": "8-12周",
+        "method": [
+          "中药治疗、西药治疗、针灸治疗"
+        ],
+        "examination": [
+          "腰背痛体格检查",
+          "腰背部检查",
+          "CT检查",
+          "脊椎平片"
+        ],
+        "medicine": [
+          "云南白药气雾剂",
+          "活血止痛胶囊",
+          "至宝三鞭丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药气雾剂(云南白药)",
+          "grade": "4.78",
+          "total": "65",
+          "secondary": "63"
+        },
+        {
+          "medicine_name": "活血止痛胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "至宝三鞭丸(中亚)",
+          "grade": "3.23",
+          "total": "17",
+          "secondary": "16"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性酒精中毒",
+    "information": {
+      "introduction": "慢性酒中毒一般而言，系指酒依赖及慢性酒中毒综合征。酒精滥用(alcoholic abuse)属于行为障碍，是逃避不能承受的压力和责任的一种方法。酒依赖(alcoholic dependence)则是生物医学概念，是长期过量饮酒引起的特殊心理状态，属于慢性酒中毒。慢性酒中毒(chronic alcoholism)是长期(数年至数十年，通常10年以上)酗酒出现多种躯体和精神障碍，甚至不可逆性病理损害，如酒中毒性心肌炎、肝功能损害或肝硬化、多发性周围神经炎、中枢神经系统变性或脑萎缩等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性酒中毒,酒依赖综合征,慢性酒中毒综合征",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "酒悖",
+          "焦虑",
+          "震颤",
+          "惊跳",
+          "不可克制的饮酒冲动"
+        ],
+        "complication": [
+          "肝硬化",
+          "脑萎缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "40%--50%",
+        "duration": "3-5年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "血液生化六项",
+          "脑电图",
+          "心电图"
+        ],
+        "medicine": [
+          "维生素B1",
+          "注射用盐酸硫必利",
+          "注射用盐酸硫必利"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

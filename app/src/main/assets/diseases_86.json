@@ -1,0 +1,819 @@
+[
+  {
+    "disease_name": "阴道横隔",
+    "information": {
+      "introduction": "在胚胎发育过程中，若发生故障，可形成阴道横隔。横隔发生在阴道较高段，而且部分闭锁，可不影响性生活，并可以受孕，但在分娩时可影响胎儿娩出，宜在分娩时做横隔切开术；横隔发生在阴道较低段，可影响性生活，如完全闭锁时，其症状与处女膜闭锁大同小异。患者应及时做阴道横隔切开术。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "所有女性性可见",
+        "symptom": [
+          "阴道闭锁",
+          "阴道裂伤",
+          "阴道粘连",
+          "阴道粘连甚至闭锁",
+          "性交困难"
+        ],
+        "complication": [
+          "流产",
+          "阴道壁息肉"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 2000元）",
+        "ratio": "70%",
+        "duration": "7-14天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "阴道窥器检查",
+          "阴道前后壁膨出度"
+        ],
+        "medicine": [
+          "止痛化癥胶囊",
+          "益母草胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止痛化癥胶囊(东方金宝)",
+          "grade": "2.07",
+          "total": "17",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "巨乳症",
+    "information": {
+      "introduction": "通常成年妇女的乳房发育到一定程度即停止生长。正常的乳腺应位于第2～6胸肋，重量约为250～350g。若在乳房发育时期内，因受到过强过多的雌激素刺激，或对雌激素刺激特别敏感，而使一侧或两侧乳腺过度发育增大，超过正常乳房的界限及重量，即称为成人型女性乳房肥大症，亦称巨乳症。有的人乳腺发育急骤增长，1～2年内可达2倍于正常乳腺，少数乳房下垂平脐，甚至越过腹股沟，更甚者过股(骨)达膝，每个乳腺重达5000～6000g，超重者有达十几千克。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "成人型女性乳房肥大症",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "青春期少女或青年女性",
+        "symptom": [
+          "静脉曲张",
+          "巨乳",
+          "乳房肥大",
+          "乳房巨大",
+          "驼背"
+        ],
+        "complication": [
+          "湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60-70%",
+        "duration": "2-4个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "近红外线乳腺扫描"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "开角型青光眼",
+    "information": {
+      "introduction": "也称慢性单纯性青光眼（chronic simple glaucoma）。此类青光眼较常见，多见于中年人以上，青年人亦可发生，常为双侧性，起病慢眼压逐渐升高，房角始终保持开放，多无明显自觉症状，往往到晚期视力视野有显著损害时，方被发现，因此早期诊断甚为重要。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性单纯性青光眼",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "可以发生在年轻人，但在老年...",
+        "symptom": [
+          "眼痛",
+          "高眼压",
+          "头痛",
+          "头痛",
+          "虹膜节段性萎缩"
+        ],
+        "complication": [
+          "青光眼",
+          "虹膜睫状体炎",
+          "恶性青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "60--80%",
+        "duration": "7--30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "前房角镜检查法",
+          "前房的一般检查",
+          "瞳孔检查",
+          "视野检查",
+          "对比敏感度"
+        ],
+        "medicine": [
+          "拉坦前列素滴眼液",
+          "硝酸毛果芸香碱滴眼液",
+          "马来酸噻吗洛尔滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "接触性荨麻疹",
+    "information": {
+      "introduction": "接触性荨麻疹是指皮肤接触某些变应原后发生风团、红斑，可分为免疫性、非免疫性和机制不明三种。非免疫性接触性荨麻疹较为常见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "过敏体质者多见",
+        "symptom": [
+          "红斑样皮疹",
+          "皮肤瘙痒",
+          "血管性水肿",
+          "水疱或大疱损害"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "皮肤斑贴实验"
+        ],
+        "medicine": [
+          "炉甘石洗剂",
+          "盐酸左西替利嗪片",
+          "荆肤止痒颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荆肤止痒颗粒(丽珠)",
+          "grade": "3.38",
+          "total": "6",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "油漆皮炎",
+    "information": {
+      "introduction": "又称生漆皮炎(rhus dermatitis)或大漆皮炎。系接触漆树、天然漆液引起的急性皮炎。民间称漆痱子、漆咬，中医称为漆疮，亦有称为湿毒疡者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "生漆皮炎",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "工作接触油漆者多见",
+        "symptom": [
+          "丘疹",
+          "淋巴结肿大",
+          "心悸",
+          "头痛"
+        ],
+        "complication": [
+          "便秘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约1000--5000",
+        "ratio": "50%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤斑贴实验",
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "他克莫司软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人肺心病",
+    "information": {
+      "introduction": "慢性肺源性心脏病是由肺组织、肺动脉血管或胸廓的慢性病变引起肺组织结构和功能异常，产生肺血管阻力增加，肺动脉压力增高，使右心扩张、肥大，伴或不伴有右心衰竭的心脏病。我国绝大多数肺心病患者是在慢性支气管炎或肺气肿基础上发生的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年肺心病,老年人肺原性心脏病,老年人慢性肺源性心脏病",
+        "part": [
+          "心脏",
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "老慢支患者",
+        "symptom": [
+          "气急",
+          "气道变窄",
+          "嗜睡",
+          "意识模糊",
+          "咳嗽"
+        ],
+        "complication": [
+          "肺性脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "10%",
+        "duration": "10--21天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "肺量计",
+          "肺功能",
+          "心电图",
+          "动脉血气分析",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "祛痰止咳颗粒",
+          "复方丹参含片",
+          "养肺丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "祛痰止咳颗粒(花城)",
+          "grade": "3.0",
+          "total": "12",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方丹参含片",
+          "grade": "3.14",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养肺丸(同仁堂)",
+          "grade": "2.38",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "Ⅰ型超敏反应性疾病",
+    "information": {
+      "introduction": "与Ⅰ型超敏反应有关的疾病包括特应性疾病[变应性鼻炎、过敏性结膜炎、特应性皮炎和过敏性哮喘(外源性和一些荨麻疹、胃肠道食物反应和全身性过敏反应。哮喘的病因虽然还未阐明，其发病率明显增加.近年来已注意到Ⅰ型超敏反应明显的增加与接触胶乳物品的溶于水的蛋白有关(如橡皮手套、牙托、避孕套、呼吸器材的管道、导管、灌肠尖端膨胀的胶乳套)，特别见于接触胶乳的医护人员和病人，以及患脊柱裂和出生时泌尿生殖缺陷的儿童。对胶乳常见的反应是荨麻疹、血管性水肿、结膜炎、鼻炎、支气管痉挛和过敏性休克。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "瘙痒",
+          "表皮角化",
+          "丘疹",
+          "鼻粘膜苍白水肿",
+          "疱疹"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约8000--12000",
+        "ratio": "治愈率99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤试验",
+          "激发试验"
+        ],
+        "medicine": [
+          "过敏原检测仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "喘息样支气管炎",
+    "information": {
+      "introduction": "喘息样支气管炎(asthmatoid bronchitis)是一临床综合症，泛指一组有喘息表现的婴幼儿急性支气管感染。肺实质很少受累。其中部分病儿可发展为支气管哮喘。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "1至3岁小儿",
+        "symptom": [
+          "咳嗽伴哮鸣音",
+          "哮鸣音",
+          "喘息",
+          "化学性支气管炎",
+          "纤毛上皮细胞损伤脱落"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "60-70%",
+        "duration": "6-12个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清抗链球菌型M蛋白抗体",
+          "抗“O”试验",
+          "抗链球菌激酶试验",
+          "胸部平片",
+          "血清免疫球蛋白M"
+        ],
+        "medicine": [
+          "镇咳宁胶囊",
+          "金贝痰咳清颗粒",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "镇咳宁胶囊(康弘)",
+          "grade": "4.44",
+          "total": "7",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "金贝痰咳清颗粒(世一堂)",
+          "grade": "3.78",
+          "total": "26",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒4克(葫芦娃)",
+          "grade": "2.94",
+          "total": "14",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "麻杏止咳糖浆(太极)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "3.58",
+          "total": "12",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "左前分支传导阻滞",
+    "information": {
+      "introduction": "左前分支传导阻滞(left anterior hemiblock，LAH)又称左前半阻滞。左前分支是左束支较细长的分支，在室间隔的位置表浅，易发生缺血性损伤。左前分支是左束支较细长的分支，在室间隔的位置表浅，易发生缺血性损伤，最常见于冠心病，约占75%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "左前半分支阻滞,左前半阻滞",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "男、女发病比约为4∶1，男性...",
+        "symptom": [
+          "胸痛",
+          "胸闷",
+          "心悸",
+          "传导阻滞",
+          "房内传导阻滞"
+        ],
+        "complication": [
+          "阿斯综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "病因治疗"
+        ],
+        "examination": [
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "盐酸胺碘酮片",
+          "盐酸胺碘酮"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "朗格汉斯细胞组织细胞增生症",
+    "information": {
+      "introduction": "朗格汉斯细胞的组织细胞增多症(langerhans’cell histiocytosis，LCH)又名朗格汉斯细胞肉芽肿(Langerhan-cell \ngranulomatosis)为一种朗格汉斯细胞增生性疾病，侵犯皮肤和皮肤外的器官。本病可累及皮肤、骨骼、肺、神经系统和其他器官。临床上可分3型：即Letterer-siwe病，Hand-schüller-christian病和嗜酸性粒细胞肉芽肿。但三者之间无明显界限，常可重叠或互相转变。一般而言，如果在一岁内发病，则常以致死性内脏损害为特点，多为Letterer-siwe病，如在幼年发病，常以多发性骨损害为主，而内脏损害轻者，即Hand-schüller-christian病;在较大的儿童和成人，本病通常局限，常表现为1个或数个骨损害，即嗜酸性粒细胞肉芽肿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "组织细胞增生症，莱特勒西韦综合征，汉-薛-柯综合征，骨嗜酸肉芽肿，细胞组织细胞增生症 ",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "青年人发病",
+        "symptom": [
+          "肝脾肿大",
+          "斑丘疹",
+          "肝功能异常",
+          "腹水",
+          "吞咽困难"
+        ],
+        "complication": [
+          "尿崩症",
+          "骨肉瘤",
+          "骨髓炎",
+          "单纯性肺嗜酸性粒细胞增多症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "肿瘤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "肺功能",
+          "骨髓象分析",
+          "血浆纤维蛋白原"
+        ],
+        "medicine": [
+          "中/长链脂肪乳注射液 (C8～24)",
+          "脂肪乳氨基酸(17)葡萄糖(11%)注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "甲状旁腺功能减退症",
+    "information": {
+      "introduction": "甲状旁腺功能减退症(hypoparathyroidism，简称甲旁减)是指甲状旁腺激素(PTH)分泌减少和(或)功能障碍的一种临床综合征。甲状旁腺功能减退症在临床上常见的主要有特发性甲旁减、继发性甲旁减、低血镁性甲旁减和新生儿甲旁减，其他少见的包括假性甲旁减、假-假性甲旁减、假性特发性甲旁减等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部"
+        ],
+        "infection": "无传染性",
+        "people": "甲状旁腺发育不全多见于新生...",
+        "symptom": [
+          "肚子疼",
+          "皮肤干燥",
+          "性欲减退",
+          "心动过速",
+          "手足麻木"
+        ],
+        "complication": [
+          "白内障",
+          "神经官能症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": ">120天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "甲状旁腺激素试验",
+          "血清甲状旁腺激素",
+          "尿钙",
+          "心电图",
+          "血清碱性磷酸酶"
+        ],
+        "medicine": [
+          "氯化钙注射液",
+          "左甲状腺素钠片",
+          "阿法骨化醇软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性附睾炎",
+    "information": {
+      "introduction": "急性附睾炎为附睾的非特异性感染，是阴囊内最常见的感染性疾病。多由于后尿道炎、前列腺炎及精囊炎沿输精管逆行感染所致，血行感染少见。致病菌以大肠埃希杆菌和葡萄球菌为多见，常见于中青年，尿道狭窄、尿道内器械使用不当、膀胱及前列腺术后留置导管等，常会引起附睾炎的发生。其次为淋巴途径，血行感染最为少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、中青年、老年均可患病...",
+        "symptom": [
+          "附睾囊肿",
+          "白细胞增多",
+          "寒战",
+          "脓肿",
+          "水肿"
+        ],
+        "complication": [
+          "慢性附睾炎",
+          "睾丸炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "2--5周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前列腺、精囊腺的超声检查",
+          "阴囊超声检查",
+          "白细胞数"
+        ],
+        "medicine": [
+          "乳酸左氧氟沙星氯化钠注射液",
+          "注射用乳酸左氧氟沙星",
+          "盐酸左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "极外侧型腰椎间盘突出症",
+    "information": {
+      "introduction": "极外侧型(又称最外侧型)腰椎间盘突出症(extreme lateral prolapse of lumbar intervertebral disc)是腰椎间盘突出症的一种特殊类型，指椎间盘突出物压迫了自同一椎间隙水平发出的神经根。本症最早由Abdullah等于1974年首次报道，其发生率各家报告并不一致，大约占腰椎间盘突出症患者总数的1%～11.7%，平均为10%左右。以往对于这一特殊病症的认识不足，故临床上常因漏诊、误诊而导致腰椎手术失败。随着影像诊断学尤其是CT技术的不断发展，对极外侧型腰椎间盘突出症的临床总结逐年增多，但仍有必要撰文详细介绍，以引起大家重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "最外侧型腰椎间盘突出症",
+        "part": [
+          "腰部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "重体力劳动者、司机、中老年...",
+        "symptom": [
+          "腰背刺痛",
+          "腰骶疼痛",
+          "腰部钝痛",
+          "腰酸背痛",
+          "腰脊椎疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000 —— 10000元）",
+        "ratio": "50-60%，主要以控制症状为主，缓解疼痛",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、微创治疗、药物治疗、中医治疗"
+        ],
+        "examination": [
+          "腰腿痛的感觉检查",
+          "CT检查",
+          "椎板间隙显微内窥镜",
+          "脊椎平片",
+          "直腿抬高试验"
+        ],
+        "medicine": [
+          "骨刺消痛液",
+          "腰痛宁胶囊",
+          "腰痹通胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "腰痹通胶囊(康缘)",
+          "grade": "1.21",
+          "total": "71",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "恒古骨伤愈合剂(克雷斯)",
+          "grade": "1.96",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "正骨膏(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蟾马正痛酊(欧珂)",
+          "grade": "4.77",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "当归拈痛丸(老专家)",
+          "grade": "4.14",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "先天性喉喘鸣",
+    "information": {
+      "introduction": "婴幼儿因喉部组织软弱松弛、吸气时候组织塌陷、喉腔变小所引起的喉鸣，称为先天性喉鸣，亦称喉软骨软化。常发生于出生后不久，随着年龄稍大，喉软骨逐渐发育，喉鸣也逐渐消失。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "喉软骨软化",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于出生后不久或出生几...",
+        "symptom": [
+          "呼吸困难",
+          "喉鸣声",
+          "喉咙痛",
+          "喉咙痒",
+          "喉鸣声"
+        ],
+        "complication": [
+          "漏斗胸",
+          "鸡胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "2-4月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "间接鼻咽镜",
+          "纤维鼻咽镜",
+          "耳鼻咽喉CT",
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星胶囊",
+          "盐酸左氧氟沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "眼部带状疱疹",
+    "information": {
+      "introduction": "眼部带状疱疹是一种性质较为严重的睑皮肤病，由三叉神经的半月神经节或某一分支受水痘一带状疱疹病毒感染所致。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "有传染性",
+        "people": "多见于中、老年患者",
+        "symptom": [
+          "怕冷",
+          "结痂",
+          "局部淋巴结肿大",
+          "淋巴结肿大",
+          "神经痛"
+        ],
+        "complication": [
+          "角膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 3000元）",
+        "ratio": "70%",
+        "duration": "2--6周",
+        "method": [
+          "药物治疗、生活习惯调理"
+        ],
+        "examination": [
+          "角膜知觉检查法"
+        ],
+        "medicine": [
+          "甲泼尼龙片",
+          "头孢克洛分散片",
+          "甲泼尼龙片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

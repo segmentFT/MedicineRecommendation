@@ -1,0 +1,1002 @@
+[
+  {
+    "disease_name": "短暂性脑缺血发作",
+    "information": {
+      "introduction": "短暂性大脑缺血性发作(transient cerebral ischemic attacks，TCIA)是局灶性脑缺血导致突发短暂性、可逆性神经功能障碍。发作持续数分钟，通常在30min内完全恢复，超过2h常遗留轻微神经功能缺损表现，或CT及MRI显示脑组织缺血征象。传统的TCIA定义时限为24h内恢复。TCIA好发于34～65岁，65岁以上占25.3%，男性多于女性。发病突然，多在体位改变、活动过度、颈部突然转动或屈伸等情况下发病。发病无先兆，有一过性的神经系统定位体征，一般无意识障碍，历时5～20min，可反复发作，但一般在24h内完全恢复，无后遗症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "偏盲",
+          "动脉呈多处伸长扭曲状",
+          "麻痹",
+          "意识模糊",
+          "癫痫和癫痫样发作"
+        ],
+        "complication": [
+          "小舞蹈病",
+          "高血压",
+          "糖尿病",
+          "颈椎病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "终身治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "尿常规",
+          "颅脑MRI",
+          "血脂",
+          "心电图"
+        ],
+        "medicine": [
+          "己酮可可碱注射液",
+          "己酮可可碱氯化钠注射液",
+          "阿司匹林肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "刺五加注射液",
+          "grade": "3.55",
+          "total": "38",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性宫颈炎",
+    "information": {
+      "introduction": "急性子宫颈炎(acute cervieitis)为病原体感染宫颈引起的急性炎症，主要见于感染性流产、产褥期感染、不洁性活动，宫颈损伤或阴道异物，致病原进入而发生感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性宫颈炎,急性子宫颈炎,宫颈炎",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "性活跃期女性尤为多见",
+        "symptom": [
+          "反应性细胞改变",
+          "尿频",
+          "带血性分泌物",
+          "腰酸",
+          "阴道分泌物增多"
+        ],
+        "complication": [
+          "尿路感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约500-1000元",
+        "ratio": "99%可以治愈",
+        "duration": "3-9周",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "宫颈分泌物培养",
+          "阴道镜",
+          "白带常规",
+          "宫颈刮片",
+          "TCT"
+        ],
+        "medicine": [
+          "抗妇炎胶囊",
+          "盐酸环丙沙星片",
+          "聚甲酚磺醛栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗妇炎胶囊(远程)",
+          "grade": "1.56",
+          "total": "42",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "妇宁栓(贵妃舒)",
+          "grade": "1.91",
+          "total": "27",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿抽动症",
+    "information": {
+      "introduction": "小儿抽动症又名习惯性痉挛综合征(habitual spasm syndrome)、抽动综合征(tic syndrome)、短暂性抽动障碍等，是发生在儿童期的一种肌肉抽动性疾病。发病率较高，为1%～7%，有报道达4%～23%者。多见于学龄前及学龄早期的儿童。男性明显占优势，男女之比为3∶1～4∶1。多呈良性经过，也有难治性患者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "儿童抽动症,小儿抽动综合征,小儿短暂性抽动障碍,小儿习惯性痉挛综合征",
+        "part": [
+          "其他",
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "点头征",
+          "阵发性或强直性惊厥",
+          "紧张",
+          "摇头转颈",
+          "局部肢体抽动"
+        ],
+        "complication": [
+          "小儿癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（500 —— 3000元）",
+        "ratio": "40%",
+        "duration": "30天",
+        "method": [
+          "心理治疗、药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT",
+          "脑电图",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "氟哌啶醇片",
+          "氟哌啶醇注射液",
+          "菖麻熄风片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "九味熄风颗粒",
+          "grade": "3.19",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外阴癌",
+    "information": {
+      "introduction": "外阴恶性肿瘤以原发性的为主，约占女性生殖器肿瘤的4％，占妇女全身肿瘤的1％～2％。绝大多数外阴癌是鳞状上皮癌，约占外阴恶性肿瘤的95％，平均发病年龄为50～60岁，40岁以前也可能发病。腺癌较少。有时外阴癌局限于上皮内，在上皮内蔓延称原位癌，亦称外阴上皮癌，上皮癌有二种：①鳞状上皮原位癌(又称波文氏病)；②湿疹样上皮内癌(又称派杰氏病)。此外尚有基底细胞癌及恶性黑色素瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "瘙痒",
+          "尿痛",
+          "外阴皮肤肿胀",
+          "外阴肿胀",
+          "排尿时外阴灼热、瘙痒或疼痛"
+        ],
+        "complication": [
+          "颈部淋巴结转移癌",
+          "外阴炎",
+          "外阴湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "70%",
+        "duration": "2-3个月",
+        "method": [
+          "药物治疗、放射治疗、化学治疗"
+        ],
+        "examination": [
+          "癌症普查",
+          "阴道镜",
+          "妇科B超"
+        ],
+        "medicine": [
+          "消癌平片",
+          "消癌平片",
+          "注射用盐酸平阳霉素"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片(弗素克)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "染色体异常",
+    "information": {
+      "introduction": "染色体异常(chromosome abnormalities)也称染色体发育不全(chromosome dysgenesis)，指的是染色体的数目异常和结构畸变。染色体由DNA和蛋白质组成，大多数基因均位于染色体的DNA之中。染色体是组成细胞核的基本物质，是基因的载体。美籍华人蒋有兴(1956)查明人类染色体为46条，Caspersson等(1970)首次发表人类染色体显带照片。自1971年巴黎国际染色体命名会议以来，已发现人类染色体数目异常和结构畸变3000余种，目前已确认染色体病综合征100余种，智力低下和生长发育迟滞是染色体病的共同特征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "染色体病,染色体发育不全,染色体畸变",
+        "part": [
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "伸舌样痴呆",
+          "小指单一褶纹",
+          "皮质性遗忘症",
+          "耳朵位置低",
+          "学习障碍"
+        ],
+        "complication": [
+          "小儿常染色体显性小脑性共济失调",
+          "痴呆"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约(10000--20000元)",
+        "ratio": "3%",
+        "duration": "1-2个月",
+        "method": [
+          "中医药物治疗、西医药物治疗、康复训练、器官畸形矫正"
+        ],
+        "examination": [
+          "羊膜穿刺术",
+          "羊水细胞培养",
+          "染色体",
+          "羊水甲胎蛋白测定（AFP）",
+          "AFP"
+        ],
+        "medicine": [
+          "甲磺酸伊马替尼胶囊",
+          "甲磺酸伊马替尼片",
+          "甲磺酸伊马替尼胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "儿童遗尿症",
+    "information": {
+      "introduction": "儿童遗尿症，是指5岁以上的孩子还不能控制自己的排尿、夜间常尿湿自己的床铺白天有时也有尿显裤子的现象。由于尿道口受刺激、脊椎疾病、糖尿病等引起的晚上睡眠 时排尿不属于遗尿症。儿童期较常见。据统计，4岁半时有尿床现象者占儿童的10-20%，6-7岁的孩子发病率最高。9岁时约占5%，而15岁仍尿床者只占2%。本病在性别比例中，男孩与女孩的比例约为2：1。遗尿症的患儿，多数能在发病数年后自愈女孩自愈率更高，但也有部分患儿，如未经治疗，症状会持续到成年以后。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于5～10岁儿童，男孩较...",
+        "symptom": [
+          "尿急",
+          "逼尿肌无反射",
+          "儿童尿床",
+          "尿流变细或中断"
+        ],
+        "complication": [
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "肾内科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "药物、心理治疗"
+        ],
+        "examination": [
+          "泌尿系统CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "醒脾养儿颗粒",
+          "夜尿宁丸",
+          "盐酸甲氯芬酯胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "念珠菌病",
+    "information": {
+      "introduction": "念珠菌病是由真菌念珠菌属各菌种(Candida species)引起的多种临床综合征。通常按受累的部位分为，黏膜皮肤念珠菌病和侵袭性或深部器官念珠菌病。黏膜皮肤念珠菌病包括口咽念珠菌病或鹅口疮、食管炎和阴道炎;侵袭性或深部器官念珠菌病有念珠菌血症、慢性播散性或肝脾念珠菌病、心内膜炎和内眼炎。在大多数患者中，念珠菌病为机会感染性疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "假丝酵母病 ",
+        "part": [
+          "皮肤",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "丘疹",
+          "尿急",
+          "尿频",
+          "尿痛",
+          "念珠菌感染"
+        ],
+        "complication": [
+          "病毒性肺炎",
+          "肺炎",
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（300-500元）",
+        "ratio": "80%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌培养",
+          "皮肤涂片显微镜检查",
+          "血清化学检查",
+          "真菌检查"
+        ],
+        "medicine": [
+          "氟康唑片",
+          "伊曲康唑胶囊",
+          "萘替芬酮康唑乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "呃逆症",
+    "information": {
+      "introduction": "    呃逆症（hiccough）是膈肌和肋间肌等辅助呼吸肌的阵挛性不随意挛缩，伴吸气期门突然闭锁，空气迅速流入气管内，发出特异性声音。呃逆频繁或持续24h以上，称为难治性呃逆，多发生于某些疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃",
+          "膈肌"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "嗳气",
+          "腹部不适",
+          "排气障碍",
+          "胃部隐痛",
+          "腹胀"
+        ],
+        "complication": [
+          "胃肠神经官能症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 3000元）",
+        "ratio": "90%",
+        "duration": "1-7天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "上消化道造影",
+          "无痛胃镜",
+          "纤维胃镜",
+          "电子胃镜",
+          "纤维胃镜检查"
+        ],
+        "medicine": [
+          "舒肝和胃丸",
+          "蛇胆陈皮口服液",
+          "奋乃静片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒肝和胃丸",
+          "grade": "2.75",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蛇胆陈皮口服液(济民可信)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参芪健胃颗粒(辅仁)",
+          "grade": "3.70",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "参芪健胃颗粒(金焦)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "双金胃肠胶囊(美德)",
+          "grade": "4.46",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "参芪健胃颗粒(辅仁)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "胃友新片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "霰粒肿",
+    "information": {
+      "introduction": "霰粒肿（chalazion）是一种睑板腺的慢性炎症肉芽肿（lipogranuloma）。是在睑板腺排出管的管道上阻塞和脂性分泌物潴留的基础上而形成的。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "睑板腺囊肿,眼胞痰核,胞睑肿核,目疣",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眼睑异物",
+          "眼球不能随意动",
+          "视力障碍"
+        ],
+        "complication": [
+          "皮肤黏液瘤",
+          "皮肤淋巴细胞瘤",
+          "浅表性皮肤脂肪瘤痣",
+          "继发性皮肤CD30阳性大细胞淋巴瘤",
+          "皮肤纤维瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（500 —— 800元）",
+        "ratio": "经过有效治疗后本病很容易100%治愈",
+        "duration": "一般在7天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "眼科检查",
+          "眼睑检查"
+        ],
+        "medicine": [
+          "珍珠明目滴眼液",
+          "复方磺胺甲噁唑钠滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珍珠明目滴眼液(海宝)",
+          "grade": "3.42",
+          "total": "85",
+          "secondary": "61"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳腺纤维腺瘤",
+    "information": {
+      "introduction": "乳腺纤维腺瘤(fibroadenoma of breast)是青年女性最常见的一种肿瘤。当肿瘤的构成以腺上皮增生为主，而纤维成分较少时则称为纤维腺瘤;如果纤维组织在肿瘤中占多数，腺管成分较少时，则称为腺纤维瘤;肿瘤组织由大量腺管成分组成时，则称为腺瘤。乳腺纤维腺瘤可发生于青春期后的任何年龄的女性，但以18～25岁的青年女性多见。本病的发生与内分泌激素失调有关，如雌激素相对或绝对升高可引起本病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳腺囊性腺纤维瘤,乳腺黏液纤维腺瘤,乳腺腺瘤",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": " 20-30岁之间女性 ",
+        "symptom": [
+          "乳腺隐痛",
+          "乳腺囊性增生",
+          "乳腺刺痛",
+          "乳头侵蚀",
+          "乳房硬化"
+        ],
+        "complication": [
+          "乳溢"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "乳房自检",
+          "乳房触诊",
+          "乳房视诊",
+          "乳房检查",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "乳核内消颗粒",
+          "乳核散结胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳核内消颗粒(江西民济)",
+          "grade": "3.10",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳核散结胶囊(百氏福)",
+          "grade": "3.20",
+          "total": "9",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "疖",
+    "information": {
+      "introduction": "疖是由于金黄色葡萄球菌自毛囊或汗腺侵入所引起的单个毛囊及其所属皮脂腺的急性化脓性感染，炎症常扩展到皮下组织。多个疖同时或反复发生在身体各部，称为疖病，常见于营养不良的小儿或糖尿病患者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "毛囊炎，疖子，疖病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "疖肿",
+          "脓肿",
+          "丘疹",
+          "结节",
+          "溃疡"
+        ],
+        "complication": [
+          "偏头痛",
+          "败血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "99%",
+        "duration": "7-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "细菌学检验",
+          "WBC",
+          "糖化血清蛋白"
+        ],
+        "medicine": [
+          "龙珠软膏",
+          "消炎片",
+          "丹参酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "龙珠软膏(马应龙)",
+          "grade": "3.43",
+          "total": "21",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "消炎片(岩鹿)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "如意金黄散(同仁堂)",
+          "grade": "3.99",
+          "total": "9",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "六神胶囊(雷允上)",
+          "grade": "2.87",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热暗疮丸(天光)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清热暗疮丸(九鑫)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珍黄丸(乐频清)",
+          "grade": "2.94",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清热化毒丸(同仁堂)",
+          "grade": "2.37",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珍黄胶囊(玉林)",
+          "grade": "3.0",
+          "total": "5",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "烧伤肤康液(100ml)",
+          "grade": "4.41",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热暗疮丸(吉春)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "猝死",
+    "information": {
+      "introduction": "猝死系一临床综合征。指平素看来健康或病情已基本恢复或稳定者，突然发生意想不到的非人为死亡。大多数发生在急性发病后即刻至一小时内，最长不超过6小时者，主要由于原发性心室颤动，心室停搏或电机械分离，导致心脏突然停止有效收缩功能者。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "CHD,心性猝死综合征",
+        "part": [
+          "心脏",
+          "颅脑",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ",
+        "symptom": [
+          "疲乏",
+          "心脏猝死",
+          "呼吸困难",
+          "心前区隐痛",
+          "呼吸困难"
+        ],
+        "complication": [
+          "老年人心脏猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "急诊科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "?",
+        "duration": "?",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "心电图"
+        ],
+        "medicine": [
+          "地高辛片",
+          "心肝宝胶囊",
+          "植入式心脏复律/除颤器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "大叶性肺炎",
+    "information": {
+      "introduction": "肺炎球菌肺炎是由肺炎球菌或肺炎链球菌所引起，5岁以下小儿和60岁以上老人普遍易感，占院外感染肺炎中的半数以上。肺段或肺叶呈急性炎性实变，患者有寒战、高热、胸痛、咳嗽和血痰等症状。近年来由于抗菌药物的广泛应用，临床上症状轻或不典型病较为多见。小儿可通过疫苗进行预防。目前可接种的肺炎球菌疫苗有7价肺炎球菌结合疫苗和23价肺炎球菌多糖疫苗，2岁以下婴儿只能接种7价肺炎球菌结合疫苗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺热症，肺炎球菌肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "发烧",
+          "高热",
+          "胸痛",
+          "咳铁锈色痰",
+          "急性面容"
+        ],
+        "complication": [
+          "肺脓肿",
+          "脓胸",
+          "肺炎",
+          "败血症",
+          "胸膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000-5000元）",
+        "ratio": "90%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "中性粒细胞计数",
+          "血常规",
+          "胸部平片",
+          "白细胞数",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "了哥王片",
+          "阿莫西林克拉维酸钾干混悬剂(7:1)",
+          "利福布汀胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "念珠菌性龟头炎",
+    "information": {
+      "introduction": "男性念珠菌性龟头炎的发病日益增多，主要的原因是与性接触有关。多数是性活跃的青壮年，发病前确有嫖娼史，或有较多的性伴，又或配偶有念珠菌性阴道炎并在其发病期间同房也可引起发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "念珠菌性包皮龟头炎",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "有传染性",
+        "people": "成年男性",
+        "symptom": [
+          "龟头瘙痒",
+          "红斑鳞屑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "真菌感染的实验室检查"
+        ],
+        "medicine": [
+          "硝呋太尔制霉素阴道软胶囊",
+          "硝呋太尔制霉菌素阴道软膏",
+          "硝呋太尔胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性支气管炎",
+    "information": {
+      "introduction": "慢性支气管炎(chronic bronchitis)是气管、支气管黏膜及其周围组织的慢性非特异性炎症。临床上以咳嗽、咳痰或伴有气喘等反复发作为主要症状，每年持续3个月，连续2年以上。早期症状轻微，多于冬季发作，春夏缓解。晚期因炎症加重，症状可常年存在。其病理学特点为支气管腺体增生和黏膜分泌增多。病情呈缓慢进行性进展，常并发阻塞性肺气肿，严重者常发生肺动脉高压，甚至肺源性心脏病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢支,气管炎，久咳",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ，大多是成年男性",
+        "symptom": [
+          "咳嗽",
+          "咳痰",
+          "气短",
+          "喘息",
+          "哮鸣音"
+        ],
+        "complication": [
+          "肺气肿",
+          "哮喘",
+          "百日咳",
+          "咯血",
+          "肺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "90%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "呼气试验",
+          "痰液免疫学检查",
+          "血锑",
+          "WBC",
+          "痰液常规检查"
+        ],
+        "medicine": [
+          "支气管炎片",
+          "愈美甲麻敏糖浆",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "3.99",
+          "total": "114",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        },
+        {
+          "medicine_name": "虫草清肺胶囊(同济堂)",
+          "grade": "3.50",
+          "total": "79",
+          "secondary": "69"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珠贝定喘丸(万年青牌)",
+          "grade": "2.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1029 @@
+[
+  {
+    "disease_name": "HIV相关呼吸道感染",
+    "information": {
+      "introduction": "人类免疫缺陷病毒(human immunodeficiency virus，HIV)又称艾滋病毒。HIV主要破坏CD4 T细胞，导致机体细胞免疫功能损害，最终并发严重机会性感染和肿瘤。本病传播迅速，发病缓慢，病死率极高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "艾滋病毒相关呼吸道感染,人类免疫缺陷病毒相关呼吸道感染",
+        "part": [
+          "肺",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "HIV/AIDS感染者多见",
+        "symptom": [
+          "咳嗽",
+          "呼吸困难",
+          "发烧",
+          "头痛",
+          "呼吸衰竭"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约2000-5000元",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "血清呼吸道合胞病毒抗体",
+          "血清人类免疫缺陷病毒抗体",
+          "动脉血气分析",
+          "胸透"
+        ],
+        "medicine": [
+          "伊曲康唑胶囊",
+          "消炎片",
+          "柴黄颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消炎片(平康)",
+          "grade": "0.8",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "柴黄颗粒(新博)",
+          "grade": "4.37",
+          "total": "8",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝血虚证",
+    "information": {
+      "introduction": "肝血虚证是肝血不足所产生的病证。以肝血的调节功能失常及相关脏器失养为特征。肝脏血液亏虚所表现的证候;多见于虚劳、 眩晕、不寐、雀盲、月经不调，以及西医的高血压、神经官能症等疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肝血不足、肝血亏虚证",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "弱脉",
+          "气血不足",
+          "两眼干涩",
+          "头昏",
+          "眼干涩酸胀，易疲劳"
+        ],
+        "complication": [
+          "发作性睡病",
+          "肝炎",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000 ——10000元）",
+        "ratio": "90%",
+        "duration": "10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "鸡血藤颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鸡血藤颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "螨皮炎",
+    "information": {
+      "introduction": "凡因螨虫叮咬而引起的皮炎统称螨虫皮炎。螨种类繁多，这里仅介绍由虱螨、粉螨等引起的皮炎，因该病多发生在秋收季节接触谷物的农民，故又称谷痒症(grain \nitch)，俗称“大麦痒”、“稻草痒”、“杂货痒”、“草痒症”、“荨麻疹样螨皮炎”、“蒲螨皮炎”等。由于这一类螨虫都寄生于农作物、面粉、杂货商品上及软体昆虫的幼虫身上摄取营养，因此本病多发生于经常接触农作物和其制品的农民、搬运工人、制粉工人，常睡草垫的人也偶可发生。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "草痒症,大麦痒,稻草痒,谷痒症,螨虫皮炎,螨性皮炎,蒲螨皮炎,荨麻疹样螨皮炎,杂货痒",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "经常接触农作物和其制品的农...",
+        "symptom": [
+          "皮肤瘙痒",
+          "皮肤瘀点",
+          "干性脂溢",
+          "血痂",
+          "剧痒"
+        ],
+        "complication": [
+          "哮喘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（100-500元）",
+        "ratio": "94%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "嗜酸性粒细胞数",
+          "WBC"
+        ],
+        "medicine": [
+          "外用紫金锭",
+          "炉甘石洗剂",
+          "复方醋酸地塞米松乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "外用紫金锭(白云山)",
+          "grade": "4.96",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝五胆药墨",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "视网膜母细胞瘤",
+    "information": {
+      "introduction": "在婴幼儿眼病中，是性质最严重、危害性最大的一种恶性肿瘤视网膜母细胞瘤(retinoblastoma，RB)是婴幼儿最常见的眼内恶性肿瘤，对视力和生命有严重的威胁和危害。发生于视网膜核层，具有家族遗传倾向，多发生于5岁以下，可单眼、双眼先后或同时罹患，本病易发生颅内及远处转移，常危及患儿生命，因此早期发现、早期诊断及早期治疗是提高治愈率、降低死亡率的关键。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "成视网膜细胞瘤,视网膜成神经细胞瘤,视网膜恶性胶质瘤",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "常见于3岁以下儿童，具有家...",
+        "symptom": [
+          "视力障碍",
+          "黑蒙",
+          "瞳孔出现黄白色反光",
+          "视力障碍",
+          "眼痛"
+        ],
+        "complication": [
+          "玻璃体混浊",
+          "青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "60天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "眼底荧光血管造影",
+          "眼及眶区CT",
+          "眼球和眼眶的超声检查",
+          "泪液乳酸脱氢酶"
+        ],
+        "medicine": [
+          "替莫唑胺胶囊",
+          "血塞通注射液",
+          "环磷酰胺"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血塞通注射液",
+          "grade": "4.33",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "食管息肉",
+    "information": {
+      "introduction": "食管息肉在食管良性肿瘤中居第2位，其发生率仅次于食管平滑肌瘤。由于食管息肉的瘤体由数量不等的纤维血管组织、脂肪组织以及来自食管黏膜和黏膜下组织的基质构成，表面覆盖有正常的食管黏膜，容易继发溃疡和出血，瘤体的纤维成分或为疏松纤维组织，或为致密胶原纤维组织，故又有称纤维血管瘤、纤维脂肪瘤、黏液纤维瘤、或有蒂脂肪瘤等名称。Bematz等认为将食管息肉命名为“纤维脂肪瘤”(fibrolipoma)较为合适。但临床仍习惯称之为食管息肉。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "食管黏液纤维瘤,食管纤维血管瘤,食管纤维脂肪瘤,食管炎性假瘤,食管有蒂脂肪瘤",
+        "part": [
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上",
+        "symptom": [
+          "大便黑色",
+          "食管腔梗阻",
+          "进食呕吐",
+          "食管梗阻",
+          "咽部有异物感"
+        ],
+        "complication": [
+          "增生性骨关节病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "100%",
+        "duration": "周期7天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "内镜检查",
+          "CT检查",
+          "食管造影"
+        ],
+        "medicine": [
+          "消癌平丸",
+          "微波治疗机",
+          "微波治疗机"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脾囊肿",
+    "information": {
+      "introduction": "脾囊肿并非真性肿瘤，是脾脏组织的瘤样囊性病变;临床上可分为寄生虫性囊肿和非寄生虫性囊肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "寄生虫性脾囊肿常见于中青年...",
+        "symptom": [
+          "腹部不适",
+          "腹部肿块",
+          "腹胀",
+          "上腹不适"
+        ],
+        "complication": [
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内科",
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "70%",
+        "duration": "2周--6个月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "脾脏触诊",
+          "腹部B超"
+        ],
+        "medicine": [
+          "异维A酸软胶囊",
+          "消结安胶囊",
+          "红金消结浓缩丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消结安胶囊(良方制药)",
+          "grade": "2.60",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "红金消结浓缩丸(云中)",
+          "grade": "1.88",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红金消结胶囊(老方)",
+          "grade": "1.74",
+          "total": "33",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红金消结片(泰康)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "得生胶囊",
+          "grade": "1.68",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "得生胶囊(兴邦)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "得生胶囊(意诺)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳安片(瑞龙)",
+          "grade": "2.07",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "得生胶囊(吉春)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳癖消胶囊(远大)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红金消结片(金玉消)",
+          "grade": "1.95",
+          "total": "15",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "砷中毒",
+    "information": {
+      "introduction": "常称砒霜中毒，多因误服或药用过量中毒。生产加工过程吸入其粉末、烟雾或污染皮肤中毒也常见。三氧化二砷经口服5～50mg即可中毒60～100mg即可致死。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "砒霜中毒",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "制造合金、玻璃、陶瓷、含砷...",
+        "symptom": [
+          "鼻衄",
+          "呼吸困难",
+          "指（趾）甲颜色改变",
+          "咽部灼热疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "5-10%",
+        "duration": "15--30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "尿砷",
+          "血液生化六项",
+          "血清砷",
+          "心电图"
+        ],
+        "medicine": [
+          "硫代硫酸钠注射液",
+          "硫代硫酸钠注射液",
+          "多烯磷脂酰胆碱胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "隐性脊柱裂",
+    "information": {
+      "introduction": "隐性脊柱裂是隐性椎管闭合不全中最为多见的一种，多见于腰骶部，有一个或数个椎骨的椎板未全闭合，而椎管内容物并无膨出。绝大多数的隐性脊柱裂终身不产生症状，也没有任何外部表现。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脊柱",
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "有的在婴幼儿时已发病，有的...",
+        "symptom": [
+          "脊髓内胶质增生",
+          "骶骨处持续性疼痛",
+          "感觉障碍",
+          "腱反射消失",
+          "肌肉萎缩"
+        ],
+        "complication": [
+          "软骨瘤",
+          "脂肪瘤",
+          "皮样囊肿",
+          "畸胎瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "65%",
+        "duration": "4-8周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "CT造影扫描",
+          "脊椎平片",
+          "腰骶部丛毛征",
+          "脊柱MRI"
+        ],
+        "medicine": [
+          "阿莫西林",
+          "红霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性细菌性前列腺炎",
+    "information": {
+      "introduction": "急性细菌性前列腺炎是由细菌本身或细菌毒素引起的前列腺急性炎症。发病急，有全身感染征象或脓毒血症表现。急性前列腺炎如果不及时治疗可转变成慢性细菌性前列腺炎，如炎症进一步发展形成脓肿则称为前列腺脓肿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "高热寒战",
+          "浑身酸痛",
+          "乏力",
+          "恶心与呕吐",
+          "食欲不振"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前列腺液培养",
+          "直肠指检",
+          "前列腺液显微镜检查",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "甲磺酸帕珠沙星氯化钠注射液",
+          "甲磺酸帕珠沙星氯化钠注射液",
+          "普适泰片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "眼球震颤",
+    "information": {
+      "introduction": "眼球震颤（nystagmus），简称眼震。是一种不自主的、有节律性的、往返摆动的眼球运动。常由视觉系统、眼外肌、内耳迷路及中枢神经系统的疾病引起。眼震可依病因、临床特征和有关的神经眼科情况分为二大类：①知觉缺陷型眼震（sensory defect nystagmus）如注视性眼震；②运动缺陷型眼震（motor defect nystamgus）如注视麻痹性眼震。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "眼震",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "先天性多见于儿童。成人亦可...",
+        "symptom": [
+          "两眼干涩",
+          "眼干涩酸胀，易疲劳",
+          "虹膜发炎",
+          "泪腺发炎",
+          "不自主运动"
+        ],
+        "complication": [
+          "弱视",
+          "斜视"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（6000 —— 10000元）",
+        "ratio": "55%-65%",
+        "duration": "12周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "眼震电图描记法",
+          "Hertel氏眼球突出计"
+        ],
+        "medicine": [
+          "复方门冬维甘滴眼液",
+          "聚乙烯醇滴眼液",
+          "眼震电图仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿慢性支气管炎",
+    "information": {
+      "introduction": "慢性支气管炎(chronic bronchitis)指反复多次的支气管感染，病程超过2年，每年发作时间超过2个月，有咳、喘、炎、痰四大症状，X线胸片显示间质性慢性支气管炎、肺气肿等改变。还应排除具有此类症状的其他疾病如肺结核、肺脓肿、心脏疾患、支气管扩张、支气管哮喘、慢性鼻咽部疾患等。小儿急性支气管炎若咳嗽、咯痰超过2~3周即可考虑进入慢性过程。近年来，也有不少专家认为，将持续性咳嗽伴或不伴咯痰超过3个月定为慢性支气管炎更为适宜。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "支气管分泌物增加",
+          "细菌感染",
+          "喘息",
+          "哮鸣音",
+          "咳痰"
+        ],
+        "complication": [
+          "小儿肺不张",
+          "肺气肿",
+          "小儿支气管扩张"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "96%",
+        "duration": "15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "痰液的一般性状",
+          "痰液病原体",
+          "痰培养",
+          "胸部平片",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "复方岩白菜素片",
+          "金贝痰咳清颗粒",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金贝痰咳清颗粒(世一堂)",
+          "grade": "3.78",
+          "total": "26",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        },
+        {
+          "medicine_name": "虫草清肺胶囊(同济堂)",
+          "grade": "3.50",
+          "total": "79",
+          "secondary": "69"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珠贝定喘丸(万年青牌)",
+          "grade": "2.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补金片(羚康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "下消化道出血",
+    "information": {
+      "introduction": "下消化道出血是指距十二指肠悬韧带50cm以下的肠段，包括空肠、回肠、结肠以及直肠病变引起的出血，习惯上不包括痔、肛裂引起的出血在内，其临床表现以便血为主，轻者仅呈粪便潜血或黑粪，出血量大则排出鲜血便，重者出现休克。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "大量喝酒、饮食不规律，绝食...",
+        "symptom": [
+          "反复出血",
+          "胃肠道出血",
+          "便血",
+          "憩室出血",
+          "血缺氧"
+        ],
+        "complication": [
+          "休克",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "外科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元）",
+        "ratio": "60-80%",
+        "duration": "1-3个月",
+        "method": [
+          "西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "便常规",
+          "血细胞分析仪",
+          "血红蛋白",
+          "小肠镜",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "泮托拉唑钠肠溶胶囊",
+          "裸花紫珠分散片",
+          "大便隐血(FOB)检测试剂盒(胶体金法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "裸花紫珠分散片(泰神素)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "炭疽病",
+    "information": {
+      "introduction": "炭疽(anthrax)是由炭疽杆菌所致，一种人畜共患的急性传染病。人因接触病畜及其产品及食用病畜的肉类而发生感染。临床上主要表现为皮肤坏死、溃疡、焦痂和周围组织广泛水肿及毒血症症状，皮下及浆膜下结缔组织出血性浸润;血液凝固不良，呈煤焦油样，偶可引致肺、肠和脑膜的急性感染，并可伴发败血症。自然条件下，食草兽最易感，人中等敏感，主要发生于与动物及畜产品加工接触较多及误食病畜肉的人员。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "青壮年因职业（农民、牧民、...",
+        "symptom": [
+          "寒战",
+          "高热",
+          "胸痛",
+          "呼吸困难",
+          "腹胀"
+        ],
+        "complication": [
+          "皮肤炭疽",
+          "肺炭疽"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "炭疽的凝集反应",
+          "血凝试验",
+          "直接涂片检查",
+          "白细胞分类计数"
+        ],
+        "medicine": [
+          "红霉素肠溶片",
+          "红霉素肠溶片",
+          "仁青常觉"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五味麝香丸(九寨沟)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五味麝香丸(藏药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青常觉",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青常觉",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清瘟消肿九味丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五味麝香丸",
+          "grade": "4.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "五味麝香丸",
+          "grade": "4.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "五鹏丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "月光宝鹏丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "红皮病",
+    "information": {
+      "introduction": "红皮病(erythroderma)又称剥脱性皮炎(oxfoliotive dermatitis)，是一种累及全身的以弥漫性潮红，持续性大量脱屑为主的重症慢性炎症性皮肤病。中医认为此系心火炽盛，外感毒邪，毒热入于血营，而致气血两燔，烧灼津液，肌肤失养而致。或食入禁忌，毒邪入脏腑肌腠而发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "剥脱性皮炎",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "更好发于年长者",
+        "symptom": [
+          "肝脾肿大",
+          "低烧",
+          "皮肤黏蛋白沉积",
+          "肝肿大",
+          "肝脏肿大"
+        ],
+        "complication": [
+          "淋巴瘤",
+          "肺炎",
+          "十二指肠溃疡",
+          "肾盂肾炎",
+          "血栓形成"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "皮肤性病"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "中医、饮食、药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "免疫病理检查",
+          "涂片",
+          "细胞组织化学染色",
+          "浆细胞"
+        ],
+        "medicine": [
+          "复方八维甲睾酮胶囊",
+          "复方八维甲睾酮胶囊",
+          "阿维A胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "季节性过敏性鼻炎",
+    "information": {
+      "introduction": "季节性过敏性鼻炎，又称花粉性鼻炎。好发于季节交换之时，以青年人较为常见。每到花粉播散季节便开始发病。发病时眼痒，结膜充血严重者水肿，以致误诊为常见的结膜炎。季节性过敏性鼻炎不是大病，但它是慢性病，发病率高，我国患此病的患者至少数千万。一旦疾病发作，将年年反复，严重影响生活质量和日常工作，每天必用的治疗药物也增加了家庭和政府的医疗负担。最值得重视的，近一半的夏秋季花粉症患者有可能在首次发病的9年内，发展为季节性过敏性哮喘，其进程需经历5-10年。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "季节性鼻炎",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "过敏体质多见",
+        "symptom": [
+          "鼻痒",
+          "说话带鼻音",
+          "变应性鼻炎",
+          "鼻塞",
+          "流清涕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "前鼻镜",
+          "鼻嗅觉功能",
+          "过敏原检测"
+        ],
+        "medicine": [
+          "盐酸氮卓斯汀鼻喷雾剂",
+          "盐酸西替利嗪滴剂",
+          "盐酸左西替利嗪胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

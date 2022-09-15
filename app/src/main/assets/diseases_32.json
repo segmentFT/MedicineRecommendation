@@ -1,0 +1,1090 @@
+[
+  {
+    "disease_name": "肛窦炎",
+    "information": {
+      "introduction": "肛窦炎引又称肛隐窝炎(anal cryptitis)是指肛门齿线部的肛隐窝炎症性病变。常引起肛周脓肿，中医称为“脏毒”。为肛门感染的常见病症，常并发肛乳头炎。使乳头肥大。同时也是化脓性疾病的重要诱因。由于症状较轻，易被病人和医生所忽视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肛隐窝炎",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肛门疼痛",
+          "胀坠感",
+          "肛门坠胀",
+          "结缔组织性外痔",
+          "肛门瘙痒"
+        ],
+        "complication": [
+          "肛乳头炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（3000 — 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "肛门指检"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星片",
+          "甲磺酸左氧氟沙星片",
+          "鼻窦炎口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻窦炎口服液(太极)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "164"
+        },
+        {
+          "medicine_name": "鼻渊通窍颗粒(鲁南)",
+          "grade": "2.85",
+          "total": "14",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "九华膏(双燕牌)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "荔花鼻窦炎片",
+          "grade": "2.05",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香菊胶囊(步长)",
+          "grade": "2.15",
+          "total": "55",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "炎宁颗粒(九惠)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "香菊片(东泰牌)",
+          "grade": "2.58",
+          "total": "9",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "辛芳鼻炎胶囊(立效)",
+          "grade": "3.44",
+          "total": "35",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "双辛鼻窦炎颗粒",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "双辛鼻窦炎颗粒(速必欣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外耳道炎",
+    "information": {
+      "introduction": "外耳道炎可分为两类，一类为局限性外耳道炎，又称外耳道疖（furuncle of extRNAl auditory canal ）；另一类为外耳道皮肤的弥漫性炎症，又称弥漫性外耳道炎（diffuse otitis externa）。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "外耳道疖,弥漫性外耳道炎",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "耳痛",
+          "耳围凹陷",
+          "耳廓癣",
+          "耳痛",
+          "耳痒"
+        ],
+        "complication": [
+          "糖尿病",
+          "便秘",
+          "葡萄球菌感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "治愈率89%",
+        "duration": "治疗周期15天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "外耳检查"
+        ],
+        "medicine": [
+          "氧氟沙星滴耳液",
+          "过氧化氢溶液",
+          "丹参酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年期抑郁障碍",
+    "information": {
+      "introduction": "老年期抑郁障碍是指首发于老年期，以持久的抑郁心境为主要临床相的一种精神障碍。临床特征以情绪低落、焦虑、迟滞和繁多的躯体不适症状为主。精神障碍不能归因于躯体疾病或脑器质性病变。一般病程较长，具有缓解和复发倾向，部分病例预后不良。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "食欲减退",
+          "疲乏",
+          "背痛",
+          "无力",
+          "焦虑"
+        ],
+        "complication": [
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000——5000元）",
+        "ratio": "68%",
+        "duration": "2-4月",
+        "method": [
+          "心理治疗 药物治疗 支持治疗"
+        ],
+        "examination": [
+          "颅脑CT",
+          "心电图"
+        ],
+        "medicine": [
+          "安神胶囊",
+          "宁心安神胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安神胶囊(刻康)",
+          "grade": "3.08",
+          "total": "15",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "4.38",
+          "total": "102",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "风湿热",
+    "information": {
+      "introduction": "风湿热(rheumatic fever)是一种常见的反复发作的急性或慢性身性结缔组织炎症，主要累及心脏、关节、中枢神经系统、皮肤和皮下组织。临床表现以心脏炎和关节炎为主，可伴有发热、毒血症、皮疹、皮下小结、舞蹈病等。它通常发生于链球菌感染后2～4周，是一种对咽部A组溶血性链球菌感染的变态反应性疾病。急性发作时通常以关节炎较为明显，但在此阶段风湿性心脏炎可造成病人死亡。急性发作后常遗留轻重不等的心脏损害。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性风湿病,急性风湿性多关节炎",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "本病初发年龄以9~17岁多见，...",
+        "symptom": [
+          "不明原因发热",
+          "乏力",
+          "端坐呼吸",
+          "呼吸困难",
+          "发烧"
+        ],
+        "complication": [
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清抗链球菌壁多糖抗体",
+          "抗链球菌激酶试验",
+          "心电图",
+          "抗链球菌溶血素“O”试验",
+          "C反应蛋白"
+        ],
+        "medicine": [
+          "雷公藤多苷片",
+          "阿奇霉素干混悬剂",
+          "雷公藤多苷片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "雷公藤多苷片",
+          "grade": "4.55",
+          "total": "36",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(复旦复华)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "甘霖洗剂",
+          "grade": "3.64",
+          "total": "16",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "洁尔阴洗液(恩威)",
+          "grade": "2.84",
+          "total": "216",
+          "secondary": "159"
+        },
+        {
+          "medicine_name": "清凉止痒搽剂",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "痔疮止血丸(长源)",
+          "grade": "4.57",
+          "total": "19",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "三黄清解胶囊(银涛)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外阴毛囊炎",
+    "information": {
+      "introduction": "外阴毛囊炎以毛囊或毛囊周围感染为主。外阴为皮肤组织，有丰富的毛囊，当机体抵抗力低下、外阴皮肤受损，表浅的毛囊及其周围组织受金黄色葡萄球菌、表皮葡萄球菌、链球菌的感染，即可引发急性、亚急性、慢性的外阴毛囊炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "外阴脓疱性毛囊炎",
+        "part": [
+          "外阴",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "机体免疫力下降，外阴清洁卫...",
+        "symptom": [
+          "疼痛",
+          "脓疱",
+          "充血",
+          "脓疱",
+          "外阴皮肤肿胀"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约(500-1000元)",
+        "ratio": "治愈率92%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "妇科的保健体检",
+          "外阴部妇科常规检查",
+          "妇科常规检查",
+          "白细胞数"
+        ],
+        "medicine": [
+          "氯霉素搽剂",
+          "克林霉素甲硝唑搽剂",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "瘙痒症",
+    "information": {
+      "introduction": "瘙痒症(pruritus)是临床上常见的皮肤病之一，尤其多见于老年人。其特征为以瘙痒为主，而无原发性损害。临床上可分为限局性和全身性两种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "皮肤瘙痒",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "皮肤病患者",
+        "symptom": [
+          "日轻夜重的瘙痒",
+          "瘙痒",
+          "皮肤瘙痒",
+          "大腿内侧红斑",
+          "腹股沟痒"
+        ],
+        "complication": [
+          "毛囊炎",
+          "疖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "皮损",
+          "皮疹",
+          "阴道病原体",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "肤痒颗粒",
+          "润燥止痒胶囊",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肤痒颗粒(无为)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "润燥止痒胶囊(同济堂)",
+          "grade": "2.65",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "湿毒清胶囊(玉林)",
+          "grade": "2.80",
+          "total": "89",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "湿毒清片(诺鑫)",
+          "grade": "2.74",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(紫鑫)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "羊水栓塞",
+    "information": {
+      "introduction": "羊水栓塞是指在分娩过程中，羊水内容物如胎脂、角化上皮细胞、胎粪、毳毛等进入母血循环，形成栓子堵塞肺血管，导致产妇休克、出血、弥漫性血管内凝血(DIC)等一系列严重症状的综合征。起病急，病情凶险，死亡率高。病因多为子宫收缩过强或呈强直性，宫内压力高，在胎膜破裂或破裂后不久，羊水由裂伤的子宫颈内膜静脉进入母血循环所致。分娩过程突然出现原因不明呼吸困难、紫绀、休克、子宫大出血等，应疑为该症。治疗包括抗过敏、供氧、缓解肺高压、补充血容量、抗休克、纠正DIC等。若胎儿未娩出，应立即结束分娩。羊水栓塞起病急，病势凶险，多于发病后短时间死亡，避免诱发因素，及时诊断，尽早组织抢救、治疗，是抢救存活的关键。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "AFE",
+        "part": [
+          "肺",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "发绀",
+          "循环衰竭",
+          "昏迷",
+          "呼吸困难",
+          "抽搐"
+        ],
+        "complication": [
+          "小儿肺动脉高压",
+          "休克",
+          "肾衰"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "10%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "3p试验",
+          "凝血酶时间",
+          "凝血酶原时间",
+          "心电图",
+          "胸部平片"
+        ],
+        "medicine": [
+          "氨茶碱",
+          "葡萄糖",
+          "氨甲环酸片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "外阴湿疹",
+    "information": {
+      "introduction": "外阴湿疹是一种常见的过敏性、炎症性外阴皮肤病，有明显的渗出倾向，一般认为是由第Ⅳ型变态反应引发。其主要特征是多形性皮肤损害、反复发作、对称发生、瘙痒剧烈。湿疹有结痂，当病情好转痊愈后，皮肤不留任何瘢痕。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "外阴湿疹病",
+        "part": [
+          "外阴",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，女性多于男性",
+        "symptom": [
+          "会阴溃疡",
+          "丘疹",
+          "充血",
+          "丹毒样外观",
+          "慢性湿疹样变"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤斑贴实验",
+          "阴道妇科常规检查",
+          "外阴部妇科常规检查",
+          "妇科常规检查"
+        ],
+        "medicine": [
+          "丹参酮胶囊",
+          "川百止痒洗剂",
+          "青柏洁身洗液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "青柏洁身洗液(恒生)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "青柏洁身洗液(仁仁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "青柏洁身洗液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "皮肤康洗液",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胸腺瘤",
+    "information": {
+      "introduction": "胸腺是人体重要的免疫起源于胚胎时期第3(或第4)鳃弓内胚层，系原始前肠上皮细胞衍生物，随胚胎生长发育而附入前纵隔，具有独特临床病理特点和伴有多种副肿瘤症状的疾病。胸腺瘤是来源于胸腺上皮的肿瘤，约占前纵隔肿瘤的50% ，临床表现各异，常伴随很多自身免疫异常。近来对伴随自身免疫性肠病的认识渐受重视，但其发病率无明确报道。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "消瘦",
+          "无力",
+          "胸骨后疼痛",
+          "胸痛",
+          "乏力"
+        ],
+        "complication": [
+          "重症肌无力",
+          "肾病综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000-50000元）",
+        "ratio": "外科手术治愈率约为65%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "肿瘤标志物",
+          "腹部CT",
+          "CT检查",
+          "血清烟碱型乙酰胆碱受体抗体",
+          "胸部平片"
+        ],
+        "medicine": [
+          "平消片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "心力衰竭",
+    "information": {
+      "introduction": "心力衰竭又称“心肌衰竭”，是指心脏当时不能搏出同静脉回流及身体组织代谢所需相称的血液供应。往往由各种疾病引起心肌收缩能力减弱，从而使心脏的血液输出量减少，不足以满足机体的需要，并由此产生一系列症状和体征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "充血性心力衰竭，心功能不全，心脏衰弱，心收缩不全",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": " 所有人群 ，中老年人多数",
+        "symptom": [
+          "呼吸困难",
+          "端坐呼吸",
+          "咳嗽",
+          "粉红色泡沫痰",
+          "头晕"
+        ],
+        "complication": [
+          "难治性心力衰竭",
+          "舒张性心力衰竭",
+          "急性右侧心力衰竭",
+          "急性左心衰",
+          "充血性心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "需要终身治疗，目前不能治愈",
+        "duration": "需要终身治疗",
+        "method": [
+          "西医药物治疗、中医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血清氯",
+          "心电图",
+          "血浆渗透压",
+          "血心钠肽",
+          "全血容量"
+        ],
+        "medicine": [
+          "芪苈强心胶囊",
+          "心力丸",
+          "琥珀酸美托洛尔缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "芪苈强心胶囊(以岭)",
+          "grade": "2.45",
+          "total": "90",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "心力丸",
+          "grade": "4.76",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "三期梅毒",
+    "information": {
+      "introduction": "梅毒是由梅毒螺旋体感染引起的一种慢性全身性性传播疾病。主要通过性交传染。三期梅毒发生时间一般在发病后2年，但也可更长时间达3-5年者。好发于40-50岁之间。主要是由于未经抗梅毒治疗或治疗时间不足，用药量不够。机体内外环境失调亦有一定关系。过度饮酒，吸咽，身体衰弱及患者有结核等慢性病者预后不良。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "晚期梅毒",
+        "part": [
+          "全身",
+          "女性生殖",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃人群",
+        "symptom": [
+          "结节",
+          "反复生殖器溃疡",
+          "结节性梅毒疹",
+          "树胶肿",
+          "黏膜损害"
+        ],
+        "complication": [
+          "疤痕疙瘩",
+          "中枢神经系统感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "非梅毒螺旋体抗原血清试验",
+          "梅毒血清试验",
+          "梅毒螺旋体血球凝集试验",
+          "梅毒螺旋体抗原血清试验",
+          "血清梅毒螺旋体抗体"
+        ],
+        "medicine": [
+          "琥乙红霉素胶囊",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阻塞性肺气肿",
+    "information": {
+      "introduction": "阻塞性肺气肿(obstructive pulmonary emphysema)是指终末细支气管远端气囊腔(包括呼吸性细支气管、肺泡管、肺泡囊和肺泡)的持久性膨胀、扩大，伴气腔壁结构破坏而无明显纤维化为病理特征的一种疾病。多由长期吸烟、大气污染、吸入有害化学物质和粉尘以及慢性反复呼吸道感染等诱发慢性支气管炎，进一步发展为本病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性阻塞性肺气肿，肺胀，COPD ",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "吸烟、慢支患者",
+        "symptom": [
+          "桶状胸",
+          "胸闷",
+          "劳力性呼吸困难",
+          "呼吸音减弱",
+          "气急"
+        ],
+        "complication": [
+          "阻塞性肺气肿",
+          "慢性肺源性心脏病",
+          "胃溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "肺量计",
+          "肺功能",
+          "呼气试验",
+          "二氧化碳分压",
+          "PaO2"
+        ],
+        "medicine": [
+          "盐酸班布特罗胶囊",
+          "氨茶碱缓释片",
+          "盐酸班布特罗片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "产后出血",
+    "information": {
+      "introduction": "产后出血是指产后难以止住的大量出血。这是一种非常严重，但不太常见的并发症。如果处理及时就不会危急生命。子宫过于松弛或者由于长期筋疲力尽的分娩未能紧缩，生产创口过大都有可能发生流血。子宫扩张过大可能由于多胞胎、胎儿个体大、羊水过多、产妇身体虚弱(如贫血，受惊，或者过度疲劳)所致。胎盘畸形，也会阻止子宫对称收缩。在全球范围内，产后出血仍然是导致孕产妇死亡的最为常见的原因，有效地控制产后出血可避免很多孕产妇不必要的死亡。产后出血在任何一个分娩的场所均会发生，70%的产后出血是由于子宫收缩乏力所导致的。治疗宫缩乏力，除了使用宫缩剂，进行子宫按摩以外，其它的方法似乎需要进一步的手术干预，以前可能也会需要很多复杂的医疗器械，但是这在边远地区并不太可能，影响了进一步的干预的进行，由此有可能成为孕产妇死亡的原因。产后出现即时出血还有可能是因为子宫、子宫颈、阴道或者骨盆的一些地方的损伤没有得到修复，或者子宫破裂或倒位(里面的朝外)。如果胎盘有一些碎片还留在子宫里或者粘在子宫上，出血可能发生产后一两周内。感染和使用阿斯匹林、布洛芬、银杏片、大剂量维生素E、大麻、或者其他药物(这些东西会影响血液凝固)，也可能造成产后出血，一般发生在产房或者几周后。出血现象更多发生于宫外孕或者早产孕妇身上，很少是由于产妇有已知的血液紊乱的遗传因素。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "产妇",
+        "symptom": [
+          "产后便血",
+          "产后恶露不净有臭味",
+          "反复出血",
+          "产后发热",
+          "软产道裂伤"
+        ],
+        "complication": [
+          "失血性休克",
+          "拉肚子",
+          "产后抑郁症",
+          "产科休克",
+          "产后出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗、物理治疗"
+        ],
+        "examination": [
+          "宫颈分泌物培养",
+          "产后检查",
+          "阴道分泌物涂片",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "注射用矛头蝮蛇血凝酶",
+          "益母草软胶囊",
+          "断血流片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益母草软胶囊(渔人牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "断血流片(司空山)",
+          "grade": "3.62",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产复康颗粒(（三顺）)",
+          "grade": "3.64",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫血宁胶囊(云丰)",
+          "grade": "1.84",
+          "total": "12",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "产复康颗粒(益坤)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方大红袍止血胶囊",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "新生化颗粒",
+          "grade": "4.52",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益母草软胶囊",
+          "grade": "1.74",
+          "total": "29",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "妇科止血灵片(丽见泰)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鲜益母草胶囊(大德)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃窦炎",
+    "information": {
+      "introduction": "胃窦炎多发于30岁以上的男性，表现为上腹部饱胀，隐痛或剧痛，常呈周期性发作，可伴有嗳气、反酸、呕吐、纳差、消瘦等，慢性胃窦炎还可表现为厌食，持续性腹痛，失血性贫血等。胃窦炎的治疗一般应采用饮食控制、镇静、抗酸、解痉、止痛等措施，主要是对症治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "多发于30岁以上的男性",
+        "symptom": [
+          "胃部隐痛",
+          "嗳气",
+          "反酸",
+          "纳差",
+          "消瘦"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（500 —— 800元）",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胃液IgG IgA"
+        ],
+        "medicine": [
+          "替硝唑片",
+          "胃炎宁颗粒",
+          "胃舒宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胃炎宁颗粒(远达)",
+          "grade": "3.99",
+          "total": "172",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃舒宁胶囊(金爵)",
+          "grade": "2.5",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消食十味丸",
+          "grade": "1.98",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消食十味丸(安友)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(老君炉)",
+          "grade": "4.70",
+          "total": "49",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(田田清)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(亚诺太芬)",
+          "grade": "4.67",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(孔府)",
+          "grade": "4.67",
+          "total": "38",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消食十味丸(蒙王)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消食十味丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结节性甲状腺肿",
+    "information": {
+      "introduction": "结节性甲状腺肿又称腺瘤样甲状腺肿，实际上是指地方性甲状腺肿和散发性甲状腺肿晚期所形成的多发结节。发病率很高，有报道可达人群的4%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "腺瘤样甲状腺肿",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": " 女性发病数较男性高，青春...",
+        "symptom": [
+          "吞咽困难",
+          "呼吸困难",
+          "胸闷",
+          "甲状腺肿",
+          "甲状腺结节"
+        ],
+        "complication": [
+          "甲状腺瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（2000—— 10000元）",
+        "ratio": "70%",
+        "duration": "3个月",
+        "method": [
+          "西药、中药、手术治疗"
+        ],
+        "examination": [
+          "TRH兴奋TSH、PRL试验",
+          "甲状腺放射性核素显像",
+          "血清甲状腺球蛋白",
+          "血浆促甲状腺激素释放激素",
+          "血清促甲状腺激素"
+        ],
+        "medicine": [
+          "左甲状腺素钠片",
+          "甲巯咪唑",
+          "甲巯咪唑"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

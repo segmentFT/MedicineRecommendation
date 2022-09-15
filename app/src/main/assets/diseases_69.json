@@ -1,0 +1,884 @@
+[
+  {
+    "disease_name": "IgA肾病",
+    "information": {
+      "introduction": "IgA肾病(IgA nephropathy)是1968年由法国学者Berger和Hinglais首先描述的，以系膜增生及系膜区显著弥漫的IgA沉积为特征的一组肾小球疾病。其临床表现多种多样，以血尿最为常见，可伴有不同程度的蛋白尿、高血压和肾功能受损。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "IgA肾炎",
+        "part": [
+          "肾",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "多发于儿童和青年，10岁以前5...",
+        "symptom": [
+          "小血管纤维性坏死",
+          "水肿",
+          "低烧",
+          "肚子疼",
+          "蛋白尿"
+        ],
+        "complication": [
+          "血尿",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "风湿科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "控制症状为主，根治率约为30%",
+        "duration": "大部分需要终身治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿蛋白质",
+          "血清循环免疫复合物",
+          "抗链球菌溶血素“O”试验",
+          "血清免疫球蛋白A"
+        ],
+        "medicine": [
+          "肾炎康复片",
+          "肾炎康复片",
+          "肾病测定特定蛋白比浊试剂盒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肾炎康复片",
+          "grade": "2.16",
+          "total": "20",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(复旦复华)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "霍奇金淋巴瘤",
+    "information": {
+      "introduction": "霍奇金淋巴瘤(Hodgkin Lymphoma)，曾被称为霍奇金氏病，何杰金氏病，或何杰金氏淋巴瘤。它是源于淋巴细胞的一种癌变。“霍奇金”的命名是源于Thomas Hodgkin在1832年第一个描述了这种淋巴系统独特的恶性疾病。它常开始发生于一组淋巴结，然后扩散到其他淋巴结或结外器官、组织。其组织病理学特征为恶性Reed-Sternberg(里-斯)细胞的出现。目前，化疗、放疗和骨髓移植在霍奇金淋巴瘤治疗上的应用，使它已经成为可以治愈的肿瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "霍奇金病,何杰金病,淋巴网状细胞肉瘤",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "15～34岁为高峰男性多于女性",
+        "symptom": [
+          "淋巴液流出",
+          "疱疹",
+          "淋巴结肿大",
+          "血小板减少",
+          "皮肤搔痒"
+        ],
+        "complication": [
+          "中枢神经系统感染",
+          "淋巴癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "40%",
+        "duration": "1-3年",
+        "method": [
+          "放疗、化疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "血管造影",
+          "肝、胆、胰、脾MRI",
+          "静脉肾盂造影",
+          "胸部平片"
+        ],
+        "medicine": [
+          "重组人干扰素α-2b注射液",
+          "利妥昔单抗注射液",
+          "利妥昔单抗注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "干燥性鼻炎",
+    "information": {
+      "introduction": "干燥性鼻炎一般认为长期受外界的物理或化学物质的刺激所致的鼻炎表现，是一种常见的职业性鼻炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "是一种常见的职业性慢性鼻炎...",
+        "symptom": [
+          "鼻孔干疼",
+          "鼻痒",
+          "鼻咽腔狭窄",
+          "挖鼻孔",
+          "鼻内似有擤不出的鼻涕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "前鼻镜",
+          "鼻腔检查"
+        ],
+        "medicine": [
+          "鼻血止颗粒",
+          "生理性海水鼻腔喷雾器",
+          "鼻腔冲洗器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻血止颗粒",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人前列腺癌",
+    "information": {
+      "introduction": "老年人前列腺癌是原发于前列腺的一种恶性肿瘤，是男性泌尿生殖系常见的恶性肿瘤。在所有器官的恶性肿瘤中，前列腺癌的自然病史变化多端，因人而异，难以预料。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年前列腺癌",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "有前列腺疾病史的老年男性多...",
+        "symptom": [
+          "尿流缓慢",
+          "尿频",
+          "尿急",
+          "尿流中断",
+          "下肢浮肿"
+        ],
+        "complication": [
+          "血尿",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（20000 —— 60000元）",
+        "ratio": "40-50%，发现后通常都伴有骨转移",
+        "duration": "1-2年",
+        "method": [
+          "手术治疗、西医药物治疗"
+        ],
+        "examination": [
+          "前列腺检查",
+          "血清前列腺特异性抗原",
+          "血清前列腺酸性磷酸酶",
+          "前列腺B超",
+          "前列腺液细胞"
+        ],
+        "medicine": [
+          "前列通瘀胶囊",
+          "前列回春丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列通瘀胶囊(星光)",
+          "grade": "2.07",
+          "total": "26",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "前列回春丸(强身)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "中心性浆液性脉络膜视网膜病变",
+    "information": {
+      "introduction": "中心性浆液性脉络膜视网膜病变(central serous chorioretinopathy，CSC)是以黄斑部及其附近局限性浆液性神经上皮脱离为特征的常见眼底病变，国内临床上常简称“中浆”。近年来，吲哚青绿血管造影的出现，为进一步研究CSC提供了新的方法，也对其发病机制有了新的认识。中心性浆液性脉络膜视网膜病变，多见于青年及中年男性，多为单眼发病，有自愈和复发倾向。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "中浆病,复发性中心性视网膜炎,特发性中心性浆液性脉络膜炎",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "男性比女性更容易患病，约占...",
+        "symptom": [
+          "视物变形",
+          "视力障碍",
+          "视网膜脱离",
+          "视物模糊",
+          "视物变形"
+        ],
+        "complication": [
+          "视网膜血管炎",
+          "视网膜后膜"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（1000——8000元）",
+        "ratio": "55%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗 药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "DR",
+          "视野检查",
+          "裂隙灯",
+          "眼底镜检查法"
+        ],
+        "medicine": [
+          "注射用曲克芦丁",
+          "曲克芦丁注射液",
+          "卵磷脂络合碘胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "明珠口服液",
+          "grade": "4.75",
+          "total": "17",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "色素性荨麻疹",
+    "information": {
+      "introduction": "色素性荨麻疹（urtica pigmentosa）是一种肥大细胞病，有圆形或椭圆形色素斑或色素性结节，搔抓摩擦后变红发胀，常在幼年时期开始发生。1969年Nettie ship首先描述本病的皮肤表现，称为留有褐色斑的慢性荨麻疹、Unna指出本病与肥大细胞间的关系，Ellis第1个报告本病除皮肤外，其他脏器如肝、脾、骨髓、淋巴结等均可有肥大细胞的浸润。通常为良性过程，在儿童皮疹可自行消退。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "儿童,一般在出生后3～9个月发...",
+        "symptom": [
+          "面颊及上胸部充血",
+          "瘙痒",
+          "肝脾肿大",
+          "丘疹"
+        ],
+        "complication": [
+          "荨麻疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "皮疹"
+        ],
+        "medicine": [
+          "麻疹腮腺炎风疹联合减毒活疫苗",
+          "麻黄碱苯海拉明片",
+          "特非那定片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "病毒性喉炎",
+    "information": {
+      "introduction": "病毒性喉炎是由病毒引起的一种急性呼吸道传染病。治疗上可给予对症治疗和必要抗病毒治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "劳累过度，过敏素质易患此病",
+        "symptom": [
+          "咳声嘶哑",
+          "失音",
+          "喉咙痛",
+          "喉头水肿",
+          "发热伴淋巴结肿大、并伴触痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "呼吸内科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "间接鼻咽镜"
+        ],
+        "medicine": [
+          "清热消炎宁胶囊",
+          "清开灵颗粒",
+          "炎琥宁氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清开灵颗粒(白云山)",
+          "grade": "2.58",
+          "total": "95",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "胆木浸膏糖浆",
+          "grade": "3.88",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "副乳",
+    "information": {
+      "introduction": "多乳房(副乳或副乳腺)即多乳头症，并不少见，是指除正常的1对乳房外，另有1个或多个乳房，也称多余乳房，但多余乳房均在乳腺发生线上。副乳房也可发生同正常部位乳房所发生的任何疾病，有人报告副乳腺癌的发生率在0.1%，副乳房的良性肿瘤的发生率也在0.1%左右，应引起注意。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "多乳房畸形,多乳头症,多乳房",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "乳房先天发育异常者",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（6000—— 12000元）",
+        "ratio": "98%",
+        "duration": "2-4周",
+        "method": [
+          "定期检查、手术治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "乳房检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "低钙血症",
+    "information": {
+      "introduction": "低钙血症是指血清离子钙浓度异常减低。但由于临床上一般仅测定总钙，故总钙水平低于正常也称为低钙血症。血总钙降低可在低蛋白质血症时出现，并不一定反映离子钙的降低，因此血钙降低不一定和离子钙降低一致，但一般情况下两者是一致的。血清蛋白浓度正常时，血钙低于2.2mmol/L时称为低钙血症。低钙血症一般指游离钙低于正常值。酸中毒或低蛋白血症时仅有蛋白结合钙降低;反之，碱中毒或高蛋白血症时，游离钙虽降低，但蛋白结合钙增高，故血清钙仍可正常。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "低血钙",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "甲状旁腺功能异常及老年人多...",
+        "symptom": [
+          "睡觉时小腿抽筋",
+          "手酸",
+          "骨软化",
+          "抽搐",
+          "面部叩击征"
+        ],
+        "complication": [
+          "窦性心动过速",
+          "房室传导阻滞",
+          "充血性心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（500——10000元） ",
+        "ratio": "80% ",
+        "duration": "7-30天",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "眼科检查",
+          "心电图",
+          "血清钙"
+        ],
+        "medicine": [
+          "牡蛎碳酸钙颗粒",
+          "维D2磷酸氢钙片",
+          "小儿四维葡钙颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "输卵管炎",
+    "information": {
+      "introduction": "输卵管炎在不孕妇女中较为常见,其病因是由于病原体感染引起,病原体主要有葡萄球菌、链球菌、大肠杆菌、淋球菌、变形杆菌、肺炎球菌、衣原体等所引起。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期女性",
+        "symptom": [
+          "女性不孕",
+          "输卵管堵塞",
+          "发烧",
+          "阴道分泌物增多",
+          "继发性不孕"
+        ],
+        "complication": [
+          "出血性输卵管炎",
+          "慢性输卵管炎",
+          "急性输卵管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "60-80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血检查",
+          "血培养",
+          "CT检查",
+          "阴道分泌物涂片"
+        ],
+        "medicine": [
+          "盐酸多西环素片",
+          "土霉素片",
+          "注射用盐酸克林霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "口腔单纯性疱疹",
+    "information": {
+      "introduction": "单纯疱疹是由单纯疱疹病毒引起的皮肤和粘膜疾病。疱疹性口炎多见于婴幼儿，在高热、咽痛后出现口腔粘膜上成簇小水疱或溃疡或融合后形成的大溃疡，7～14天左右可自愈。唇疱疹 多见于成人。发病时可取疱液作病毒接种，或取疱基底涂片，或血液抗单纯疱疹病毒抗体效价升高则证实诊断。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "原发型疱疹性口炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "本病以6岁以下儿童较多见，...",
+        "symptom": [
+          "咽痛",
+          "水肿",
+          "头痛",
+          "疱疹",
+          "脓疱"
+        ],
+        "complication": [
+          "口腔溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-500元）",
+        "ratio": "98%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "涂片",
+          "血清单纯疱疹病毒抗体",
+          "单纯疱疹病毒"
+        ],
+        "medicine": [
+          "金喉健喷雾剂",
+          "喉康散",
+          "重组人干扰素α2b乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金喉健喷雾剂(宏宇)",
+          "grade": "2.87",
+          "total": "72",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "喉康散(白云山)",
+          "grade": "4.36",
+          "total": "19",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膝关节侧副韧带损伤",
+    "information": {
+      "introduction": "膝关节侧副韧带损伤，多由直接撞伤或在屈膝旋转位突然跌倒引起。轻者部分损伤，重者可完全断裂、或伴有半月板、或十字韧带损伤。若不及时诊治，会严重地影响关节功能。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "膝部"
+        ],
+        "infection": "无传染性",
+        "people": "运动员、体力劳动者、老年人",
+        "symptom": [
+          "膝关节疼痛",
+          "膝关节肿胀积血",
+          "膝关节不能完全伸直",
+          "关节疼痛",
+          "韧带断裂"
+        ],
+        "complication": [
+          "膝关节半月板损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "85%",
+        "duration": "1个月",
+        "method": [
+          "微创治疗、药物治疗、物理治疗、手术治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "膝关节分离试验",
+          "抽屉试验",
+          "MRI"
+        ],
+        "medicine": [
+          "复方氯唑沙宗片",
+          "氯唑沙宗片",
+          "复方杜仲健骨颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方杜仲健骨颗粒(伯司庄)",
+          "grade": "4.28",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "冠状病毒感染",
+    "information": {
+      "introduction": "冠状病毒因其包膜特有的太阳帽状刺突(E1 刺突) 而得名。1975年国际病毒命名委员会正式定名为冠状病毒(Co ro2navirus)。冠状病毒感染是由冠状病毒引起的呼吸道传染病，各年龄组均有发病，儿童多见，以上呼吸道感染为特征，少数可致腹泻、支气管炎、肺炎、胸腔积液等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "冠形病毒感染,日冕病毒感染,日冕形病毒感染",
+        "part": [
+          "鼻",
+          "肺",
+          "咽喉"
+        ],
+        "infection": "有传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "发烧",
+          "头痛",
+          "咽痛",
+          "咳嗽",
+          "咽痛"
+        ],
+        "complication": [
+          "中耳炎",
+          "慢性支气管炎",
+          "肺炎",
+          "胸腔积液"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "抗病毒口服液",
+          "利巴韦林泡腾颗粒",
+          "利巴韦林片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗病毒口服液",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性气管－支气管炎",
+    "information": {
+      "introduction": "急性气管-支气管炎是由生物、物理、化学刺激或过敏等因素引起的气管-支气管粘膜的急性炎症。临床主要症状有咳嗽和咳痰。常见于寒冷季节或气候突变时。也可由急性上呼吸道感染蔓延而来。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿多见",
+        "symptom": [
+          "小支气管粘膜水肿",
+          "干性咳嗽",
+          "纤毛上皮细胞损伤脱落",
+          "鼻塞",
+          "打喷嚏"
+        ],
+        "complication": [
+          "肺炎",
+          "营养不良",
+          "支气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约5000--10000元",
+        "ratio": "治愈率97.4%",
+        "duration": "治疗周期7天",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "痰液免疫学检查",
+          "痰液的一般性状",
+          "痰液细胞学检查",
+          "胸部平片",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "清开灵软胶囊",
+          "盐酸头孢他美酯胶囊",
+          "清肺消炎丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清开灵软胶囊(神威)",
+          "grade": "3.15",
+          "total": "11",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "3.99",
+          "total": "114",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性额窦炎",
+    "information": {
+      "introduction": "急性额窦炎发病30天后仍有炎症迁延者，称为慢性额窦炎。常在一定条件下急性发作，并常伴有慢性筛窦炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "急性额窦炎发病30天后仍有炎...",
+        "symptom": [
+          "晨起前额疼，午后减轻",
+          "头痛",
+          "脓性分泌物",
+          "流鼻涕",
+          "鼻内痛"
+        ],
+        "complication": [
+          "骨髓炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 3000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "置换术、理疗、手术治疗"
+        ],
+        "examination": [
+          "鼻腔检查",
+          "鼻窦检查",
+          "耳鼻咽喉CT",
+          "鼻咽部MRI",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "阿莫西林胶囊",
+          "鼻炎康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎康片(德众)",
+          "grade": "3.87",
+          "total": "368",
+          "secondary": "253"
+        }
+      ]
+    }
+  }
+]

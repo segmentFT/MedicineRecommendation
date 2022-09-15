@@ -1,0 +1,781 @@
+[
+  {
+    "disease_name": "皲裂性湿疹",
+    "information": {
+      "introduction": "皲裂性湿疹是一种慢性湿疹，因患者常在冬季出现掌跖部皲裂而得名。常见于裂纹性湿疹和手部湿疹。病程较长，一般比较顽固难治。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "手足脱皮",
+          "手上有小水泡",
+          "皮肤皲裂",
+          "皮肤干燥",
+          "瘙痒"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "肝素钠乳膏",
+          "肝素钠乳膏",
+          "肝素钠乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿幽门螺杆菌感染",
+    "information": {
+      "introduction": "自1982年澳大利亚学者Marshall和Warren从慢性胃炎患者胃黏膜内成功分离培养出幽门螺杆菌(Helicobacter pylori，Hp)以来，来自成人的大量研究证实Hp和许多上胃肠道疾病相关。Hp是慢性活动性胃炎的主要致病因素，是消化性溃疡发病的重要因素。Hp的长期感染也与胃腺癌和胃黏膜相关淋巴组织(MALT)淋巴瘤的发生相关。临床研究发现根除Hp可明显降低消化性溃疡病的复发率，还可使胃MALT淋巴瘤病程发生逆转，甚至消失;并可改善一部分慢性胃炎患者的顽固性消化不良症状。可以说Hp的发现和研究，把胃肠疾病的诊断与治疗水平推上了一个新的台阶。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "儿童幽门螺杆菌感染",
+        "part": [
+          "胃"
+        ],
+        "infection": "有传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "烦躁不安",
+          "嗳气",
+          "恶心",
+          "腹胀"
+        ],
+        "complication": [
+          "贫血",
+          "萎缩性胃炎",
+          "胃癌",
+          "胃溃疡",
+          "十二指肠溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "2-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫印迹技术",
+          "幽门螺旋杆菌的免疫学检测",
+          "幽门螺旋杆菌血清学测试",
+          "幽门螺杆菌检测",
+          "胃液尿素"
+        ],
+        "medicine": [
+          "阿莫西林",
+          "呋喃唑酮",
+          "呼气试验药盒"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "意识障碍",
+    "information": {
+      "introduction": "意识是指人们对自身和周围环境的感知状态，可通过言语及行动来表达。意识障碍系指人们对自身和环境的感知发生障碍，或人们赖以感知环境的精神活动发生障碍的一种状态。意识障碍又是病情危重的表现。病人毫无反应，完全丧失醒觉，原因是高级神经受到严重抑制。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "神志障碍",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "多见于脑血管病，脑外伤，急...",
+        "symptom": [
+          "定向力障碍",
+          "昏迷",
+          "昏睡",
+          "嗜睡",
+          "嗜睡"
+        ],
+        "complication": [
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "1-30天",
+        "method": [
+          "药物治疗、吸氧、急救"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "CT检查",
+          "心电图"
+        ],
+        "medicine": [
+          "氨酪酸片",
+          "二十五味珍珠丸",
+          "胞磷胆碱钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二十五味珍珠丸(利民药业)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肩胛背神经卡压症",
+    "information": {
+      "introduction": "肩胛背神经是来自颈5神经根的与胸长神经合干的神经。肩胛背神经卡压表现为颈、肩、背、腋、侧胸壁的酸痛和不适。Kevin(1993)报道，肩胛背神经封闭可治疗颈肩痛。1994年，陈德松详细报道了本病，并提出手术治疗方案，取得良好效果。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肩部",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性",
+        "symptom": [
+          "背部酸痛",
+          "手麻",
+          "无力",
+          "颈部酸痛",
+          "肩痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "针灸科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "50%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "颈椎CT",
+          "肌电图"
+        ],
+        "medicine": [
+          "复方水杨酸甲酯乳膏",
+          "双氯芬酸钠肠溶缓释胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "动脉导管未闭",
+    "information": {
+      "introduction": "本病较多见，占先心病总数15％，女性多见。婴儿出生后10－15小时，动脉导管即开始功能性闭合。生后2个月至1岁，绝大多数已闭。1岁以后仍未闭塞者即为动脉导管未闭。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "早产儿",
+        "symptom": [
+          "紫绀",
+          "毛细血管搏动",
+          "收缩期杂音",
+          "紫绀",
+          "杵状指（趾）"
+        ],
+        "complication": [
+          "肺动脉高压",
+          "乳糜胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "外科手术治愈率约为85%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "心血管造影",
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "盐酸肼屈嗪片",
+          "卡托普利片",
+          "动脉导管未闭封堵器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腓骨肌萎缩症",
+    "information": {
+      "introduction": "腓骨肌萎缩症(peronial myoatrophy)又称Charcot-Marie-Tooth病(CMT)，是一组最常见的家族性周围神经病，约占全部遗传性神经病的90%。本组疾病的共同特点为儿童或青少年发病，慢性进行性腓骨肌萎缩，症状和体征比较对称，多数患者有家族史。由于以腓骨肌萎缩为主要临床特征，故又称腓骨肌萎缩症(peroneal myoatrophy)。根据神经电生理，神经病理所见，将CMT分为Ⅰ型及Ⅱ型，CMTⅠ型称肥大型(hypertrophic type)，CMTⅡ型称轴索型(neuronal type)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "遗传性运动感觉神经病,Charcot-Marie-Tooth综合征",
+        "part": [
+          "小腿"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "跨阈步态",
+          "肌肉的失用性萎缩",
+          "腓骨肌对称萎缩逐渐向上发展",
+          "营养障碍",
+          "腱反射消失"
+        ],
+        "complication": [
+          "视神经萎缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗、对症支持治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "呼吸肌张力",
+          "趾长伸肌肌力试验",
+          "肌电图"
+        ],
+        "medicine": [
+          "痹祺胶囊",
+          "硫唑嘌呤片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痹祺胶囊(痹祺)",
+          "grade": "3.33",
+          "total": "60",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人胆囊炎",
+    "information": {
+      "introduction": "胆囊炎是较常见的疾病之一，发病率较高。根据其临床表现和临床经过，又可分为急性的和慢性的两种类型，常见胆石症合并存在。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年胆囊炎",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多见",
+        "symptom": [
+          "腹部压痛",
+          "剧烈疼痛",
+          "恶心",
+          "懒胆囊",
+          "嗳气"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（2000 —— 8000元）",
+        "ratio": "?",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "静脉胆道造影",
+          "口服法胆道造影",
+          "胆囊胆道B超",
+          "口服胆囊造影",
+          "十二指肠引流液显微镜检查"
+        ],
+        "medicine": [
+          "金胆片",
+          "茴三硫片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金胆片(雷氏)",
+          "grade": "3.36",
+          "total": "38",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "上颌窦炎",
+    "information": {
+      "introduction": "上颌窦炎主要为患侧或双侧鼻窦、前鼻滴涕或后鼻滴涕，有时鼻分泌物随头部姿势改变而流出，患者自诉痰多且臭，分泌物为粘液脓性或脓性。患者常有头昏或脓性。患者常有头昏头痛，记忆力减退，思想不能集中。但有一部分患者忘记了自己的症状，及至鼻部检查才发现有慢性上颌窦炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脓性分泌物",
+          "头昏",
+          "头痛"
+        ],
+        "complication": [
+          "慢性上颌窦炎",
+          "急性上颌窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "前鼻镜"
+        ],
+        "medicine": [
+          "头孢呋辛酯片",
+          "头孢呋辛酯分散片",
+          "一次性使用鼻窦穿刺包"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "斜颈",
+    "information": {
+      "introduction": "斜颈可分为先天性肌性斜颈和先天性骨性斜颈。前者是由于一侧胸锁乳突肌挛缩引起的头颈歪斜的先天性颈部畸形，相当多见；后者是因颈椎骨质发育畸形所致的斜颈，较少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颈部",
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "头颈部肌肉有过外伤的人群，...",
+        "symptom": [
+          "强迫性头颈倾斜畸形",
+          "面部畸形",
+          "进行性颈部肿块",
+          "体型异常"
+        ],
+        "complication": [
+          "颈椎病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "2-4个月",
+        "method": [
+          "中医疗法、手术治疗、药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "头颅平片",
+          "脊椎平片",
+          "骨关节及软组织CT",
+          "MRI"
+        ],
+        "medicine": [
+          "骨刺平片",
+          "骨刺消痛液",
+          "丙戊酸钠缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨刺平片(新峰药业)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "蜂窝织炎",
+    "information": {
+      "introduction": "蜂窝织炎（Cellulitis）是皮下组织的化脓性感染。最常由化脓性链球菌或金黄色葡萄球菌引起。儿童多数是金黄色葡萄球菌感染；糖尿病溃疡和褥疮溃疡周围的蜂窝织炎包括革兰阳性球菌、革兰阴性需氧菌和厌氧菌在内的混合感染。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脓肿",
+          "高热",
+          "发炎",
+          "寒战",
+          "水肿"
+        ],
+        "complication": [
+          "败血症肾损害"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 ——3000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率80--90%",
+        "duration": "?",
+        "method": [
+          "药物治疗、外科手术"
+        ],
+        "examination": [
+          "中性粒细胞计数"
+        ],
+        "medicine": [
+          "鱼石脂软膏",
+          "氟氯西林钠胶囊",
+          "清热消炎宁片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热消炎宁片(敖东)",
+          "grade": "3.04",
+          "total": "19",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热消炎宁片(恒一堂)",
+          "grade": "3.25",
+          "total": "17",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热消炎宁片(明善堂)",
+          "grade": "3.13",
+          "total": "15",
+          "secondary": "15"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "男性乳房肥大症",
+    "information": {
+      "introduction": "男子乳腺发育又称男性乳房肥大症、男子女性型乳房，是指男性在不同时期、不同年龄阶段因不同原因，出现的单侧或双侧乳房肥大，可有乳房胀痛，乳晕下可触及盘形结节，个别可见乳头回缩、乳头溢液，有的外形与青春期少女的乳腺相似，故临床又有以青春期乳房肥大、中老年性乳房肥大，特发性男性乳房肥大等冠名。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "男子女性型乳房",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄几乎见于任何年龄，...",
+        "symptom": [
+          "乳房肥大",
+          "高血脂性血管损害",
+          "乳房肿块"
+        ],
+        "complication": [
+          "高血压",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "外科",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "乳房摄片",
+          "乳房触诊",
+          "乳房视诊",
+          "乳房检查",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "乳核散结片",
+          "芦笋菠萝蛋白酶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳核散结片(白云山中一)",
+          "grade": "2.48",
+          "total": "20",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "间质性膀胱炎",
+    "information": {
+      "introduction": "间质性膀胱炎(interstitial cystitis，IC)又称Hunner’s溃疡，是一种少见的自身免疫性特殊类型的慢性膀胱炎，常发生于中年妇女，其特点主要是膀胱壁的纤维化，并伴有膀胱容量的减少，以尿频、尿急、膀胱区胀痛为其主要症状。表现为痛性膀胱疾病，症状多持续1年以上。病变累及膀胱全层，黏膜肿胀、充血并可发生裂隙或溃疡，溃疡常位于膀胱前壁和顶部。病期多在3～5年，典型表现为疾病开始快速发展，以后很快稳定下来，既使没有进行治疗，也无明显恶化的表现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "膀胱黏膜下纤维化",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于中年妇女",
+        "symptom": [
+          "胀痛",
+          "尿频",
+          "尿急",
+          "夜尿增多",
+          "夜尿增多"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--50000",
+        "ratio": "90%",
+        "duration": "5周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "膀胱造影",
+          "尿液细菌培养"
+        ],
+        "medicine": [
+          "泌淋清胶囊",
+          "复方石韦颗粒",
+          "甲磺酸帕珠沙星氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "泌淋清胶囊(贵州百灵)",
+          "grade": "2.40",
+          "total": "42",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "海绵状血管瘤",
+    "information": {
+      "introduction": "先天性血管瘤(congenital hemangioma)为最常见的皮肤良性肿瘤之一，由胎儿期成血管组织畸形或原有血管扩张所致。偶亦见因外伤而后天性发生者。临床上分3型：1.鲜红斑痣 鲜红斑痣(nevus flammeus)又称毛细血管扩张痣或葡萄酒样痣。2.草莓状血管瘤 草莓状血管瘤(strawberry hemangioma)又称毛细血管瘤(capillary hemangioma)3.海绵状血管瘤 海绵状血管瘤(cavernous hemangioma)，又称静脉畸形(venous malformation)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "单纯性血管瘤,先天血管瘤,草莓样血管瘤,草莓状血管瘤,先天性血管瘤,毛细血管扩张痣,毛细血管瘤",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "海绵状血管瘤好发于30～40岁...",
+        "symptom": [
+          "静脉曲张",
+          "蓝色橡皮大疱痣",
+          "鲜红斑痣",
+          "血管畸形",
+          "脑室出血"
+        ],
+        "complication": [
+          "血管瘤",
+          "癫痫",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约1000--4000",
+        "ratio": "75%",
+        "duration": "3-6周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "肿瘤标志物",
+          "皮损",
+          "免疫病理检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "注射用盐酸平阳霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "成人still病",
+    "information": {
+      "introduction": "成人still病是一组病因不明的弛张热、一过性多形性皮疹，关节炎或关节痛为主要临床表现，伴有肝、脾及淋巴结肿大，周围血白细胞增高的一种临床综合征，称为成人Still病。既往命名为亚败血症、变应性亚败血症。本病多见于年轻人，18—25岁，男女罹患率基本相等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "亚败血症,变应性亚败血症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "好发年龄在16～35岁",
+        "symptom": [
+          "发烧",
+          "关节疼痛",
+          "淋巴结肿大",
+          "肝脾肿大",
+          "斑丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清类风湿因子",
+          "抗核抗体",
+          "WBC",
+          "C反应蛋白",
+          "血液及骨髓细菌培养"
+        ],
+        "medicine": [
+          "注射用头孢曲松钠",
+          "硫酸奈替米星注射液",
+          "格列齐特缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "黑棘皮病",
+    "information": {
+      "introduction": "黑色棘皮症(acanthosis nigricans)是一种少见的皮肤病，在特定的好发部位，出现污褐色到灰色的色素性、乳头瘤病样角化性皮损。有多种类型，预后各不相同。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "黑色棘皮症,黑色角化病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "肥胖与黑棘皮病关系密切，恶...",
+        "symptom": [
+          "皮肤受累",
+          "瘙痒",
+          "疣状增殖",
+          "毛孔角化过度",
+          "色素异常"
+        ],
+        "complication": [
+          "恶性肿瘤所致贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "对症治疗为主，治愈率约为30%",
+        "duration": "多位终身间歇性对症治疗",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "皮肤涂片显微镜检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "转移因子口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "disease_name": "包茎",
+    "information": {
+      "introduction": "包茎是由于包皮口狭窄或包皮与阴茎头炎症后粘连而不能上翻露出阴茎头者。包茎分先天性和后天性，先天性包茎分为萎缩型和肥大型，后天性包茎系炎症、外伤等使包皮口粘连狭窄所致。先天性包茎随阴茎的生长、勃起，包皮可自行向上退缩显露阴茎头。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "男性，青年男性",
+        "symptom": [
+          "排尿障碍",
+          "包皮嵌顿",
+          "包皮垢",
+          "包皮粘连",
+          "排尿不畅"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "手术治疗，治愈率100%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "一次性包皮环切器",
+          "一次性使用包皮环切器",
+          "一次性包皮环切吻合器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "外阴溃疡",
+    "information": {
+      "introduction": "外阴溃疡(Ulceration of vulva)是发生在女性外阴的一种急性皮肤疾患，多见于大、小阴唇，表现为外阴部有1个或多个溃疡，伴发热、疼痛。往往继发于外阴阴道的炎症性、恶性疾病，有时也可以是全身疾病在外阴和阴道的反映。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "外阴溃疡病",
+        "part": [
+          "外阴",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "青中年妇女",
+        "symptom": [
+          "会阴溃疡",
+          "低烧",
+          "疼痛",
+          "会阴溃疡",
+          "腹股沟淋巴结肿大"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（100——1000元）",
+        "ratio": "87%",
+        "duration": "7天",
+        "method": [
+          "一般治疗、病原治疗、物理治疗"
+        ],
+        "examination": [
+          "梅毒血清试验",
+          "阴道分泌物涂片",
+          "外阴部妇科常规检查",
+          "白带常规",
+          "阴道分泌物细胞学检查"
+        ],
+        "medicine": [
+          "牛黄消炎片",
+          "蒲地蓝消炎片",
+          "康复灵药膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "蒲地蓝消炎片",
+          "grade": "1.19",
+          "total": "16",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "康复灵药膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "康复灵药膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "康妇凝胶(健兴)",
+          "grade": "3.10",
+          "total": "25",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "康妇软膏(玉仁)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "疝气",
+    "information": {
+      "introduction": "疝气，即人体组织或器官一部分离开了原来的部位,通过人体间隙、缺损或薄弱部位进入另一部位。俗称“小肠串气”。自脐部突出的疝称脐疝。临床上分婴儿脐疝和成人脐疝两种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "疝气病，疝，疝脱,突出",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "婴儿",
+        "symptom": [
+          "腹股沟疼痛",
+          "肚子疼",
+          "脐部有一半球形肿块",
+          "婴幼儿脐部有肿物突出"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "物理治疗、手术治疗"
+        ],
+        "examination": [
+          "肝功能",
+          "血肌酐",
+          "腹部血管超声检查",
+          "心电图",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "西沙必利片",
+          "保儿安颗粒",
+          "复方陈香胃片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "保儿安颗粒(白云山)",
+          "grade": "3.48",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方陈香胃片(天施康)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃康宁片",
+          "grade": "3.25",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "济生橘核丸",
+          "grade": "2.45",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "精制海马追风膏(健民)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿暖脐膏(布布)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿暖脐膏(全鸡)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "济生橘核丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高尿酸血症",
+    "information": {
+      "introduction": "高尿酸血症又称痛风(gout)，是一组嘌呤代谢紊乱所致的疾病，其临床特点为高尿酸血症(hyperuricemia)及由此而引起的痛风性急性关节炎反复发作、痛风石沉积、痛风石性慢性关节炎和关节畸形，常累及肾脏引起慢性间质性肾炎和尿酸肾结石形成。本病可分原发性和继发性两大类，原发性者病因除少数由于酶缺陷引起外，大多未阐明，常伴高脂血症、肥胖、糖尿病、高血压病、动脉硬化和冠心病等，属遗传性疾病。继发性者可由肾脏病、血液病及药物等多种原因引起。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痛风",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "男性",
+        "symptom": [
+          "尿酸盐在关节内沉积增多",
+          "尿酸结晶",
+          "关节液中白细胞内有尿酸结晶",
+          "关节肿痛",
+          "痛风结节"
+        ],
+        "complication": [
+          "高血压",
+          "痛风",
+          "痛风性关节炎",
+          "肾结石"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中医科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "40%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿酸",
+          "血尿酸"
+        ],
+        "medicine": [
+          "硫酸氨基葡萄糖钾胶囊",
+          "依托度酸片",
+          "非布司他片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性细菌性前列腺炎",
+    "information": {
+      "introduction": "慢性细菌性前列腺炎是由一种或数种病原菌引起的前列腺非急性感染。可因急性细菌性前列腺炎不及时治疗转变成。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性人群",
+        "symptom": [
+          "尿频",
+          "性欲减退",
+          "头晕",
+          "乏力",
+          "放射性疼痛"
+        ],
+        "complication": [
+          "尿路感染",
+          "附睾炎",
+          "前列腺结石",
+          "膀胱颈挛缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前列腺液培养",
+          "前列腺指检",
+          "前列腺液显微镜检查",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星氯化钠注射液",
+          "盐酸克林霉素棕榈酸酯干混悬剂",
+          "普适泰片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "丹益片(前沥清)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结膜炎",
+    "information": {
+      "introduction": "结膜炎(conjunctivitis)是眼科的常见病，但是其发病率目前尚未确定。由于大部分结膜与外界直接接触，因此容易受到周围环境中感染性(如细菌、病毒、及衣原体等)和非感染性因素(外伤、化学物质及物理因素等)的刺激，而且结膜的血管和淋巴组织丰富，自身及外界的抗原容易使其致敏。俗称红眼病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群,青少年占多数",
+        "symptom": [
+          "眼睑异物",
+          "结膜乳头增生",
+          "结膜充血",
+          "流泪",
+          "红眼"
+        ],
+        "complication": [
+          "春季卡他性结膜炎",
+          "流行性角结膜炎",
+          "包涵体性结膜炎",
+          "春季性结膜炎",
+          "Theodore上方角膜缘角结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "70%",
+        "duration": "20-30天",
+        "method": [
+          "局部治疗、全身治疗"
+        ],
+        "examination": [
+          "眼标本的细菌学检查",
+          "氧化酶试验",
+          "结膜的检查",
+          "角膜荧光素染色",
+          "泪液分泌型免疫球蛋白A"
+        ],
+        "medicine": [
+          "依诺沙星滴眼液",
+          "氯霉素滴眼液",
+          "复方熊胆滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方熊胆滴眼液(三顺)",
+          "grade": "2.24",
+          "total": "48",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十五味萝蒂明目丸(卓玛丹)",
+          "grade": "3.12",
+          "total": "45",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "珍珠明目滴眼液(海宝)",
+          "grade": "3.42",
+          "total": "85",
+          "secondary": "61"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "窦性心动过缓",
+    "information": {
+      "introduction": "窦性心动过缓(sinus bradycardia)是窦房结自律性降低所致的窦性心律失常，其频率在60次/min以下。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "窦性心律失常",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "正常青年或运动员、心血管疾...",
+        "symptom": [
+          "心动过缓",
+          "疲劳",
+          "头晕",
+          "心率过缓",
+          "乏力"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约3000--10000",
+        "ratio": "99%",
+        "duration": "20天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "参仙升脉口服液",
+          "建参片",
+          "心肝宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参仙升脉口服液(步长)",
+          "grade": "2.24",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "建参片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心宝丸",
+          "grade": "2.63",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "心宝丸(星辰牌)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益心通脉颗粒(辅仁)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "奶癣",
+    "information": {
+      "introduction": "婴儿湿疹中医称奶癣，又名「胎敛疮」。多为体质过敏，为风湿所袭，搏于气血而发。分干、湿二型。起初形如粟粒，散在或密集，疹色红，搔之起白屑，其形如癣疥而不流津水的，为「干敛疮」，偏于风热盛。如皮肤起粟，搔痒无度，破则流水，浸淫成片，甚至可以延及身体其它各部，为「湿饮疮」，偏于湿热重。此证常使患儿躁烦，睡卧不安，病久皮肤可有苔癣样变化，若皮损渗出液减少，肤红减退，为好转的现象。本病即「婴儿湿疹」。多见于肥胖婴儿，通常在生后第二或第三个月开始发生。好发于颜面及皮肤皱褶部，也可累及全身。一般随着年龄增加而逐渐减轻至痊愈。但也有少数病例继续发展至儿童期甚至成人期。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "婴儿湿疹,胎敛疮,湿饮疮,干敛疮,湿饮疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "出生后1-3个月的婴儿",
+        "symptom": [
+          "黄色发亮结痂",
+          "剧痒",
+          "红斑样皮疹",
+          "丘疹",
+          "局部淋巴结肿大"
+        ],
+        "complication": [
+          "丘疹性荨麻疹",
+          "牛痘样水疱病",
+          "新生儿脓疱病",
+          "湿疹",
+          "卟啉病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(2000-5000元)",
+        "ratio": "一般经过治疗98%都能有效治疗。",
+        "duration": "周期2-3个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "皮肤病理检查",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "脂肪乳注射液(C14～24)",
+          "脂肪乳注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "玫瑰糠疹",
+    "information": {
+      "introduction": "风热疮是指皮肤出现斑疹、脱屑如糠秕之状，四周浅红呈玫瑰色的急性皮肤病。以前红色或黄褐色斑片，圆形或椭圆形，其长轴与皮纹一致，上覆糠秕状鳞屑为临床特征。本病好发于春秋季节，以青壮年多见。皮疹分布以躯干涸四肢近端为主，呈对称性，初起一个较大的玫瑰色斑称为母斑，以后增加的皮疹称子斑。本病有自限性，一般4-6周自行消退，少数病程2-3个月，甚至更场一些时间才痊愈。通常不会复发，亦不会遗留任何痕迹。本病相当于西医所指的玫瑰糠疹。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "风热疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多发于青年人或中年人",
+        "symptom": [
+          "玫瑰疹",
+          "红斑鳞屑",
+          "皮肤瘙痒",
+          "丘疹",
+          "痱疹样皮疹"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "发作性睡病",
+          "颅咽管瘤",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（100-500元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肝功能",
+          "便常规",
+          "真菌组织病理学",
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "氟轻松维B6乳膏",
+          "炉甘石洗剂",
+          "复方青黛丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方青黛丸(天宁寺)",
+          "grade": "2.41",
+          "total": "15",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方青黛胶囊(天宁寺)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "复方青黛片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性浅表性胃炎",
+    "information": {
+      "introduction": "慢性胃炎(chronic gastritis，CG)指各种病因引起的胃黏膜慢性炎症病变。临床上主要包括两大类即慢性浅表性胃炎(superficial gastritis)和萎缩性胃炎(atrophic gastritis)，其他还有部分特殊类型的胃炎，如胆汁反流性胃炎、门脉高压性胃病、尿毒症性胃炎等。慢性浅表性胃炎主要致病因素为幽门螺杆菌(H.pylori)感染所致。慢性胃炎的反复发作可引起胃黏膜腺体的萎缩和肠上皮化生，部分病例可出现腺体的不典型增生｡发病机制与致病因子的长期作用使黏膜屏障损害有关。胃黏膜屏障主要是指胃黏膜的防御修复，可分为5个层次。H.pylori感染可以造成各环节的屏障损害。业已表明，慢性胃炎在临床十分常见，发病率居各种胃病之首，是门诊就诊率最高的疾病之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "非萎缩性胃炎",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "长期饮食不规律者",
+        "symptom": [
+          "左上腹痛",
+          "腹胀",
+          "嗳气",
+          "食欲不振",
+          "反酸"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000- —— 6000元）",
+        "ratio": "96%",
+        "duration": "3-6月",
+        "method": [
+          "饮食疗法、药物疗法"
+        ],
+        "examination": [
+          "上消化道X线钡餐"
+        ],
+        "medicine": [
+          "三九胃泰颗粒",
+          "猴头菌片",
+          "快胃片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三九胃泰颗粒(无糖型)",
+          "grade": "2.15",
+          "total": "155",
+          "secondary": "111"
+        },
+        {
+          "medicine_name": "猴头菌片(云鹏)",
+          "grade": "2.83",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "快胃片(国风)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金佛止痛丸(中一牌)",
+          "grade": "4.0",
+          "total": "4",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "胃复春片(胡庆余堂)",
+          "grade": "2.73",
+          "total": "67",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "参梅养胃颗粒(四方箄)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "快胃片(国风)",
+          "grade": "2.12",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃康胶囊(世纪神龙)",
+          "grade": "1.05",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胃复舒胶囊(滇虹)",
+          "grade": "4.25",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "快胃片",
+          "grade": "3.00",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "三九胃泰胶囊(三九999)",
+          "grade": "1.98",
+          "total": "69",
+          "secondary": "60"
+        },
+        {
+          "medicine_name": "甘海胃康胶囊(麦迪森)",
+          "grade": "4.06",
+          "total": "13",
+          "secondary": "10"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "再生障碍性贫血",
+    "information": {
+      "introduction": "再生障碍性贫血(aplastic anemia，AA)是一种物理、化学、生物或不明因素作用使骨髓造血干细胞和骨髓微环境严重受损，造成骨髓造血功能减低或衰竭的疾病。以全血细胞减少为主要表现的一组综合征。据国内21省(市)自治区的调查，年发病率为0.74/10万人口，明显低于白血病的发病率;慢性再障发病率为0.60/10万人口，急性再障为0.14/10万人口;各年龄组均可发病，但以青壮年多见;男性发病率略高于女性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "髓劳，再障",
+        "part": [
+          "骨髓",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年，男性多见",
+        "symptom": [
+          "胃肠道出血",
+          "眼底出血和渗出",
+          "内脏出血",
+          "出血倾向",
+          "乏力"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（20000-50000元）",
+        "ratio": "70%(骨髓移植治疗)",
+        "duration": "6-12个月",
+        "method": [
+          "支持治疗"
+        ],
+        "examination": [
+          "骨髓显像",
+          "红细胞检查",
+          "骨髓象分析",
+          "红细胞比积(PCV)",
+          "骨髓红细胞系统"
+        ],
+        "medicine": [
+          "环孢素软胶囊",
+          "地榆升白片",
+          "甘露聚糖肽口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "地榆升白片(地奥)",
+          "grade": "2.59",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益血生胶囊(999)",
+          "grade": "3.69",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "生血片",
+          "grade": "2.03",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "食物中毒",
+    "information": {
+      "introduction": "食物中毒是指食用了不利于人体健康的物品而导致的急性中毒性疾病，通常都是在不知情的情况下发生食物中毒。食物中毒是由于进食被细菌及其毒素污染的食物，或摄食含有毒素的动植物如毒蕈、河豚等引起的急性中毒性疾病。变质食品、污染水源是主要传染源，不洁手、餐具和带菌苍蝇是主要传播途径。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "食源性疾病",
+        "part": [
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "恶心与呕吐",
+          "面色苍白",
+          "胃肠道症状",
+          "发烧"
+        ],
+        "complication": [
+          "休克",
+          "脱水",
+          "代谢性酸中毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "97%",
+        "duration": "7天",
+        "method": [
+          "催吐、导泻、药物治疗"
+        ],
+        "examination": [
+          "粪细菌培养",
+          "细菌性食物中毒检测"
+        ],
+        "medicine": [
+          "吗丁啉片剂10mg OTC",
+          "马来酸曲美布汀胶囊",
+          "六味能消丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味能消丸(格拉丹东)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六味能消丸(卓玛丹)",
+          "grade": "1.27",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六味能消丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六味能消丸(彩轮)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "二十五味马宝丸",
+          "grade": "1.46",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "坐珠达西",
+          "grade": "2.13",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六味能消丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六味能消丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "坐珠达西(甘露)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑梗死",
+    "information": {
+      "introduction": "脑梗死(cerebral infarction，CI)是缺血性卒中(ischemic stroke)的总称，包括脑血栓形成、腔隙性梗死和脑栓塞等，约占全部脑卒中的70%，是脑血液供应障碍引起脑部病变。脑梗死是由于脑组织局部供血动脉血流的突然减少或停止，造成该血管供血区的脑组织缺血、缺氧导致脑组织坏死、软化，并伴有相应部位的临床症状和体征，如偏瘫、失语等神经功能缺失的症候。脑梗死发病24～48h后，脑CT扫描可见相应部位的低密度灶，边界欠清晰，可有一定的占位效应。脑MRI检查能较早期发现脑梗死，表现为加权图像上T1在病灶区呈低信号，T2呈高信号，MRI能发现较小的梗死病灶。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脑梗塞",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "为50～60岁以上的人群，常有...",
+        "symptom": [
+          "神志不清",
+          "脑干梗塞",
+          "桥脑梗塞",
+          "偏瘫",
+          "感觉障碍"
+        ],
+        "complication": [
+          "褥疮",
+          "猝死",
+          "脑瘫",
+          "癫痫",
+          "尿路感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000—— 10000元）",
+        "ratio": "60%",
+        "duration": "1-2年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "颅脑MRI",
+          "脑脊液一般性状",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "羟乙基淀粉",
+          "血塞通泡腾片",
+          "注射用奥扎格雷钠"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血塞通泡腾片",
+          "grade": "3.11",
+          "total": "119",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "风湿性心脏病",
+    "information": {
+      "introduction": "风湿性心脏病(简称风心病)是常见的一种心脏病，是风湿病变侵犯心脏的后果，表现为瓣膜口狭窄和/或关闭不全，患者中女多于男。受损的瓣膜以二尖瓣为最常见，也可以几个瓣膜同时受累，称为联合瓣膜病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "风心病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": " 青壮年 ",
+        "symptom": [
+          "胸闷",
+          "呼吸困难",
+          "心悸",
+          "心源性晕厥",
+          "乏力"
+        ],
+        "complication": [
+          "心律失常",
+          "心力衰竭",
+          "感染性心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "风湿科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000-30000元）",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "心电图",
+          "胸部平片",
+          "多普勒超声心动图",
+          "积液乳酸脱氢酶"
+        ],
+        "medicine": [
+          "利心丸",
+          "乙酰水杨酸孕烯诺龙片",
+          "利心丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利心丸",
+          "grade": "3.16",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(参鹿牌)",
+          "grade": "4.9",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(特研)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(（二宝）)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(水丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "3.0",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "4.28",
+          "total": "15",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(特研)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿厌食症",
+    "information": {
+      "introduction": "厌食症是指小儿长期食欲不振或食欲减退为主的一类症状。在小儿时期很常见，主要的症状有呕吐、食欲不振、腹泻、便秘、腹胀、腹痛和便血等。这些症状不仅反映消化道的功能性或器质性疾病，且常出现在其他系统的疾病时，尤其多见于中枢神经系统疾病或精神障碍及多种感染性疾病时。因此必须详细询问有关病史，密切观察病情变化，对其原发疾病进行正确的诊断和治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "消化功能紊乱",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "厌食",
+          "情绪性厌食",
+          "拒食",
+          "生理性厌食",
+          "皮肤粗糙"
+        ],
+        "complication": [
+          "小儿营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500—— 3000元）",
+        "ratio": "80%",
+        "duration": "10-20天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "便常规"
+        ],
+        "medicine": [
+          "肥儿糖浆",
+          "薏芽健脾凝胶",
+          "山麦健脾口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肥儿糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "厌食康颗粒(纯正堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "开胃消食口服液(慧宝源)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十味益脾颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "稚儿灵膏滋(诺得胜)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金朴消积颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        }
+      ]
+    }
+  }
+]

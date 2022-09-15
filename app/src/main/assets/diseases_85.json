@@ -1,0 +1,911 @@
+[
+  {
+    "disease_name": "缺铁性贫血",
+    "information": {
+      "introduction": "缺铁性贫血(iron deficiency anemia, IDA)是由于体内缺少铁质而影响血红蛋白合成所引起的一种常见贫血。在红细胞的产生受到限制之前，体内的铁贮存已耗尽，此时称为缺铁。这种贫血特点是骨髓、肝、脾及其他组织中缺乏可染色铁，血清铁浓度和血清转铁蛋白饱和度均降低。典型病例贫血是属于小细胞低色素型。本病是贫血中常见类型，普遍存在于世界各地。缺铁性贫血的原因：一是铁的需要量增加而摄入不足，二是铁的吸收不良，三是失血过多等，均会影响血红蛋白和红细胞生存而发生贫血。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痿黄",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人，妇女多数",
+        "symptom": [
+          "面色苍白",
+          "食欲减退",
+          "红细胞偏低",
+          "红细胞分布宽度偏低",
+          "剧烈运动后头晕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "中医科",
+          "营养科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "95%",
+        "duration": "30-60天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "异常红细胞形态",
+          "红细胞检查",
+          "血清铁蛋白",
+          "血清转铁蛋白",
+          "血清铁"
+        ],
+        "medicine": [
+          "驴胶补血颗粒",
+          "健脾生血颗粒",
+          "琥珀酸亚铁片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "驴胶补血颗粒(九芝堂)",
+          "grade": "2.26",
+          "total": "139",
+          "secondary": "79"
+        },
+        {
+          "medicine_name": "健脾生血颗粒(健民)",
+          "grade": "3.43",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "瑞克牌生血宁片(瑞克)",
+          "grade": "1.38",
+          "total": "12",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "和血胶囊(正和)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结肠瘘",
+    "information": {
+      "introduction": "结肠瘘是一种常见的外科病理状态，因各种原因所形成胃肠道之间的异常通道，肠管与其他空腔脏器之间或肠管与体表之间的病理通道，都属于肠瘘的范畴，若发生在结肠则称为结肠瘘，结肠瘘可分为外瘘和内瘘两种类型，肠内容物漏出体外者称为外瘘，瘘管与另一肠管或其他空腔脏器相通者称为内瘘。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肠瘘",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "消化道穿孔",
+          "腹腔感染",
+          "肚子疼",
+          "腹肌紧张",
+          "腹部伤口流出粪便样物"
+        ],
+        "complication": [
+          "腹膜炎",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "普外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "外科手术治愈率约为40%-60%，根据瘘口的严重程度来定",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "窦道及瘘管造影",
+          "粪便量",
+          "乙状结肠镜检查",
+          "纤维结肠镜",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "肠内营养乳剂(TP)",
+          "肠内营养混悬液(SP)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿过敏性紫癜",
+    "information": {
+      "introduction": "小儿过敏性紫癜(allergic purpura)又称出血性毛细血管中毒症或Henoch-Schönlein综合征。这是一种较常见的毛细血管变态反应性疾病，病变主要累及皮肤最常见，其次是胃肠道、关节及肾脏，起病较急，症状多变。好发于3周岁以上小儿，尤多见于学龄儿童，男性发病约2倍于女性。发病前1到3周常有上呼吸道感染史，多于春秋季发病。除累及肾脏以外对激素等治疗反应较好。病程多在1个月左右，偶有延长，但复发率高，约30%的患者有复发倾向。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿Henoch-Schonlein综合征,小儿变态反应性紫癜,小儿变应性紫癜,小儿出血性毛细血管中毒症",
+        "part": [
+          "皮肤",
+          "血液血管",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿，以学龄期儿童发病者...",
+        "symptom": [
+          "血小板减少",
+          "皮肤紫癜",
+          "斑丘疹",
+          "紫癜",
+          "皮肤紫癜"
+        ],
+        "complication": [
+          "肾炎",
+          "血尿",
+          "肾病综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科",
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率(57.71%)。",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "毛细血管脆性试验",
+          "粪便隐血试验",
+          "血小板计数",
+          "WBC"
+        ],
+        "medicine": [
+          "芦丁片",
+          "芦丁片",
+          "氨肽素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性便秘",
+    "information": {
+      "introduction": "慢性便秘为长时期的反复大便秘结不通，排便时间延长或欲便而艰涩不畅的一种病症，其发病多见于慢性疾病所致，可以是由急性便秘长期不愈转化而来。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "顽固性便秘",
+          "神经官能症状",
+          "口苦",
+          "食欲减退",
+          "腹胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "腹部平片",
+          "便常规",
+          "粪便性状",
+          "乙状结肠镜检查",
+          "直肠指检"
+        ],
+        "medicine": [
+          "西沙必利片",
+          "比沙可啶肠溶片",
+          "乳果糖口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胆宁片(上药牌)",
+          "grade": "2.48",
+          "total": "12",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "当飞利肝宁胶囊",
+          "grade": "2.29",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "黄氏响声丸",
+          "grade": "2.89",
+          "total": "67",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小肠梗阻",
+    "information": {
+      "introduction": "小肠梗阻是指小肠的内容物在肠腔内通过受阻。在临床上肠梗阻十分常见，占居外科急腹症的第三位。早期诊断和及时有效的治疗，能使绝大多数患者获得良好的近期和远期疗效。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "曾接受腹部手术者多见",
+        "symptom": [
+          "肚子疼",
+          "停止排气",
+          "腹胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "腹部平片",
+          "血红蛋白",
+          "血液电解质",
+          "白细胞数",
+          "血清无机磷"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性化脓性乳腺炎",
+    "information": {
+      "introduction": "急性乳房炎是乳房的急性化脓性感染，俗称“奶疮”或“乳痈”。几乎所有的病人都是产后哺乳的产妇，尤其以初产妇更为多见。如果乳汁淤积在乳房中流不出去，再加上细菌从乳头的破损处进入乳房，就可能引发炎症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性乳房炎,奶疮,乳痈",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "产后哺乳的妇女，尤以初产妇...",
+        "symptom": [
+          "输乳管阻塞",
+          "乳汁分泌减少",
+          "乳房组织大块坏死",
+          "高热寒战",
+          "脉搏加速"
+        ],
+        "complication": [
+          "败血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "7-10天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "乳房触诊",
+          "乳房检查",
+          "WBC"
+        ],
+        "medicine": [
+          "点舌丸",
+          "了哥王片",
+          "头孢泊肟酯片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "点舌丸(朗致)",
+          "grade": "2.59",
+          "total": "33",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性肠炎",
+    "information": {
+      "introduction": "      久泄是指慢性肠炎泛指肠道的慢性炎症性疾病，其病因可为细菌、霉菌、病毒、原虫等微生物感染，亦可为过敏、变态反应等原因所致。临床表现为长期慢性、或反复发作的腹痛、腹泻及消化不良等症，重者可有粘液便或水样便。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "久泄",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": "?",
+        "complication": [
+          "小儿迁延与慢性腹泻",
+          "热带口炎性腹泻",
+          "旅行者腹泻",
+          "慢性腹泻",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（300 —— 2000元）",
+        "ratio": "65%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "盐酸小檗碱片",
+          "呋喃唑酮片",
+          "地衣芽孢杆菌活菌胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肠炎宁胶囊(长谓安)",
+          "grade": "3.61",
+          "total": "72",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "金胃泰胶囊(老方)",
+          "grade": "3.06",
+          "total": "25",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠舒止泻胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "甲亢性心脏病",
+    "information": {
+      "introduction": "甲状腺功能亢进性心脏病是指在甲状腺功能亢进症时，甲状腺素对心脏的直接或间接作用所致的心脏扩大、心功能不全、心房纤颤、心绞痛甚至心肌梗死、病态窦房结综合征和心肌病等一系列心血管症状和体征的一种内分泌代谢紊乱性心脏病。有时仅次于甲亢危象，是甲亢病人死亡的重要原因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "甲亢性心病",
+        "part": [
+          "甲状腺",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "有基础病者",
+        "symptom": [
+          "胸部沉重感",
+          "微循环障碍",
+          "心脏重量增加",
+          "二尖瓣脱垂",
+          "甲亢面容"
+        ],
+        "complication": [
+          "二尖瓣脱垂综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "30%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、放射性碘治疗、外科手术"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "血清FT4",
+          "血清FT3",
+          "心血管造影",
+          "心电图"
+        ],
+        "medicine": [
+          "阿替洛尔片",
+          "甲巯咪唑片",
+          "天王补心丹"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天王补心丹",
+          "grade": "4.29",
+          "total": "78",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "滋心阴胶囊(天施康)",
+          "grade": "4.22",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "毛冬青片(新峰药业)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利心丸(参鹿牌)",
+          "grade": "4.9",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "毛冬青胶囊(益尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "呼吸性碱中毒",
+    "information": {
+      "introduction": "呼吸性碱中毒是指由于肺通气过度使血浆H2CO3浓度或PaCO2原发性减少，而导致pH值升高(>7.45)。根据发病情况也分为急性及慢性两大类。急性者PaCO2每下降10mmHg(1.3kPa)，HC03-下降约2mmol/L;慢性时HCO3-下降为4～5mmol/L。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "精神性过度通气最常见，常见...",
+        "symptom": [
+          "胸闷",
+          "胸痛",
+          "抽搐",
+          "过度换气综合征",
+          "头昏"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "80%",
+        "duration": "1-7天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "血液电解质",
+          "心电图",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "氯化钙注射液",
+          "葡萄糖酸钙片",
+          "葡萄糖酸钙注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性会厌炎",
+    "information": {
+      "introduction": "急性会厌炎（acute epiglottitis）是会厌粘膜的急性炎性病变，治疗不及时常致脓肿形成，儿童及成人皆可见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "声门上喉炎，会厌前咽峡炎",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "国内多见于成人。成人平均发...",
+        "symptom": [
+          "喉咙痒",
+          "呼吸困难",
+          "头痛",
+          "头痛",
+          "发烧"
+        ],
+        "complication": [
+          "坏死性筋膜炎",
+          "脑膜炎",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "85%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "免疫学检查"
+        ],
+        "medicine": [
+          "利咽灵片",
+          "健民咽喉片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利咽灵片(同仁堂)",
+          "grade": "1.98",
+          "total": "14",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "健民咽喉片(咽喉片(健民)",
+          "grade": "4.28",
+          "total": "37",
+          "secondary": "32"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性腰背痛",
+    "information": {
+      "introduction": "腰背痛是指背、腰、腰骶和骶髂部的疼痛，有时伴有下肢感应痛或放射痛。因腰背痛绝大多数表现在下腰椎和腰骶、骶髂部。腰背痛是人类脊柱最常见的疾患，被说成是人类由四肢爬行到直立行走所付出的代价。该症内科、外科、妇科和神经科较常见，腰背部皮肤、皮下组织、肌肉、韧带、脊椎、肋骨、脊髓和脊髓膜之中的任何的一种组织的病变均可引起腰背痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "腰痹",
+        "part": [
+          "腰部",
+          "脊柱",
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "长期坐位弯腰工作者、司机、...",
+        "symptom": [
+          "背痛",
+          "下肢感应痛或放射痛的腰背痛",
+          "钝痛",
+          "腰背刺痛",
+          "腰背刺痛"
+        ],
+        "complication": [
+          "脊柱炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（200 —— 1000元）",
+        "ratio": "90%",
+        "duration": "10-30天",
+        "method": [
+          "康复治疗、中医疗法、药物治疗"
+        ],
+        "examination": [
+          "仰卧挺腹试验",
+          "腰部活动度",
+          "腰背痛体格检查",
+          "腰背部检查",
+          "俯卧伸腰试验"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "布洛芬乳膏",
+          "熏蒸机"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血管性痴呆",
+    "information": {
+      "introduction": "血管性痴呆(vascular dementia，VD)属血管病所致精神障碍临床类型中的一种类型，也是脑血管疾病的临床转归的一种类型。脑血管性痴呆或血管性痴呆(vascular dementia，VD)是指由脑血管疾病导致脑供血障碍而出现的智能全面减退。即由于脑血管疾病引起的，以痴呆为主要临床表现的脑功能衰退性疾病。常在50～60岁起病，约半数并发原发性高血压，以智能阶梯性恶化为主。脑血管性痴呆多见于反复“小中风”的病人，随着一次次“小中风”发作，病情逐渐加重。智力减退不是进行性加重，而是呈阶梯式发展，在“小中风”康复后，智力有一定程度的恢复，病情稳定;但是，再次“小中风”后，发作又加重，呈间歇性发展，最后出现痴呆。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脑血管性痴呆,血管性认识障碍,血管性认知缺损",
+        "part": [
+          "血液血管",
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "高龄，吸烟群体多发",
+        "symptom": [
+          "脑衰弱综合征",
+          "情绪不宁",
+          "失眠",
+          "智能减退",
+          "焦虑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": [
+          "复方活脑舒胶囊",
+          "氢溴酸加兰他敏片",
+          "奥拉西坦胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方活脑舒胶囊(长龙)",
+          "grade": "2.94",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方苁蓉益智胶囊(新命源)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冠心康胶囊(大唐)",
+          "grade": "4.54",
+          "total": "10",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "婴儿痉挛症",
+    "information": {
+      "introduction": "婴儿痉挛症(infantile spasm)又名West综合征，点头样癫痫、肌阵挛大发作、大摺刀型惊厥。本病征的同义名甚多，有称敬礼样惊厥。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "West综合征,点头样癫痫",
+        "part": [
+          "颅脑",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "发生在出生后几天到30个月，...",
+        "symptom": [
+          "肌阵挛",
+          "智力发育迟缓",
+          "阵挛-强直型",
+          "点头征",
+          "抽搐"
+        ],
+        "complication": [
+          "瘫痪"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（5000—— 8000元）",
+        "ratio": "98%",
+        "duration": "2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "SPECT显像",
+          "颅脑CT",
+          "正电子发射计算机断层扫描",
+          "脑电图"
+        ],
+        "medicine": [
+          "注射用间苯三酚",
+          "注射用间苯三酚",
+          "丙戊酰胺栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "湿热蕴脾",
+    "information": {
+      "introduction": "湿热蕴脾证是临床常见多发病狂，它不仅具有明显的季节性，以夏季常见;而且也有明显的地域性，以我国南方为主，四川盆地更甚。湿热蕴牌证是传统中医学中疾病的一种证候，临床上它既可见于多种疾病的过程中，也可作为一种夏季常见症候而独立地出现。是湿热内蕴中焦所表现的证候。由于过食肥甘酒醴，或感受湿热外邪所致。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身",
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "饮食油腻嗜酒者多见，多为中...",
+        "symptom": [
+          "苔黄腻",
+          "四肢无力",
+          "皮肤发黄",
+          "烦热",
+          "四肢酸痛无力"
+        ],
+        "complication": [
+          "湿热痢",
+          "湿热病",
+          "新生儿泪囊炎",
+          "风湿热",
+          "肝胆湿热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 ——5000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "复方黄连素片",
+          "香砂六君丸",
+          "藿香正气胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方黄连素片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香砂六君丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藿香正气胶囊(泰华堂)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "双虎清肝颗粒",
+          "grade": "3.12",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外伤性癫痫",
+    "information": {
+      "introduction": "外伤性癫痫是指继发于颅脑损伤后的癫痫性发作，多见于年轻成年男性，具有癫痫家族史者更易发生，可发生在伤后的任何时间，甚难预料，早者于伤后即刻出现，晚者可在头伤痊愈后多年始突然发作。不过，并非所有的脑外伤病人都并发癫痫，按初次癫痫发作的时间可分为早期、中期、晚期癫痫。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "脑外伤者多见",
+        "symptom": [
+          "进食样自动症",
+          "记忆力障碍",
+          "癫痫性人格改变",
+          "抽搐",
+          "肌阵挛"
+        ],
+        "complication": [
+          "人格障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（2000—— 5000元）",
+        "ratio": "20%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "贝美格诱发试验",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "扑米酮片",
+          "苯妥英钠片",
+          "天麻素注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

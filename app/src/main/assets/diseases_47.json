@@ -1,0 +1,1059 @@
+[
+  {
+    "disease_name": "脑萎缩",
+    "information": {
+      "introduction": "　脑萎缩是指由于各种原因导致脑组织本身发生器质性病变而产生萎缩的一类神经精神性疾病。脑萎缩包括小儿脑萎缩、成人脑萎缩。以老年人多见。本病成年人发病：多发生于50岁以上，病程可达数年至数十年，男性多于女性，脑萎缩有弥漫性脑萎缩（包括皮层萎缩、小脑萎缩及皮层、小脑、脑干萎缩）及局限性脑萎缩（多见于局限性脑器质性病变后如外伤、血管病、颅内局限性感染后等）。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "记忆力障碍",
+          "智能减退",
+          "乏力",
+          "易跌倒",
+          "头晕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "40%-60%",
+        "duration": "1年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "单唾液酸四己糖神经节苷脂钠注射液",
+          "单唾液酸四己糖神经节苷脂钠注射液",
+          "宁心益智胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "宁心益智胶囊(东方龙)",
+          "grade": "4.48",
+          "total": "64",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "九味益脑颗粒(丽珠)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冠心康胶囊(大唐)",
+          "grade": "4.54",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "冠心康胶囊",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "前列腺囊肿",
+    "information": {
+      "introduction": "前列腺囊肿有先天性囊肿和后天性囊肿之分，而先天性囊肿又有两种情况，一种是前列腺的囊上发生的囊肿，称前列腺囊囊肿，另一种为前列腺本身存在的先天性囊肿，前者较后者多见。患者的症状依囊肿的大小而不同，轻者可完全无症状，重者可表现有尿急尿频，排尿费力，尿线细，残余尿多及尿潴留，血尿极少见，囊肿内并发感染时，可出现脓尿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "男性小腹痛",
+          "尿急",
+          "脓尿",
+          "尿频",
+          "囊肿"
+        ],
+        "complication": [
+          "肾发育不全"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "7天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "前列腺液培养",
+          "血清PSA",
+          "CT检查",
+          "卵磷脂小体",
+          "膀胱镜"
+        ],
+        "medicine": [
+          "前列腺保护素",
+          "桂枝茯苓胶囊",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人高血压",
+    "information": {
+      "introduction": "高血压是老年常见疾病之一，随着人均寿命的延长，老年人日益增多，老年高血压患者也相继增多。我国一般把60岁以上的人群认定为老年人，而国外，尤其是大多数发达国家则把65岁及以上作为其老年的标准。高血压是冠心病和脑血管病的主要危险因素，这些心、脑血管疾病在全世界每年导致1200万人死亡。因此，老年高血压的防治及理论研究已成为医学界十分关注的问题。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "血压高",
+          "头痛",
+          "头胀",
+          "恶心与呕吐",
+          "健忘"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "血压控制率90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动态血压监测(ABPM)",
+          "血压测量",
+          "心血管疾病的超声诊断",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "牛黄降压丸",
+          "马来酸依那普利片",
+          "长春宝丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "牛黄降压丸(同仁堂)",
+          "grade": "2.92",
+          "total": "25",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "长春宝丸(宏兴)",
+          "grade": "1.98",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "降压片(宝树堂)",
+          "grade": "1.82",
+          "total": "52",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "长春宝口服液(华葆)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "长春宝口服液(宏兴)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "长春宝口服液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "长春宝丸",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性化脓性中耳炎",
+    "information": {
+      "introduction": "细菌进入鼓窒引起化脓感染，称为急性化脓性中耳炎，多继发于上呼吸道感染，可能部分病例初起为病毒感染，尔后细菌侵入。常见为溶血型链球菌、金黄色葡萄球菌、第Ⅲ型肺炎球菌和变形杆菌等。多见于冬春季节，有血液病、营养不良、变态反应及心肺病患者、肾炎、糖尿病者易于诱发。据统计，5～16岁学龄儿童发病率高达3％，5岁以下者高达5％～10％，有时可反复发作多次。爱斯基摩人和美洲印地安人发病率较白人高得多，这是种族基因还是生活条件所致，尚未确定。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "中耳炎",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "耳痛",
+          "高热",
+          "鼓膜发红，耳后红肿",
+          "发炎",
+          "鼓膜充血"
+        ],
+        "complication": [
+          "脑膜炎",
+          "面瘫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-3000元）",
+        "ratio": "95%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "内窥镜",
+          "外耳检查"
+        ],
+        "medicine": [
+          "盐酸克林霉素棕榈酸酯颗粒",
+          "金莲花分散片",
+          "呋喃西林"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金莲花分散片(烟霞)",
+          "grade": "3.47",
+          "total": "10",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "吸入性肺炎",
+    "information": {
+      "introduction": "吸入性肺炎(aspiration pneumonitis)系吸入酸性物质、动物脂肪如食物、胃容物以及其他刺激性液体和发挥性的碳氢化合物后，引起的化学性肺炎。严重者可发生呼吸衰竭或呼吸窘迫综合征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "支气管脓性分泌物增多",
+          "痉挛性咳嗽",
+          "哮鸣音",
+          "发绀",
+          "低氧血症"
+        ],
+        "complication": [
+          "肺不张",
+          "肺水肿",
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "95%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺量计",
+          "WBC",
+          "痰液显微镜检查",
+          "胸部平片",
+          "纤维支气管镜"
+        ],
+        "medicine": [
+          "利尿八味散",
+          "利尿八味散",
+          "泮托拉唑钠肠溶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利尿八味散",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "利尿八味散(蒙王)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "大便失禁",
+    "information": {
+      "introduction": "大便失禁即肛门失禁(copracrasia)是指粪便及气体不能随意控制，不自主地流出肛门外，为排便功能紊乱的一种症状，亦称大便失禁。肛门失禁的发病率不高，但非罕见。虽不直接威胁生命，但造成病人身体和精神上的痛苦，严重地干扰正常生活和工作。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肛门失禁",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "老年人、局部外伤患者",
+        "symptom": [
+          "排便障碍",
+          "排便频率异常",
+          "括约肌功能障碍",
+          "肛门括约肌松弛",
+          "肛门反射减弱或消失"
+        ],
+        "complication": [
+          "尿床"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "神经内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-8000元）",
+        "ratio": "30%",
+        "duration": "4-5个月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "内镜检查",
+          "排粪造影检查",
+          "球囊逼出试验",
+          "肌电图",
+          "直肠指检"
+        ],
+        "medicine": [
+          "葡萄糖",
+          "甲硝唑",
+          "聚乙二醇4000散"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "病毒性肺炎",
+    "information": {
+      "introduction": "病毒性肺炎是由多种病毒感染引起的支气管肺炎。多发生于冬春季节。临床表现一般较轻。主要症状为干咳、发热、呼吸困难、紫绀和食欲减退。肺部体征较少，血白细胞计数正常或稍增高。胸部X线检查有斑片状炎症阴影。一般病程约1-2周。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺热症",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "两肺毛玻璃样粟粒样或结节样改变",
+          "干咳",
+          "乏力",
+          "肺纹理增粗",
+          "肺门增宽"
+        ],
+        "complication": [
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "治愈率96%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肝功能",
+          "便常规",
+          "体液免疫检测法"
+        ],
+        "medicine": [
+          "利巴韦林注射液",
+          "利巴韦林片",
+          "注射用炎琥宁"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "面肌痉挛",
+    "information": {
+      "introduction": "面肌痉挛亦称面肌抽搐或偏侧面肌痉挛症，是一侧面神经受激惹而产生的功能紊乱症候群。多是一侧，双侧罹患者很少，约占4％。患者多是40岁以上成人，男女性别之比为2∶3。发病率约占人群之64/100000。Stocks曾报道一家四代人中有13人患病，但非遗传性疾病。此病早在16世纪初我国医书《审视瑶函》中即有记载。但由于其病因病理不明，长期被认作不治之症。耳科学中很少论及此病，直到最近20年来广泛开展耳神经外科工作之后，才对该病进行了深入研究，使之成为耳科学中一个重要疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "面肌抽搐,偏侧面肌痉挛症",
+        "part": [
+          "面部"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上成年人",
+        "symptom": [
+          "不能持续睁眼",
+          "抽搐",
+          "进食流泪",
+          "面部叩击征",
+          "头痛"
+        ],
+        "complication": [
+          "面瘫",
+          "脑脊液漏"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "70%",
+        "duration": "3-6个月",
+        "method": [
+          "中医针灸治疗、西医药物治疗"
+        ],
+        "examination": [
+          "乳突CT",
+          "头颅平片",
+          "颅骨透照试验",
+          "肌电图",
+          "脑电图"
+        ],
+        "medicine": [
+          "甲钴胺胶囊",
+          "甲钴胺片",
+          "天蚕胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "痫愈胶囊(致康)",
+          "grade": "3.74",
+          "total": "13",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "天蚕胶囊",
+          "grade": "4.55",
+          "total": "63",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肠系膜淋巴结炎",
+    "information": {
+      "introduction": "肠系膜淋巴结炎一般认为因链球菌的血行感染所致，也有认为与肠道炎症和寄生虫病有关。多见于回肠末端。淋巴结呈多发性充血、肿大。腹腔内可有少量炎性渗液。镜下可见淋巴窦扩张，中性粒细胞由小血管进入淋巴窦内，吞噬细菌。有的白细胞可因此而发生变性崩溃，形成细胞碎片或变性的物质。淋巴结内的血管也扩张充血，生发中心增生，窦细胞和免疫母细胞增生。该病多见于7岁以下的小儿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠系膜",
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "7岁以下的小儿",
+        "symptom": [
+          "淋巴结充血",
+          "颈部淋巴结肿大",
+          "咽痛",
+          "发烧",
+          "肚子疼"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "淋巴细胞百分比",
+          "淋巴细胞数",
+          "周围血白细胞计数及分类"
+        ],
+        "medicine": [
+          "异烟肼片",
+          "清热散结片",
+          "清热散结片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(鹅城)",
+          "grade": "1.54",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "2.99",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(普正)",
+          "grade": "3.03",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(司贝尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(丁教授)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(柴宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "加味西黄丸",
+          "grade": "4.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(巨虹)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(德昌祥)",
+          "grade": "0.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳房纤维腺瘤",
+    "information": {
+      "introduction": "乳腺及其附属组织发生的多种类型良性肿瘤，依据肿瘤的组织来源、发生部位、细胞种类、形态及排列有许多种类和型别。有上皮源性良性肿瘤和良性间质上皮混合瘤。乳房纤维腺瘤在乳房疾病中，发病率仅次于乳腺囊性增生病和乳癌，占第三位;在乳房良性肿瘤中，包括纤维瘤和纤维腺瘤约占3/4;好发于20～25岁的青年女性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳癖",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年女性",
+        "symptom": [
+          "乳腺隐痛",
+          "乳腺囊性增生",
+          "乳腺内无痛单发的硬肿块",
+          "乳腺刺痛",
+          "乳房肿块"
+        ],
+        "complication": [
+          "乳腺癌肉瘤",
+          "隐匿型乳腺癌",
+          "炎性乳腺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "7-10天",
+        "method": [
+          "手术治疗、药物治疗、定期随访"
+        ],
+        "examination": [
+          "乳腺超声",
+          "乳腺B超",
+          "妇科B超"
+        ],
+        "medicine": [
+          "乳块消颗粒",
+          "散结乳癖膏",
+          "乳核散结胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳块消颗粒",
+          "grade": "1.57",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "散结乳癖膏(散结乳癖贴膏(粉红丝秀)",
+          "grade": "2.92",
+          "total": "22",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "乳核散结胶囊(百氏福)",
+          "grade": "3.20",
+          "total": "9",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "性高潮障碍",
+    "information": {
+      "introduction": "性反应周期分为四个阶段，即兴奋期、持续期、高潮期和消退期。性兴奋是由肉体的或精神的性刺激引起的。女性性兴奋的特征是阴道壁充血、液体漏出致阴道滑润，阴道内2/3扩张，子宫颈、子宫体上提，乳头竖起。男性的性兴奋以阴茎勃起为特征。在持续期，阴道外1/3发生显著的血管充血，造成阴道口狭窄。形成“高潮平台”。高潮期，女性为子宫、高潮平台和肛门括约肌同时节律性收缩（间隔0.8秒），男性则以副性器官、会阴肌肉、阴茎体开始一系列有节律性地协同收缩并完成射精为特征。性高潮是一种全身性反应、呼吸、心跳、外周肌群均发生显著改变。在消退期，出现自觉周身松软或紧张后轻松的感觉。性高潮功能障碍（orgasmic dysfunction）是指男性在性交时不射精或射精显著延迟，难以达到性乐高潮，女性在性交时缺乏性乐高潮体验。本病在一般人群中确切发病率尚不清楚，据报道女性约有6％～17％有性高潮障碍，男性则较少出现性高潮障碍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "心理性性功能障碍",
+          "心理性性功能障碍",
+          "性欲减退",
+          "器质性精神障碍"
+        ],
+        "complication": [
+          "阴道炎",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "男性生殖内分泌检查",
+          "不育男性体格检查",
+          "内分泌检查"
+        ],
+        "medicine": [
+          "前列回春胶囊",
+          "龟鹿补肾丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列回春胶囊(神益)",
+          "grade": "2.20",
+          "total": "95",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龟鹿补肾丸(花城)",
+          "grade": "3.45",
+          "total": "419",
+          "secondary": "365"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阴道壁息肉",
+    "information": {
+      "introduction": "阴道壁息肉(阴道顶端肉芽组织)是生长在阴道粘膜表面上的赘生物。是一种肉芽组织性息肉，多数是是伤口修复过程中的产物。肉芽组织作为新的基质，约在伤口出现后4天形成。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "有子宫手术史的人多发",
+        "symptom": [
+          "息肉",
+          "阴道黏膜膨胀",
+          "阴道持续少量流血",
+          "白带增多",
+          "阴道出血"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "95%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "阴道肿块",
+          "阴道活检",
+          "阴道镜",
+          "白带常规"
+        ],
+        "medicine": [
+          "桂枝茯苓胶囊",
+          "止痛化癥胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "止痛化癥胶囊(金妇康)",
+          "grade": "2.27",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾虚耳鸣",
+    "information": {
+      "introduction": "肾虚耳鸣是指肾虚耳聋耳鸣，肾虚性耳鸣。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "脾肾阳虚"
+        ],
+        "complication": [
+          "多发性骨髓瘤病肾病",
+          "副鼻窦炎",
+          "肾嗜酸细胞瘤",
+          "新生儿泪囊炎",
+          "发作性睡病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-2000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "一般可选用药物治疗，饮食疗法和加强体育锻炼"
+        ],
+        "examination": "?",
+        "medicine": [
+          "六味地黄丸",
+          "六味地黄丸",
+          "四子填精胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "62",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "63",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "金锁固精丸(九芝堂)",
+          "grade": "3.97",
+          "total": "7",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "益气聪明丸(摩美得)",
+          "grade": "3.64",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "颈康胶囊(恒帝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈康胶囊(斯威)",
+          "grade": "5.0",
+          "total": "9",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "回春如意胶囊(吉春)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(花溪方尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(速必欣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(星宝)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(丰原)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(玉仁)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "回春如意胶囊(通泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回春如意胶囊(药信)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "细菌性前列腺炎",
+    "information": {
+      "introduction": "细菌性前列腺炎是由一种或数种病原菌引起的前列腺急性或非急性感染。致病菌为革兰氏阴性需氧菌，如大肠杆菌和绿脓杆菌。按照感染的临床表现可分为：急性细菌性前列腺炎和慢性细菌性前列腺炎。急性细菌性前列腺炎如果不及时治疗可转变成慢性细菌性前列腺炎，如炎症进一步发展形成脓肿则称为前列腺脓肿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性多发",
+        "symptom": [
+          "寒战",
+          "高热",
+          "尿频",
+          "尿急",
+          "尿痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "前列腺指检",
+          "中性粒细胞计数",
+          "WBC",
+          "直肠指检",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "三金片",
+          "前列舒乐胶囊",
+          "普适泰片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "前列舒乐胶囊(天银)",
+          "grade": "1.79",
+          "total": "52",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "梅尼埃病",
+    "information": {
+      "introduction": "美尼尔氏综合症是以膜迷路积水的一种内耳疾病。本病以突发性眩晕、耳鸣、耳聋或眼球震颤为主要临床表现，眩晕有明显的发作期和间歇期。病人多数为中年人，患者性别无明显差异，首次发作在50岁以前的病人约占65%，大多数病人单耳患病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "内耳眩晕症，美尼尔病",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "30～50岁的中、青年人",
+        "symptom": [
+          "吞咽困难",
+          "复听",
+          "恶心",
+          "耳鸣",
+          "发作性眩晕"
+        ],
+        "complication": [
+          "耳聋",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（6000-10000元）",
+        "ratio": "70%，多以对症治疗为主",
+        "duration": "3-6个月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "纯音听力计检查法",
+          "耳蜗电图",
+          "听力检查",
+          "声阻抗",
+          "前庭功能"
+        ],
+        "medicine": [
+          "桂利嗪片",
+          "甲磺酸倍他司汀片",
+          "注射用盐酸倍他司汀"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

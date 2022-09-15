@@ -1,0 +1,1259 @@
+[
+  {
+    "disease_name": "阳虚",
+    "information": {
+      "introduction": "阳虚是病证名。指阳气不足或功能衰退的证候。《素问·调经论篇》：“阳虚则外寒。”通常多指气虚或命门火衰，因气与命门均属阳，故名。肺主气，气虚多属肺气虚或中气不足，因而卫表不固，故外寒;阳虚则阴盛，故命门火衰亦多见功能衰惫，浊阴积潴的病证。此外，阳虚亦可见于心阳虚或脾阳虚。症见面色白、手足不温、怕冷、易出汗、大便稀、小便清长、口唇色淡、口淡无味、食欲不振、舌质淡、苔白而润、脉虚弱等。治宜温补阳气。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，男性多数",
+        "symptom": [
+          "怕冷",
+          "气虚阳衰",
+          "舌胖有齿痕",
+          "小便清长",
+          "脉沉缓或沉细"
+        ],
+        "complication": [
+          "发作性睡病",
+          "类风湿性关节炎肾损害",
+          "恶寒发热",
+          "新生儿泪囊炎",
+          "类风湿性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "刺五加片",
+          "龟芪参口服液",
+          "四子填精胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "刺五加片",
+          "grade": "4.05",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "龟芪参口服液",
+          "grade": "3.37",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "参倍固肠胶囊(易激健)",
+          "grade": "4.75",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "固本益肠片(新乐)",
+          "grade": "3.83",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "强骨胶囊(歧黄)",
+          "grade": "4.53",
+          "total": "35",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "肠胃宁片(四方箅)",
+          "grade": "4.04",
+          "total": "20",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "复方玄驹胶囊(施强)",
+          "grade": "1.19",
+          "total": "142",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "益肾壮阳膏(新天夫)",
+          "grade": "1.12",
+          "total": "28",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "神衰康胶囊(秦丹)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "海狗丸(京果)",
+          "grade": "4.90",
+          "total": "422",
+          "secondary": "421"
+        },
+        {
+          "medicine_name": "桂附地黄丸(九芝堂)(浓缩丸)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "全鹿丸(江西民济)",
+          "grade": "1.02",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "附子理中丸",
+          "grade": "2.13",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "丘疹性荨麻疹",
+    "information": {
+      "introduction": "虫咬皮炎(insect bite dermatitis)是指昆虫叮咬人类皮肤而引起的炎性皮肤病。虫咬性皮炎又可称“丘疹性荨麻疹”，主要与节肢动物的叮咬有关，常见的如螨，以春、夏、秋季多见。由于昆虫种类的不同和机体反应性的差异，可引起叮咬处不同的皮肤反应。一般为红色水肿性丘疹，中央可有小水疱，黄豆大小，好发于暴露部位和腰周。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性单纯性痒疹，荨麻疹性苔藓，小儿荨麻疹性苔藓，婴儿苔藓，虫咬皮炎 ",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，发于婴幼儿童",
+        "symptom": [
+          "剧痒",
+          "斑丘疹",
+          "丘疹"
+        ],
+        "complication": [
+          "急性淋巴管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约1000--5000元",
+        "ratio": "95%",
+        "duration": "3-6周",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "皮损",
+          "皮肤病的物理检查",
+          "结核菌素皮内试验",
+          "RPR",
+          "兔感染试验"
+        ],
+        "medicine": [
+          "荆肤止痒颗粒",
+          "盐酸西替利嗪片",
+          "炉甘石洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荆肤止痒颗粒(丽珠)",
+          "grade": "3.38",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(紫鑫)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "二期梅毒",
+    "information": {
+      "introduction": "梅毒是由梅毒螺旋体(Treponemapallidum，TP)感染引起的一种慢性全身性性传播疾病。主要通过性交传染。二期梅毒为梅毒的泛发期。二期梅毒疹一般发生在硬下疳消退后3-4周，相当于感染后9-12周。二期梅毒是梅毒螺旋体经淋巴结进入血行引起全身广泛性损害。除引起皮肤损害外，尚可侵犯内脏及神经系统。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "淋巴"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃人群、多名性同伴尤为...",
+        "symptom": [
+          "梅毒肝",
+          "淋巴结肿大",
+          "乏力",
+          "玫瑰疹",
+          "丘疹"
+        ],
+        "complication": [
+          "玫瑰糠疹",
+          "非性病性梅毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "70%",
+        "duration": "14天",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "梅毒血清试验",
+          "梅毒螺旋体血球凝集试验",
+          "不加热血清反应素实验",
+          "血清梅毒螺旋体抗体"
+        ],
+        "medicine": [
+          "盐酸米诺环素片",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "干燥综合征",
+    "information": {
+      "introduction": "干燥综合征(Sjögren syndrome，SS)是一种侵犯外分泌腺体尤以侵犯唾液腺和泪腺为主的慢性自身免疫性疾病。主要表现为口、眼干燥，也可有多器官、多系统损害。受累器官中有大量淋巴细胞浸润，血清中多种自身抗体阳性。本综合征也称为自身免疫性外分泌腺病(autoimmune exocrine gland disease)、斯约格伦综合征、口眼干燥关节炎综合征。常与其他风湿病或自身免疫性疾病重叠。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "舍格伦综合征,斯约格伦综合征,自身免疫性外分泌腺病,古-豪二氏综合征",
+        "part": [
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "40岁到50岁",
+        "symptom": [
+          "干性皮肤",
+          "反复感染",
+          "面部脱皮",
+          "关节疼痛",
+          "无力"
+        ],
+        "complication": [
+          "慢性支气管炎",
+          "淋巴瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 2000元）",
+        "ratio": "80%",
+        "duration": "7天",
+        "method": [
+          "缓解症状、对症治疗"
+        ],
+        "examination": [
+          "角膜荧光素染色",
+          "血液生化六项",
+          "胸部CT",
+          "血清免疫球蛋白A",
+          "血清免疫球蛋白M"
+        ],
+        "medicine": [
+          "金嗓子喉片",
+          "清音丸",
+          "抗干燥综合征A抗原(SSA)抗体检测试剂盒(酶联免疫法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清音丸(同仁堂)",
+          "grade": "3.18",
+          "total": "4",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝损伤",
+    "information": {
+      "introduction": "肝脏是腹腔内最大的实质性器官，担负人体的重要生理功能。肝细胞对缺氧的耐受力较差，故有肝动脉和门静脉提供丰富的血液供应，并有大小胆管与血管伴行输送胆汁。它位于右上腹的深部，有下胸壁和膈肌的保护。但由于肝脏体积大，质地脆，一旦遭受暴力容易损伤，发生腹腔内出血或胆汁泄漏，引起出血性休克和/或胆汁性腹膜炎，后果严重，必须及时诊断和正确处理。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "腹膜刺激征",
+          "腹胀",
+          "血压下降",
+          "出冷汗"
+        ],
+        "complication": [
+          "胆汁性腹膜炎",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "50%",
+        "duration": "7-21天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "肝脏超声检查",
+          "血红蛋白",
+          "红细胞压积(HCT)",
+          "RBC",
+          "肝、胆、脾CT"
+        ],
+        "medicine": [
+          "头孢呋辛酯胶囊",
+          "头孢地尼分散片",
+          "养肝片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伤科灵喷雾剂",
+          "grade": "2.15",
+          "total": "34",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "跌打损伤丸",
+          "grade": "4.65",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉血康胶囊(多泰)",
+          "grade": "1.98",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养血荣筋丸(同仁堂)",
+          "grade": "4.45",
+          "total": "73",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "健儿消食口服液(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑瘤",
+    "information": {
+      "introduction": "颅内肿瘤亦称脑肿瘤，其病因至今不明，肿瘤发生自脑、脑膜、脑垂体、颅神经、脑血管和胚胎残余组织者，称为原发性颅内肿瘤。由身体其它脏器组织的恶性肿瘤转移至颅内者，称为继发性颅内肿瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑肿瘤,颅内肿瘤,脑癌，内风",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "头痛",
+          "视力视野改变",
+          "颅内压增高",
+          "恶心与呕吐",
+          "视乳头水肿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约40000--80000元",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、西药治疗、中药治疗、饮食调理"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "CT造影扫描",
+          "小气脑CT扫描",
+          "颅脑CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "盐酸格拉司琼口腔崩解片",
+          "平消片",
+          "注射用盐酸尼莫司汀"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肋间神经痛",
+    "information": {
+      "introduction": "肋间神经痛是一组症状，指胸神经根(即肋间神经)由于不同原因的损害，如：胸椎退变、胸椎结核、胸椎损伤、胸椎硬脊膜炎、肿瘤、强直性脊柱炎等疾病或肋骨、纵膈、胸膜病变，肋间神经受到上述疾病产生的压迫、刺激，出现炎性反应，而出现以胸部肋间或腹部呈带状疼痛的综合征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肋间神经炎",
+        "part": [
+          "周围神经系统",
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "有胸腔病变或带状疱疹者",
+        "symptom": [
+          "胁肋灼痛",
+          "肋间隙可有压痛",
+          "烧灼性疼痛",
+          "感觉过敏",
+          "感觉障碍"
+        ],
+        "complication": [
+          "发作性睡病",
+          "坐骨神经痛",
+          "脑血管瘤",
+          "颅咽管瘤",
+          "三叉神经痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "2-4周",
+        "method": [
+          "药物、理疗、针灸、推拿"
+        ],
+        "examination": "?",
+        "medicine": [
+          "普瑞巴林胶囊",
+          "布洛芬乳膏",
+          "温热电位治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三七血伤宁胶囊(三金)",
+          "grade": "3.72",
+          "total": "58",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三七血伤宁散(三金)",
+          "grade": "3.66",
+          "total": "51",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性扁桃体炎",
+    "information": {
+      "introduction": "慢性扁桃体炎(chronic tonsillitis)多由急性扁桃体炎反复发作转为慢性。患急性传染病(如猩红热、麻疹、流感、白喉等)后，可引起慢性扁桃体炎，鼻腔有鼻窦感染也可伴发本病。病源菌以链球菌及葡萄球菌等最常见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳蛾",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、成年均可发生",
+        "symptom": [
+          "咽痛",
+          "头痛",
+          "扁桃体充血肥大",
+          "咽部异物感"
+        ],
+        "complication": [
+          "风湿性关节炎",
+          "风湿热",
+          "心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000 —— 8000元）",
+        "ratio": "98%。",
+        "duration": "1周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "血清C反应蛋白"
+        ],
+        "medicine": [
+          "穿心莲软胶囊",
+          "银黄滴丸",
+          "银黄含化片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "穿心莲软胶囊(彤罗)",
+          "grade": "1.61",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银黄滴丸(通润维康)",
+          "grade": "2.82",
+          "total": "94",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "银黄含化片(鲁南)",
+          "grade": "3.83",
+          "total": "25",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "喉疾灵胶囊(陈李济)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "金莲花分散片(烟霞)",
+          "grade": "3.47",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "蒲地蓝消炎口服液(济川)",
+          "grade": "2.04",
+          "total": "65",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "开喉剑喷雾剂(儿童型)(三力制药)",
+          "grade": "4.27",
+          "total": "47",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "板蓝根颗粒(白云山)",
+          "grade": "3.66",
+          "total": "422",
+          "secondary": "384"
+        },
+        {
+          "medicine_name": "板蓝根颗粒(香雪)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藏青果喉片(同仁堂)",
+          "grade": "3.62",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西瓜霜润喉片(三金)",
+          "grade": "4.25",
+          "total": "164",
+          "secondary": "128"
+        },
+        {
+          "medicine_name": "银黄胶囊(百姓堂)",
+          "grade": "3.88",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银黄颗粒(无糖型)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冬凌草片(安灯)",
+          "grade": "2.86",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银黄含片(地奥)",
+          "grade": "3.29",
+          "total": "51",
+          "secondary": "48"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "视网膜脱落",
+    "information": {
+      "introduction": "视网膜脱离(retinal detachment)是视网膜神经上皮层与色素上皮层之间的分离。原发性视网膜脱离为临床常见病，患者男性多于女性约为3∶2，多数为30岁以上成年人，10岁以下的儿童少见，左右眼之间差异，双眼发病率约为患者总数的15%。好发于近视眼。特别是高度近视。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "原发性视网膜脱离,视网膜剥离,视网膜神经上皮层脱离",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "视力障碍",
+          "视野缺损",
+          "视网膜脱离",
+          "眼前异常闪光，增加的黑点",
+          "视物变小"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（4000-6000元）",
+        "ratio": "10%",
+        "duration": "7-14天",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "眼底接触镜",
+          "裂隙灯",
+          "眼底镜检查法"
+        ],
+        "medicine": [
+          "血栓通注射液",
+          "血栓通注射液",
+          "眼科手术用重水"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血栓通注射液",
+          "grade": "3.68",
+          "total": "47",
+          "secondary": "47"
+        },
+        {
+          "medicine_name": "血栓通注射液",
+          "grade": "3.68",
+          "total": "47",
+          "secondary": "47"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "过敏",
+    "information": {
+      "introduction": "    对某些物质(如细菌、花粉、食物或药物)、境遇(如精神、情绪激动或曝露阳光)或物理状况(如受冷)所产生的超常的或病理的反应，当人体抵抗抗原侵入功能过强时，在过敏原的刺激下就会发生过敏反应。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人",
+        "symptom": [
+          "红斑样皮疹",
+          "光过敏",
+          "药物过敏反应",
+          "全身过敏和发热皮疹关节痛",
+          "食物过敏"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约1000-5000元",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮内试验",
+          "气道过敏试验",
+          "二硝基氯苯斑贴试验",
+          "皮肤点刺试验",
+          "过敏原检测"
+        ],
+        "medicine": [
+          "氯雷他定片",
+          "氯雷他定片",
+          "乌蛇止痒丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肤痒颗粒(中山制药)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性淋巴结炎",
+    "information": {
+      "introduction": "慢性淋巴结炎多继发于头、面、颈部的炎症病灶。淋巴结不同程度的肿大，散见于颈侧区或颌下、颏下区。可略硬但表面光滑，能活动，可有轻度压痛或不适。慢性淋巴结炎本人不需要治疗，检查时应注意寻找原发炎症灶。除颈部各区外还应仔细检查头皮、外耳及口腔、扁桃体、牙龈等隐藏部位。还可按肿大淋巴结的淋巴接纳区找寻原发病灶。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口腔黏膜溃疡",
+          "腋区疼痛",
+          "透明血管型",
+          "淋巴结肿大",
+          "淋巴结疼痛"
+        ],
+        "complication": [
+          "蜂窝织炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "70%",
+        "duration": "10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "涂片",
+          "头颅平片",
+          "局部淋巴显象",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "开喉剑喷雾剂",
+          "口炎清颗粒",
+          "益肺止咳胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "开喉剑喷雾剂(三力)",
+          "grade": "3.20",
+          "total": "52",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "益肺止咳胶囊(飞云岭)",
+          "grade": "4.8",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(鹅城)",
+          "grade": "1.54",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "2.99",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(普正)",
+          "grade": "3.03",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(司贝尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(丁教授)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(柴宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "加味西黄丸",
+          "grade": "4.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(巨虹)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(德昌祥)",
+          "grade": "0.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑震荡",
+    "information": {
+      "introduction": "脑震荡通常定义为“中枢神经系统的暂时性功能障碍”，一般是在头部受到轻度暴力的打击后，产生的短暂意识丧失，随即清醒，可有近事遗忘，神经系统病理解剖无明显变化，无器质性损害，它所表现出的一过性神经功能改变，可能与脑组织受暴力打击后引起的病理生理变化有关，但是在一些因脑震荡死亡的病例和拳击手反复受到脑部撞击后发生慢性脑萎缩甚至一些严重的神经系统疾病(如拳王阿里)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "昏迷",
+          "近事遗忘现象",
+          "头痛",
+          "恶心与呕吐",
+          "注意力不集中"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "40%",
+        "duration": "1-6个月",
+        "method": [
+          "休息及药物治疗"
+        ],
+        "examination": [
+          "头颅平片",
+          "脑血流测定",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "安神补脑液",
+          "补脑安神片",
+          "七十味珍珠丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安神补脑液(敖东)",
+          "grade": "2.47",
+          "total": "389",
+          "secondary": "331"
+        },
+        {
+          "medicine_name": "补脑安神片(中联)",
+          "grade": "3.35",
+          "total": "32",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清脑复神液(花城)",
+          "grade": "3.77",
+          "total": "113",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "头痛定糖浆(圣约)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "头痛定糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(金诃)",
+          "grade": "1.74",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清脑复神液(中方)",
+          "grade": "2.38",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "抑郁症",
+    "information": {
+      "introduction": "抑郁症是抑郁障碍的一种（抑郁障碍还包括心境恶劣），是一种慢性复发性疾病，其症状包括情绪低落、兴趣减少、思维迟缓、注意和记忆减退、自我否定、胃口变差、活动减少等。抑郁症的患病率呈上升的趋势，目前抑郁症已经成为世界疾病排行榜的第四大疾病，保守估计，全世界共有3.5亿抑郁症患者，有10-15%的抑郁症患者最终死于自杀，张国荣、卓别林、“憨豆先生”、崔永元、范晓萱等都患有抑郁症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "忧郁症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "成人",
+        "symptom": [
+          "情绪低落",
+          "焦虑",
+          "躁郁样",
+          "入睡困难",
+          "严重情绪障碍"
+        ],
+        "complication": [
+          "便秘",
+          "睡眠障碍",
+          "焦虑症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "70%",
+        "duration": "30天",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "脑脊液的化学检查",
+          "脑葡萄糖代谢显像",
+          "颅脑CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "米氮平片",
+          "盐酸文拉法辛缓释片",
+          "盐酸文拉法辛缓释胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒肝解郁胶囊(*1盒+汤臣倍健维生素B族片*1瓶)",
+          "grade": "3.18",
+          "total": "112",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "经前期综合征",
+    "information": {
+      "introduction": "育龄妇女在应届月经前7～14天(即在月经周期的黄体期)，反复出现一系列精神、行为及体质等方面的症状，月经来潮后症状迅即消失。由于本病的精神、情绪障碍更为突出，以往曾命名为“经前紧张症”、“经前期紧张综合征”。国外有专家统计，大约85%的女性都会受到经前期症状的影响，其中有5%至10%的女性症状较严重。经前期综合征的症状主要分为躯体症状、精神症状和行为改变。近年认为本病症状波及范围广泛，除精神神经症状外还涉及几个互不相联的器官、系统，包括多种多样的器质性和功能性症状，故总称为“经前期综合征(premenstral syndrome，PMS)。但仍有学者突出有关情绪异常这方面的症状而提出“晚黄体期焦虑症(late luteal phase dysphoric disorder，LLPDD)这一命名作为PMS的一个分枝。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "黄体后期心境恶劣障碍,经前紧张症,晚黄体期焦虑症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "瘀血性痛经",
+          "体重增加",
+          "发作性眩晕",
+          "乳房胀痛",
+          "生理性腹泻"
+        ],
+        "complication": [
+          "经行头痛",
+          "失眠症",
+          "抑郁症",
+          "精神障碍",
+          "性功能异常伴发的精神障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率86%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "乳房摄片",
+          "白带常规",
+          "乳腺B超",
+          "妇科B超"
+        ],
+        "medicine": [
+          "地屈孕酮片",
+          "盐酸氯丙嗪片",
+          "谷维素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "香芍颗粒",
+          "grade": "3.31",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "坤月安颗粒",
+          "grade": "4.54",
+          "total": "67",
+          "secondary": "66"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性子宫内膜炎",
+    "information": {
+      "introduction": "子宫炎是盆腔生殖器官炎症之一，为妇女常见病。炎症可局限于一个部位，也可几个部位同时发病，临床上尤以后一种情况为多见，急性炎症有可能引起弥漫性腹膜炎、败血症以致感染性休克等严重后果。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "子宫内膜炎,子宫炎",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "带血性分泌物",
+          "反应性细胞改变",
+          "抗内膜抗体阳性",
+          "下腹疼痛",
+          "腹部压痛"
+        ],
+        "complication": [
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "阴道分泌物涂片",
+          "阴道窥器检查",
+          "子宫颈涂片测试",
+          "肛腹诊",
+          "白带常规"
+        ],
+        "medicine": [
+          "金鸡片",
+          "金鸡颗粒",
+          "妇科千金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.81",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(杨济生)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇乐颗粒(苗泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(康缘)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(大峻)",
+          "grade": "3.33",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(信邦)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(密之康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带胶囊(白马)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(斯威)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(摩美得)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "妇科止带片(天光)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

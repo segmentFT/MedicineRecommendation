@@ -1,0 +1,960 @@
+[
+  {
+    "disease_name": "先天性睾丸发育不全",
+    "information": {
+      "introduction": "本症又称曲细精管发育不全或原发小睾丸症或Klinefelter综合征(Klinefelter syndrome)。1942年由Klinefelter、Reifenstein及Albright描述，其特点是睾丸小、无精子及尿中促性腺激素增高等。1959年Jacobs等发现本病患者性染色体为47，XXY，即比正常男性多了1条X染色体，因此本病称为47，XXY综合征。其根本缺陷是男性多一X染色体，常见的核型是47，XXY或46，XY/47，XXY。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "克氏综合症,曲细精管发育不全,原发小睾丸症",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "男性于青春期或成年期时方出...",
+        "symptom": [
+          "无睾丸",
+          "阴茎短",
+          "睾丸微小",
+          "睾丸萎缩",
+          "睾丸发育不全"
+        ],
+        "complication": [
+          "斜颈",
+          "隐睾"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约(5000-20000元)",
+        "ratio": "50%",
+        "duration": "1个月",
+        "method": [
+          "药物治疗，手术治疗"
+        ],
+        "examination": [
+          "睾酮",
+          "血清卵泡刺激素",
+          "雌二醇",
+          "精液检查",
+          "X染色质"
+        ],
+        "medicine": [
+          "丙酸睾酮"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿呕吐",
+    "information": {
+      "introduction": "呕吐(vomiting)是新生儿期常见症状之一，管理呕吐的是延脑里的呕吐中枢。软腭、咽壁、胃肠的任何刺激，以及神经系统本身的某些疾病(脑炎、脑膜炎等)时发出的刺激都由神经传到呕吐中枢，是一系列复杂的神经反射活动。中枢发出反应，引起食管、胃或肠道自下向上蠕动，同时膈肌、腹肌收缩迫使胃中食物从口腔涌出。新生儿消化系统解剖生理特点使很多情况下容易发生呕吐，尤以生后3、4天为多见。由于呕吐物常从口鼻同时喷出，容易呛入气道而引起窒息和(或)吸入性肺炎，也易引起水、电解质紊乱和酸碱平衡失调，甚至死亡。较长时间的呕吐还可以导致营养不良。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "恶心与呕吐",
+          "腹胀",
+          "肠鸣",
+          "拒食",
+          "全腹痛"
+        ],
+        "complication": [
+          "新生儿窒息",
+          "猝死",
+          "吸入性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "95%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "新生儿体格检查",
+          "腹部透视",
+          "CT检查",
+          "体位"
+        ],
+        "medicine": [
+          "硫酸阿米卡星氯化钠注射液",
+          "小儿双磺甲氧苄啶颗粒",
+          "维生素B6注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "坏死性淋巴结炎",
+    "information": {
+      "introduction": "组织细胞增生性坏死性淋巴结炎(histiocytic necrotic lymphadenitis)是一种非肿瘤性淋巴结增大性疾病，属淋巴结反应性增生病变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "组织细胞坏死性淋巴结炎,病毒性淋巴结炎,亚急性淋巴结炎",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "患者多见于青春期，年龄在10...",
+        "symptom": [
+          "白细胞减少",
+          "弛张热",
+          "粒细胞减少",
+          "高热",
+          "肝脾肿大"
+        ],
+        "complication": [
+          "多重肺部感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肝脏超声检查",
+          "CT检查",
+          "骨髓象分析",
+          "肝、胆、脾CT",
+          "脾脏B超"
+        ],
+        "medicine": [
+          "泼尼松龙",
+          "重组人干扰素α2b注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "圆锥角膜",
+    "information": {
+      "introduction": "圆锥角膜(keratoconus)是一种以角膜扩张为特征，致角膜中央部向前凸出呈圆锥形及产生高度不规则近视散光和不同视力损害的原发性角膜变性疾病。其可以是一种独立的疾病，也可以是多种综合征的组成部分。其多发生于青春期前后，不伴有炎症。晚期会出现急性角膜水肿，形成瘢痕，视力严重受损。广义的圆锥角膜包括两种类型：前部型圆锥角膜和后部型圆锥角膜，后者又可分为完全性和局限性。狭义的圆锥角膜一般仅指前部型圆锥角膜。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "圆锥形角膜",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "多于青春期发病",
+        "symptom": [
+          "大角膜",
+          "畏光",
+          "流泪",
+          "疼痛",
+          "畏光流泪"
+        ],
+        "complication": [
+          "角膜病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约8000--15000",
+        "ratio": "40%",
+        "duration": "2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "遗传筛查",
+          "检影镜",
+          "角膜地形图",
+          "裂隙灯"
+        ],
+        "medicine": [
+          "氯霉素滴眼液",
+          "紫外光照射系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "双阴茎",
+    "information": {
+      "introduction": "重复阴茎(diphallia)两个阴茎多是并列的，常并发其他畸形如膀胱外翻、尿道上裂、尿道下裂，可分为分支阴茎(部分重复阴茎)和真性双阴茎(完全性重复阴茎)两种类型。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "重复阴茎",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "先天性疾病，婴幼儿多见",
+        "symptom": [
+          "排尿障碍",
+          "性交困难",
+          "射精疼",
+          "排尿障碍",
+          "性交困难"
+        ],
+        "complication": [
+          "尿道下裂",
+          "膀胱外翻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "外科手术治愈率约为60%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "导尿术",
+          "膀胱造影",
+          "阴茎海绵体造影",
+          "尿道口检查",
+          "尿路平片"
+        ],
+        "medicine": [
+          "盐酸达泊西汀片",
+          "益肾壮阳膏",
+          "疏肝益阳胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益肾壮阳膏(新天夫)",
+          "grade": "1.12",
+          "total": "28",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "疏肝益阳胶囊(益佰)",
+          "grade": "4.01",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "疏肝益阳胶囊",
+          "grade": "1.05",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "药物性肝病",
+    "information": {
+      "introduction": "药物性肝病(drug induced liver disease)简称药肝，是指由于药物或/及其代谢产物引起的肝脏损害。可以发生在以往没有肝病史的健康者或原来就有严重疾病的病人，在使用某种药物后发生程度不同的肝脏损害，均称药肝。目前至少有600多种药物可引起药肝，其表现与人类各种肝病的表现相同，可以表现为肝细胞坏死、胆汁淤积、细胞内微脂滴沉积或慢性肝炎、肝硬化等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "药肝",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肝脏病变弥漫",
+          "恶心",
+          "上腹不适",
+          "肝淤血",
+          "食欲减退"
+        ],
+        "complication": [
+          "黄疸",
+          "肝硬化",
+          "肝性脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "90%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肝功能",
+          "CT检查",
+          "血清胆固醇",
+          "血清抗可溶性肝抗原抗体",
+          "血清总胆汁酸"
+        ],
+        "medicine": [
+          "益肝乐胶囊",
+          "复方垂盆草糖浆",
+          "注射用还原型谷胱甘肽"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益肝乐胶囊(天翼)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方垂盆草糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性湿疹",
+    "information": {
+      "introduction": "急性湿疹是内外激发因素相互作用所引起的一种迟发型可变态反应。其临床表现具有对称性、渗出性、瘙痒性、多形性和复发性、接触传染性等特点。也是一种过敏性炎症性皮肤病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "体质敏感者多发",
+        "symptom": [
+          "剧痒",
+          "多形红斑样皮疹",
+          "粟粒样丘疹",
+          "脓疱",
+          "结痂"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "皮敏消胶囊",
+          "除湿止痒软膏",
+          "热痱搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "除湿止痒软膏(天联)",
+          "grade": "2.68",
+          "total": "43",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "热痱搽剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羌月乳膏(健民)",
+          "grade": "4.5",
+          "total": "5",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "病态窦房结综合征",
+    "information": {
+      "introduction": "病态窦房结综合征，病窦综合征或病窦，又称窦房结功能不全。是由于窦房结或其周围组织(亦可包括心房、房室交接区等)的器质性病变，导致窦房结冲动形成障碍和冲动传出障碍而产生的心律失常和多种症状的综合病征。主要以窦性心动过缓、窦房传导阻滞、窦性停搏为主，当合并快速性心律失常反复发作时出现心动过缓-心动过速综合征。大多于40岁以上出现症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "病窦综合征,呆钝窦房结综合征,窦房晕厥,惰性窦房结",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "大多数患者在40岁以上出现症...",
+        "symptom": [
+          "记忆力障碍",
+          "心动过缓",
+          "心动过速",
+          "心动过缓",
+          "心动过速"
+        ],
+        "complication": [
+          "眩晕",
+          "猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "需要终身治疗，目前不能治愈",
+        "duration": "需要终身治疗",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "心肝宝胶囊",
+          "宁心宝胶囊",
+          "体外起搏器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(宇宙)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "氟斑牙",
+    "information": {
+      "introduction": "氟牙症又称氟斑牙或斑釉牙（mottled enamel），此症具有地区性，为慢性氟中毒病早期最常见而突出的症状。氟牙症在世界各国均有报告。我国氟牙症流行区很多，东北、内蒙、宁夏、陕西、山西、甘肃、河北、山东、贵州、福建等地都有慢性氟中毒区。氟中毒病关系人民健康，严重者同时患氟骨症，应引起高度重视。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "氟牙症,斑釉牙",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "牙齿上白垩色到褐色的斑块",
+          "恶心",
+          "虚脱",
+          "牙齿上白垩色到褐色的斑块",
+          "牙釉质腐蚀"
+        ],
+        "complication": [
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血浆氟化物"
+        ],
+        "medicine": [
+          "补肾固齿丸",
+          "黄连上清丸",
+          "西帕依固龈液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "补肾固齿丸(九芝堂)",
+          "grade": "4.17",
+          "total": "32",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "黄连上清丸(同仁堂)",
+          "grade": "3.95",
+          "total": "51",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "西帕依固龈液(奇康)",
+          "grade": "4.40",
+          "total": "22",
+          "secondary": "13"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃溃疡出血",
+    "information": {
+      "introduction": "胃十二指肠溃疡出血也是溃疡病常见并发症。小量出血往往没有临床症状。仅在大便隐血试验时发现。出血量大于500ml时，即为大出血，主要表现为呕血、便血和不同程度的贫血。在溃疡病住院病人当中，有大约10%是因为大出血而住院。虽然出血在所有并发症中所占比例最大，但近来出血在消化性溃疡并发症中所占比例更有所上升。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "胃十二指肠疾病继发",
+        "symptom": [
+          "消化道穿孔",
+          "便血",
+          "呼吸急促",
+          "良性溃疡改变",
+          "胃部隐痛"
+        ],
+        "complication": [
+          "胃穿孔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约10000--30000元",
+        "ratio": "治愈率96%",
+        "duration": "手术治疗周期15天",
+        "method": [
+          "药物治疗、输血治疗、手术治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "中心静脉压",
+          "红细胞压积(HCT)",
+          "凝血时间",
+          "胃液隐血试验"
+        ],
+        "medicine": [
+          "枸橼酸铋雷尼替丁片",
+          "奥美拉唑肠溶片",
+          "云南红药胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "八味西红花止血散",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "八味西红花止血散",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "八味西红花止血散",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "云南红药散",
+          "grade": "4.66",
+          "total": "12",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "云南红药散",
+          "grade": "4.66",
+          "total": "12",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "云南红药散",
+          "grade": "4.66",
+          "total": "12",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃寒呕吐",
+    "information": {
+      "introduction": "胃寒呕吐是因真阳不足，脾胃虚寒不能运化水谷所致的呕吐。见《症因脉治·呕吐论》。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "胃寒疼痛",
+          "反胃",
+          "肚子疼",
+          "肢体发凉",
+          "面色苍白"
+        ],
+        "complication": [
+          "发作性睡病",
+          "颅咽管瘤",
+          "副鼻窦炎",
+          "新生儿泪囊炎",
+          "功能性呕吐"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "治愈率99.2%",
+        "duration": "治疗周期15天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "血清甲型肝炎抗原",
+          "血清甲型肝炎抗体",
+          "尿对羟苯丙酮酸",
+          "基础胃液分泌量"
+        ],
+        "medicine": [
+          "止咳宁嗽胶囊",
+          "纯阳正气丸",
+          "参桂理中丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止咳宁嗽胶囊(沸安平)",
+          "grade": "3.0",
+          "total": "21",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "纯阳正气丸",
+          "grade": "4.33",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参桂理中丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "温胃降逆颗粒(仙宝)",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃痛散",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "阿那日八味散",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "七味胃痛胶囊",
+          "grade": "3.04",
+          "total": "6",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人痛风",
+    "information": {
+      "introduction": "痛风是由于遗传性和(或)获得性尿酸生成过多和(或)排泄减少引起的一组异质性疾病。其临床特点是：高尿酸血症及尿酸盐结晶，沉积所致的急性关节炎、痛风石、慢性痛风关节炎、痛风性肾病。上述表现可单独或联合存在。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年人高尿酸血症,老年人尿酸盐贮积病,老年痛风",
+        "part": [
+          "血液血管",
+          "关节",
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "多见于肥胖的中老年男性和绝...",
+        "symptom": [
+          "头痛",
+          "剧痛",
+          "背痛",
+          "热痛",
+          "等渗尿"
+        ],
+        "complication": [
+          "高血压",
+          "糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、饮食调理"
+        ],
+        "examination": [
+          "关节镜",
+          "尿常规",
+          "肾功能",
+          "白细胞数",
+          "关节腔液检查"
+        ],
+        "medicine": [
+          "奥沙普秦肠溶片",
+          "苯溴马隆片",
+          "双氯芬酸钠缓释片(Ⅰ)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "气管支气管异物",
+    "information": {
+      "introduction": "气管支气管异物(foreign body of trachea and bronchus)是临床常见急症。异物可存留在喉咽腔、喉腔、气管和支气管内，引起声嘶、呼吸困难等，右支气管较粗短长，故异物易落入右主支气管。75%发生于2岁以下的儿童。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺",
+          "气管"
+        ],
+        "infection": "无传染性",
+        "people": "75%发生于2岁以下的儿童。",
+        "symptom": [
+          "脓肿",
+          "哮鸣音",
+          "气管隆突以上的损伤",
+          "呛咳",
+          "胸闷憋气"
+        ],
+        "complication": [
+          "肺炎",
+          "肺脓肿",
+          "肺气肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元）",
+        "ratio": "80-90%",
+        "duration": "1-2周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "流速容量",
+          "耳鼻咽喉CT",
+          "胸部平片",
+          "支气管舒张试验",
+          "等流量容积"
+        ],
+        "medicine": [
+          "硫酸沙丁胺醇胶囊",
+          "多索茶碱片",
+          "小儿支气管内窥镜"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "纵隔肿瘤",
+    "information": {
+      "introduction": "纵隔位于两侧肺之间，以胸骨和胸椎为其前后界。内有许多重要器官，有大血管、气管、主支气管、心包、食管、胸腺及大量脂肪、神经和淋巴管等组织，因先天发育过程异常或后天性囊肿或肿瘤形成，就成为纵隔肿瘤。纵隔内肿瘤种类繁多，有原发的、有转移的，原发肿瘤中以良性多见，但也有相当一部分为恶性。为标明病变在纵隔所在部位，可将纵隔划分为若干部分，以胸骨与第4胸椎下缘水平分为上、下两部，将含有很多重要器官的纵隔间隙称为“内脏器官纵隔”(中纵隔)，右气管、心包前的间隙为前纵隔;在气管、心包后方(包括食管和脊柱旁纵隔)称为后纵隔。\n据国内统计资料显示，纵隔肿瘤发病率以神经源性肿瘤占第一位，其次为畸胎类、胸腺肿瘤和甲状原肿瘤，各种囊性肿瘤最少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "纵膈"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胸痛",
+          "面部水肿",
+          "吞咽困难",
+          "胸痛",
+          "胸闷"
+        ],
+        "complication": [
+          "胸腺瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "40%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "胸部CT",
+          "胸透",
+          "胸部平片",
+          "胸部B超 "
+        ],
+        "medicine": [
+          "平消胶囊",
+          "甲氨蝶呤片",
+          "立体定向伽玛射线全身治疗系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胫腓骨骨折",
+    "information": {
+      "introduction": "胫腓骨骨干骨折（小腿骨折）在全身骨折中最为常见，10岁以下儿童尤为多见。其中以胫骨干单骨折最多，胫腓骨干双折次之，腓骨干单骨折最少。胫骨是连接股骨下方的支承体重的主要骨骼，腓骨是附连小腿肌肉的重要骨骼，并承担1/6的承重。胫骨中下1/3处形态转变，易于骨折，胫量上1/3骨折移位，易压迫腘动脉，造成小腿下段严重缺血坏疽，胫骨中1/3骨折瘀血可关闭在小腿的骨筋膜室，增加室内压力造成缺血性肌挛缩成坏疽。胫骨中下1/3骨折使滋养动脉断裂，易引起骨折，延迟愈合。儿童有时也可见胫腓骨的“青枝骨折”，长跑运动员也可见到腓骨的“疲劳性骨折”。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "小腿"
+        ],
+        "infection": "无传染性",
+        "people": "多见儿童和青壮年",
+        "symptom": [
+          "胫骨压痛",
+          "胫骨疼痛",
+          "腓肠肌撕裂",
+          "外踝呈现凹陷",
+          "挤压伤"
+        ],
+        "complication": [
+          "创伤性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 10000元）",
+        "ratio": "99%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血管彩超",
+          "骨与关节MRI",
+          "CT检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "伸筋丹胶囊",
+          "无敌丹胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "无敌丹胶囊(王子荣)",
+          "grade": "2.02",
+          "total": "13",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

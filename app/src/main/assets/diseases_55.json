@@ -1,0 +1,988 @@
+[
+  {
+    "disease_name": "乳糜尿",
+    "information": {
+      "introduction": "乳糜尿是指含乳糜微粒（大颗粒脂肪与载脂蛋白发生球状结合形成的脂蛋白，因其颗粒较大而能使光散射，故外观混浊呈乳白色，密度小而静置后浮于尿液顶层，故最上层为脂肪层，包含乳糜微粒和单纯脂肪）的乳白色浑浊尿液.如果尿中还同时含有红细胞，则外观呈乳红色，称乳糜血尿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳糜尿症",
+        "part": [
+          "淋巴",
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "水肿",
+          "尿潴留",
+          "消瘦",
+          "乏力",
+          "乳白色尿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿中寄生虫检查",
+          "尿透明度",
+          "微丝蚴"
+        ],
+        "medicine": [
+          "伊维菌素片",
+          "伊维菌素胶囊",
+          "五淋化石丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五淋化石丸(三鹤药业)",
+          "grade": "1.97",
+          "total": "14",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "五淋化石胶囊(安可通)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "水蜈蚣颗粒",
+          "grade": "4.37",
+          "total": "86",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "五淋化石胶囊(繁江)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五淋化石丸",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "不安腿综合征",
+    "information": {
+      "introduction": "不安腿综合征(restless legs syndrome，RLS)又称多动腿综合征或不宁腿综合征。RLS在各年龄组皆可发病，但多见于40岁以上的壮年。症状主要发生在两下肢，但亦可累及大腿和足部，可以一侧为重，或仅限于一侧下肢，但上肢和手部则很少受累。受累的患肢深部酸、麻痛灼热、虫爬样、瘙痒样等多种痛苦感觉为主要表现的发作性疾病。症状在休息时出现，而在白天工作，劳动或运动时不出现症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "不安腿综合症,不宁腿综合征,多动腿综合征,肌性焦热,腿风,腿部神经过敏症,无力性脚感觉异常症",
+        "part": [
+          "周围神经系统",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人，女性多于男性",
+        "symptom": [
+          "疼痛",
+          "不自主运动",
+          "烦躁不安",
+          "骨痒",
+          "不宁腿综合征"
+        ],
+        "complication": [
+          "失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "70-90%(一般在正规综合三甲医院的典型病例治愈率（治愈率低，但药物治疗缓解率达70-90%）)",
+        "duration": "1-2年(国内最认可的有效治疗...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清肌酐",
+          "维生素B12",
+          "血清促甲状腺激素",
+          "血清铁蛋白",
+          "血清铁"
+        ],
+        "medicine": [
+          "卡马西平片",
+          "卡马西平片",
+          "舒更胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒更胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒更片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒更片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒更片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢破裂",
+    "information": {
+      "introduction": "卵巢成熟泡或黄体由于某种原因引起包壁破损，出血，严重者可造成大量腹腔内出血，即为卵巢破裂，故有卵泡破裂及黄体或黄体囊肿破裂两种。卵巢黄体破裂，有一定的危险性。已、未婚妇女均可发生，以生育期年龄为最多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "卵泡破裂,黄体破裂,黄体囊肿破裂",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "妇女",
+        "symptom": [
+          "剧痛",
+          "内出血",
+          "囊肿",
+          "宫颈举痛",
+          "卵巢功能障碍"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "妇产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 7000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "双合诊",
+          "中性粒细胞计数",
+          "妇科B超",
+          "白细胞数"
+        ],
+        "medicine": [
+          "桂枝茯苓胶囊",
+          "安康欣胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "不孕症",
+    "information": {
+      "introduction": "不孕症是指以育龄期女子婚后或末次妊娠后，夫妇同居2年以上，男方生殖功能正常，未避孕而不受孕为主要表现的疾病。婚后2年从未受孕者称为原性不孕;曾有过生育或流产，又连续2年以上不孕者，称为继发性不孕。绝对性不孕系指夫妇双方不论是哪方有先天性或后天性的严重解剖学上的异常或生理性缺陷，不论采用何种方法治疗均无法矫治成功，而致不孕的一种临床征象，如先天性无子宫。相对性不孕系指造成受孕困难的某种病因降低了生育能力，致使患者暂时不能受孕，但通过治疗仍能受孕，如子宫发育不良等。不孕症的发生率约占生育年龄妇女的8%～17%,平均为10%左右。不孕症发病率的递增趋势可能与晚婚晚育、人工流产、性传播疾病等相关。常见的有卵巢性不孕、外阴阴道性不孕、宫颈性不孕、子宫性不孕、输卵管性不孕、染色体异常性不孕、免疫性不孕。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "不孕不育,不孕,女性不孕",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "成年人群，孕龄女性",
+        "symptom": [
+          "阴道不规则出血",
+          "阴道分泌物增多",
+          "月经稀少"
+        ],
+        "complication": [
+          "子宫肌瘤",
+          "阴道横隔",
+          "急性子宫内膜炎",
+          "乳腺增生",
+          "早泄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "一般经过特殊治疗后，95%能够治愈",
+        "duration": "2-3月",
+        "method": [
+          "对症治疗、中医中药治疗、试管培养"
+        ],
+        "examination": [
+          "自身免疫抗体检测",
+          "不孕不育的免疫学检查",
+          "不孕不育检查",
+          "促黄体生成素",
+          "宫颈粘液相合试验"
+        ],
+        "medicine": [
+          "地屈孕酮片",
+          "天紫红女金胶囊",
+          "麒麟丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天紫红女金胶囊(云南白药)",
+          "grade": "2.28",
+          "total": "25",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "麒麟丸(麒麟牌)",
+          "grade": "3.18",
+          "total": "16",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "麒麟牌 麒麟丸(麒麟丸)",
+          "grade": "4.96",
+          "total": "15",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "散结镇痛胶囊(康缘)",
+          "grade": "2.14",
+          "total": "51",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "克兰费尔特综合征",
+    "information": {
+      "introduction": "克兰费尔特综合征(Kleinfelte’s syndrome)(47，XXY)，是一种较常见的因染色体数目异常引起的并伴有多种异常表现的综合征。男性格外多了一条女性的性染色体。外表是男性，但通常阴茎比常人小，无生育能力，智力低下发生率增多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "先天性曲精管发育不全综合征,小睾丸症,先天性睾丸发育不全综合征,克氏征,XXY综合征",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "男性遗传",
+        "symptom": [
+          "智力减低",
+          "男子性功能障碍",
+          "无胡须",
+          "睾丸微小"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "中医科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--60000",
+        "ratio": "80%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "黄体生成素",
+          "睾酮",
+          "HCG",
+          "染色体"
+        ],
+        "medicine": [
+          "卡铂注射液",
+          "六味地黄丸",
+          "环孢素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "62",
+          "secondary": "62"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "多形红斑",
+    "information": {
+      "introduction": "多形渗出性红斑(erythema multiforme exudativum, EME)是一种皮肤－粘膜病的急性渗出性炎症，又称之为多形红斑(erythema multiforme, EM)。由于本病有渗出这一突出的表现特点，为此应称之为多形渗出性红斑更为确切；从病名上顾名思义概括得完全。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "多形渗出性红斑",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "以10～30岁发病率最高，20%为...",
+        "symptom": [
+          "水肿",
+          "关节酸痛",
+          "瘙痒",
+          "急性病容",
+          "局部灼热"
+        ],
+        "complication": [
+          "肺炎",
+          "结节性红斑"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "50%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "皮肤病的物理检查",
+          "尿蛋白定量",
+          "白细胞数",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "健民咽喉片",
+          "片仔癀胶囊",
+          "复方四环素泼尼松膜"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健民咽喉片(咽喉片(健民)",
+          "grade": "4.28",
+          "total": "37",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "片仔癀胶囊(片仔癀)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "手湿疹",
+    "information": {
+      "introduction": "手湿疹(hand eczema)是指局限于手部的湿疹，临床上较为常见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "手脱皮",
+          "瘙痒",
+          "鳞屑",
+          "皮肤干燥",
+          "脓疱"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500—— 1000元）",
+        "ratio": "80%",
+        "duration": "7-30天",
+        "method": [
+          "药物治疗、生活习惯调整"
+        ],
+        "examination": [
+          "皮肤真菌镜检"
+        ],
+        "medicine": [
+          "咪康唑氯倍他索乳膏",
+          "复方醋酸地塞米松乳膏",
+          "七参连湿疹膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "当归苦参丸(水蜜丸)",
+          "grade": "3.31",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "荨麻疹丸(龙泰)",
+          "grade": "2.90",
+          "total": "41",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "伤科灵喷雾剂",
+          "grade": "2.15",
+          "total": "34",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "皮肤病血毒丸(同仁堂)",
+          "grade": "3.69",
+          "total": "27",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(紫鑫)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈椎间盘突出症",
+    "information": {
+      "introduction": "颈椎病的起病原因主要是由于颈椎间盘的退行性变，其中包括髓核的膨隆、突出及脱出，均表示颈椎病的不同阶段。但是在临床上常可遇到突发性颈椎间盘突(脱)出症，而且大多数是以瘫痪为首发症状。早于1978年开始，作者从X线动力性侧位片上的梯形变及其他临床症状判定，并早期手术摘除髓核而取得满意疗效。此种类型者我们称之为“急性颈椎间盘突(脱)出症”。近年来MRI检查的开展，本病已为大家所证实。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性颈椎间盘突出症，颈突症",
+        "part": [
+          "颈部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "四肢瘫痪",
+          "腱反射亢进",
+          "颈椎间盘突出",
+          "颈部疼痛",
+          "头颈部活动受限"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "颈椎CT",
+          "脊柱运动试验"
+        ],
+        "medicine": [
+          "藤黄健骨丸",
+          "骨刺宁胶囊",
+          "当归拈痛丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "藤黄健骨丸(益馨康)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨刺宁胶囊(云中山)",
+          "grade": "3.34",
+          "total": "32",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "当归拈痛丸(老专家)",
+          "grade": "4.14",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿床",
+    "information": {
+      "introduction": "遗尿症俗称尿床，通常指小儿在熟睡时不自主地排尿。一般至4岁时仅20％有遗尿，10岁时5％有遗尿，有少数患者遗尿症状持续到成年期。没有明显尿路或神经系统器质性病变者称为原发性遗尿，约占70％～80％。继发于下尿路梗阻（如尿道瓣膜）、膀胱炎、神经原性膀胱（神经病变引起的排尿功能障碍）等疾患者称为继发性遗尿，患儿除夜间尿床外，日间常有尿频、尿急或排尿困难、尿流细等症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "遗尿症",
+        "part": [
+          "全身",
+          "心理",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "儿童尿床",
+          "尿急",
+          "习惯性尿裤",
+          "尿流变细或中断"
+        ],
+        "complication": [
+          "便秘",
+          "糖尿病",
+          "尿失禁",
+          "尿崩症",
+          "急性脊髓炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "泌尿系统CT",
+          "血清肿瘤基因P53抗体",
+          "低密度脂蛋白胆固醇(LDL-C)",
+          "脑电图"
+        ],
+        "medicine": [
+          "醒脾养儿颗粒",
+          "夜尿宁丸",
+          "酒石酸托特罗定片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "晕动病",
+    "information": {
+      "introduction": "晕动病（motion sickness）即晕车病、晕船病、晕机病和由于各种原因引起的摇摆、颠簸、旋转、加速运动等所致疾病的统称。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "晕车,晕船,晕机,晕动症",
+        "part": [
+          "颅脑",
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "晕动症",
+          "上腹不适",
+          "恶心",
+          "晕轮效应",
+          "出冷汗"
+        ],
+        "complication": [
+          "眩晕",
+          "眼球震颤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "药物、物理治疗"
+        ],
+        "examination": [
+          "心电图"
+        ],
+        "medicine": [
+          "茶苯海明片",
+          "清凉油",
+          "盐酸苯海拉明片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清凉油(天坛)",
+          "grade": "3.78",
+          "total": "19",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "晕宁软膏",
+          "grade": "4.5",
+          "total": "4",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血管神经性水肿",
+    "information": {
+      "introduction": "本病是一种发生于皮下组织较疏松部位或黏膜的局限性水肿。分获得性和遗传性两种类型，后者罕见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "巨大荨麻疹，血管性水肿，风水 ",
+        "part": [
+          "皮肤",
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "可见于任何年龄，但以青年居...",
+        "symptom": [
+          "寒战",
+          "发烧",
+          "呼吸困难",
+          "声音嘶哑"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "血液科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "腹部透视",
+          "血清C1q"
+        ],
+        "medicine": [
+          "盐酸苯海拉明片",
+          "盐酸阿米洛利片",
+          "盐酸左西替利嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天麻首乌片(国华)",
+          "grade": "3.33",
+          "total": "151",
+          "secondary": "107"
+        },
+        {
+          "medicine_name": "天舒胶囊",
+          "grade": "2.79",
+          "total": "27",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "天麻首乌片(德海)",
+          "grade": "3.24",
+          "total": "18",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "镇脑宁片(镇脑宁胶囊(东宝)",
+          "grade": "3.95",
+          "total": "53",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "自闭症",
+    "information": {
+      "introduction": "自闭症，又称孤独症，被归类为由于神经系统失调导致的发育障碍，其病征包括不完整的社交能力、沟通能力、兴趣和行为模式。自闭症是一种广泛性发展障碍，以严重的、广泛的社会相互影响和沟通技能的损害以及刻板的行为、兴趣和活动为特征的精神疾病。通过后天的特殊教育辅导，对自闭症患者进行早期干预治疗可以帮助其在后天社会适应能力方面的提高起到良好的作用。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "自闭",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "一般是儿童多",
+        "symptom": [
+          "社交恐惧",
+          "社交敏感性障碍",
+          "行为及情绪异常",
+          "抑郁"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神心理科",
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "CT检查"
+        ],
+        "medicine": [
+          "槟榔十三味丸",
+          "槟榔十三味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "槟榔十三味丸",
+          "grade": "1.46",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "槟榔十三味丸",
+          "grade": "4.14",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "斜视",
+    "information": {
+      "introduction": "斜视是指两眼不能同时注视目标，属眼外肌疾病。可分为共同性斜视和麻痹性斜视两大类。前者以眼位偏向颞侧，眼球无运动障碍，无复视为主要临床特征;麻痹性斜视则有眼球运动受限、复视，并伴眩晕、恶心、步态不稳等全身症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "斜眼",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "用眼姿势不良者",
+        "symptom": [
+          "视物模糊",
+          "复视",
+          "头痛",
+          "眼痛",
+          "畏光"
+        ],
+        "complication": [
+          "婴幼儿型内斜视",
+          "微小度数斜视",
+          "反向斜视",
+          "急性共同性斜视",
+          "周期性内斜视"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80--90%",
+        "duration": "7--30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "遮盖法",
+          "眼球运动检查",
+          "双眼平衡检查",
+          "屈光检查",
+          "视力"
+        ],
+        "medicine": [
+          "左旋多巴片",
+          "GMJ-B型弱视灸疗器",
+          "GMJ-B型弱视灸疗器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "女性慢性淋病",
+    "information": {
+      "introduction": "女性急性淋病如未充分治疗可转为慢性淋病。临床症状虽然轻微或不显著，但由于淋球菌可长期潜藏于尿道旁腺、前庭大腺或子宫颈腺深处，以后常反复发作，并为重要传染源。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "盆腔",
+          "女性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "女性所有人群",
+        "symptom": [
+          "下腹坠胀",
+          "白带增多",
+          "腰酸背痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "涂片",
+          "淋菌培养",
+          "淋球菌免疫学检测",
+          "药敏试验"
+        ],
+        "medicine": [
+          "头孢呋辛酯颗粒",
+          "甲磺酸加替沙星胶囊",
+          "甲磺酸加替沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性心力衰竭",
+    "information": {
+      "introduction": "慢性心力衰竭的临床表现与何侧心室或心房受累有密切关系。临床上左心衰竭最常见。左心衰竭的临床特点主要是由于左心房和（或）右心室衰竭引起肺瘀血、肺水肿；而右心衰竭的临床特点是由于右心房和（或）右心室衰竭引起体循环静脉瘀血和水钠潴留。在发生左心衰竭后，右心也常相继发生功能损害，最终导致全心衰竭。出现右心衰竭时，左心衰竭症状可有所减轻。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性充血性心力衰竭",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多发",
+        "symptom": [
+          "呼吸困难",
+          "疲乏",
+          "嗜睡",
+          "呼吸困难",
+          "劳力性呼吸困难"
+        ],
+        "complication": [
+          "心力衰竭",
+          "肝硬化",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "芪苈强心胶囊",
+          "硝酸异山梨酯片",
+          "琥珀酸美托洛尔缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "芪苈强心胶囊(以岭)",
+          "grade": "2.45",
+          "total": "90",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "参附强心丸(达仁堂)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "滋心阴胶囊(天施康)",
+          "grade": "4.22",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心脉隆注射液",
+          "grade": "2.72",
+          "total": "6",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

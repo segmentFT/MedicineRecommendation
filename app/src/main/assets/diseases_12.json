@@ -1,0 +1,1117 @@
+[
+  {
+    "disease_name": "登革热",
+    "information": {
+      "introduction": "登革热(dengue fever)是由伊蚊传播登革病毒(dengue virus)引起的急性传染病。主要通过埃及伊蚊或白纹伊蚊为媒介进行传播。其特点为急性起病，发热，全身肌肉、骨、关节痛，极度疲乏，皮疹，淋巴结肿大及血液白细胞、血小板减少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "波尔加热,古典登革热,五天热",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，小孩多数",
+        "symptom": [
+          "发烧",
+          "出血倾向",
+          "红斑样皮疹",
+          "头痛",
+          "关节疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约10000--30000元",
+        "ratio": "75%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗、对症治疗"
+        ],
+        "examination": [
+          "血凝抑制试验",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "复方金刚烷胺氨基比林片",
+          "小儿热速清糖浆",
+          "新雪颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿热速清糖浆(长垣)",
+          "grade": "2.63",
+          "total": "11",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "新雪颗粒(盛生)",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛瘘",
+    "information": {
+      "introduction": "肛管直肠瘘主要侵犯肛管，很少涉及直肠，故常称为肛瘘，是与会阴区皮肤相通的肉芽肿性管道，内口多位于齿线附近，外口位于肛周、皮肤处。整个瘘管壁由增厚的纤维组织组成，内复一层肉芽组织，经久不愈。发病率仅次于痔，多见于男性青壮年，可能与男性的性激素靶器官之一的皮脂腺分泌旺盛有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肛漏",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "直肠肛门内胀痛不适",
+          "肛周囊肿",
+          "肛门疼痛",
+          "排便障碍",
+          "肛周皮肤潮红"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "7--10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肛门指检"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星片",
+          "甲磺酸左氧氟沙星片",
+          "肛瘘探针"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健脾糕片",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "利胆片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "谷海生片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脂肪瘤",
+    "information": {
+      "introduction": "脂肪瘤(lipoma)是起源于脂肪组织的一种良性肿瘤。瘤周有一层薄的结缔组织包囊，内有被结缔组织束分成叶状成群的正常脂肪细胞。有的脂肪瘤在结构上除大量脂肪组织外，还含有较多结缔组织或血管，即形成复杂的脂肪瘤。全身任何部位的脂肪组织均可发生，但很少发生恶变。临床上常见发生于肩、背和臀部的皮肤下面。体积较大时需要手术治疗。较常见，多见于中年人(50～60岁)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "多见男性中青年",
+        "symptom": [
+          "无痛性硬实结节",
+          "皮下沉积所出现的粟粒样结节",
+          "皮下指头至鸽蛋大的肿块结节",
+          "皮下结节",
+          "纤维性钙化结节"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（1000-2000元)",
+        "ratio": "99%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "小金丸",
+          "平消胶囊",
+          "游离脂肪酸检测试剂盒(酶比色法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小金丸(九寨沟)",
+          "grade": "2.17",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "分泌性中耳炎",
+    "information": {
+      "introduction": "分泌性中耳炎(secretory otitis media)是以鼓室积液及听力下降为主要特征的中耳非化脓性炎性疾病。中耳积液可为浆液性漏出液或渗出液，亦可为粘液。本病命名尚不统一，有称为渗出性中耳炎、卡他性中耳炎、浆液性中耳炎、浆液-粘液性中耳炎、非化脓性中耳炎。中耳积涂粘稠呈胶状者，称胶耳(glue ear)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胶耳,中耳炎,渗出性中耳炎,卡他性中耳炎,非化脓性中耳炎",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "儿童。所有人群",
+        "symptom": [
+          "耳内发胀",
+          "耳道流脓",
+          "耳内疼痛",
+          "耳根部疼痛"
+        ],
+        "complication": [
+          "粘连性中耳炎",
+          "鼓室硬化症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "90%",
+        "duration": "2-4周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "语言检查法",
+          "耳廓检查",
+          "电测听",
+          "脑诱发电位",
+          "声阻抗"
+        ],
+        "medicine": [
+          "克拉霉素片",
+          "过氧化氢溶液",
+          "施保利通片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨关节炎",
+    "information": {
+      "introduction": "骨关节炎(osteoarthritis,OA)又称为骨关节病，退行性关节病和骨质增生，是一种最常见的关节疾病。该病不仅发生关节软骨损害，还累及整个关节，包括软骨下骨、韧带、关节囊、滑膜和关节周围肌肉，最终发生关节软骨退变、纤维化、断裂、溃疡及整个关节面的损害。典型的临床表现包括疼痛，僵硬和关节变形。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "骨关节病，退行性关节炎，老年性关节炎，肥大性关节炎等",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": " 中老年人 ，中年以后发病，...",
+        "symptom": [
+          "关节疼痛",
+          "关节畸形",
+          "关节肿大",
+          "关节积液",
+          "骨赘大量增生"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "骨科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "10%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "骨三相显象",
+          "四肢CT",
+          "人体各关节功能活动范围",
+          "坐位体前屈测试"
+        ],
+        "medicine": [
+          "硫酸氨基葡萄糖胶囊",
+          "骨肽片",
+          "腰痛宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "生殖器念珠菌病",
+    "information": {
+      "introduction": "生殖器念珠菌病主要是由白色念珠菌(candida albicans)感染所引起的一种常见的黏膜念珠菌病。可累及男女两性，男性中表现为念珠菌性包皮龟头炎，好发于包皮过长者;而女性中表现为外阴阴道念珠菌病好发于育龄妇女，以外阴瘙痒和阴道分泌物增多为主要表现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "念珠菌性外阴阴道炎,念珠菌性龟头包皮炎",
+        "part": [
+          "女性生殖",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "女性多见",
+        "symptom": [
+          "阴道分泌物增多",
+          "性交困难",
+          "白色恶露",
+          "丘疹",
+          "皮肤肥厚"
+        ],
+        "complication": [
+          "外阴炎",
+          "复发性外阴阴道念珠菌病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500—— 1000元）",
+        "ratio": "70%",
+        "duration": "8周",
+        "method": [
+          "中药、西药"
+        ],
+        "examination": [
+          "吞噬白色念珠菌功能试验"
+        ],
+        "medicine": [
+          "醋酸曲安奈德益康唑乳膏",
+          "克霉唑阴道泡腾片",
+          "氯碘羟喹乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胆汁返流性胃炎",
+    "information": {
+      "introduction": "胆汁返流性胃炎，也称硷性返流性胃炎，系指由于胆汁返流入胃所引起的上腹痛、呕吐胆汁、腹胀、体重减轻等一系列表现的综合征，常见于胃切除、胃肠吻合术后，总发病率约5%左右，其中BillrothⅡ式胃切除术后的发病率为BillrothⅠ术式的2～3倍。鉴于其症状、病理变化以及治疗反应与其他胃切除后综合征有所不同，Roberts等将本病从胃切除后并发症中分出，列为一种独立的病症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "碱性返流性胃炎",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "恶心",
+          "消瘦",
+          "腹胀",
+          "体重减轻",
+          "恶心与呕吐"
+        ],
+        "complication": [
+          "胃溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（800 —— 2000元）",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "酸返流试验",
+          "胃总酸度",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "养胃舒颗粒",
+          "胃炎宁颗粒",
+          "胃炎康胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "养胃舒颗粒",
+          "grade": "2.12",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(远达)",
+          "grade": "3.99",
+          "total": "172",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(万通)",
+          "grade": "4.14",
+          "total": "102",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(平康)",
+          "grade": "5.0",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(得尔)",
+          "grade": "4.44",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(万花山)",
+          "grade": "3.06",
+          "total": "16",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(鸿陶茂)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "4.6",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(索定)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "4.78",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊(甲清)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "4.12",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "4.69",
+          "total": "61",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃炎康胶囊",
+          "grade": "4.14",
+          "total": "8",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "破伤风",
+    "information": {
+      "introduction": "破伤风是由破伤风梭菌侵入人体伤口后，在厌氧环境下生长繁殖，产生嗜神经外毒素而引起全身肌肉强直性痉挛为特点的急性传染病。重型患者可因喉痉挛或继发严重肺部感染而死亡。新生儿破伤风由脐带感染引起，病死率很高。虽然世界卫生组织积极推行了全球免疫计划，据估计全世界每年仍有近百万破伤风病例，数十万新生儿死于破伤风。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "金疮痉,伤痉",
+        "part": [
+          "肌肉",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "喉头痉挛",
+          "角弓反张位",
+          "痉笑面容",
+          "全身骨骼肌痉挛",
+          "四肢抽搐"
+        ],
+        "complication": [
+          "褥疮",
+          "代谢性酸中毒",
+          "呼吸性酸中毒",
+          "肺炎",
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "外伤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "30%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "膝反射",
+          "颈项强直"
+        ],
+        "medicine": [
+          "琥乙红霉素片",
+          "硬脂酸红霉素颗粒",
+          "伤风停胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伤风停胶囊(云丰)",
+          "grade": "2.62",
+          "total": "38",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "伤风感冒茶(伤风感冒冲剂)(伤风感冒冲剂(花红)",
+          "grade": "1.5",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "斧标驱风油(斧标)",
+          "grade": "4.53",
+          "total": "158",
+          "secondary": "134"
+        },
+        {
+          "medicine_name": "风油精(白云山)",
+          "grade": "4.12",
+          "total": "67",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊(葵花)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "风油精(水仙)",
+          "grade": "4.84",
+          "total": "96",
+          "secondary": "81"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊(富华)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伤风停片(聚仁堂)",
+          "grade": "2.41",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病",
+    "information": {
+      "introduction": "糖尿病是由遗传和环境因素相互作用而引起的常见病，临床以高血糖为主要标志，常见症状有多饮、多尿、多食以及消瘦等。糖尿病可引起身体多系统的损害，引起胰岛素绝对或相对分泌不足以及靶组织细胞对胰岛素敏感性降低，引起蛋白质、脂肪、水和电解质等一系列代谢紊乱综合征。血糖显著升高可以出现糖尿病酮症酸中毒、高渗性昏迷等急性并发症，久病还可引起血管与神经病变，从而造成心、脑、肾、眼、神经、皮肤等多脏器组织损害，影响患者的生活质量，甚至导致寿命减短，应积极预防和治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "消渴",
+        "part": [
+          "胰腺",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "四十岁以上的中年人 ",
+        "symptom": [
+          "多饮",
+          "多尿",
+          "多食",
+          "消瘦",
+          "糖尿"
+        ],
+        "complication": [
+          "糖尿病乳酸性酸中毒",
+          "高渗性非酮症性糖尿病昏迷",
+          "糖尿病肾病",
+          "糖尿病足",
+          "妊娠合并糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "老年科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约1000-3000元",
+        "ratio": "药物可控制，不易根治",
+        "duration": ">120天(需要终身治疗)",
+        "method": [
+          "药物治疗、饮食疗法、运动治疗、心理治疗"
+        ],
+        "examination": [
+          "腰臀围比例",
+          "血糖",
+          "血脂",
+          "葡萄糖可的松耐量试验",
+          "尿葡萄糖"
+        ],
+        "medicine": [
+          "参芪降糖颗粒",
+          "糖脉康颗粒",
+          "奥利司他胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参芪降糖颗粒(鲁南)",
+          "grade": "4.23",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖脉康颗粒(升和)",
+          "grade": "2.16",
+          "total": "19",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "窦性心动过速",
+    "information": {
+      "introduction": "窦性心动过速(sinus tachycardia)是指成人窦房结冲动形成的速率超过每分钟100次，速率常在每分钟101-160次之间。窦性心动过速开始和终止时，其心率逐渐增快和减慢。。窦性心动过速是常见的心律失常。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "心动过速",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "心率增快",
+          "心悸",
+          "胸闷",
+          "心慌气短"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000 ——20000元",
+        "ratio": "20%-40%",
+        "duration": "3天-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "自主神经功能检查",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "盐酸普萘洛尔片",
+          "酒石酸美托洛尔片",
+          "盐酸美西律片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "气管炎",
+    "information": {
+      "introduction": "气管炎(chronic bronchitis)是由于感染或非感染因素引起的气管、支气管粘膜炎性变化，粘液分泌增多，临床上以长期咳嗽、咯痰或伴有喘息为主要特征。本病早期症状较轻，多在冬季发作，春暖后缓解，且病程缓慢，故不为人们注意。晚期病变进展，并发阻塞性肺气肿时，肺功能遭受损害，影响健康及劳动力极大。本病为我国常见多发病之一，发病年龄多在40岁以上，吸烟患者明显高于不吸烟患者，在我国患病率北方高于南方，农村较城市发病率稍高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "气管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "咳嗽",
+          "咳痰",
+          "吐白沫痰",
+          "痰呈粘液脓性",
+          "湿啰音"
+        ],
+        "complication": [
+          "急性支气管炎",
+          "支气管炎",
+          "老年人慢性支气管炎",
+          "急性细支气管炎",
+          "小儿慢性支气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000--8000元）",
+        "ratio": "95%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、中医治疗、针灸治疗、食疗"
+        ],
+        "examination": [
+          "WBC",
+          "胸透",
+          "胸部平片",
+          "痰液细菌涂片",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "支气管炎片",
+          "复方气管炎片",
+          "清肺消炎丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "3.99",
+          "total": "114",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方气管炎片(东秦牌)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "气管炎丸(同仁堂)",
+          "grade": "2.94",
+          "total": "26",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "强迫症",
+    "information": {
+      "introduction": "强迫性障碍(obsessive-compulsive disorder)简称强迫症，以反复出现强迫观念(obsession)为基本特征的一类神经症性障碍。强迫观念是以刻板形式反复进入患者意识领域的思想、表象或意向。这些思想、表象或意向对患者来说，是没有现实意义的，不必要的或多余的;患者意识到这些都是他自己的思想，很想摆脱，但又无能为力，因而感到十分苦恼。强迫动作是反复出现的刻板行为或仪式动作，是患者屈从于强迫观念力求减轻内心焦虑的结果。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "有不良个性特征的群体",
+        "symptom": [
+          "强迫行为",
+          "强迫观念"
+        ],
+        "complication": [
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "30%-70%(主要以精神性疏导治疗为主)",
+        "duration": "3-5年",
+        "method": [
+          "心理治疗、药物治疗"
+        ],
+        "examination": [
+          "健康体检",
+          "SPECT显像",
+          "颅脑MRI",
+          "CT检查",
+          "神经系统检查"
+        ],
+        "medicine": [
+          "尼麦角林片",
+          "吉祥安坤丸",
+          "盐酸舍曲林片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "吉祥安坤丸(阜药)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "先天性心脏病",
+    "information": {
+      "introduction": "先天性心血管病是先天性畸形中最常见的一类。随着心脏诊断方法及外科手术治疗技术的进展，目前绝大多数先天性心血管病均能获得明确的诊断和手术矫正治疗，预后较前有明显的改观。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "先心病,心脏病,小儿先心病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "先天性婴幼儿",
+        "symptom": [
+          "左心衰竭",
+          "右心衰竭",
+          "蹲踞现象",
+          "杵状指（趾）",
+          "紫绀"
+        ],
+        "complication": [
+          "脑脓肿",
+          "房间隔缺损",
+          "动脉导管未闭",
+          "肺炎",
+          "心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（50000-100000元）",
+        "ratio": "40%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "早孕检查",
+          "新生儿疾病筛查",
+          "心电图",
+          "胸部平片",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "地高辛片",
+          "琥乙红霉素片",
+          "地高辛片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肠炎",
+    "information": {
+      "introduction": "肠炎是细菌、病毒、真菌和寄生虫等引起的胃肠炎、小肠炎和结肠炎。临床表现有恶心、呕吐、腹痛、腹泻、稀水便或粘液脓血便。部分病人可有发热及里急后重感觉，故亦称感染性腹泻。肠炎按病程长短不同，分为急性和慢性两类。慢性肠炎病程一般在两个月以上，临床常见的有慢性细菌性痢疾、慢性阿米巴痢疾、血吸虫病、非特异性溃疡性结肠炎和限局性肠炎等。肠炎极为普 遍，全世界每年发病约30～50亿人次，尤以发展中国家发病率和病死率为高，特别是儿童。根据世界卫生组织统计，在发展中国家中，感染性腹泻是儿童发病率最高的传染病，病死率约为20%，仅在亚、非、拉地区，每年就要夺去约460万婴幼儿的生命。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，饮食不当的群体，...",
+        "symptom": [
+          "肚子疼",
+          "里急后重",
+          "体重减轻",
+          "低蛋白血症",
+          "便血"
+        ],
+        "complication": [
+          "阿米巴结肠炎",
+          "慢性溃疡性非肉芽肿性空肠回肠炎",
+          "老年人假膜性小肠结肠炎",
+          "小肠结肠炎耶尔森菌肠炎",
+          "弯曲菌肠炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "98%(经过系统治疗本病都能系统治愈，治愈率在98%以上。)",
+        "duration": "2--3天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "内镜检查",
+          "结肠造影",
+          "十二指肠钡餐造影",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "肠炎宁胶囊",
+          "肠炎宁胶囊",
+          "清热消炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肠炎宁胶囊(长谓安)",
+          "grade": "3.61",
+          "total": "72",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "肠炎宁胶囊",
+          "grade": "3.83",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "肠炎宁颗粒2克(葫芦娃)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "枫蓼肠胃康颗粒(常为康)",
+          "grade": "3.60",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "枫蓼肠胃康胶囊(奇力)",
+          "grade": "4.59",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠炎宁片(康恩贝)",
+          "grade": "3.86",
+          "total": "144",
+          "secondary": "120"
+        },
+        {
+          "medicine_name": "金胃泰胶囊(老方)",
+          "grade": "3.06",
+          "total": "25",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肠炎宁丸(摩美得)",
+          "grade": "3.5",
+          "total": "5",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "直肠息肉",
+    "information": {
+      "introduction": "直肠息肉是直肠良性肿瘤的一种，是直肠内有粘膜覆盖的肿物，呈小的结节状粘膜隆起或为大的带蒂的肿物，一般为单个，少数为多个，若很多息肉聚集直肠或累及结肠者谓之息肉病。息肉源于炎症的称炎性息肉;粘膜呈增生性改变的无蒂结节称增生性息肉;由肠上皮生长的有腺瘤性息肉、绒毛乳头状腺瘤息肉，此类息肉容易恶变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": " 男性较女性多见 ",
+        "symptom": [
+          "便血",
+          "脓血便",
+          "息肉",
+          "肛乳头肥大",
+          "息肉样损害"
+        ],
+        "complication": [
+          "直肠癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（2000 —— 4000元",
+        "ratio": "外科手术治愈率约为85%",
+        "duration": "2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "直肠指检",
+          "肛门指检"
+        ],
+        "medicine": [
+          "肠康片",
+          "止痢宁片",
+          "硫化钠薄荷脑溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肠康片(正清)",
+          "grade": "3.40",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止痢宁片",
+          "grade": "3.06",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

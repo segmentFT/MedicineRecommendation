@@ -1,0 +1,952 @@
+[
+  {
+    "disease_name": "椎动脉型颈椎病",
+    "information": {
+      "introduction": "椎动脉型颈椎病较之脊髓型颈椎病略为多见，因其中大多系由于椎节不稳所致，易经非手术疗法治愈或好转，故住院及需手术者较少。本型主要引起头痛症状，故又称之为上行性颈椎病，并易与多种引起头痛的疾患相混淆，在椎动脉影像学检查前常难以确诊。因此，其诊断问题常成为各有关科室之间容易引起争议的问题。颈椎病包括：颈型颈椎病、神经根型颈椎病、脊髓型颈椎病、椎动脉型颈椎病、交感神经型颈椎病、食管压迫型颈椎病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "上行性颈椎病",
+        "part": [
+          "颈部",
+          "脊柱",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "神经性耳鸣",
+          "记忆力障碍",
+          "口唇麻木",
+          "猝倒",
+          "颈性眩晕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（2000—— 5000元）",
+        "ratio": "85%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "引颈试验",
+          "颈椎CT"
+        ],
+        "medicine": [
+          "伸筋丹胶囊",
+          "颈复康颗粒",
+          "根痛平片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "颈复康颗粒(颈复康)",
+          "grade": "2.44",
+          "total": "286",
+          "secondary": "220"
+        },
+        {
+          "medicine_name": "根痛平片(燕峰)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈通颗粒",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺动脉高压",
+    "information": {
+      "introduction": "﻿肺动脉高压是一种极度严重的疾病。75%患者集中于20～40岁年龄段，15%患者年龄在20岁以下。肺动脉高压的症状包括：呼吸短促、易于疲劳、晕厥、胸痛以及腿部和踝部水肿。此外，心脏听诊可闻P2亢进。如果不及时治疗，患者的肺动脉高压会逐步加重，甚至使寿命缩短。多数肺动脉高压相关的症状源自右心衰竭。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺动脉高血压,肺动脉高血压症,肺动脉高压症,肺动脉血压过高",
+        "part": [
+          "肺",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体，75%患者集中...",
+        "symptom": [
+          "劳力性呼吸困难",
+          "胸痛",
+          "乏力",
+          "声音嘶哑",
+          "肝脏肿大"
+        ],
+        "complication": [
+          "慢性肺源性心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "20%",
+        "duration": "14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心电图",
+          "胸部平片",
+          "肺活检",
+          "二维超声心动图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "吸入用伊洛前列素溶液",
+          "硝酸甘油片",
+          "吸入用伊洛前列素溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "潜伏梅毒",
+    "information": {
+      "introduction": "梅毒是由梅毒螺旋体感染引起的一种慢性全身性性传播疾病。主要通过性交传染。本病表现极为复杂，几乎可侵犯全身各器官，造成多器官的损害。如一期梅毒感染部位的溃疡或硬下疳；二期梅毒的皮肤粘膜损害及淋巴结肿大；三期梅毒的心脏、神经、胃、眼、耳受累及树胶肿损害等，梅毒还可通过胎盘传给下一代，引起新生儿先天性梅毒，危害极大。由于梅毒严重的危害人类健康，是我国卫生部规定的8种重点防治性病之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "隐性梅毒",
+        "part": [
+          "全身",
+          "女性生殖",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群（不洁性史者居多）",
+        "symptom": [
+          "梅毒感染",
+          "外阴皮肤肿胀",
+          "粘膜疹",
+          "粘膜疹",
+          "外阴皮肤肿胀"
+        ],
+        "complication": [
+          "梅毒",
+          "三期梅毒",
+          "潜伏梅毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "非梅毒螺旋体抗原血清试验",
+          "梅毒血清试验",
+          "梅毒螺旋体血球凝集试验",
+          "梅毒螺旋体抗原血清试验",
+          "血清梅毒螺旋体抗体"
+        ],
+        "medicine": [
+          "琥乙红霉素胶囊",
+          "十三味菥蓂丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十三味菥蓂丸",
+          "grade": "2.02",
+          "total": "34",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膝关节半月板损伤",
+    "information": {
+      "introduction": "膝关节半月板损伤是膝关节的常见疾患。半月板位于胫骨关节面上，有内侧和外侧半月形状骨。内侧半月板呈“C”形，前角附着于前十字韧带附着点之前，后角附着于胫骨髁间隆起和后十字韧带附着点之间，其外缘中部与内侧副韧带紧密相连。外侧半月板呈“O”形，其前角附着于前十字韧带附着点之前，后角附着于内侧半月板后角之前，其外缘与外侧副韧带不相连，其活动度较内侧半月板为大。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膝部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "创伤",
+          "关节肿胀",
+          "膝盖砸伤肿痛",
+          "肌肉萎缩",
+          "囊肿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "交锁征",
+          "半月板损伤的体征",
+          "回旋研磨试验",
+          "蹲下试验",
+          "膝关节过伸试验"
+        ],
+        "medicine": [
+          "关节止痛膏",
+          "活血止痛胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "关节止痛膏(万通)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "活血止痛胶囊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "垂体瘤",
+    "information": {
+      "introduction": "脑垂体瘤(Pituitary adenoma)系良性腺瘤，相当常见，约10万人口中即有l例，近年来有 增多趋势，特别是育龄妇女。北京市神经外科研究所报告脑垂体瘤占颅内肿瘤的12.2%。垂体位于颅底蝶鞍窝内上方为鞍隔，分开视交叉和第三脑室底部，下方为蝶窦。垂体柄穿过鞍隔，连接下丘脑和垂体，垂体柄由血管和神经组成，垂体两侧为静脉海绵窦，其内有颈内动脉、动眼神经、滑车神经、外展神经和三叉神经第一交通过。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑垂体瘤,垂体腺瘤,脑垂体腺瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年人群",
+        "symptom": [
+          "交感神经代偿性亢进",
+          "视力障碍",
+          "视野缺损",
+          "头痛",
+          "视力障碍"
+        ],
+        "complication": [
+          "尿崩症",
+          "脑膜炎",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-10000元）",
+        "ratio": "70%",
+        "duration": "一个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "脑垂体CT",
+          "头颅平片",
+          "催乳素",
+          "MRI",
+          "蛋白结合碘（PBI）"
+        ],
+        "medicine": [
+          "硫酸长春碱",
+          "卡莫司汀注射液",
+          "注射用醋酸兰瑞肽"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "鼻中隔偏曲",
+    "information": {
+      "introduction": "鼻中隔偏曲（deviation of nasal septum）是指鼻中隔偏离中线且引起临床症状的一种鼻内畸型。事实上大多数人的鼻中隔都有程度不同的偏曲，但是否引起鼻部症状，常取决于下列因素：①偏曲的程度和形式，如有的呈明显局部突起，该部正处于鼻瓣区；②鼻甲骨气化程度；③梨状孔外侧缘骨质或鼻瓣区软骨有否畸形等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "有鼻外伤史，儿童期患腺样体...",
+        "symptom": [
+          "鼻塞",
+          "鼻塞及反射性头痛",
+          "鼻中隔向一侧或两则弯曲",
+          "头痛",
+          "鼻衄"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "治愈率99%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "鼻部检查",
+          "鼻中隔"
+        ],
+        "medicine": [
+          "哈西奈德溶液",
+          "升血小板胶囊",
+          "氯雷他定片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "升血小板胶囊(郝其军)",
+          "grade": "2.06",
+          "total": "15",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血友病",
+    "information": {
+      "introduction": "血友病分为 A 、B 两型。血友病A(hemophilia A)是凝血因子 VIII 缺乏所导致的出血性疾病，约占先天性出血性疾病的 85% 。根据世界卫生组织(WHO)和世界血友病联盟(WHF)1990年联合会议的报告，血友病A的发病率约为 15～20/10万人口，欧美各国统计，约为5～10/10万人，中国血友病 A 发病率约为3～4/10万人口。血友病B(hemophilia B)，称因子IX缺乏症或Christmas病，发病率约1.0～1.5/105，占血友病的15%～20%。因子IX的基因长34kb，位于X染色体长臂，有8个外显子和7个内含子。因子IX为一种依赖性维生素K 的血浆蛋白，相对分子量为5.6万，合成部位在肝脏。血友病A、B治疗相似，采用替代疗法，可选用血浆、凝血酶原复合物(PCC)、因子IX浓缩物和重组因子IX制品等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血溢病",
+        "part": [
+          "脊髓",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "常幼年发病",
+        "symptom": [
+          "皮肤出血斑",
+          "关节腔内出血",
+          "肌肉出血",
+          "拔牙后伤口经久不愈",
+          "关节肿胀"
+        ],
+        "complication": [
+          "缺血性坏死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（30000-50000元）",
+        "ratio": "10%",
+        "duration": "1-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血浆凝血因子IX活性",
+          "血浆凝血因子XI活性",
+          "血浆因子Ⅷ抑制物定性",
+          "抗凝血酶Ⅲ活性和抗凝血酶Ⅲ抗原",
+          "凝血时间"
+        ],
+        "medicine": [
+          "紫地宁血散",
+          "去痛片",
+          "重型血友病A FⅧ基因内含子22倒位基因检测试剂盒(LD-PCR法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "紫地宁血散",
+          "grade": "3.75",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "血宁胶囊(烟台)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血宁糖浆",
+          "grade": "2.72",
+          "total": "21",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "血宁片(烟台)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血宁片(中兴汉方)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑积水",
+    "information": {
+      "introduction": "脑积水是脑脊液生成或循环吸收过程发生障碍而致脑脊液量过多，压力增高，扩大了正常脑脊液所占有的空间，从而继发颅压增高、脑室扩大的总称。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，婴幼儿",
+        "symptom": [
+          "头痛",
+          "恶心与呕吐",
+          "视力障碍",
+          "视乳头水肿",
+          "复视"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "针灸科"
+        ],
+        "cost": "市三甲医院约（5000-20000元）",
+        "ratio": "40%",
+        "duration": "30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "X线头影测量",
+          "颅骨透照试验",
+          "颅脑CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "吡拉西坦片",
+          "二维三七桂利嗪胶囊",
+          "脑积水分流器及其附件"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "铅中毒",
+    "information": {
+      "introduction": "小儿铅中毒(lead poisoning)大多经消化道摄入引起，引起急性铅中毒的口服剂量约为5mg/kg。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "恶心与呕吐",
+          "乏力",
+          "心悸",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "血液科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "97%",
+        "duration": "30天",
+        "method": [
+          "药物治疗、饮食治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿铅",
+          "螯合剂驱铅试验",
+          "血清非结合胆红素",
+          "血清铅"
+        ],
+        "medicine": [
+          "秘诀清凉散",
+          "强肝胶囊",
+          "多烯磷脂酰胆碱胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "秘诀清凉散(神水藏药)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(同仁堂)",
+          "grade": "2.24",
+          "total": "84",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "房颤",
+    "information": {
+      "introduction": "心房颤动(atrial fibrillation，Af)简称房颤，是最常见的心律失常之一，是由心房主导折返环引起许多小折返环导致的房律紊乱。房颤总的发病率为0.4%，随着年龄增长房颤的发生率不断增加，75岁以上人群可达10%。房颤时心房激动的频率达300~600次/分，心跳频率往往快而且不规则，有时候可以达到100~160次/分，不仅比正常人心跳快得多，而且绝对不整齐，心房失去有效的收缩功能。我国大规模调查研究显示房颤患病率为0.77%，男性房颤患病率(0.9%)高于女性(0.7%)，80岁以上房颤患病率达7.5%。此外房颤患病率的增长还会与冠心病、高血压病和心力衰竭等疾病的增长密切相关，未来50年房颤将成为最流行的心血管疾病之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "心房颤动,心房纤维颤动",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": " 老年人 ",
+        "symptom": [
+          "胸闷",
+          "脑缺氧",
+          "乏力",
+          "心悸",
+          "心跳加快"
+        ],
+        "complication": [
+          "心律失常",
+          "周围动脉栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（10000-30000元）",
+        "ratio": "40%",
+        "duration": "20天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "血心钠肽",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "地高辛片",
+          "阿司匹林肠溶胶囊",
+          "盐酸胺碘酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "红斑狼疮",
+    "information": {
+      "introduction": "红斑狼疮为自身免疫性疾病之一，属结缔组织病范围，红斑狼疮分为盘状红斑狼疮(DLE)，系统性红斑狼疮(SLE)、亚急性皮肤型红斑狼疮、深部红斑狼疮等类型。红斑狼疮的发病缓慢，隐袭发生，临床表现多样、变化多端。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "SLE, 系统性红斑狼疮",
+        "part": [
+          "免疫系统",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "红斑结节",
+          "盘状红斑",
+          "肌痛",
+          "脾大",
+          "多形红斑样皮疹"
+        ],
+        "complication": [
+          "ARDS",
+          "肠套叠"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元",
+        "ratio": "60%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血流变学检查",
+          "狼疮带试验",
+          "抗核抗体",
+          "红斑狼疮细胞",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "吗替麦考酚酯胶囊",
+          "他克莫司胶囊",
+          "硫酸羟氯喹片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "狼疮丸(强列)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "薄芝片(浙南)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "昆明山海棠片(维和)",
+          "grade": "4.2",
+          "total": "19",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "湿疹",
+    "information": {
+      "introduction": "湿疹(eczema)是一种常见的由多种内外因素引起的表皮及真皮浅层的炎症性皮肤病，好发于头面、四肢屈侧及会阴等部位。有些病人直接表现为慢性湿疹。其特点为剧烈瘙痒，皮损多形性，对称分布，有渗出倾向，易反复发作。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "过敏性炎症性皮肤病,湿疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "慢性湿疹样变",
+          "瘙痒",
+          "干燥型湿疹",
+          "渗出型湿疹",
+          "肛门湿疹瘙痒"
+        ],
+        "complication": [
+          "疣",
+          "湿疹",
+          "皮肤病",
+          "外阴湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "20%",
+        "duration": ">120天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "鼻前庭",
+          "皮肤试验",
+          "激发试验",
+          "血清免疫球蛋白A"
+        ],
+        "medicine": [
+          "莫匹罗星软膏",
+          "皮敏消胶囊",
+          "二妙丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "二妙丸(同仁堂)",
+          "grade": "3.21",
+          "total": "84",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "当归苦参丸(水蜜丸)",
+          "grade": "3.31",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "荨麻疹丸(龙泰)",
+          "grade": "2.90",
+          "total": "41",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "伤科灵喷雾剂",
+          "grade": "2.15",
+          "total": "34",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "皮肤病血毒丸(同仁堂)",
+          "grade": "3.69",
+          "total": "27",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(紫鑫)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿肥胖症",
+    "information": {
+      "introduction": "儿童肥胖症的标准一般指体重超过同性别、同年龄健康儿或同身高健康儿平均体重的2个标准差;或超过同年龄、同性别平均体重的20%。临床多见单纯由于饮食过多所引起的肥胖，称单纯性肥胖症。近年来单纯性肥胖症的发病率在我国有增多趋势，儿童时期的肥胖症可为成人肥胖症、高血压、冠心病及糖尿病等的先驱病，因而它又是一个慢性的代谢异常疾病，故应引起重视并及早加以预防。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "儿童期单纯肥胖症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "肥胖症可见于任何年龄小儿，...",
+        "symptom": [
+          "体重增加",
+          "重度肥胖",
+          "疲劳",
+          "腹部皮肤出现白纹、粉红色或紫纹",
+          "气短"
+        ],
+        "complication": [
+          "黑棘皮病",
+          "糖尿病",
+          "疖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "治愈率咋80%",
+        "duration": "2-3年",
+        "method": [
+          "饮食疗法、药物治疗"
+        ],
+        "examination": [
+          "血清生长激素",
+          "淋巴细胞数",
+          "血清胆固醇",
+          "BMI指数",
+          "心电图"
+        ],
+        "medicine": [
+          "泻火解毒片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "泻火解毒片(德善)",
+          "grade": "2.50",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "癣菌疹",
+    "information": {
+      "introduction": "癣菌疹(trichophytid)是皮肤对所感染皮肤癣菌表现的一种继发性变应性炎症反应。原发感染灶多由亲动物性真菌引起，炎症反应强烈，如脓癣，浸渍糜烂型或汗疱型足癣等。许兰毛癣菌也可引起癣菌疹。局部真菌代谢产物具有抗原性，随着血液循环到达皮肤，在全身和局部皮肤引起变态反应。这种继发性皮疹真菌检查阴性，毛癣菌素试验阳性，随着原发真菌感染灶的治愈，皮疹逐渐消失。原皮肤癣菌病活动性病灶周围皮肤或远离病灶部位皮肤突然发生红斑、丘疹或水疱性损害，常伴瘙痒。皮损无特异性，常以某一种形态为主。有原发真菌感染灶，发疹部位真菌阴性，毛癣菌素试验阳性，排除类似疾病即可确诊。系统治疗 有全身症状者可口服抗组胺药。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "毛(发)癣菌疹,毛癣菌疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "常接触动物者",
+        "symptom": [
+          "足癣",
+          "瘙痒",
+          "结节",
+          "丘疹",
+          "疱疹"
+        ],
+        "complication": [
+          "灰指甲"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（ 100—— 500元）",
+        "ratio": "40%",
+        "duration": "30天",
+        "method": [
+          "局部治疗、系统治疗、药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "真菌组织病理学",
+          "癣菌素试验"
+        ],
+        "medicine": [
+          "氟康唑片",
+          "盐酸特比萘芬片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "鼻咽炎",
+    "information": {
+      "introduction": "鼻腔和咽喉都有炎症的情况即为鼻咽炎 鼻咽干燥不适，有粘稠样分泌物不易咳出，故病人咳嗽频繁常伴有恶心。严重者有声嘶、咽痛、头痛、头晕、乏力、消化不良、低热等全身或局部症状。鼻咽部检查见粘膜慢性充血，增生肥厚，覆以分泌物或干痂。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "咳嗽",
+          "恶心",
+          "咽痛",
+          "鼻分泌物增多",
+          "低烧"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "间接鼻咽镜",
+          "中性粒细胞计数",
+          "胸透",
+          "胸部平片",
+          "白细胞数"
+        ],
+        "medicine": [
+          "鼻咽清毒颗粒",
+          "地红霉素肠溶片",
+          "鼻咽灵片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻咽清毒颗粒(奇星)",
+          "grade": "2.44",
+          "total": "17",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "鼻咽灵片(白云山中一)",
+          "grade": "3.73",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻咽灵片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1221 @@
+[
+  {
+    "disease_name": "黄水疮",
+    "information": {
+      "introduction": "脓疱病(impetigo)也称接触性传染性脓疱疮，是一种常见的化脓性皮肤病，损害主要为浅在性脓疱和脓痂，有接触传染及自家接种特征，好发于儿童，易造成小区域流行。分类：脓疱病中由金黄色葡萄球菌感染者称大疱性脓疱病。由链球菌和(或)白色葡萄球菌感染者称寻常性脓疱病，亦称表浅脓疱疮。以毛囊为中心，米粒至黄豆大的毛囊性脓疱，中心贯穿毛发，周围炎症显著者称毛囊性脓疱疮。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脓疱疮,脓疱病,接触传染性脓疱疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "2～7岁儿童",
+        "symptom": [
+          "周身不适",
+          "发烧"
+        ],
+        "complication": [
+          "化脓性脑膜炎",
+          "化脓性眼内炎",
+          "化脓性颅骨骨髓炎",
+          "化脓性食管炎",
+          "脊髓内脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "100%经过治疗痊愈",
+        "duration": "10-20天",
+        "method": [
+          "西医药物治疗、中医药物治疗"
+        ],
+        "examination": [
+          "血清卵泡刺激素",
+          "浆膜腔积液细胞学检查",
+          "血清鳞状上皮细胞癌抗原",
+          "产科B超",
+          "宫颈刮片"
+        ],
+        "medicine": [
+          "梅花点舌丸",
+          "黄水疮散",
+          "一扫光药膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "梅花点舌丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄水疮散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "一扫光药膏(霸奇)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "一扫光药膏(吉春)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "一扫光药膏(贝肤康)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "青蛤散",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "四圣散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "青蛤散",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "一扫光药膏",
+          "grade": "2.33",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "一扫光药膏",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病足",
+    "information": {
+      "introduction": "糖尿病足是指糖尿病患者足部由于神经病变使下肢保护功能减退，大血管和微血管病变使动脉灌注不足致微循环障碍而发生溃疡和坏疽的疾病状态。糖尿病足是糖尿病一种严重的并发症，是糖尿病患者致残，甚至致死的重要原因之一，不但给患者造成痛苦，而且使其增添了巨大的经济负担。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": " 糖尿病患者 ",
+        "symptom": [
+          "肌肉萎缩",
+          "感觉迟钝",
+          "皮肤干燥",
+          "间歇性跛行",
+          "足底溃疡"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "皮肤科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元",
+        "ratio": "40%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "尿常规",
+          "尿蛋白质",
+          "尿酮体试验",
+          "血脂"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "阿卡波糖胶囊",
+          "罗格列酮钠片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "神经纤维瘤",
+    "information": {
+      "introduction": "神经纤维瘤又称神经膜瘤、神经瘤、神经周围纤维瘤、雪旺细胞瘤、神经周围纤维母细胞瘤。本病名目繁多，反映了对其来源有不同看法，归纳起来不外以下几类：第一类：神经膜瘤或雪旺细胞瘤；第二类：神经纤维瘤或神经周围纤维母细胞瘤，是指瘤细胞由神经内中胚叶深化而来的结缔组织。神经纤维瘤可以起源于周围神经、颅神经及交感神经。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "神经膜瘤,神经周围纤维瘤,雪旺细胞瘤神经,周围纤维母细胞瘤",
+        "part": [
+          "周围神经系统",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "儿茶酚胺分泌过量",
+          "感觉过敏",
+          "四肢麻木",
+          "疼痛",
+          "感觉过敏"
+        ],
+        "complication": [
+          "皮肤纤维瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 —— 100000元）",
+        "ratio": "治愈率83%",
+        "duration": "治疗周期15天",
+        "method": [
+          "药物、放射、手术治疗"
+        ],
+        "examination": [
+          "面神经检查",
+          "迷走神经检查",
+          "腹部皮肤检查"
+        ],
+        "medicine": [
+          "依托泊苷软胶囊",
+          "复方环磷酰胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "十二指肠炎",
+    "information": {
+      "introduction": "十二指肠炎(duodenitis)是指各种原因所致的十二指肠黏膜的急性或慢性炎症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "多见于中老年，55岁一64岁为...",
+        "symptom": [
+          "恶心与呕吐",
+          "嗳气",
+          "肚子疼",
+          "胃脘饱胀"
+        ],
+        "complication": [
+          "上消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "治愈率86%",
+        "duration": "治疗周期60天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "内镜检查",
+          "血清胃泌素",
+          "幽门螺杆菌检测",
+          "十二指肠钡餐造影",
+          "胃液显微镜检查"
+        ],
+        "medicine": [
+          "奥美拉唑",
+          "康复新液",
+          "复方铝酸铋颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "胃乃安胶囊(白云山)",
+          "grade": "4.13",
+          "total": "112",
+          "secondary": "104"
+        },
+        {
+          "medicine_name": "金胃泰胶囊(老方)",
+          "grade": "3.06",
+          "total": "25",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "information": {
+      "introduction": "急性胃肠炎是一种十分常见的急性胃肠道疾病，特点是有明显的饮食不当病史，发病突然而恢复也较快，常表现为恶心、呕吐、腹痛、腹泻等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性胃肠炎",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肠道吸收水分增加",
+          "恶心与呕吐",
+          "小儿前囟凹陷",
+          "发烧",
+          "腹泻为水样带黏液恶臭无脓血"
+        ],
+        "complication": [
+          "脱水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "治愈率99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "便常规",
+          "粪细菌培养",
+          "胃总酸度",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "腹可安片",
+          "枫蓼肠胃康分散片",
+          "止泻利颗粒(冲剂)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腹可安片(恒诚制药)",
+          "grade": "3.75",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "枫蓼肠胃康分散片(顺泽)",
+          "grade": "1.76",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止泻利颗粒(冲剂)(止泻利颗粒(昆中药)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "枫蓼肠胃康颗粒(常为康)",
+          "grade": "3.60",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "枫蓼肠胃康胶囊(奇力)",
+          "grade": "4.59",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "猴耳环消炎颗粒",
+          "grade": "3.04",
+          "total": "15",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "穿王消炎胶囊(普正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "穿王消炎片(星泰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎立消胶囊(敖东)",
+          "grade": "2.65",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎立消胶囊(修正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止泻颗粒(天天乐)",
+          "grade": "1.25",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃肠灵胶囊(永孜堂)",
+          "grade": "2.92",
+          "total": "124",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "炎立消胶囊",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "穿王消炎胶囊(青春康源)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "扁桃体周围脓肿",
+    "information": {
+      "introduction": "喉痈是指发生于咽喉部位的痈疮。相当于西医的扁桃体周围脓肿。喉痈起病急，发展迅速，常导致咽喉肿塞，吞咽、呼吸受影响。喉痈多由脾胃素有积热，感受风热邪毒，内外热毒搏结于咽喉所引起。初期主要表现为咽喉不适，轻微红肿疼痛，伴发热，恶寒，头身疼痛，舌苔薄，脉浮数。治宜疏风清热，解表利咽，方用银翘散等。中期主要表现为咽喉红肿灼热疼痛，扁桃体表面有脓点，吞咽时加重，高热，头胀头痛，口渴，尿赤便秘，舌红苔黄腻，脉实大数。治宜清热解毒，消肿散痈，方用清咽利膈汤等。恢复期主要表现为咽喉痛，脓或溃破。治宜清热排毒，方用黄连解毒汤等。此外，喉痈还可用六神丸、六应丸等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "喉痈,脓性蜂窝组织炎性咽峡炎",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "此病多见于青壮年，10岁以下...",
+        "symptom": [
+          "寒战",
+          "淋巴结肿大",
+          "舌苔厚腻",
+          "扁桃体肥大",
+          "发烧"
+        ],
+        "complication": [
+          "咽旁脓肿",
+          "肺炎",
+          "新生儿泪囊炎",
+          "喉疮",
+          "喉上神经损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "脓汁和创伤感染标本细菌学检查"
+        ],
+        "medicine": [
+          "金莲花胶囊",
+          "蒲公英片",
+          "盐酸左氧氟沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金莲花胶囊(益康)",
+          "grade": "3.53",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "蒲公英片(万通)",
+          "grade": "1.33",
+          "total": "5",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性肥厚性鼻炎",
+    "information": {
+      "introduction": "慢性肥厚性鼻炎多由慢性单纯性鼻炎发展而来，以鼻粘膜、粘膜下甚至骨质的局限性或弥漫性增生肥厚为特征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年男性，慢性单纯性鼻炎...",
+        "symptom": [
+          "鼻塞",
+          "间歇性鼻阻塞",
+          "流黄鼻涕",
+          "鼻塞",
+          "流鼻涕"
+        ],
+        "complication": [
+          "三叉神经痛",
+          "偏头痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000——5000元）",
+        "ratio": "80%",
+        "duration": "20-30天",
+        "method": [
+          "药物治疗、冷冻治疗、手术治疗"
+        ],
+        "examination": [
+          "鼻腔检查",
+          "鼻甲和鼻道",
+          "鼻粘膜及鼻腔分泌物",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "防芷鼻炎片",
+          "盐酸羟甲唑啉滴鼻液",
+          "盐酸羟甲唑啉喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "防芷鼻炎片(天天乐)",
+          "grade": "3.92",
+          "total": "21",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "射精障碍",
+    "information": {
+      "introduction": "射精功能障碍(ejaculatory dysfunction)又称射精异常。正常射精包括精液的产生与精液的排出。射精功能障碍常见有早泄、不射精及逆行射精。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "射精功能障碍",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性人群",
+        "symptom": [
+          "遗精",
+          "射精疼",
+          "精液稀",
+          "器质性早泄",
+          "精液少"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "7-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "性交后试验",
+          "男性性功能全面测试",
+          "精液酸度",
+          "精浆α-葡萄糖苷酶"
+        ],
+        "medicine": [
+          "右归丸",
+          "右归丸",
+          "盐酸达泊西汀片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "右归丸",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "右归丸",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "强肾片",
+          "grade": "1.75",
+          "total": "24",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "单纯性外阴阴道念珠菌病",
+    "information": {
+      "introduction": "单纯性外阴阴道念珠菌病是指妇女感染白念珠菌(白假丝酵母菌)引起外阴阴道炎，主要表现外阴瘙痒、灼痛，严重时坐卧不安、尿急、尿频等，一般症状较轻或中等，多见于妇女，儿童也可发病，是女性生殖道感染常见炎症性疾病。目前该病的发病率不断增加，成为白带增多的最主要病因。单纯性外阴阴道念珠菌病指发生于正常非孕宿主的、散发的、白念珠菌引起的轻、中度病变。临床症状轻，发作频率低。治疗效果好。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "单纯性白色假丝酵母菌外阴阴道炎,单纯性假丝酵母菌外阴阴道炎",
+        "part": [
+          "阴道"
+        ],
+        "infection": "有传染性",
+        "people": "免疫力低下、有糖尿病的病人...",
+        "symptom": [
+          "白带增多",
+          "充血",
+          "鳞屑",
+          "尿急",
+          "尿频"
+        ],
+        "complication": [
+          "尖锐湿疣",
+          "淋病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "98%，小部分可反复发作无法根治",
+        "duration": "1-2周",
+        "method": [
+          "外用药物治疗、内服药物治疗"
+        ],
+        "examination": [
+          "白带pH值",
+          "阴道分泌物涂片"
+        ],
+        "medicine": [
+          "克霉唑栓",
+          "克霉唑阴道泡腾片",
+          "伊曲康唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "湿热下注",
+    "information": {
+      "introduction": "  湿热下注是一个中医的术语。中医认为，膀胱系津液之府，湿热蕴结于下焦，下注膀胱，湿热阻于肾与膀胱，导致肾与膀胱气化失常，则水道、小便不利，泄时涩痛，尿赤，尿浑浊，小便频数，淋沥不畅（即尿频、尿急、尿短少、尿痛等尿路刺激症状）。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "小便短赤",
+          "疲乏",
+          "尿频",
+          "尿急",
+          "尿痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "金鸡胶囊",
+          "抗宫炎片",
+          "抗宫炎片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二妙丸(同仁堂)",
+          "grade": "3.21",
+          "total": "84",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "四妙丸(紫鑫)",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "抗宫炎软胶囊(ATIE)",
+          "grade": "2.25",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "抗宫炎分散片(快芬)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清浊祛毒丸(清之品)",
+          "grade": "4.0",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "宫炎平胶囊(南山)",
+          "grade": "2.62",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝丹胶囊(鼎炉)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗宫炎片(海尔思药业)",
+          "grade": "2.29",
+          "total": "17",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心律不齐",
+    "information": {
+      "introduction": "心律失常(cardiac arrhythmia)是由于窦房结激动异常或激动产生于窦房结以外，激动的传导缓慢、阻滞或经异常通道传导，即心脏活动的起源和(或)传导障碍导致心脏搏动的频率和(或)节律异常。心律失常是心血管疾病中重要的一组疾病。它可单独发病亦可与心血管病伴发。可突然发作而致猝死，亦可持续累及心脏而衰竭。“心律紊乱”或“心律不齐”等词的含义偏重于表示节律的失常，心律失常既包括节律又包括频率的异常，更为确切和恰当。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": "?",
+        "complication": [
+          "休克",
+          "猝死",
+          "风湿性心脏病",
+          "先天性心脏病",
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "产科B超",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "参松养心胶囊",
+          "复方八维甲睾酮胶囊",
+          "养心定悸口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参松养心胶囊(以岭)",
+          "grade": "1.90",
+          "total": "124",
+          "secondary": "39"
+        },
+        {
+          "medicine_name": "养心定悸口服液(东阿阿胶)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降脂宁颗粒(永仓)",
+          "grade": "4.44",
+          "total": "113",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "爱维心口服液",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "玉金方胶囊",
+          "grade": "4.17",
+          "total": "52",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养心定悸胶囊",
+          "grade": "4.58",
+          "total": "54",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "爱维心口服液",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "理气舒心片",
+          "grade": "4.09",
+          "total": "37",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降脂宁颗粒(天强)",
+          "grade": "4.37",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降脂宁颗粒",
+          "grade": "4.8",
+          "total": "30",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降脂宁颗粒(正士)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "降脂宁颗粒(老君炉)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "理气舒心片(修正)",
+          "grade": "4.36",
+          "total": "15",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "理气舒心片(颐普瑞)",
+          "grade": "4.64",
+          "total": "42",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心衰",
+    "information": {
+      "introduction": "急性心功能不全又叫急性心力衰竭，最常见的是急性左心衰竭所引起的急性肺水肿。心功能不全被定义为由不同病因引起的心脏舒缩功能障碍，发展到使心排血量在循环血量与血管舒缩功能正常时不能满足全身代谢对血流的需要，从而导致具有血流动力异常和神经激素系统激活两方面特征的临床综合征。其中心瓣膜疾病、冠状动脉硬化、高血压、内分泌疾患、细菌毒素、急性肺梗塞、肺气肿或其他慢性肺脏疾患等均可引起心脏病而产生心力衰竭的表现。妊娠、劳累、静脉内迅速大量补液等均可加重有病心脏的负担，而诱发心肌衰竭。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "充血性心力衰竭，心功能不全，心脏衰弱，心收缩不全",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "冠心病、高血压、瓣膜病和扩...",
+        "symptom": [
+          "心肺栓塞",
+          "端坐呼吸",
+          "心源性晕厥",
+          "心力贮备减少",
+          "颈静脉怒张"
+        ],
+        "complication": [
+          "房颤",
+          "心脏骤停与心肺脑复苏"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心音图",
+          "心电图",
+          "胸部平片",
+          "二维超声心动图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "益心丸",
+          "单硝酸异山梨酯缓释胶囊(Ⅰ)",
+          "马来酸依那普利片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益心丸(万年青)",
+          "grade": "3.80",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫畸形",
+    "information": {
+      "introduction": "先天性子宫发育异常是生殖器官畸形中最常见的一种，临床意义亦比较大。两侧副中肾管在演化过程中，受到某种因素的影响和干扰，可在演化的不同阶段停止发育而形成各种发育异常的子宫。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "子宫发育异常",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "育龄妇女",
+        "symptom": [
+          "子宫增大明显（子宫增大超过胎龄）",
+          "子宫收缩不良",
+          "子宫内膜异位",
+          "月经稀少"
+        ],
+        "complication": [
+          "原发性痛经",
+          "痛经",
+          "流产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "10%",
+        "duration": "7-14天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "静脉尿路造影",
+          "子宫及附件检查",
+          "静脉肾盂造影",
+          "子宫输卵管造影"
+        ],
+        "medicine": [
+          "益母草颗粒",
+          "妇炎净胶囊",
+          "栓塞微球体"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益母草颗粒(灵峰)",
+          "grade": "3.06",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "唇疱疹",
+    "information": {
+      "introduction": "唇疱疹是由单纯疱疹病毒引起的。它通常发生于发烧、感染、感冒，或日晒风吹后、生活紧张、月经期间、睡眠不足或当免疫系统受抑制时。这种病具高度传染性。潜伏期约3—10天，出现唇疱疹后，可能维持3周之久。如果你有过敏倾向，很可能你的免疫系统虚弱，因此也可能易患唇疱疹。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "热疱疹",
+        "part": [
+          "口"
+        ],
+        "infection": "有传染性",
+        "people": "患者接触人群",
+        "symptom": [
+          "口唇疱疹",
+          "口唇泛红",
+          "唇水疱",
+          "口角和鼻周出现黄白色水疱",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "唇裂",
+          "唇舌水肿及面瘫综合征",
+          "接触性唇炎",
+          "腺性唇炎",
+          "剥脱性唇炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "盐酸吗啉胍片",
+          "阿昔洛韦片",
+          "重组人干扰素α-2b凝胶"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "伤科灵喷雾剂",
+          "grade": "2.15",
+          "total": "34",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "疣迪搽剂(德昌祥)",
+          "grade": "2.22",
+          "total": "9",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨肿瘤",
+    "information": {
+      "introduction": "骨肿瘤是发生于骨骼或其附属组织(血管、神经、骨髓等)的肿瘤，是常见病。同身体其它组织一样，其确切病因不明;骨肿瘤有良性，恶性之分，良性骨肿瘤易根治，预后良好，恶性骨肿瘤发展迅速，预后不佳，死亡率高，至今尚无满意的治疗方法。恶性骨肿瘤可以是原发的，也可以是继发的，从体内其它组织或器官的恶性肿瘤经血液循环，淋巴系统转移至骨骼或直接侵犯骨骼。还有一类病损称瘤样病变，肿瘤样病变的组织不具有肿瘤细胞形态的特点，但其生态和行为都具有肿瘤的破坏性，一般较局限，易根治。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胸骨压痛",
+          "骨质破坏",
+          "皮肤温度升高",
+          "肺部转移",
+          "疼痛"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "外科手术治愈率约为40-80%，具体根据肿瘤的性质决定",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "静态骨显像",
+          "骨与关节MRI",
+          "骨关节及软组织CT",
+          "骨显像",
+          "ECT"
+        ],
+        "medicine": [
+          "华蟾素胶囊",
+          "鸦胆子油口服乳液",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "华蟾素胶囊(东泰)",
+          "grade": "1.73",
+          "total": "42",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "鸦胆子油口服乳液(白云山)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鸦胆子油软胶囊(辛喜)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗癌平丸(龙圣堂)",
+          "grade": "3.50",
+          "total": "42",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方斑蝥胶囊(康赛迪)",
+          "grade": "3.91",
+          "total": "14",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "香菇多糖胶囊(健立欣)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参一胶囊(亚泰)",
+          "grade": "2.32",
+          "total": "30",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "慈丹胶囊",
+          "grade": "2.85",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "威麦宁胶囊(华颐)",
+          "grade": "2.37",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "抗癌平丸(鹏鹞)",
+          "grade": "3.47",
+          "total": "21",
+          "secondary": "21"
+        }
+      ]
+    }
+  }
+]

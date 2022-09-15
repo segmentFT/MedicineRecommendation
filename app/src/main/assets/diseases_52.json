@@ -1,0 +1,974 @@
+[
+  {
+    "disease_name": "肺不张",
+    "information": {
+      "introduction": "肺不张(atelectasis)系指一个或多个肺段或肺叶的容量或含气量减少。由于肺泡内气体吸收，肺不张通常伴有受累区域的透光度降低，邻近结构(支气管、肺血管、肺间质)向不张区域聚集，有时可见肺泡腔实变，其他肺组织代偿性气肿。肺小叶、段(偶为肺叶)之间的侧支气体交通可使完全阻塞的区域仍可有一定程度的透光。肺不张可分为先天性或后天获得性两种。先天性肺不张是指婴儿出生时肺泡内无气体充盈，临床上有严重的呼吸困难与发绀，患儿多在出生后死于严重的缺氧。临床绝大多数肺不张为后天获得性，为本章讨论的重点。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺不张病,肺膨胀不全,肺陷落",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "呼吸困难",
+          "发绀",
+          "血压下降",
+          "心动过速",
+          "咳嗽"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（20000 —— 50000元）",
+        "ratio": "60%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "支气管镜",
+          "胸部CT",
+          "胸部平片",
+          "痰液细菌涂片",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "一次性使用无菌胸腔引流导管",
+          "一次性使用呼吸面罩",
+          "一次性使用无菌胸腔引流导管"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肺气肿",
+    "information": {
+      "introduction": "肺气肿是指终末细支气管远端(呼吸细支气管、肺泡管、肺泡囊和肺泡)的气道弹性减退，过度膨胀、充气和肺容积增大或同时伴有气道壁破坏的病理状态。按其发病原因肺气肿有如下几种类型：老年性肺气肿，代偿性肺气肿，间质性肺气肿，灶性肺气肿，旁间隔性肺气肿，阻塞性肺气肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "阻塞性肺气肿,终末细支气管远端部分慢性支气管炎,慢阻肺",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": " 中老年人 ",
+        "symptom": [
+          "咳嗽",
+          "肺源性呼吸困难",
+          "呼气时两颊鼓起和缩唇",
+          "肺过度充气",
+          "紫绀"
+        ],
+        "complication": [
+          "慢性肺源性心脏病",
+          "阻塞性肺气肿",
+          "胃溃疡",
+          "肺动脉高压",
+          "自发性气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "0.5%",
+        "duration": ">120天",
+        "method": [
+          "西医治疗、中医治疗"
+        ],
+        "examination": [
+          "肺通气量",
+          "支气管镜",
+          "胸廓检查",
+          "胸部疾病体征检查",
+          "胸部平片"
+        ],
+        "medicine": [
+          "祛痰止咳颗粒",
+          "十五味龙胆花丸",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "祛痰止咳颗粒(花城)",
+          "grade": "3.0",
+          "total": "12",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十五味龙胆花丸(卓玛丹)",
+          "grade": "4.85",
+          "total": "95",
+          "secondary": "94"
+        },
+        {
+          "medicine_name": "补金片(羚康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "喘舒片(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肺气肿片(707)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "咳喘顺丸(陈李济)",
+          "grade": "1.47",
+          "total": "8",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "十五味龙胆花丸(神水藏药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十五味龙胆花丸(神猴)",
+          "grade": "5.0",
+          "total": "95",
+          "secondary": "94"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "羊水过少",
+    "information": {
+      "introduction": "当羊水量<300ml时称为羊水过少(oligohydramnios)此为传统概念，但无论阴道分娩还是剖宫产很难准确估计羊水的总量。近些年，由于影像学的应用特别是产科B超技术的应用对羊水过少的诊断更趋精确，诊断标准统一已经逐渐被临床运用。B超诊断羊水过少的标准是羊水指数(AFI)<5cm或最大羊水池深度<2cm。既往羊水过少的发病率很低仅1∶4000。近些年由于对高危妊娠的产前监测和B超技术的提高和普及，羊水过少的发生率有增加的趋势羊水过少的发病率在部分报告中高达5%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "孕晚期女性",
+        "symptom": [
+          "子宫收缩不良",
+          "阵发性子宫收缩",
+          "宫缩乏力",
+          "皮肤干燥",
+          "纸样胎儿"
+        ],
+        "complication": [
+          "难产",
+          "产力异常性难产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "终止妊娠、保守期待"
+        ],
+        "examination": [
+          "尿常规",
+          "肝功能",
+          "便常规",
+          "羊水一般检查",
+          "产科B超"
+        ],
+        "medicine": [
+          "孕妇金花片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "孕妇金花片(赛诺维)",
+          "grade": "2.95",
+          "total": "7",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结节病",
+    "information": {
+      "introduction": "结节病(sarcoidosis)是一种病因未明的多系统肉芽肿性疾病。临床上以双侧肺门淋巴结肿大、肺浸润及皮肤、眼睛损害为主要表现，肉芽肿结节可侵犯全身各器官。常见于青壮年，临床上90%以上有肺的改变，以双肺门淋巴结肿大、肺浸润、眼及皮肤损害为特征。肝、脾、淋巴结、唾液腺、心脏、神经系统、肌肉、骨骼和其他器官亦可受累。当具有典型的临床和X线表现，同时组织学上具有非干酪上皮样细胞肉芽肿即可做出诊断，但应除外其他肉芽肿性疾病。该病的免疫学特征为皮肤迟缓样过敏反应受到抑制及Ⅰ型辅助T细胞(TH1)免疫反应增强，同时可见循环免疫复合物及B细胞反应增高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肉样瘤病，Boeck肉样瘤，Schaumann良性淋巴肉芽肿病，Besnier冻疮样狼疮",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以下多见，发病高峰在20...",
+        "symptom": [
+          "腮腺肿大",
+          "关节肿胀",
+          "心动过速",
+          "肉芽肿",
+          "呼吸困难"
+        ],
+        "complication": [
+          "白内障",
+          "青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮内试验",
+          "胸部CT",
+          "普通透视检查",
+          "支气管肺泡灌洗术",
+          "肺活检"
+        ],
+        "medicine": [
+          "注射用头孢曲松钠他唑巴坦钠",
+          "甲磺酸溴隐亭片",
+          "冰樟桉氟轻松贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "恐惧症",
+    "information": {
+      "introduction": "恐怖症(Phobia，phobic neurosis)是以恐怖症状为主要临床相的一种神经症。患者对某些特定的对象产生强烈和不必要的恐惧，伴有回避行为。恐惧的对象可能是单一的或多种的，如动物、广场、闭室、登高或社交活动等。患者明知其反应不合理，却难以控制而反复出现。青年期与老年期发病者居多，女性更多见。国外报道一般人口中的患病率为77‰，我国各地调查患病率的平均值为2‰左右。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "恐怖性焦虑障碍,恐怖障碍,恐怖症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "以青年期与老年期发病者居多...",
+        "symptom": [
+          "惊恐发作",
+          "焦虑",
+          "梅毒恐怖",
+          "社交恐惧",
+          "场所恐惧"
+        ],
+        "complication": [
+          "抑郁症",
+          "焦虑症",
+          "恐惧症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神病科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "74%",
+        "duration": "90天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "神经系统检查"
+        ],
+        "medicine": [
+          "盐酸氯米帕明片",
+          "盐酸帕罗西汀片",
+          "盐酸异丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "痰饮",
+    "information": {
+      "introduction": "痰饮是痰和饮都是津液代谢障碍所形成的病理产物。一般以较稠浊的称为痰，清稀的称为饮。痰不仅是指咳吐出来有形可见的痰液，还包括瘰疬、痰核和停滞在脏腑经络等组织中的痰液，临床上可通过其所表现的证候来确定，这种痰称为\"无形之痰\".",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "胸闷",
+          "心悸",
+          "气喘",
+          "胸闷憋气",
+          "头重足轻"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "痰热咳嗽",
+          "脑血管瘤",
+          "流痰"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "痰饮丸",
+          "桂附地黄丸",
+          "桂附地黄丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痰饮丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(同仁堂)",
+          "grade": "3.61",
+          "total": "103",
+          "secondary": "100"
+        },
+        {
+          "medicine_name": "桂附地黄丸(九芝堂)(浓缩丸)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(仲景)",
+          "grade": "4.6",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "桂附地黄丸(九芝堂)",
+          "grade": "4.92",
+          "total": "28",
+          "secondary": "27"
+        },
+        {
+          "medicine_name": "桂附地黄丸(童涵春堂)",
+          "grade": "4.8",
+          "total": "10",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "健胃宽胸丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "济生肾气丸(三九)",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(同仁堂)",
+          "grade": "4.84",
+          "total": "100",
+          "secondary": "100"
+        },
+        {
+          "medicine_name": "桂附地黄丸(桐君阁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(唐龙)(浓缩丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(舒康岸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(药都樟树)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(张恒春)(浓缩丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂附地黄丸(浓缩丸)(东方金宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "儿童多动症",
+    "information": {
+      "introduction": "注意缺陷障碍又称儿童多动综合征(hyperkinetic syndrome)，简称多动症。特发于儿童学前时期，活动量多是明显症状。注意缺陷障碍是多动、注意力不集中、参与事件能力差，伴认知障碍和学习困难，智力基本正常等表现的一组综合征。WHO在《国际疾病分类》第10版(ICD-10)中命名本病为儿童多动综合征，美国精神病学会《精神障碍诊断和统计手册》第3版修订版(DSM-Ⅲ-R)则称为注意力缺陷-多动障碍(attention deficit hyperactivity disorder，ADHD)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "注意缺陷障碍,多动症,儿童多动综合征,轻微脑功能障碍综合征,注意缺陷与多动障碍,注意缺陷 ",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "男性儿童多发",
+        "symptom": [
+          "易激惹",
+          "注意障碍",
+          "焦虑",
+          "注意力不集中",
+          "注意力不集中"
+        ],
+        "complication": [
+          "自闭症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "10%",
+        "duration": "1--6个月",
+        "method": [
+          "对症治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "血液生化六项",
+          "脑诱发电位"
+        ],
+        "medicine": [
+          "盐酸托莫西汀胶囊",
+          "注射用乙胺硫脲",
+          "多动宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "静灵口服液",
+          "grade": "1.79",
+          "total": "81",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "跟腱炎",
+    "information": {
+      "introduction": "跟腱炎 (Achilles tendonitis) 是指跟腱发生了炎症。一般来说，它是因为在运动过程中，小腿腓肠肌和跟腱承受了太大的压力导致的，例如打篮球。另外，突然增加锻炼的强度或频率也常会引起跟腱炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": "剧烈运动或运动员多发的病",
+        "symptom": [
+          "跟腱疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "外伤科",
+          "骨科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "气压弹道式体外冲击波治疗仪",
+          "气压弹道式体外冲击波治疗仪",
+          "体外冲击波治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "先天性无阴道",
+    "information": {
+      "introduction": "先天性无阴道以正常女性染色体核型，全身生长及女性第二性征发育正常，外阴正常，阴道缺失，子宫发育（仅有双角残余），输卵管细小，卵巢发育及功能正常常为特征的Rokitansky-Kustner-Hauser综合征病人为最多见。睾丸女性化（雄激素不敏感综合征）病人较为少见。很少数为真性两性畸形或性腺发育不全者。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "阴道畸形",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "性腺发育不良",
+          "性交困难",
+          "无月经来潮"
+        ],
+        "complication": [
+          "闭经溢乳综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "10%",
+        "duration": "10天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "卵巢功能检查"
+        ],
+        "medicine": [
+          "甲硝唑阴道泡腾片",
+          "克霉唑阴道片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "输卵管积水",
+    "information": {
+      "introduction": "输卵管积水是指为慢性输卵管炎症中较为常见的类型。在输卵管炎后，或因粘连闭锁，粘膜细胞的分泌液积存于管腔内，或因输卵管炎症发生峡部及伞端粘连，阻塞后形成输卵管积脓，当管腔内的脓细胞被吸收后，最终成为水样液体。也有的液体被吸收剩下一个空壳，当做造影时显示出积水影。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "性生活频繁、做过输卵管手术...",
+        "symptom": [
+          "阴道分泌物增多",
+          "女性不孕",
+          "继发性不孕",
+          "输卵管粘连",
+          "下腹痛"
+        ],
+        "complication": [
+          "输卵管癌三联症",
+          "输卵管结核",
+          "副鼻窦炎",
+          "原发性输卵管癌",
+          "持续性输卵管妊娠"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约3000----8000元",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "通液治疗、手术治疗、物理治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "输卵管通畅检查",
+          "输卵管镜",
+          "妇科B超",
+          "腹腔镜"
+        ],
+        "medicine": [
+          "囊肿助吸器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "前列腺痛",
+    "information": {
+      "introduction": "前列腺痛又称类前列腺炎综合症，是指肛门两侧的提肛肌等处有较明显的压痛。本类型在前列腺炎各类型中所占比例略低于非细菌性前列腺炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "类前列腺炎综合症",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "中青年男性",
+        "symptom": [
+          "睾丸疼痛",
+          "压痛",
+          "射精疼",
+          "尿流变细或中断",
+          "尿后滴沥"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "尿流率",
+          "卵磷脂小体",
+          "淀粉样体",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "二十八味槟榔丸",
+          "前列倍喜胶囊",
+          "前列安栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二十八味槟榔丸(神水藏药)",
+          "grade": "2.79",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列倍喜胶囊(太和)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列安栓",
+          "grade": "1.60",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "前列回春胶囊(神益)",
+          "grade": "2.20",
+          "total": "95",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列舒乐胶囊(天银)",
+          "grade": "1.79",
+          "total": "52",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "前列舒乐胶囊(斯威)",
+          "grade": "1.95",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "前列舒乐片(速笛)",
+          "grade": "1.12",
+          "total": "20",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "泌淋清胶囊(贵州百灵)",
+          "grade": "2.40",
+          "total": "42",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "前列舒乐颗粒(宝芝林)(无糖型)",
+          "grade": "2.99",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列回春胶囊(孚必克)",
+          "grade": "3.21",
+          "total": "8",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "前列舒乐胶囊(久正)",
+          "grade": "4.5",
+          "total": "5",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "前列回春丸(强身)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人糖尿病",
+    "information": {
+      "introduction": "对于老年糖尿病的年龄概念目前尚不统一，国内多采用1980年联合国提出的60岁以上的糖尿病患者称为老年糖尿病;而有些国家则以65岁为分界线。老年糖尿病按其发病时间可分为老年期起病的糖尿病和青壮年起病而延续至老年期者。前者几乎均为2型糖尿病;而后者多数为2型糖尿病，但也包括极少数1型糖尿病患者。特别是人到老年在生理及心理上产生退化，同时容易并存许多病患，致使老年糖尿病比起青壮年糖尿病的病情更为复杂，治疗也比较困难。因此必须了解老年糖尿病的诸多特点以便合理地进行防治。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "糖尿",
+          "多饮",
+          "多尿",
+          "乏力",
+          "消瘦"
+        ],
+        "complication": [
+          "乳酸性酸中毒",
+          "糖尿病足"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（5000 —— 20000元）",
+        "ratio": "20%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "尿葡萄糖",
+          "餐后2小时血糖",
+          "MRI",
+          "心电图"
+        ],
+        "medicine": [
+          "甘精胰岛素注射液",
+          "肠内营养乳剂(TPF-T)",
+          "骨刮匙"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脂溢性角化病",
+    "information": {
+      "introduction": "脂溢性角化病又名皮脂溢性角化病(seborrheic keratosis)、老年疣(senile wart)为老年人最常见的良性表皮增生性肿瘤。几乎所有老年人均或多或少患有此种损害。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "基底细胞乳头状瘤,老年疣,皮脂溢性角化病,基底细胞乳头瘤,脂溢性疣",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "好发于中老年人",
+        "symptom": [
+          "鳞屑",
+          "角栓",
+          "丘疹",
+          "油腻性鳞屑",
+          "斑丘疹"
+        ],
+        "complication": [
+          "脓毒症和菌血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "100%治愈",
+        "duration": "2-4周",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "皮损",
+          "皮肤病的物理检查"
+        ],
+        "medicine": [
+          "维A酸乳膏",
+          "维A酸片",
+          "复方氟米松软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "多发性肌炎",
+    "information": {
+      "introduction": "多发性肌炎系一种以肌无力、肌痛为主要表现的自身免疫性疾病。主要累及肢带肌、颈项肌、咽喉部肌群，如同时累及皮肤，称皮肌炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "任何年龄均可发病，多见于20-...",
+        "symptom": [
+          "三角肌疼痛",
+          "抗Jo-1抗体阳性",
+          "心动过速",
+          "肌肉假肥大",
+          "肌肉压痛"
+        ],
+        "complication": [
+          "心力衰竭",
+          "胸膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000 —— 6000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿肌酸",
+          "尿谷草转氨酶",
+          "肌电图",
+          "血清免疫球蛋白G",
+          "血清肌红蛋白"
+        ],
+        "medicine": [
+          "甲泼尼龙片",
+          "关节镇痛膏",
+          "灵孢多糖注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "关节镇痛膏",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人前列腺增生症",
+    "information": {
+      "introduction": "前列腺增生症(hyperplasia of prostate)：即良性前列腺增生(benign prostatic hyperplasia，BPH)的简称，也有称良性前列腺肥大。但从病理学角度上说，细胞增多为增生，细胞增大为肥大。前列腺增生症病理学证实是细胞增多，而不是细胞肥大，因此，正确命名应为良性前列腺增生症，简称前列腺增生。前列腺增生症为50岁以上男性老年常见疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年前列腺增生症,老年人良性前列腺肥大,老年人良性前列腺增生,老年人良性前列腺增生症,老年人前列腺增生",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "50岁以上",
+        "symptom": [
+          "膀胱排空不全",
+          "夜尿增多",
+          "尿急",
+          "逼尿肌不稳定",
+          "剧烈疼痛"
+        ],
+        "complication": [
+          "尿失禁"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "男科"
+        ],
+        "cost": "市三甲医院约1000--5000",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "CT检查",
+          "MRI",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "普乐安片",
+          "非那雄胺片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "普乐安片(前列康)",
+          "grade": "2.13",
+          "total": "253",
+          "secondary": "153"
+        }
+      ]
+    }
+  }
+]

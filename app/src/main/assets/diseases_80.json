@@ -1,0 +1,940 @@
+[
+  {
+    "disease_name": "急性颈椎间盘突出症",
+    "information": {
+      "introduction": "急性颈椎间盘突出症是指有轻重不等的颈部外伤史，影像学检查证实有椎间盘破裂或突出，而无颈椎骨折、脱位，并存在相应临床表现者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性颈椎间盘突出症，颈突症",
+        "part": [
+          "颈部",
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "伏案工作者、中老年人、司机",
+        "symptom": [
+          "脊神经根受损",
+          "肩部牵涉痛",
+          "颈髓脱髓鞘性病变",
+          "脊髓压迫",
+          "脊髓受压"
+        ],
+        "complication": [
+          "瘫痪"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "治愈率80%",
+        "duration": "?",
+        "method": [
+          "手术治疗、微创治疗、物理治疗、药物治疗"
+        ],
+        "examination": [
+          "颈椎CT",
+          "肌电图",
+          "MRI"
+        ],
+        "medicine": [
+          "根痛平颗粒",
+          "万通筋骨片",
+          "颈椎前路系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "根痛平颗粒(保尔)",
+          "grade": "2.42",
+          "total": "62",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万通筋骨片(山雄)",
+          "grade": "3.45",
+          "total": "38",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑血管瘤",
+    "information": {
+      "introduction": "脑动静脉畸形(arteriovenous malformation，AVM)是脑血管发育异常所致畸形中最常见的一种。占脑血管畸形90%以上。畸形血管是由动脉与静脉构成，有的包含动脉瘤与静脉瘤，脑动静脉畸形有供血动脉与引流静脉，其大小与形态多种多样。本病可发生于脑的任何部位，病灶左右侧分布基本相等。90%以上位于小脑幕上，而大多数分布于大脑皮质，约占幕上病灶的70%。其中以顶、额、颞叶多见，枕叶略少。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脑动静脉瘤,脑血管错构瘤,脑动静脉畸形",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年多见",
+        "symptom": [
+          "感觉障碍",
+          "昏迷",
+          "抽搐",
+          "脑叶出血",
+          "脑室出血"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "脑萎缩",
+          "血栓形成"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "手术治疗、介入治疗、康复治疗、对症支持治疗"
+        ],
+        "examination": [
+          "脑血管造影",
+          "颅脑MRI",
+          "头颅平片",
+          "脑脊液一般性状",
+          "脑电图"
+        ],
+        "medicine": [
+          "叶酸片",
+          "叶酸片",
+          "吡拉西坦葡萄糖注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "衣原体尿路感染",
+    "information": {
+      "introduction": "泌尿及生殖道衣原体感染称为衣原体尿路感染。衣原体所致的非淋球菌性尿路感染主要由性交传播，潜伏期1～3周。感染特点为男性常感尿道刺痒及排尿微痛，可有尿频、尿急、尿道口红肿和少量黏性分泌物溢出。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "衣原体泌尿道感染,泌尿及生殖道支原体感染",
+        "part": [
+          "尿道",
+          "子宫"
+        ],
+        "infection": "有传染性",
+        "people": "青壮年多见",
+        "symptom": [
+          "尿道口有白膜形成",
+          "尿频",
+          "尿道刺痒",
+          "尿痛",
+          "尿道烧灼感"
+        ],
+        "complication": [
+          "附睾炎",
+          "前列腺炎",
+          "尿道狭窄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "40%-50%",
+        "duration": "4-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "泌尿感染类尿常规",
+          "尿道分泌物检查",
+          "尿液细菌培养",
+          "衣原体检查法",
+          "沙眼衣原体抗体"
+        ],
+        "medicine": [
+          "盐酸多西环素",
+          "红霉素",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "继发性早泄",
+    "information": {
+      "introduction": "继发性早泄是指过去曾有过一段时间正常射精功能的男子，以后逐渐出现早泄，常继发于勃起功能障碍或生殖感染等疾病。 社会压力大，家庭生活不美满，过重的心理压力都可能导致继发性早泄。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": " 青年，中年男性",
+        "symptom": [
+          "心理性性功能障碍",
+          "男子性功能障碍",
+          "性交困难"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "阴茎检查",
+          "男性性功能全面测试",
+          "性激素六项检查",
+          "肌电图",
+          "性激素六项 "
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "创伤后应激障碍",
+    "information": {
+      "introduction": "创伤后应激障碍(Post traumatic stress disorder，PTSD)又称延迟性心因性反应(delayed psychogenic reaction)，是由应激性事件或处境而引起的延迟性反应。PTSD是对异乎寻常的威胁性、灾难性事件的延迟和(或)持久的反应。创伤性事件是PTSD诊断的必要条件，但不是PTSD发生的充分条件，虽然大多数人在经历创伤性事件后都会出现程度不等的症状，研究表明只有部分人最终成为PTSD患者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "延迟性心因性反应，创伤后紧张症 ",
+        "part": [
+          "颅脑",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "女性比男性更多发",
+        "symptom": [
+          "噩梦",
+          "心理麻木",
+          "闪回",
+          "情感麻痹",
+          "焦虑"
+        ],
+        "complication": [
+          "抑郁症",
+          "焦虑症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "65%-75%",
+        "duration": "3-6个月",
+        "method": [
+          "心理治疗、药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "病理反射检查",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "氯美扎酮片",
+          "乙酰天麻素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "头风病",
+    "information": {
+      "introduction": "头风病是以慢性阵发性头痛为主要表现的一种疾病，相当于西医的偏头痛和部分肌紧张性头痛等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "头部"
+        ],
+        "infection": "无传染性",
+        "people": "中青年期多发",
+        "symptom": [
+          "全头痛",
+          "头痛"
+        ],
+        "complication": [
+          "颅内低压性头痛",
+          "颅咽管瘤",
+          "丛集性头痛",
+          "经行头痛",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人椎基底动脉供血不足",
+    "information": {
+      "introduction": "椎基底动脉供血不足(vertebrobasilar ischemia，VBI)指由颈椎病，脑动脉粥样硬化，高血压或低血压等引起的以眩晕、头昏、旋转感、伴恶心、呕吐为主的综合征，是中老年人一种常见的脑血管疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年人脊椎基底动脉供血不足,老年椎基底动脉供血不足",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "听力减退",
+          "头胀",
+          "发作性眩晕",
+          "复视",
+          "恶心与呕吐"
+        ],
+        "complication": [
+          "动脉硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "冷热试验",
+          "颅内多普勒血流图(TCD)",
+          "脑诱发电位",
+          "前庭功能",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "辛伐他汀片",
+          "注射用盐酸川芎嗪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "儿童糖尿病",
+    "information": {
+      "introduction": "小儿糖尿病，多为第一型或需胰岛素型糖尿病，是由于胰岛素分泌不足所引起的内分泌代谢疾病，以碳水化合物、蛋白质及脂肪代谢紊乱为主，引起高血糖及尿糖，小儿易出现酮症酸中毒，后期常有血管病变，眼及肾脏受累。儿童时期的糖尿病是指在15岁以下发生的糖尿病。根据不同的病因，可将儿童时期的糖尿病(diabetes mellitus of childhood)分为：胰岛素依赖型糖尿病(insulin dependent diabetes mellitus，IDDM)、非胰岛素依赖型糖尿病(non-insulin dependent diabetes mellitus，NIDDM)、营养不良性糖尿病、糖耐量损伤及其他类型的糖尿病。5～6岁及10～14岁小儿多发病，5岁以下小儿少见。目前，小儿二型糖尿病发病率再也提高，胰岛素敏感性降低，胰岛素分泌水平高于正常人。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿糖尿病,儿童期糖尿病",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "5～6岁及10～14岁小儿多发病，...",
+        "symptom": [
+          "多尿",
+          "多饮",
+          "多食",
+          "消瘦"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "90%有效控制治愈",
+        "duration": "3-5月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "尿蛋白质",
+          "尿葡萄糖",
+          "胸部B超 ",
+          "血清C肽"
+        ],
+        "medicine": [
+          "盐酸二甲双胍缓释片",
+          "降糖宁胶囊",
+          "罗格列酮钠片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "降糖宁胶囊",
+          "grade": "1.89",
+          "total": "20",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阿米巴痢疾",
+    "information": {
+      "introduction": "阿米巴痢疾(amebic dysentery)是由溶组织内阿米巴(entamoeba \nhistolytica)寄生于结肠内引起的疾病，常称为肠阿米巴病或阿米巴结肠炎。也可从肠道扩延至其他脏器或直接蔓延至邻近组织，尤其是肝脏，成为脓肿。潜伏期一般为1～2周，可短至4天，长达1年以上。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阿米巴性痢疾，肠阿米巴病，奇恒痢 ",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "男多于女，成年多于儿童",
+        "symptom": [
+          "里急后重",
+          "肚子疼",
+          "腹胀",
+          "腹部不适",
+          "腹胀"
+        ],
+        "complication": [
+          "阑尾炎",
+          "腹膜炎",
+          "肝脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "经过系统治疗一般完全可以治愈",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "聚合酶链反应技术",
+          "阿米巴原虫抗原和抗体",
+          "粪中结晶",
+          "粪便气味",
+          "琼脂扩散试验"
+        ],
+        "medicine": [
+          "奥硝唑胶囊",
+          "替硝唑片",
+          "塞克硝唑片(薄膜衣)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "三尖瓣关闭不全",
+    "information": {
+      "introduction": "由于先天性或后天性因素致三尖瓣病变或三尖瓣环扩张，导致三尖瓣在收缩期不能完全关闭时称三尖瓣关闭不全。该病有功能性和器质性两种，前者多继发于导致右心室扩张的病变，发病率相当高，如原发性肺动脉高压、二尖瓣病变、肺动脉瓣或漏斗部狭窄、右心室心肌梗塞等。后者可为先天性异常如Ebstein畸形及共同房室通道，也可为后天性病变如风湿性炎症、冠状动脉病变致三尖瓣乳头肌功能不全、外伤及感染性心内膜炎等。该病预后视原发病因的性质和心力衰竭的严重度而定，原发性肺动脉高压症和慢性肺源性心脏病所致者预后常较二尖瓣病变或房间隔缺损所致者更差。内科治疗可缓解症状，外科手术可治愈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "风湿性二尖瓣病、先天性心脏...",
+        "symptom": [
+          "颈静脉怒张",
+          "收缩期杂音",
+          "心瓣膜病变",
+          "三尖瓣脱垂",
+          "右心衰竭"
+        ],
+        "complication": [
+          "感染性心内膜炎",
+          "肺栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "弗里德瑞希征",
+          "腹部搏动检查",
+          "颈静脉检查",
+          "胸部平片",
+          "二维超声心动图"
+        ],
+        "medicine": [
+          "胞磷胆碱钠氯化钠注射液",
+          "胞磷胆碱钠氯化钠注射液",
+          "瓣膜成形环"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "环状红斑",
+    "information": {
+      "introduction": "环状红斑(erythema annulare)是一组以环状或回状红斑为特征的皮肤病，不是一个独立的疾病，而是各种不同原因引起的真皮炎症反应，即血管扩张充血或细胞浸润在皮肤上的表现。通常包括单纯性回状红斑、离心性环状红斑、匍行性回状红斑、慢性迁移性红斑和风湿性边缘性红斑等疾病。单纯性回状红斑(erythema simplex guratum)系变应性血管反应，多见于女青年。发病前常有呼吸道感染或在月经来潮前数天发病。离心性环状红斑(erythema annulase centrifugum)是一种具有离心性向周围扩大，形状呈多环形损害和有鳞屑为特征的红斑性皮肤病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于女青年",
+        "symptom": [
+          "瘙痒",
+          "丘疹",
+          "鳞屑",
+          "水肿",
+          "炎性细胞浸润"
+        ],
+        "complication": [
+          "肺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "嗜酸性粒细胞数",
+          "中性粒细胞计数"
+        ],
+        "medicine": [
+          "三乙醇胺乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾及输尿管结石",
+    "information": {
+      "introduction": "尿路结石是最常见的泌尿外科疾病之一。男性多于女性，约3∶1。近30多年来，我国上尿路（肾、输尿管）结石发病率明显提高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "尿路结石",
+        "part": [
+          "肾",
+          "输尿管"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "输尿管疼痛",
+          "出冷汗",
+          "腹痛伴血尿",
+          "血压下降",
+          "脓尿"
+        ],
+        "complication": [
+          "肾积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 20000元）",
+        "ratio": "治愈率97%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "静脉尿路造影",
+          "肾图",
+          "泌尿系统CT",
+          "尿路平片"
+        ],
+        "medicine": [
+          "尿石通丸",
+          "腰痛宁胶囊",
+          "消石片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "消石片(玉林)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "肾石通颗粒(九连山)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾石通颗粒(南开)",
+          "grade": "1.83",
+          "total": "14",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊",
+          "grade": "1.64",
+          "total": "29",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾石通颗粒",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾石通颗粒(肾石通冲剂)",
+          "grade": "2.69",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊(银诺克)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾石通颗粒",
+          "grade": "3.90",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消石胶囊(玉林)",
+          "grade": "3.48",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金甲排石胶囊(天赐堂)",
+          "grade": "0.10",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾石通颗粒(桑海)",
+          "grade": "3.14",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊(龙泰)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "增殖性红斑",
+    "information": {
+      "introduction": "增殖性红斑(erythroplasia of queyrat)是一种罕见的癌前期病，其特点是在龟头或包皮上发生局限性湿润发亮的红色斑块，发展缓慢，日久可发展为上皮样癌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "红斑增殖病,凯腊氏增殖性红斑,凯腊增殖性红斑,黏膜红斑病,阴茎增殖性红斑",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "多在20～60岁之间",
+        "symptom": [
+          "瘙痒",
+          "阴茎硬结",
+          "溃疡",
+          "阴茎表浅性溃疡",
+          "龟头瘙痒"
+        ],
+        "complication": [
+          "外阴早期浸润性鳞癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "30-50%，多以控制症状治疗为主",
+        "duration": "6-12个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "阴茎检查",
+          "真菌组织病理学",
+          "阴茎超声检查"
+        ],
+        "medicine": [
+          "三乙醇胺乳膏",
+          "门冬氨酸钙口服溶液",
+          "硫唑嘌呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "湿热病",
+    "information": {
+      "introduction": "    湿热病症指：“湿热证，始恶寒，后但热不寒，汗出，胸痞，舌白，口渴不引饮。”即是说刚开始时感到寒冷，过一段时间后又感热出汗，胸口不舒服，舌头发白，饮水后还感到口渴。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "以夏秋为多见",
+        "symptom": [
+          "恶寒",
+          "痰湿体质",
+          "烦渴饮冷",
+          "额上汗出",
+          "湿热内蕴"
+        ],
+        "complication": [
+          "发作性睡病",
+          "新生儿泪囊炎",
+          "风湿热",
+          "急性风湿热肾损害",
+          "颅咽管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "40%",
+        "duration": "30天",
+        "method": [
+          "病因治疗、对症治疗 暂无"
+        ],
+        "examination": "?",
+        "medicine": [
+          "珍宝丸",
+          "正露丸",
+          "清开灵颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珍宝丸",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "清开灵颗粒(白云山)",
+          "grade": "2.58",
+          "total": "95",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "清开灵颗粒(远达)",
+          "grade": "4.5",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "三黄清解胶囊(银涛)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾气不固",
+    "information": {
+      "introduction": "  　肾气不固指肾气亏虚，失于封藏、固摄，以腰膝酸软，小便、精液、经带、胎气不固等为主要表现的虚弱证候。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "下元不固",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "老年人及身体虚弱人群多发",
+        "symptom": [
+          "遗精滑泄",
+          "腰膝酸软",
+          "神疲乏力",
+          "尿频",
+          "大小便失禁"
+        ],
+        "complication": [
+          "肾动脉狭窄",
+          "发作性睡病",
+          "小儿肾母细胞瘤",
+          "多发性骨髓瘤病肾病",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿沉渣结晶",
+          "尿酸",
+          "尿多巴胺",
+          "尿去氢异雄酮",
+          "尿沉渣细胞学"
+        ],
+        "medicine": [
+          "茸桂补肾口服液",
+          "普乐安片",
+          "普乐安片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "普乐安片(前列康)",
+          "grade": "2.13",
+          "total": "253",
+          "secondary": "153"
+        },
+        {
+          "medicine_name": "普乐安片(云丰)",
+          "grade": "3.57",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "普乐安片(百春堂)",
+          "grade": "2.99",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "普乐安胶囊(康先生)(Rx)",
+          "grade": "4.33",
+          "total": "9",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "普乐安片(保列通)",
+          "grade": "3.69",
+          "total": "153",
+          "secondary": "153"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "固本咳喘片(南峰牌)",
+          "grade": "3.85",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "固本咳喘片(宁宁)",
+          "grade": "4.13",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "普乐安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "固本咳喘胶囊(济仁)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,893 @@
+[
+  {
+    "disease_name": "男性生殖腺机能减退症",
+    "information": {
+      "introduction": "各种原因引起的睾丸功能减退而出现的一系列表现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "男性所有人群",
+        "symptom": [
+          "睾丸发育不全",
+          "睾丸微小",
+          "第二性征改变",
+          "反复生殖器溃疡",
+          "雄激素过少"
+        ],
+        "complication": [
+          "阳痿",
+          "早泄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "体外异种授精实验",
+          "输精管造影",
+          "血清抗精子抗体",
+          "双氢睾酮",
+          "精液检查"
+        ],
+        "medicine": [
+          "人绒毛膜促性腺激素诊断试剂盒(胶体金法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "汗管瘤",
+    "information": {
+      "introduction": "汗管瘤(syringoma)为表皮内小汗腺导管的一种腺瘤，组织化学研究证明汗管瘤含典型小汗腺起源的磷酸化酶和水解酶，是一种向末端汗管分化的汗腺良性肿瘤。部分患者有家族史。病损好发于眼睑及颊部，以硬韧的小丘疹为主要表现。很少自行消退，但不恶变。可不治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "汗管囊瘤,汗管囊肿腺瘤",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "丘疹",
+          "出冷汗",
+          "出汗异常"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "肿瘤科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "70%",
+        "duration": "7-14天",
+        "method": [
+          "中医药物治疗、西医药物治疗、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "平消胶囊",
+          "香茯益血口服液",
+          "五妙水仙膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五妙水仙膏(楚克)",
+          "grade": "2.45",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五妙水仙膏(天龙)",
+          "grade": "1.05",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五妙水仙膏(宝昌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五妙水仙膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨髓增生异常综合征",
+    "information": {
+      "introduction": "骨髓增生异常综合征( myelodysplastic syndrome, MDS)是一组起源于造血髓系定向干细胞或多能干细胞的异质性克隆性疾患，其基本病变是克隆性造血干、祖细胞发育异常(dysplasia)，导致无效造血以及恶性转化危险性增高。主要特征是无效造血和高危演变为急性髓系白血病，临床表现为造血细胞在质和量上出现不同程度的异常变化。MDS发病率约10/10万～12/10万人口，多累及中老年人，50岁以上的病例占50%～70%，男女之比为2：1。MDS30%～60%转化为白血病。其死亡原因除白血病之外，多数由于感染、出血，尤其是颅内出血。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "MDS",
+        "part": [
+          "脊髓",
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肝脾肿大",
+          "乏力",
+          "鼻衄",
+          "颅内出血",
+          "面色苍白"
+        ],
+        "complication": [
+          "骨髓纤维化",
+          "染色体异常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "30%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "骨髓显像",
+          "染色体核型分析",
+          "骨髓象分析",
+          "巨核细胞计数",
+          "骨髓细菌培养"
+        ],
+        "medicine": [
+          "复方皂矾丸",
+          "氟氯西林钠胶囊",
+          "瑞复美来那度胺胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方皂矾丸(郝其军)",
+          "grade": "2.4",
+          "total": "9",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "基底细胞癌",
+    "information": {
+      "introduction": "基底细胞瘤（basal cell carcinoma）亦称蚕蚀性溃疡，是皮肤癌肿最多见的一种，发病率很高，占眼睑恶性肿瘤的第一位（约50％以上）。男性比女性稍多，老年人比青年人多见，年龄高峰在50～60岁之间。一般仅在局部呈浸润性生长，很少发生转移，但处理不当，或不加处理，也可能严重破坏眼部组织，甚至侵入副鼻窦及颅内而引起死亡。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "基底细胞上皮瘤,基癌,基底上皮细胞癌,基底样细胞瘤,侵蚀性溃疡,基底细胞瘤,头面部基底细胞癌",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "红斑鳞屑",
+          "毛发稀少",
+          "结痂",
+          "生长缓慢",
+          "硬斑"
+        ],
+        "complication": [
+          "湿疹",
+          "小儿基底细胞痣综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（20000 —— 50000元）",
+        "ratio": "外科手术治愈率约为85%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "癌症普查",
+          "CT检查",
+          "细胞组织化学染色",
+          "MRI",
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "注射用重组人干扰素α2a",
+          "重组人干扰素α2b注射液",
+          "重组人干扰素α2b注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "锁骨骨折",
+    "information": {
+      "introduction": "锁骨呈“S”形架于胸骨柄与肩峰之间，是连接上肢与躯干之间的唯一骨性支架。锁骨位于皮下，表浅，受外力作用时易发生骨折，发生率占全身骨折的 5%～10%。多发生在儿童及青壮年。上肢外展跌倒或局部被暴力直接打击等外伤史，伤后肩部出现疼痛上肢不敢活动。X 线片可确诊，并显示骨折移位及粉碎情况。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "锁子骨伤",
+        "part": [
+          "其他骨"
+        ],
+        "infection": "无传染性",
+        "people": "多发生在儿童及青壮年",
+        "symptom": [
+          "上肢外展上举困难",
+          "青枝骨折",
+          "瘀血",
+          "胁部肿胀",
+          "瘀血"
+        ],
+        "complication": [
+          "肺损伤",
+          "臂丛神经损伤",
+          "血管损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "手术治愈率95%",
+        "duration": "1-3个月",
+        "method": [
+          "药物、复位、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "独一味片",
+          "锁式接骨器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "独一味片(维力通)",
+          "grade": "4.66",
+          "total": "12",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睡眠呼吸暂停综合征",
+    "information": {
+      "introduction": "睡眠呼吸暂停综合征(sleep apnea syndrome，SAS)是指夜间睡眠7h内，口或鼻腔气流持续停止10s以上，并超过30次者。常见病因有鼻中隔偏曲、鼻息肉、鼻咽部腺样体肥大、巨舌症、扁桃体肥大、下颌畸形、慢性阻塞性肺病、肺心病、肥胖呼吸困难嗜睡综合征、肢端肥大症、黏液性水肿、高原红细胞增多症、药物性呼吸抑制、延髓灰质炎等。呼吸暂停可分为中枢型(胸腹肌无呼吸动作)、阻塞型(胸腹肌尽力作呼吸动作)及混合型(胸腹肌开始无呼吸动作，以后出现并逐渐加强)，在此期间均无自主呼吸。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "睡眠呼吸暂停综合症,睡眠无呼吸综合征",
+        "part": [
+          "口",
+          "鼻",
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": " 肥胖人群，老年人 ",
+        "symptom": [
+          "白天嗜睡夜间失眠",
+          "头痛",
+          "智力减低",
+          "男子性功能障碍"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "75%",
+        "duration": "4-6月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "肌电图",
+          "呼气高峰流量",
+          "脑电图",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "睡眠诊断仪",
+          "呼吸机",
+          "呼吸机"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨关节病",
+    "information": {
+      "introduction": "骨关节病是一种以局部关节软骨退变，骨质丢失，关节边缘骨刺形成及关节畸形和软骨下骨质致密为特征的慢性关节疾病，又称骨关节炎，退行性骨关节病，增生性关节炎，老年性关节炎。好发于50岁以上人群，女性多于男性，不同程度的影响中老年患者的生活质量。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "关节肿痛",
+          "髋关节痛",
+          "肩关节痛",
+          "踝关节疼痛",
+          "颌骨关节痛"
+        ],
+        "complication": [
+          "血色病性骨关节病",
+          "增生性骨关节病",
+          "松毛虫病骨关节病",
+          "肥大性骨关节病",
+          "透析性骨关节病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（6000-10000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "腰背痛体格检查",
+          "骨与关节MRI",
+          "血液生化六项",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "正骨水",
+          "美洛昔康胶囊",
+          "鹿瓜多肽注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "双虎肿痛宁喷雾剂(葵花牌)",
+          "grade": "3.31",
+          "total": "17",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "恒古骨伤愈合剂(克雷斯)",
+          "grade": "1.96",
+          "total": "8",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "口蹄疫",
+    "information": {
+      "introduction": "口蹄疫(foot and mouth disease)是一种人畜共患病，是由口蹄疫病毒引起的一种急性传染病。最易感的是牛类，猪也易感，羊、山羊、骆驼、象等均有发病报告，人亦可感染。主要是人与动物接触而发病，临床主要表现为唇、牙龈、颊部、舌的边缘、手足颜面等处的黏膜、皮肤先出现红点、继生水疱，水疱破裂后成溃疡、结痂后痊愈，时伴有发热、头痛、四肢痛、眩晕、呕吐、腹泻等。一般预后较好。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "口疮热,口蹄病",
+        "part": [
+          "口"
+        ],
+        "infection": "有传染性",
+        "people": "长期与有口蹄疫动物接触的人...",
+        "symptom": [
+          "疲乏",
+          "眩晕欲扑",
+          "高热",
+          "充血",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "柯萨奇病毒感染",
+          "腱鞘炎",
+          "乳腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "经过有效系统治疗一般在95%以上",
+        "duration": "2-4个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "涂片",
+          "中性粒细胞计数",
+          "补体结合试验",
+          "白细胞数"
+        ],
+        "medicine": [
+          "盐酸伐昔洛韦片",
+          "盐酸伐昔洛韦胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "风湿性多肌痛",
+    "information": {
+      "introduction": "风湿性多肌痛(polymyalgia rheumatica，PMR)，是以四肢和躯干近端疼痛为特征的临床综合征。一般包括以下3个要点：50或50岁以上起病;肩胛带、骨盆带和颈部3处易患部位中有2处出现疼痛和晨僵，时间超过30min，持续1个月以上;加上全身反应证据如血沉升高超过40mm/h或50mm/h。除巨细胞动脉炎(giant cell arteritis，GCA)外，如果存在其他特定疾病如类风湿关节炎、慢性感染、多发性肌炎或恶性肿瘤等可排除风湿性多肌痛的诊断。PMR和GCA关系密切，约1/4的PMR最终发展为GCA，而40%GCA可出现PMR表现，故有人认为PMR和GCA是同一疾病的不同表现，即PMR仅为GCA的临床表现之一，但也有人提出它们分属独立性疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "风湿性多发性肌痛,风湿性多肌病",
+        "part": [
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "流行性肌痛",
+          "乏力",
+          "晨僵",
+          "无力",
+          "肌肉酸痛"
+        ],
+        "complication": [
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "70%",
+        "duration": "14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "血清类风湿因子",
+          "肌电图",
+          "抗核抗体",
+          "血清C反应蛋白"
+        ],
+        "medicine": [
+          "托美丁钠胶囊",
+          "酮洛芬缓释片",
+          "甲泼尼龙片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药膏(云南白药)",
+          "grade": "3.06",
+          "total": "225",
+          "secondary": "178"
+        },
+        {
+          "medicine_name": "金鸡虎补丸(同仁堂)",
+          "grade": "1.97",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "男宝胶囊(力生)",
+          "grade": "1.56",
+          "total": "74",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑鸣",
+    "information": {
+      "introduction": "脑鸣是指多因脑髓空虚，或因火郁，痰湿阻滞所致，以自觉脑内如虫蛀鸣响为主要表现的脑神疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "头鸣",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "腰膝酸软"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "发作性睡病",
+          "副鼻窦炎",
+          "嗜睡症",
+          "发作性嗜睡强食综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "耳鼻喉科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "50-70%",
+        "duration": "1-2年",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿便秘",
+    "information": {
+      "introduction": "便秘(constipation)常由于排便规律改变所致，指排便次数明显减少、大便干燥、坚硬，秘结不通，排便时间间隔较久(>2天)，无规律，或虽有便意而排不出大便。常见症状是排便次数明显减少，常伴有排便困难感的病理现象。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "偏食儿童",
+        "symptom": [
+          "肛门疼痛",
+          "乏力",
+          "肠蠕动减慢",
+          "新生儿便秘",
+          "粪便量少"
+        ],
+        "complication": [
+          "肛裂",
+          "缺血性肠绞痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "小肠镜",
+          "直肠镜",
+          "胃钡餐造影",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "枯草杆菌二联活菌颗粒",
+          "枳术宽中胶囊",
+          "开塞露(含甘油)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "四磨汤口服液(汉森)",
+          "grade": "3.60",
+          "total": "108",
+          "secondary": "31"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "单纯疱疹病毒性角膜炎",
+    "information": {
+      "introduction": "单纯疱疹病毒感染引起的角膜炎症称为单纯疱疹病毒性角膜炎(Herpes simplex keratitis，HSK)。HSV-1角膜炎是常见、严重的角膜病，居角膜病发病率和致盲原因的首位。单纯疱疹病毒性角膜炎是目前最严重的常见角膜病，近几年来有明显上升和加剧趋势。由于抗生素和皮质类固醇的广泛应用，其发病率有上升趋势。往往因反复发作而严重危害视功能，临床尚无有效控制复发的药物，因而成为一种世界性的重要致盲原因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "有传染性",
+        "people": "儿童",
+        "symptom": [
+          "结痂",
+          "角膜溃疡",
+          "睫状充血",
+          "水泡",
+          "疱疹"
+        ],
+        "complication": [
+          "虹膜睫状体炎",
+          "青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（5000—— 10000元）",
+        "ratio": "治愈率91.2%",
+        "duration": "治疗周期21天",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "泪液分泌型免疫球蛋白A",
+          "Cochet和Bonnet氏角膜知觉测量计"
+        ],
+        "medicine": [
+          "利巴韦林滴眼液",
+          "盐酸伐昔洛韦片",
+          "重组人干扰素α2b滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "淋病合并症前列腺炎",
+    "information": {
+      "introduction": "淋病是由淋病双球菌引起的泌尿生殖系统的化脓性感染，是最常见的性病之一，其主要表现是淋菌性尿道炎和宫颈炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "阴茎疼痛",
+          "结节",
+          "寒战",
+          "前列腺钙化",
+          "前列腺分泌物含有许多脓缩细胞"
+        ],
+        "complication": [
+          "尿道炎",
+          "精囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--30000",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前列腺液培养",
+          "前列腺检查",
+          "淋菌培养",
+          "淋病细菌学检测",
+          "前列腺、精囊腺的超声检查"
+        ],
+        "medicine": [
+          "前列舒丸",
+          "前列回春胶囊",
+          "康复贴"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列舒丸",
+          "grade": "2.59",
+          "total": "9",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "前列回春胶囊(孚必克)",
+          "grade": "3.21",
+          "total": "8",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "下肢动脉硬化闭塞症",
+    "information": {
+      "introduction": "动脉硬化闭塞症是一种退行性病变，是大、中动脉的基本病理过程，主要是细胞、纤维基质、脂质和组织碎片的异常沉积，在动脉内膜或中层发生增生过程中复杂的病理变化。在周围血管疾患中，动脉的狭窄、闭塞性或动脉瘤性病变，几乎大部分都是由动脉硬化所引起。动脉硬化性病变一般是全身性疾患，好发于某些大、中型动脉，如腹主动脉下段、髂动脉、股动脉和腘动脉等处，上肢动脉很少累及。病变动脉增厚、变硬、伴有粥样斑块和钙化，并可继发血栓形成，致使动脉管腔狭窄或闭塞，肢体出现缺血症状。患肢有发冷、麻木、疼痛、间歇性跛行和趾或足发生溃疡或坏死等临床表现。有时狭窄或闭塞性病变呈节段性和多平面性，好发于动脉的分叉起始部和管腔后壁部，动脉主干弯曲部也较常累及，病变远侧往往有通畅的流出道存在。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "下肢动脉硬化栓塞,下肢动脉硬化高血压",
+        "part": [
+          "下肢",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "高血压、高胆固醇、长期吸烟...",
+        "symptom": [
+          "动脉呈多处伸长扭曲状",
+          "额区感觉减退",
+          "老年人腿抽筋",
+          "血液粘度增高",
+          "下肢发凉"
+        ],
+        "complication": [
+          "动脉栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（5000—— 20000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "手术治疗、药物治疗、介入治疗"
+        ],
+        "examination": [
+          "脉搏",
+          "动脉听诊",
+          "冠状动脉CT",
+          "冠状动脉造影",
+          "腹部听诊"
+        ],
+        "medicine": [
+          "通脉颗粒",
+          "西洛他唑片",
+          "脉管复康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "通脉颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉管复康片(太阳)",
+          "grade": "3.05",
+          "total": "23",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉管复康胶囊(林克风)",
+          "grade": "2.24",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "脉络宁颗粒(康之选)",
+          "grade": "2.79",
+          "total": "14",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肠结核",
+    "information": {
+      "introduction": "肠结核为消化系统结核中最常见者。绝大多数继发于肠外结核病，特别是空洞型肺结核。据统计，25%～50%的肺结核病人可并发肠结核。肠结核的来源主要是食入性的，由于咽下含结核杆菌的痰液而引起，偶尔可以来自被结核杆菌污染的食物，亦可来源于血源性或腹腔、盆腔其他脏器结核的直接蔓延。发病年龄多为青壮年，女性多于男性，约为1.85：1。病理上分为溃疡型、增生型及混合型三型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肠痨",
+        "part": [
+          "肠"
+        ],
+        "infection": "有传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "肠外结核",
+          "肚子疼",
+          "粪便黑色并带有血液",
+          "肠鸣",
+          "回盲部结核"
+        ],
+        "complication": [
+          "肠梗阻",
+          "腹膜炎",
+          "肠套叠"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "治愈率91.3%",
+        "duration": "治疗周期9个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "结核菌素皮内试验",
+          "大便颜色",
+          "粪便性状",
+          "十二指肠钡餐造影",
+          "乙状结肠镜检查"
+        ],
+        "medicine": [
+          "异烟肼片",
+          "利福平胶囊(Ⅱ)",
+          "氨硫脲片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄  虫丸",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄庶虫丸",
+          "grade": "3.73",
+          "total": "12",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

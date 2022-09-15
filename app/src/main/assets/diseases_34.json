@@ -1,0 +1,1273 @@
+[
+  {
+    "disease_name": "绝经",
+    "information": {
+      "introduction": "1994年6月14日在日内瓦召开了有关20世纪90年代绝经研究进展工作会议，提出废弃更年期而推荐采用围绝经期和绝经过渡期。其规定如下：①绝经前期(pre-menopausal period)：指卵巢有活动的时期，包括青春发育到绝经。②绝经(menopausal)：指妇女一生中的最后一次月经，往往要回顾确定。③绝经后期(postmenopausal period)：指绝经一直到生命终止这一整个时期。④绝经过渡期(menopausal transitional period)：指绝经前的一段时期，即从生殖年龄走向绝经的一段过渡时期，包括从临床上或血中激素水平最早出现绝经的趋势开始(即卵巢功能开始衰退的征兆)一直到最后一次月经。⑤围绝经期(peri-menopausal period)：指妇女绝经前后一段时期，包括从临床上或血中激素水平开始出现绝经趋势的迹象(即卵巢功能开始衰退的征兆)，一直持续到来过最后一次月经后1年。即绝经过渡期加绝经后1年。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "经闭",
+        "part": [
+          "卵巢",
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性45－55岁",
+        "symptom": [
+          "乏力",
+          "尿急",
+          "尿频",
+          "潮红潮热"
+        ],
+        "complication": [
+          "骨折",
+          "冠心病",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000-8000元）",
+        "ratio": "10%",
+        "duration": "20天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "促黄体生成素",
+          "血清卵泡刺激素",
+          "血清促甲状腺激素",
+          "雌二醇",
+          "血清鳞状上皮细胞癌抗原"
+        ],
+        "medicine": [
+          "坤宝丸",
+          "更年宁",
+          "葡萄糖酸钙锌口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "坤宝丸(同仁堂)",
+          "grade": "2.57",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "更年宁(同仁堂)",
+          "grade": "3.66",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "坤泰胶囊",
+          "grade": "2.97",
+          "total": "94",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "脉血康胶囊(多泰)",
+          "grade": "1.98",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "前列腺结石",
+    "information": {
+      "introduction": "前列腺结石是在前列腺腺泡和腺管内形成的真性结石，可小如粟米，大如豌豆，可呈圆形或椭圆形，也可呈多面形，数目可以是一个，也可能是几百个，一般呈棕黄色、暗棕色或黑色，小结石常较光滑，大结石或多发结石可占据整个腺腔，质地坚硬。广州仁爱医院男科专家介绍说，前列腺结石中常隐藏有大量细菌，因此，常可作为感染核心，储存细菌，而抑菌的抗生素却难以进入结石发挥作用。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年男性",
+        "symptom": [
+          "男性小腹痛",
+          "结节",
+          "脓肿",
+          "泌尿道狭窄",
+          "腰骶疼痛"
+        ],
+        "complication": [
+          "早泄",
+          "尿毒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "外科手术治愈率约为60-70%",
+        "duration": "4-8周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血清PSA",
+          "前列腺检查",
+          "男性生殖系X线检查",
+          "淀粉样体",
+          "直肠指检"
+        ],
+        "medicine": [
+          "尿石通丸",
+          "血尿胶囊",
+          "热淋清颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血尿胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "五淋化石丸(三鹤药业)",
+          "grade": "1.97",
+          "total": "14",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "五淋化石胶囊(安可通)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五淋化石胶囊(繁江)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益智温肾十味丸(蒙王)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五淋化石丸",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "舒泌通丸",
+          "grade": "1.92",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益智温肾十味丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益智温肾十味丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益智温肾十味丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "食管裂孔疝",
+    "information": {
+      "introduction": "食管由后纵隔通过膈肌后部的孔进入腹腔，此孔称为食管裂孔。胃贲门部及食管腹段或腹腔内脏经此裂孔及其旁突入胸腔，称为食管裂孔疝(hiatal hernias).食管裂孔疝是膈疝中最常见者，达90%以上。裂孔疝和返流性食管炎可同时，也可分别存在，认识并区别此二者，对临床工作十分重要。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "裂孔疝",
+        "part": [
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "嗳气",
+          "胃嵌顿",
+          "食管蠕动功能减弱",
+          "腹部不适",
+          "钝痛"
+        ],
+        "complication": [
+          "反流性食管炎",
+          "上消化道出血",
+          "胃扭转",
+          "胃溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "89%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "上消化道内窥镜",
+          "食管压力",
+          "心电图",
+          "食管24小时pH监测"
+        ],
+        "medicine": [
+          "西沙必利",
+          "西沙必利",
+          "疝修补补片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "原发性高血压",
+    "information": {
+      "introduction": "高血压可分为原发性及继发性两大类。在绝大多数患者中，高血压的病因不明，称之为原发性高血压，占总高血压着的95%以上;原发性高血压，又称高血压病，患者除了可引起高血压本身有关的症状以外，长期高血压还可成为多种心脑血管疾病的重要危险因素，并影响重要脏器如心、脑、肾的功能，最终可导致这些器官的功能衰竭。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "特发性高血压,原发性高血压病",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "血压高",
+          "头痛",
+          "头胀",
+          "头晕",
+          "心悸"
+        ],
+        "complication": [
+          "冠心病",
+          "高血压脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "这个疾病一般通过药物治疗后不在加重，治疗有效率在50%以上。",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "尿素氮",
+          "血肌酐",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "苯磺酸氨氯地平片",
+          "奥美沙坦酯片",
+          "培哚普利吲达帕胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "心肾不交",
+    "information": {
+      "introduction": "心肾不交证是因心肾既济失调所致的病证。多由外邪损伤肾阴，或久病伤阴，房事过度，阴液暗耗，不能上济于心，或思虑过度，情志郁而化火伤阴等引起。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏",
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "心悸",
+          "五心烦热",
+          "失眠",
+          "烦躁不安",
+          "健忘"
+        ],
+        "complication": [
+          "副鼻窦炎",
+          "中毒性眩晕",
+          "心肌桥",
+          "新生儿泪囊炎",
+          "气虚眩晕"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "乌灵胶囊",
+          "灵芝益寿胶囊",
+          "养心安神丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌灵胶囊(佐力)",
+          "grade": "2.95",
+          "total": "98",
+          "secondary": "77"
+        },
+        {
+          "medicine_name": "灵芝益寿胶囊(东泰)",
+          "grade": "2.24",
+          "total": "27",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养心安神丸(同仁堂)",
+          "grade": "4.19",
+          "total": "103",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "复方海蛇胶囊(喜恩康)",
+          "grade": "3.33",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "利尔眠胶囊(九芝堂)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "孔圣枕中丸(同仁堂)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "孔圣枕中丸",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "养心安神丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养心安神丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利尔眠片(玉兰)",
+          "grade": "2.81",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "更年欣胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑灵片(景忠山)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑灵片(河西)",
+          "grade": "4.43",
+          "total": "29",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "内热",
+    "information": {
+      "introduction": "热中是中医病症名。指内热。《素问·脉要精微论》：“粗大者，阴不足阳有馀，为热中也。” 明 李时珍 《本草纲目·草七·牵牛子》﹝集解﹞引 李杲 曰：“况饮食失节，劳役所伤，是胃气不行，以火乘之，肠胃受火邪，名曰热中。”热中也叫内热，中医上又称为“火热内生”。顾名思义，内火(热)是和内寒相反的一类由于人体新陈代谢过于旺盛、产热过多所导致的疾病。产热过多，对人体而言有绝对过多和相对过多两种情况。绝对过多是指人体新陈代谢过于旺盛，导致产热量超过正常的散热能力所导致的疾病;而相对过多，则是指人体散热能力下降而导致产热相对过剩所导致的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "内火，火热内生",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人",
+        "symptom": [
+          "低烧",
+          "面红升火",
+          "心悸",
+          "舌苔厚腻",
+          "手热"
+        ],
+        "complication": [
+          "垂体性侏儒症",
+          "脑血管瘤",
+          "副鼻窦炎",
+          "发作性睡病",
+          "噤口痢"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 1000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "小儿牛黄清心散",
+          "醒脑安神片",
+          "小儿清肺止咳片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿牛黄清心散(方键)",
+          "grade": "1.93",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "醒脑安神片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿清肺止咳片(同仁堂)",
+          "grade": "3.88",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益肺清化膏(达仁堂)",
+          "grade": "1.02",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿清热宁颗粒(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血府逐瘀片(希尔安)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "防风通圣丸(同仁堂)",
+          "grade": "4.39",
+          "total": "18",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "黄连上清片",
+          "grade": "2.78",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "防风通圣丸(中一)",
+          "grade": "2.64",
+          "total": "15",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "血府逐瘀胶囊(红花牌)",
+          "grade": "2.12",
+          "total": "44",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "血府逐瘀口服液(敖东)",
+          "grade": "3.15",
+          "total": "17",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "感冒退烧片(同仁堂)",
+          "grade": "4.04",
+          "total": "66",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "益肺清化颗粒",
+          "grade": "2.26",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "牛黄净脑片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宝宝牛黄散(佛山)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性肾盂肾炎",
+    "information": {
+      "introduction": "急性肾盂肾炎(acute pyelonephritis)是细菌侵犯肾盂、肾盏及肾实质所引起的急性化脓性炎症。病程不超过6个月。感染途径有两种：①上行性感染，细菌由输尿管进入肾盂，再侵入肾实质。70%的急性肾盂肾炎是源于此途径。②血行性感染，细菌由血流进入肾小管，从肾小管侵入肾盂，约占30%，多为葡萄球菌感染。尿路梗阻和尿流停滞是急性肾盂肾炎最常见的原因，单纯的肾盂肾炎很少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾盂肾炎，肾瘅",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "发生于各种年龄，但以育龄妇...",
+        "symptom": [
+          "真性菌尿",
+          "小管间质性肾炎",
+          "直立性尿蛋白",
+          "下腹痛",
+          "夜尿增多"
+        ],
+        "complication": [
+          "尿路梗阻",
+          "肾盂肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肾病类尿常规",
+          "高钠试验",
+          "尿液细菌培养"
+        ],
+        "medicine": [
+          "金钱通淋颗粒",
+          "金钱通淋颗粒",
+          "肾炎安胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金钱通淋颗粒(星辰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱通淋颗粒(白马)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾炎安胶囊(中华)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱通淋口服液",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱通淋口服液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎安胶囊(修正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎安颗粒",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "银蒲解毒片(玉林)",
+          "grade": "1.5",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脊髓型颈椎病",
+    "information": {
+      "introduction": "脊髓型颈椎病虽少见，但症状严重，且多以隐性侵袭的形式发展，易误诊为其他疾患而延误治疗时机，因此其在诸型中处于重要地位。由于其主要压迫或刺激脊髓及伴行血管而出现脊髓神经的感觉、运动、反射与排便功能障碍，故称之为脊髓型颈椎病。颈椎病包括：颈型颈椎病、神经根型颈椎病、脊髓型颈椎病、椎动脉型颈椎病、交感神经型颈椎病、食管压迫型颈椎病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部",
+          "脊柱",
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "颈椎变形",
+          "步态异常",
+          "共济失调",
+          "行走踩棉花感",
+          "锥体束病损"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（2000—— 10000元）",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "脊椎平片"
+        ],
+        "medicine": [
+          "伸筋丹胶囊",
+          "颈复康颗粒",
+          "颈椎脊柱非手术减压治疗系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "颈复康颗粒(颈复康)",
+          "grade": "2.44",
+          "total": "286",
+          "secondary": "220"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "羊水过多",
+    "information": {
+      "introduction": "正常妊娠时的羊水量随孕周增加而增多 ，最后2～4周开始逐渐减少，妊娠足月时羊水量约为1000ml(800～1200ml)，凡在妊娠任何时期内羊水量超过2000ml者，称为羊水过多。最高可达20000ml。多数孕妇羊水增多较慢，在较长时期内形成，称为慢性羊水过多;少数孕妇在数日内羊水急剧增加，称为急性羊水过多。羊水过多的发生率，文献报道为0.5%～1%，妊娠合并糖尿病者，其发生率可达20%。羊水过多时羊水的外观、性状与正常者并无异样。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "羊水过多症",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠20～24周或妊娠28～32周",
+        "symptom": [
+          "子宫出血",
+          "子宫收缩不良",
+          "阵发性子宫收缩",
+          "怀孕时子宫异常增大",
+          "子宫收缩不良"
+        ],
+        "complication": [
+          "下肢静脉曲张"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "羊水检查",
+          "羊水甲胎蛋白测定（AFP）",
+          "产科B超",
+          "AFP",
+          "羊水量"
+        ],
+        "medicine": [
+          "五苓散",
+          "黄芪颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五苓散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄芪颗粒(乐家老铺)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颞下颌关节紊乱综合征",
+    "information": {
+      "introduction": "颞下颌关节紊乱综合症（Temporo-mandibular Joint Dysfunction Syndrome）是口腔颌面部常见的疾病之一。在颞下颌关节疾病中，此病最为多见。好发于青壮年，以20～30岁患病率最高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "Costen综合征",
+        "part": [
+          "口",
+          "心理",
+          "其他骨"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "颌骨关节痛",
+          "耳鸣",
+          "颞部疼痛",
+          "颌骨关节痛",
+          "颞部疼痛"
+        ],
+        "complication": [
+          "肾虚耳鸣",
+          "牙龈炎",
+          "牙痈"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（8000——15000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "康复治疗 支持性治疗"
+        ],
+        "examination": [
+          "颞下颌关节造影",
+          "下颌运动检查",
+          "颞下颌关节检查"
+        ],
+        "medicine": [
+          "开喉剑喷雾剂",
+          "美洛昔康胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "开喉剑喷雾剂(三力)",
+          "grade": "3.20",
+          "total": "52",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "1型糖尿病",
+    "information": {
+      "introduction": "1型糖尿病，又名胰岛素依赖型糖尿病(IDDM)或青少年糖尿病，易出现糖尿病酮症酸中毒(DKA)。又叫青年发病型糖尿病，这是因为它常常在35岁以前发病，占糖尿病的10%以下。1型糖尿病是依赖胰岛素治疗的，也就是说病友从发病开始就需使用胰岛素治疗，并且终身使用。原因在于1型糖尿病病友体内胰腺产生胰岛素的细胞已经彻底损坏，从而完全失去了产生胰岛素的功能。在体内胰岛素绝对缺乏的情况下，就会引起血糖水平持续升高，出现糖尿病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "I型糖尿病,胰岛素依赖型糖尿病,IDDM,青少年糖尿病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "此病好发于儿童或青少年期，...",
+        "symptom": [
+          "多尿",
+          "乏力",
+          "视力障碍",
+          "体重减轻",
+          "糖尿"
+        ],
+        "complication": [
+          "糖尿病肾病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 ——10000元）",
+        "ratio": "需要终身治疗，目前不能治愈",
+        "duration": "需要终身治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "葡萄糖胰岛素释放试验",
+          "尿C肽",
+          "血液生化六项",
+          "血液电解质",
+          "血液检查"
+        ],
+        "medicine": [
+          "格列吡嗪片",
+          "格列吡嗪片",
+          "盐酸二甲双胍片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "幼儿急疹",
+    "information": {
+      "introduction": "幼儿急疹(exanthema subitum)又称婴儿玫瑰疹(roseola infantum)、烧疹，是人类疱疹病毒6、7型感染引起的常见于婴幼儿的急性出疹性传染病。临床特征为高热3～4天，然后骤然退热并出现皮疹，一般几小时内皮疹开始消退，2～3天内全部消失，无色素沉着及脱皮。预后良好，均能自愈。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿猝发疹,婴儿玫瑰疹,第六病,第四病,第四种病,杜克病,杜克斯病,副猩红热",
+        "part": [
+          "皮肤",
+          "其他"
+        ],
+        "infection": "有传染性",
+        "people": "多在2岁以内，尤以1岁以内最",
+        "symptom": [
+          "高热",
+          "斑疹",
+          "玫瑰疹",
+          "斑丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "100%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心电图",
+          "胸部平片",
+          "酶联合吸附测定",
+          "核酸分子杂交"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性子宫内膜炎",
+    "information": {
+      "introduction": "即使有很广泛的慢性附件炎症，子宫内膜可能仍然完全正常。主要由于宫腔有良好的引流条件及周期性内膜剥脱，使炎症极少机会长期停留于子宫内膜，故病变多逐渐减轻而消失。但如急性期治疗不彻底，或经常仍存在感染源，则可反复发作。所以慢性子宫内膜炎发病率较低。慢性子宫内膜炎是导致流产的最常见原因，约90%流产与妇科炎症有关。子宫炎是妇女常见的盆腔炎症类型。一般是指子宫内膜炎和宫颈炎，子宫内膜炎可分为急性子宫内膜炎和慢性子宫内膜炎；宫颈炎可分为急性宫颈炎和慢性宫颈炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "子宫内膜炎,老年性子宫内膜炎,结核性子宫内膜炎",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "生育期妇女",
+        "symptom": [
+          "下腹坠胀",
+          "白带增多",
+          "钝痛",
+          "腰骶部酸痛",
+          "子宫出血"
+        ],
+        "complication": [
+          "宫腔积脓",
+          "继发性腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约５００－１０００元",
+        "ratio": "本病一般经过系统消炎治疗后，一般治愈率在98%左右",
+        "duration": "一般治疗周期在15天时间。",
+        "method": [
+          "中西医结合治疗"
+        ],
+        "examination": [
+          "阴道窥器检查",
+          "子宫疾病自检",
+          "妇科B超"
+        ],
+        "medicine": [
+          "金鸡胶囊",
+          "妇科千金片",
+          "妇乐颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.81",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(大峻)",
+          "grade": "3.33",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(杨济生)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇科止带片(密之康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(苗泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带胶囊(白马)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(斯威)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(摩美得)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "妇科止带片(天光)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(江西民济)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带胶囊(思洁)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(万花山)",
+          "grade": "2.5",
+          "total": "12",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "妇科止带片(吉春)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心脾两虚",
+    "information": {
+      "introduction": "心脾两虚，病证名。指心脾两脏气血虚弱的病变。主要证候有心悸怔忡、失眠多梦、健忘、食少、便溏、倦怠乏力、或见崩漏、便血、皮下出血、舌淡、脉细弱。可见于贫血、紫癜、功能性子宫出血等病症。治宜补气摄血。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏",
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "恶性贫血",
+          "气血不足",
+          "气不摄血",
+          "脾虚"
+        ],
+        "complication": [
+          "气虚眩晕",
+          "老年人颈性眩晕",
+          "脑血管瘤",
+          "老年眩晕",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（200 —— 800元）",
+        "ratio": "80%",
+        "duration": "2-5月",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "黄芪颗粒",
+          "参苓白术散",
+          "九味镇心颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄芪颗粒(好好)",
+          "grade": "3.83",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "参苓白术散(立效)",
+          "grade": "4.59",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "九味镇心颗粒(玖卫)",
+          "grade": "3.98",
+          "total": "105",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "健脾生血颗粒(健民)",
+          "grade": "3.43",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "归脾丸(九芝堂)",
+          "grade": "5.0",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "归脾丸",
+          "grade": "3.40",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "刺五加脑灵液(哈药)",
+          "grade": "3.25",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "归脾丸(浓缩丸)(归脾丸(佛慈)",
+          "grade": "4.12",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "归脾颗粒(广济堂)",
+          "grade": "2.29",
+          "total": "21",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "归脾丸(九芝堂)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "归脾丸(仲景)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "归脾丸(本草纲目)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "归脾丸(冯了性)",
+          "grade": "4.61",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "灵芝口服液(正清)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "股骨颈骨折",
+    "information": {
+      "introduction": "股骨颈骨折是指由于骨质疏松、老年人髋周肌肉群退变、反应迟钝或遭受严重外伤所致的股骨颈断裂。股骨颈骨折常发生于老年人，随着人的寿命延长，其发病率日渐增高，尤其随着人口老龄化，已成为严重的社会问题。其临床治疗中存在骨折不愈合和股骨头缺血坏死两个主要难题。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "老年女性",
+        "symptom": [
+          "关节肿痛",
+          "关节疼痛",
+          "屈髋屈膝及外旋畸形",
+          "关节肿胀",
+          "线状骨折"
+        ],
+        "complication": [
+          "股骨头坏死",
+          "缺血性坏死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约3000-8000元",
+        "ratio": "89%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "骨与关节MRI",
+          "CT检查"
+        ],
+        "medicine": [
+          "独一味胶囊",
+          "骨康胶囊",
+          "髋关节假体"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "独一味胶囊(独一味)",
+          "grade": "2.2",
+          "total": "24",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

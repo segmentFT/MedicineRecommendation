@@ -1,0 +1,1023 @@
+[
+  {
+    "disease_name": "急性咽炎",
+    "information": {
+      "introduction": "急性咽炎(acute pharyngitis)是咽粘膜，并波及粘膜下及淋巴组织的急性炎症，常继发于急性鼻炎或急性扁桃体之后或为上呼吸道感染之一部分。亦常为全身疾病的局部表现或为急性传染病之前驱症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，抽烟男性",
+        "symptom": [
+          "咽喉干燥及灼热感",
+          "头痛",
+          "关节酸痛",
+          "咽痛",
+          "吞咽痛"
+        ],
+        "complication": [
+          "急性喉炎",
+          "肺炎",
+          "急性蜂窝组织炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "治愈率84%",
+        "duration": "治疗周期15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "体温"
+        ],
+        "medicine": [
+          "芩石利咽口服液",
+          "双羊喉痹通颗粒",
+          "喉疾灵胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "芩石利咽口服液(金马)",
+          "grade": "4.97",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "双羊喉痹通颗粒(百灵鸟)",
+          "grade": "2.98",
+          "total": "10",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "喉疾灵胶囊(陈李济)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "蓝芩口服液(扬子江)",
+          "grade": "2.81",
+          "total": "201",
+          "secondary": "169"
+        },
+        {
+          "medicine_name": "清咽滴丸(松栢)",
+          "grade": "3.54",
+          "total": "32",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "金嗓开音丸(碑林)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清开灵滴丸(瑞亿)",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清开灵颗粒(白云山)",
+          "grade": "2.58",
+          "total": "95",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "清开灵颗粒(远达)",
+          "grade": "4.5",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "开喉剑喷雾剂(儿童型)(三力制药)",
+          "grade": "4.27",
+          "total": "47",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方鱼腥草颗粒",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "六神胶囊(雷允上)",
+          "grade": "2.87",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方瓜子金颗粒(建新)",
+          "grade": "2.31",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "喉疾灵胶囊(一片天)",
+          "grade": "2.0",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "良性前列腺增生",
+    "information": {
+      "introduction": "良性前列腺增生(BPH)主要是由于老年人性激素代谢障碍导致的不同程度腺体和(或)纤维，肌肉组织增生而造成前列腺体积增大，正常结构破坏并引起一系列功能障碍的疾病。良性前列腺增生症是一种中老年男性常见的疾病，50岁以上的男性约有一半会出现临床症状。增生的前列腺挤压尿道，导致一系列排尿障碍症状，如尿频尿急、尿流细弱、尿不尽等排尿障碍。这些症状严重影响患者的生活质量，不及时治疗会导致许多严重并发症(如急性尿潴留、结石、肾功能不全等)，甚至会危及患者的生命。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "前列腺肥大",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿痛",
+          "尿急",
+          "尿频",
+          "急性尿潴留",
+          "膀胱排空不全"
+        ],
+        "complication": [
+          "膀胱憩室",
+          "肾积水",
+          "血尿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "治愈率87%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "保列治、爱普列特、舍尼通、通尿灵、泊泌松、癃闭舒"
+        ],
+        "examination": [
+          "脉搏",
+          "排粪造影检查",
+          "血清前列腺酸性磷酸酶",
+          "直肠指检",
+          "膀胱镜"
+        ],
+        "medicine": [
+          "颠茄片",
+          "前列舒乐胶囊",
+          "度他雄胺软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "颠茄片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "前列舒乐胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列舒通胶囊(步长)",
+          "grade": "2.20",
+          "total": "45",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "龙金通淋胶囊(康恩贝)",
+          "grade": "1.06",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列倍喜胶囊(太和)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "普乐安胶囊(康先生)(Rx)",
+          "grade": "4.33",
+          "total": "9",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "前列通片(中一)",
+          "grade": "2.73",
+          "total": "142",
+          "secondary": "114"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结核性胸膜炎",
+    "information": {
+      "introduction": "当肺部结核炎症累及胸膜时引起的胸膜炎症称为结核性胸膜炎。在某些情况下胸膜炎是通过血行感染而致病的，也有部分是与机体的变态反应有关。常有积液少量至中等量，由于结核性胸膜炎渗液中的蛋白质较高，易引起胸膜粘连及肥厚。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "咳嗽",
+          "胸痛",
+          "发烧",
+          "气促",
+          "低烧"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约8000--15000元",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "西药治疗、手术治疗"
+        ],
+        "examination": [
+          "胸腔积液免疫化学检查",
+          "胸腔积液微生物学检查",
+          "胸腔积液一般性状",
+          "达阿马托征",
+          "胸透"
+        ],
+        "medicine": [
+          "异烟肼片",
+          "利福喷丁胶囊",
+          "氢化可的松"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "男性生殖器畸形",
+    "information": {
+      "introduction": "男性生殖器畸形包括很多，有的先天性畸形只影响生育力，如单纯性输精管缺如;而有的还可能影响到性功能。有些畸形看上去并不严重，如包茎，但处理不当同样能造成严重后果。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "大部分先天性发病",
+        "symptom": [
+          "无睾丸",
+          "阴茎短",
+          "睾丸微小",
+          "睾丸萎缩",
+          "睾丸发育不全"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "40%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "染色体",
+          "前列腺、精囊腺的超声检查"
+        ],
+        "medicine": [
+          "叶酸片",
+          "叶酸片",
+          "鬼臼毒素酊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "病毒性心肌炎",
+    "information": {
+      "introduction": "病毒性心肌炎(viral myocarditis)是一种与病毒感染有关的局限性或弥漫性的急性、亚急性或慢性炎症性心肌疾病，是最常见的感染性心肌炎。轻度心肌炎的临床表现较少，诊断较难，故病理诊断远比临床发病率为高。近年来随着检测技术的提高，发现多种病毒可引起心肌炎，其发病率呈逐年增高趋势，是遍及全球的常见病和多发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肌肉酸痛",
+          "乏力",
+          "心尖搏动弥散",
+          "心悸",
+          "窦房结病变"
+        ],
+        "complication": [
+          "心律失常",
+          "心力衰竭",
+          "扩张型心肌病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心电图",
+          "二维超声心动图",
+          "多普勒超声心动图",
+          "血清肌红蛋白",
+          "血清肌钙蛋白I和肌钙蛋白T"
+        ],
+        "medicine": [
+          "果糖二磷酸钠口服溶液",
+          "转移因子口服溶液",
+          "辅酶Q10胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "系统性红斑狼疮",
+    "information": {
+      "introduction": "系统性红斑狼疮(systemic lupus erythematosus，SLE)是一种累及多系统、多器官并有多种自身抗体出现的自身免疫性疾病。由于体内有大量致病性自身抗体和免疫复合物而造成组织损伤。临床上可出现各个系统和脏器损伤的表现，如皮肤、关节、浆膜、心脏、肾脏、中枢神经系统、血液系统等等。该病在世界范围内均有出现，患病率为4/10万～25/10万，亚洲及黑人患病率较高，我国的患病率为70/10万～75/10万。女性发病明显多于男性，约为10∶1，育龄妇女为发病高峰，老人及儿童也可患病。本病属于中医学的阴阳毒、阳毒发斑、蝴蝶斑、日晒疮、鬼脸疮、面游风等病证范畴。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "全身性红斑狼疮",
+        "part": [
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": " 15～40岁女性 ",
+        "symptom": [
+          "盘状红斑",
+          "关节疼痛",
+          "肌痛",
+          "发烧",
+          "疲劳"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "0.1%(治愈率极低)",
+        "duration": "6个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "狼疮细胞试验",
+          "血浆凝血酶调节蛋白活性",
+          "狼疮带试验",
+          "抗核抗体"
+        ],
+        "medicine": [
+          "吗替麦考酚酯胶囊",
+          "他克莫司胶囊",
+          "硫酸羟氯喹片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "狼疮丸(强列)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "狼疮丸(强列)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "花斑癣",
+    "information": {
+      "introduction": "一般无自觉症状，但当劳动、日晒或多汗时可有瘙痒痒感。男性较为多，冬隐夏发。皮疹好发于有皮脂腺的部位，如躯干、颈部、上臂、腹部及面部，亦可累及臀部、腋窝及腹股沟。皮损为粟粒、黄豆及到蚕豆大圆形或类圆形斑疹，反光性强，表面覆以极薄的糠秕样鳞屑。多数患者的皮损弥漫、对称，斑疹与皮肤取平或起，境界清楚。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "汗斑，变色糠疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群。最小年龄仅为2.5个...",
+        "symptom": [
+          "瘙痒",
+          "丘疹",
+          "腹股沟痒",
+          "斑疹",
+          "色素脱失"
+        ],
+        "complication": [
+          "脂溢性皮炎",
+          "银屑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 3000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "联苯苄唑凝胶",
+          "二硫化硒洗剂",
+          "盐酸特比萘芬乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(集佳)",
+          "grade": "3.96",
+          "total": "111",
+          "secondary": "92"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "过敏性哮喘",
+    "information": {
+      "introduction": "过敏性哮喘是一种比较顽固的疾病，如果忽视治疗，可以伴随终身。大部分哮喘患者都存在过敏现象或者有过敏性鼻炎，有过敏性鼻炎的哮喘患者发病前兆会有打喷嚏、流鼻涕、鼻痒、眼痒、流泪等症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人，儿童占多数",
+        "symptom": [
+          "胸闷",
+          "吐泡沫痰",
+          "紫绀",
+          "哮鸣音",
+          "气喘"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "30%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "痰液显微镜检查",
+          "动脉血气分析",
+          "胸部平片",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "镇咳宁胶囊",
+          "消咳宁片",
+          "粉尘螨滴剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "镇咳宁胶囊(康弘)",
+          "grade": "4.44",
+          "total": "7",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "消咳宁片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "中度宫颈糜烂",
+    "information": {
+      "introduction": "Ⅱ度宫颈糜烂是指当糜烂面积占子宫颈面积的1/3~2/3之间者，也称为中度宫颈糜烂。当宫颈糜烂已经到了中度的情况下，药物治疗效果已经不明显，常见治疗方式为物理治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "Ⅱ度宫颈糜烂",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "妇女，中青年女性",
+        "symptom": [
+          "白带增多",
+          "盆腔坠痛",
+          "脓血性白带",
+          "腰骶部酸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "宫颈妇科常规检查",
+          "阴道镜",
+          "宫颈刮片",
+          "TCT"
+        ],
+        "medicine": [
+          "银离子妇用抗菌凝胶",
+          "银离子妇用抗菌凝胶",
+          "银离子抗菌水凝胶"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "弱视",
+    "information": {
+      "introduction": "弱视(amblyopia)是眼科临床常见的儿童眼病。眼部内外没有器质性病变而矫正视力达不到正常(低于0.9)者称为弱视。弱视与斜视有密切关系，单眼偏斜可致该眼弱视，而弱视又可形成斜视。对弱视的研究除眼科的诊断、治疗及预防外，还涉及到生理学、物理学、心理学等相关学科。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "视力障碍",
+          "屈光介质混浊",
+          "色觉丧失",
+          "斗鸡眼",
+          "视物模糊"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "?",
+        "duration": ">120天(终身间断治疗)",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "眼底检查",
+          "屈光检查",
+          "视力",
+          "对比敏感度",
+          "光觉检查"
+        ],
+        "medicine": [
+          "明目地黄丸",
+          "左旋多巴片",
+          "弱视复合治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "明目地黄丸(同仁堂)",
+          "grade": "3.80",
+          "total": "5",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痱子",
+    "information": {
+      "introduction": "痱子又称“热痱”、“红色粟粒疹”，是由于在高温闷热环境下，出汗过多，汗液蒸发不畅，导致汗管堵塞、汗管破裂，汗液外渗入周围组织而引起。主要表现为小丘疹、小水泡。好发于夏季，多见于排汗调节功能较差的儿童和长期卧床病人。由于瘙痒而过度搔抓可致继发感染，发生毛囊炎、疖或脓肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "热痱红色粟粒疹,热痱",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "脓痱",
+          "白痱",
+          "深痱",
+          "热痱",
+          "白痱"
+        ],
+        "complication": [
+          "毛囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50-100元）",
+        "ratio": "90%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "复方醋酸氯己定喷剂",
+          "炉甘石洗剂",
+          "炉甘石洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "冰霜痱子粉",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "烧伤肤康液(100ml)",
+          "grade": "4.41",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "内痔",
+    "information": {
+      "introduction": "内痔是位于肛门齿线以上，截石位于3、7、11点处，无肛管皮肤所覆盖的痔。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痔疮",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多见于40岁以上的...",
+        "symptom": [
+          "痔核",
+          "痔出血",
+          "肛门坠胀",
+          "肛门瘙痒",
+          "肛门疼痛"
+        ],
+        "complication": [
+          "肛瘘",
+          "肛裂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "7-10个",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "肛门视诊",
+          "肛门指检"
+        ],
+        "medicine": [
+          "三七化痔丸",
+          "肛泰栓",
+          "肛泰"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三七化痔丸(白云山)",
+          "grade": "2.89",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肛泰栓(荣昌制药)",
+          "grade": "2.61",
+          "total": "37",
+          "secondary": "29"
+        },
+        {
+          "medicine_name": "肛泰(荣昌制药)",
+          "grade": "1.99",
+          "total": "48",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "云南白药痔疮膏",
+          "grade": "2.88",
+          "total": "125",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "京万红痔疮膏(京万红)",
+          "grade": "4.05",
+          "total": "41",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "普济痔疮栓(鲁南)",
+          "grade": "3.84",
+          "total": "19",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "痔疮栓",
+          "grade": "3.72",
+          "total": "68",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "化痔栓(敬修堂)",
+          "grade": "2.24",
+          "total": "22",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "肛泰软膏(荣昌)",
+          "grade": "3.62",
+          "total": "10",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "九味痔疮胶囊(万胜)",
+          "grade": "4.04",
+          "total": "56",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "痔疮片(玉兰)",
+          "grade": "3.99",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鳖甲消痔胶囊(汉方)",
+          "grade": "1.6",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "皮肤瘙痒症",
+    "information": {
+      "introduction": "皮肤瘙痒症(cutaneous pruritus)。系指临床上无原发损害，且以瘙痒为主的感觉功能异常性皮肤病。在经过中由于搔抓可出现继发性皮肤损害，如抓痕、血痂等，并依据皮肤瘙痒的范围或部位，可分为限局性和泛发性两类。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "瘙痒性皮肤病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "一般以老年人多见",
+        "symptom": [
+          "皮肤瘙痒",
+          "剧痒",
+          "良性反应性改变",
+          "阴囊瘙痒",
+          "肛门瘙痒"
+        ],
+        "complication": [
+          "湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（100-500元）",
+        "ratio": "80%",
+        "duration": "5--7天",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "丙酸睾酮注射液",
+          "氯雷他定片",
+          "湿毒清胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "湿毒清胶囊(玉林)",
+          "grade": "2.80",
+          "total": "89",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "湿毒清片(诺鑫)",
+          "grade": "2.74",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(紫鑫)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "男性尖锐湿疣",
+    "information": {
+      "introduction": "男性尖锐湿疣潜伏期3周到8个月，平均3个月，多见于性活跃的青、中年男性，发病高峰年龄为20-25岁，病程平均在3-5个月的男性患者，在性接触后不久即发病，而病程平均12个月的男性患者，其性接触者可不发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "男性人群多见",
+        "symptom": [
+          "阴囊瘙痒",
+          "溃疡外观呈菜花样",
+          "剧痒的疣状结节",
+          "溃疡分泌物恶臭",
+          "疣状增殖"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "性病科"
+        ],
+        "cost": "1000--3000元",
+        "ratio": "30%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "HPV检查",
+          "醋酸白试验",
+          "性传播疾病免疫检测"
+        ],
+        "medicine": [
+          "盐酸氨酮戊酸外用散",
+          "鬼臼毒素酊",
+          "鬼臼毒素酊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "鞘膜积液",
+    "information": {
+      "introduction": "睾丸鞘膜积液是指睾丸固有鞘膜两层间积有过多液体。鞘膜积液多数均无明显的病因，称为原发性鞘膜积液。其发生和发展都较缓慢。病人可无症状。由于阴囊的外伤，睾丸和副睾的炎症或肿瘤以及丝虫病所引起的鞘膜积液，称为继发性鞘膜积液。它常具有原发病灶的症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴囊"
+        ],
+        "infection": "无传染性",
+        "people": "成人年人群",
+        "symptom": [
+          "阴囊坠胀痛",
+          "一侧阴囊内逐渐增大的无痛性肿块",
+          "阴囊肿大",
+          "阴囊肿大",
+          "鞘膜积水"
+        ],
+        "complication": [
+          "睾丸损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-500元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "透光试验",
+          "前列腺、精囊腺的超声检查",
+          "前列腺B超",
+          "阴囊超声检查"
+        ],
+        "medicine": [
+          "黄精赞育胶囊",
+          "维生素B2片",
+          "生物磁疗疝气袋"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄精赞育胶囊",
+          "grade": "1.74",
+          "total": "21",
+          "secondary": "2"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1434 @@
+[
+  {
+    "disease_name": "黄疸",
+    "information": {
+      "introduction": "黄疸(jaundice)是常见症状与体征，其发生是由于胆红素代谢障碍而引起血清内胆红素浓度升高所致。临床上表现为巩膜、黏膜、皮肤及其他组织被染成黄色。因巩膜含有较多的弹性硬蛋白(elastin)，与胆红素有较强的亲和力，故黄疸患者巩膜黄染常先于黏膜、皮肤而首先被察觉。当血清总胆红素在17.1～34.2μmol/L，而肉眼看不出黄疸时，称隐性黄疸或亚临床黄疸;当血渍总胆红素浓度超过34.2μmol/L时，临床上即可发现黄疸，也称为显性黄疸。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "高胆红素血症",
+        "part": [
+          "皮肤",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群。新生儿多",
+        "symptom": [
+          "皮肤呈浅黄或深金黄色",
+          "病理性黄疸",
+          "胆红素升高",
+          "巩膜黄染",
+          "粪便中排出的粪胆原增加"
+        ],
+        "complication": [
+          "急黄",
+          "积聚",
+          "鼓胀",
+          "脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "消化内科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "95%",
+        "duration": "14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肝功能",
+          "1分钟胆红素",
+          "白蛋白(A,Alb)",
+          "血清球蛋白"
+        ],
+        "medicine": [
+          "复方金钱草颗粒",
+          "胆石通胶囊",
+          "恩替卡韦片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胆石通胶囊(万年青牌)",
+          "grade": "1.97",
+          "total": "29",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "茵栀黄颗粒(鲁南)",
+          "grade": "2.04",
+          "total": "60",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "当飞利肝宁胶囊",
+          "grade": "2.29",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "利胆止痛片",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十味黑冰片丸(藏王天宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金钱草颗粒(金甘)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "黄柏胶囊(希尔安)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "茵栀黄颗粒(鲁南)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "八宝丹胶囊(鼎炉)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方大青叶合剂(晁氏)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胆囊结石",
+    "information": {
+      "introduction": "胆石症是胆道系统中最常见的病变。根据其所在部位不同，可有胆囊结石、原发性或继发性胆总管结石，肝外胆管或肝内胆管结石之分。但临床实际上，单一部位的结石是可能的但并非常见，往往几种部位的结石在同一患者中同时存在。欧美各国的胆石症患者其胆石多发生在胆囊内，仅少数病例(10%～25%)是原发于胆管中。但在东亚、东南亚国家包括我国，特别是我国广大的沿海地区，则大多数的胆石(50%～90%)是胆管的原发性胆色素性结石。不同部位的胆石，其形态、大小和成分等一般都有明显的差别，因此可以推想其形成的机制也是不同的，而其临床症状和病理表现也将因人而异。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "结石性胆囊炎，胆结石",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "发病的高峰年龄为40～50 岁",
+        "symptom": [
+          "右上腹压痛",
+          "右上腹痛",
+          "胆绞痛",
+          "胆囊扣痛",
+          "胆道梗阻"
+        ],
+        "complication": [
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "98%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "胆道造影",
+          "T管造影",
+          "静脉胆道造影",
+          "口服法胆道造影",
+          "肝、胆、脾CT"
+        ],
+        "medicine": [
+          "胆舒胶囊",
+          "胆石片",
+          "胆石清片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆石片(旭华)",
+          "grade": "3.80",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消石利胆胶囊(步长)",
+          "grade": "2.51",
+          "total": "7",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "更年期综合征",
+    "information": {
+      "introduction": "更年期综合征(climacteric syndrome)系指由于更年期精神心理、神经内分泌和代谢变化，所引起的各器官系统的症状和体片综合症候群。人类寿命的高龄化是现代社会的重要发展趋势。因此更年期和绝经后妇女的健康保健和疾病防治，则是妇产科医生乃至整个社会所面临的重要任务。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "围绝经期综合征",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中老年女性",
+        "symptom": [
+          "多疑",
+          "健忘",
+          "神志恍惚",
+          "焦虑",
+          "迫害妄想"
+        ],
+        "complication": [
+          "外阴瘙痒",
+          "老年斑",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约500-600元",
+        "ratio": "98%",
+        "duration": "?",
+        "method": [
+          "一般疗法、心理疗法、药物疗法"
+        ],
+        "examination": [
+          "血液生化六项",
+          "子宫颈涂片测试",
+          "乳房自检",
+          "乳房活检",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "古汉养生精口服液(古汉养生精)",
+          "更年安片",
+          "谷维素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "古汉养生精口服液(古汉养生精)(古汉养生精口服液(古汉)",
+          "grade": "4.82",
+          "total": "226",
+          "secondary": "217"
+        },
+        {
+          "medicine_name": "更年安片(乐仁堂)",
+          "grade": "3.14",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "4.38",
+          "total": "102",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "宁心安神胶囊(比青根)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "龙凤宝胶囊(金时雨)",
+          "grade": "2.40",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        },
+        {
+          "medicine_name": "宁心安神胶囊",
+          "grade": "3.42",
+          "total": "57",
+          "secondary": "57"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "佝偻病",
+    "information": {
+      "introduction": "维生素D缺乏性佝偻病(vitamin D deficiency rickets)，这是一种小儿常见病，一种慢性营养性疾病，占总佝偻病95%以上，本病系因小儿体内维生素D不足引起全身性钙、磷代谢失常以致钙盐不能正常沉着在骨骼的生长部分，最终发生骨骼畸形。其主要特征为正在生长的长骨干骺端或骨组织矿化不全，或骨质软化症，多见于2岁以内婴幼儿。佝偻病虽然很少直接危及生命，但因发病缓慢，易被忽视，一旦发生明显症状时，机体的抵抗力低下，易并发肺炎、腹泻、贫血等其它疾病。近年来，严重佝偻病发病率已逐年降低，但轻、中度佝偻病发病率仍较高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "维生素D缺乏病,维生素D缺乏性佝偻病,骨软化,骨软化病,骨软化症,骨质软化,软骨病,英吉利病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "婴儿期较为常见",
+        "symptom": [
+          "胸廓畸形",
+          "串珠肋",
+          "罗圈腿",
+          "膝内翻",
+          "婴儿枕秃"
+        ],
+        "complication": [
+          "贫血",
+          "鸡胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "97%",
+        "duration": "60天",
+        "method": [
+          "药物治疗、饮食疗法"
+        ],
+        "examination": [
+          "腹部平片",
+          "维生素D",
+          "头颅平片",
+          "脊椎平片",
+          "胸部平片"
+        ],
+        "medicine": [
+          "龙牡壮骨颗粒",
+          "葡萄糖酸钙锌口服溶液",
+          "牡蛎碳酸钙颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "龙牡壮骨颗粒(健民)",
+          "grade": "3.06",
+          "total": "661",
+          "secondary": "497"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鱼鳞病",
+    "information": {
+      "introduction": "鱼鳞病，也叫鱼鳞癣中医也叫蛇皮癣，主要以为儿童发病，是遗传性皮肤角化障碍性疾病，鱼鳞病虽然对人体健康没有直接的危害，但会引起身体不适和严重影响美观，给患者造成极大的身心痛苦。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "蛇皮癣",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多于儿童。",
+        "symptom": [
+          "皮肤干燥",
+          "鳞屑",
+          "皮肤皲裂",
+          "皮肤硬化",
+          "表皮角化"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "?",
+        "duration": ">120天(终身间歇性治疗)",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤试验",
+          "基因检测"
+        ],
+        "medicine": [
+          "参归润燥搽剂",
+          "维生素A软胶囊",
+          "复方乳酸乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "八宝五胆药墨",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鱼鳞病片(花溪)",
+          "grade": "1.06",
+          "total": "18",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "鱼鳞病片(美罗)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "八宝五胆药墨",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "咽炎",
+    "information": {
+      "introduction": "咽炎是咽部粘膜，粘膜下组织的炎症，常为上呼吸道感染的一部分。依据病程的长短和病理改变性质的不同，分为急性咽炎、急性单纯性咽炎、慢性咽炎、慢性单纯性咽炎、肥厚性咽炎、萎缩性咽炎、病毒性咽炎、链球菌性咽炎、淋菌性咽炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "有烟酒嗜好的成年人",
+        "symptom": [
+          "咽痛",
+          "咽喉干燥及灼热感",
+          "咽喉部干燥刺痒",
+          "咽部灼热疼痛",
+          "咽部充血"
+        ],
+        "complication": [
+          "萎缩性咽炎",
+          "慢性单纯性咽炎",
+          "链球菌性咽炎",
+          "急性单纯性咽炎",
+          "病毒性咽炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "85%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、饮食治疗"
+        ],
+        "examination": [
+          "耳鼻咽喉CT",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "咽炎片",
+          "咽炎片",
+          "咽炎片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "咽炎片",
+          "grade": "2.62",
+          "total": "19",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "咽炎片(吴太)",
+          "grade": "4.49",
+          "total": "81",
+          "secondary": "77"
+        },
+        {
+          "medicine_name": "咽炎片(999)",
+          "grade": "4.12",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "蓝芩口服液(扬子江)",
+          "grade": "2.81",
+          "total": "201",
+          "secondary": "169"
+        },
+        {
+          "medicine_name": "清咽滴丸(松栢)",
+          "grade": "3.54",
+          "total": "32",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "十味龙胆花颗粒(卓攀林)",
+          "grade": "4.17",
+          "total": "14",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "金莲花分散片(烟霞)",
+          "grade": "3.47",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "咽炎片",
+          "grade": "3.57",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "穿心莲内酯滴丸(天士力)",
+          "grade": "2.30",
+          "total": "52",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "蒲地蓝消炎口服液(济川)",
+          "grade": "2.04",
+          "total": "65",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "咽炎片",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "喉疾灵胶囊(陈李济)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "咽炎片(海外)",
+          "grade": "4.33",
+          "total": "6",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "咽炎片(慢严舒柠 咽炎片)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾癌",
+    "information": {
+      "introduction": "肾肿瘤(renal tumor)在泌尿系肿瘤中较常见，仅次于膀胱肿瘤。绝大多数原发性肾肿瘤为恶性，包括肾细胞癌、肾母细胞瘤(Wilms瘤)及肾盂癌等。肾脏的良性肿瘤包括肾腺瘤、血管平滑肌脂肪瘤、血管瘤、脂肪瘤、纤维瘤以及肾球旁细胞瘤等。肾癌亦称肾细胞癌、肾腺癌、透明细胞癌、肾实质癌等。肾实质癌是来源于肾小管上皮细胞的腺癌，85%为透明细胞癌，还有一部分为颗粒细胞癌及混合细胞癌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾细胞癌,肾腺癌",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "50-70岁有家族史的吸烟、酗酒...",
+        "symptom": [
+          "腰部钝痛",
+          "尿血",
+          "体重减轻",
+          "腹部肿块",
+          "食欲不振"
+        ],
+        "complication": [
+          "血尿",
+          "贫血",
+          "高血压",
+          "高钙血症",
+          "淀粉样变"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（30000-50000元）",
+        "ratio": "3%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术疗法"
+        ],
+        "examination": [
+          "腹部平片",
+          "尿常规",
+          "肾脏CT",
+          "肾脏MRI",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "重组人白介素-2注射液",
+          "重组人白介素-2注射液",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "至灵胶囊",
+          "grade": "2.52",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸",
+          "grade": "2.02",
+          "total": "34",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "健脾益肾颗粒(无蔗糖型)(抑扶)",
+          "grade": "4.29",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "疥疮",
+    "information": {
+      "introduction": "疥疮是由人型疥螨寄生于人体皮肤表层内引起的慢性传染性皮肤病。本病传染性强，主要通过密切接触传染，也可经衣物间接传染，可在家庭或集体人群中流行。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人均可发病",
+        "symptom": [
+          "丘疹",
+          "剧痒",
+          "瘙痒",
+          "疥疮结节",
+          "日轻夜重的瘙痒"
+        ],
+        "complication": [
+          "外阴瘙痒",
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（100——500元）",
+        "ratio": "98%",
+        "duration": "10天",
+        "method": [
+          "一般治疗、外用和口服药物"
+        ],
+        "examination": [
+          "皮肤病的物理检查",
+          "生理盐水皮肤试验",
+          "疥螨检查",
+          "皮肤涂片显微镜检查",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "乌蛇止痒丸",
+          "丁香罗勒油乳膏",
+          "大败毒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大败毒胶囊(希尔安)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "大败毒胶囊(普林松)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大败毒胶囊(元和)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎癣湿药膏(铍宝)",
+          "grade": "3.25",
+          "total": "11",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病和高血压",
+    "information": {
+      "introduction": "糖尿病与高血压均为常见疾病，二者关系密切。糖尿病病人中高血压的患病率明显增高，约为非糖尿病人群的2倍，并随年龄增长、体重增加及病程延长而上升，女性高于男性。国外有关资料显示，糖尿病病人中高血压患病率为40%～80%;我国的报道低于国外，为28.4%～48.1%。此外，糖尿病人群中高血压发生早，其患病率高峰较非糖尿病人群提前10年。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胰腺",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上人群多见",
+        "symptom": [
+          "消瘦",
+          "烦渴多饮",
+          "易倦感",
+          "血压高",
+          "视力常呈雾状模糊感"
+        ],
+        "complication": [
+          "视网膜病变",
+          "糖尿病肾病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "10%",
+        "duration": "6-12个月",
+        "method": [
+          "药物治疗、饮食调理"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "肾功能",
+          "肝功能",
+          "动态血压监测(ABPM)",
+          "糖尿病类尿常规"
+        ],
+        "medicine": [
+          "复方三嗪芦丁片",
+          "芦丁片",
+          "奥利司他胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "风寒感冒",
+    "information": {
+      "introduction": "风寒感冒是因风吹受凉而引起的感冒，秋冬发生较多。其症状为浑身酸痛、鼻塞流涕、咳嗽有痰。治疗上西药、中药皆可，亦可采用食疗，不但祛病，而且保健。预防措施为注意保暖，加强体育锻炼，提高免疫力，也可提前打预防针。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "衣着单薄、冒雨受风人群",
+        "symptom": [
+          "头痛",
+          "流清涕",
+          "怕冷",
+          "头重如裹",
+          "手足逆冷"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "小儿感冒",
+          "颅咽管瘤",
+          "感冒",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "根据不同医院。收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "一般及时正规治疗治愈率约为80%",
+        "duration": "有效治疗7天",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "氯芬黄敏片",
+          "午时茶颗粒",
+          "感冒清热颗粒(无蔗糖)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "午时茶颗粒",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "感冒清热颗粒(无蔗糖)(同仁堂)",
+          "grade": "2.72",
+          "total": "42",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方感冒灵颗粒(双蚁)",
+          "grade": "3.34",
+          "total": "69",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "感冒清热软胶囊(欧意)",
+          "grade": "2.75",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒(孔府)",
+          "grade": "5.0",
+          "total": "8",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒",
+          "grade": "3.59",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "感冒疏风片(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "感冒疏风丸(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "小儿至宝丸(同仁堂)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒",
+          "grade": "4.33",
+          "total": "7",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈椎病",
+    "information": {
+      "introduction": "颈椎病又称颈椎综合征，是一种以退行性病理改变为基础的疾患，主要由于颈椎长期劳损、骨质增生，或椎间盘脱出、韧带增厚，致使颈椎脊髓、神经根或椎动脉受压，出现一系列功能障碍的临床综合征。颈椎病主要表现是颈肩痛、上肢或下肢麻木无力、行走困难，以及头晕。可发生于任何年龄，但以40岁以上的中老年人为多。它的起病比较隐匿，病程长，治疗不及时会遗留神经症状。 颈椎病可分为：颈型颈椎病、神经根型颈椎病、脊髓型颈椎病、椎动脉型颈椎病、交感神经型颈椎病、食管压迫型颈椎病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "颈椎退行性变，颈椎骨质增生",
+        "part": [
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": " 中、老年人 ,40岁以上",
+        "symptom": [
+          "上肢麻痹",
+          "肩背痛",
+          "颈椎痛",
+          "头颈部活动受限",
+          "颈部僵硬"
+        ],
+        "complication": [
+          "食管压迫型颈椎病",
+          "椎动脉型颈椎病",
+          "脊髓型颈椎病",
+          "神经根型颈椎病",
+          "颈型颈椎病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（2000 —— 8000元）",
+        "ratio": "50%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、理疗、手术治疗、中医针灸治疗"
+        ],
+        "examination": [
+          "椎间孔挤压试验",
+          "颈部活动度",
+          "臂丛牵拉试验",
+          "颈项强直"
+        ],
+        "medicine": [
+          "吲哚美辛巴布膏",
+          "正骨水",
+          "消痛贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "消痛贴膏(奇正)",
+          "grade": "2.55",
+          "total": "156",
+          "secondary": "67"
+        },
+        {
+          "medicine_name": "颈痛颗粒(明仁)",
+          "grade": "2.5",
+          "total": "18",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "颈痛片(明仁)",
+          "grade": "4.98",
+          "total": "24",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "颈痛灵药酒(万通)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "壮骨伸筋胶囊(金马)",
+          "grade": "1.41",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "颈复康颗粒(颈复康)",
+          "grade": "2.44",
+          "total": "286",
+          "secondary": "220"
+        },
+        {
+          "medicine_name": "通迪胶囊(贵州安泰)",
+          "grade": "4.16",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨筋丸胶囊(老专家)",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "沉香十七味丸(阜药)",
+          "grade": "4.15",
+          "total": "86",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈康胶囊(恒帝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性阑尾炎",
+    "information": {
+      "introduction": "慢性阑尾炎是指阑尾急性炎症消退后而遗留的阑尾慢性炎症病变，诸如管壁纤维结缔组织增生、管腔狭窄或闭塞、阑尾扭曲，与周围组织粘连等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "阑尾炎",
+        "part": [
+          "阑尾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，青年比较多",
+        "symptom": [
+          "下腹绞痛",
+          "肚子疼",
+          "腹胀",
+          "阑尾缺血充血",
+          "胀感"
+        ],
+        "complication": [
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "市三甲医院约（500 —— 5000元）",
+        "ratio": "80-90%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "压痛及反跳痛",
+          "闭孔内肌试验",
+          "厌氧菌检测",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "阑尾消炎丸",
+          "阑尾灵颗粒",
+          "妇炎康软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "阑尾消炎丸(同仁堂)",
+          "grade": "3.06",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "阑尾灵颗粒(哈药)",
+          "grade": "2.83",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎康软胶囊",
+          "grade": "1.90",
+          "total": "29",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "妇炎康丸(蝴蝶迷)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎片(吉春)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "阑尾消炎片(国风)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎康丸(丽夫宝)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎片(无为)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎康丸(贝多)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎丸(佛慈)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "阑尾消炎片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "2型糖尿病",
+    "information": {
+      "introduction": "II型糖尿病也叫成人发病型糖尿病，多在35~40岁之后发病，占糖尿病患者90%以上。2型糖尿病病友体内产生胰岛素的能力并非完全丧失，有的患者体内胰岛素甚至产生过多，但胰岛素的作用效果却大打折扣，因此患者体内的胰岛素是一种相对缺乏。可以通过某些口服药物刺激体内胰岛素的分泌。但到后期仍有部分病人需要像1型糖尿病那样进行胰岛素治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "II型糖尿病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "多尿",
+          "多饮",
+          "乏力",
+          "血糖值升高",
+          "体重减轻"
+        ],
+        "complication": [
+          "肾脏损伤",
+          "糖尿病足"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（5000 —— 80000元）",
+        "ratio": "91%(上述为控制率)",
+        "duration": "?",
+        "method": [
+          "饮食疗法、运动疗法、药物疗法"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "自我血糖监测",
+          "葡萄糖胰岛素释放试验",
+          "尿葡萄糖",
+          "葡萄糖耐量试验"
+        ],
+        "medicine": [
+          "格列吡嗪片",
+          "盐酸二甲双胍肠溶片",
+          "盐酸二甲双胍片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "皮肤病",
+    "information": {
+      "introduction": "皮肤病是指有关皮肤的疾病，是皮肤(包括毛发和甲)受到内外因素的影响后，其形态、结构和功能均发生变化，产生病理过程，并相应的产生各种临床先后表现。皮肤病的发病率很高，反复发作，多比较轻，常不影响患者生命，很多难以根治。是一种给患者造成巨大身心痛苦并影响生活质量的疾病，最明显就是瘙痒和皮肤外观改变。常见的皮肤病有银屑病(牛皮癣)、白癜风、疱疹、酒渣鼻、脓疱疮、化脓菌感染、疥疮、疤痕、癣、鱼鳞病、腋臭、青春痘、毛囊炎、斑秃、脱发、婴儿尿布疹、鸡眼、雀斑、汗疱疹、螨虫性皮炎、湿疹、荨麻疹、灰指甲、硬皮病、皮肤瘙痒、脱毛、黄褐斑以及性传播疾病有梅毒、尖锐湿疣、淋病、非淋菌性尿道炎等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "皮肤瘙痒",
+          "皮肤搔痒",
+          "皮肤潮红肿胀",
+          "股部内侧靠近阴囊处的皮疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "50%",
+        "duration": "?",
+        "method": [
+          "药物治疗、物理治疗"
+        ],
+        "examination": [
+          "滤过紫外线检查",
+          "皮肤定位觉"
+        ],
+        "medicine": [
+          "盐酸特比萘芬乳膏",
+          "皮肤病血毒丸",
+          "皮肤病血毒片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮肤病血毒丸(同仁堂)",
+          "grade": "3.69",
+          "total": "27",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "皮肤病血毒片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "皮肤病血毒丸",
+          "grade": "4.52",
+          "total": "17",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "皮肤病血毒丸(净雪益夫)",
+          "grade": "4.54",
+          "total": "22",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心脏神经官能症",
+    "information": {
+      "introduction": "心脏神经官能症是神经官能症的一种特殊类型，以心血管系统功能失常为主要表现，可兼有神经官能症的其他表现。其症状多种多样，时好时坏，常见有心悸、心前区疼痛、胸闷、气短、呼吸困难、头晕、失眠、多梦等。大多发生于青壮年，以20岁~40岁者最多，多见于女性，尤其是更年期妇女。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "神经循环衰弱症，心脏神经症，功能性心脏不适",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "大多发生于青壮年，以20岁~40...",
+        "symptom": [
+          "心悸",
+          "胸闷",
+          "气短",
+          "心前区隐痛",
+          "多梦"
+        ],
+        "complication": [
+          "老年人急性左心衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "神经内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（3000--8000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、中医治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "冠状动脉造影",
+          "心电图"
+        ],
+        "medicine": [
+          "酒石酸美托洛尔缓释片",
+          "酒石酸美托洛尔胶囊",
+          "谷维素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "晕痛定胶囊(龙都)",
+          "grade": "2.92",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "安神丸(金诃)",
+          "grade": "4.25",
+          "total": "103",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(万通)",
+          "grade": "4.13",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(大峻)",
+          "grade": "4.28",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(旷世)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(大洋)",
+          "grade": "4.73",
+          "total": "16",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(金爵)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(入梦香)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(平康)",
+          "grade": "3.8",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(瑞和)<!--根据ClassCode动态展示标签-->)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

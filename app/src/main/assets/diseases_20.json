@@ -1,0 +1,1036 @@
+[
+  {
+    "disease_name": "小儿急性喉炎",
+    "information": {
+      "introduction": "小儿急性喉炎是喉部黏膜的急性炎症，可因病毒或细菌感染引起，多继发于上呼吸道感染，也可成为某些急性传染病的前驱症状或并发症。以声音嘶哑，咳声如犬吠为主要特征，重者可导致喉梗阻面危及生命。中医称为“喉风、喉音、喉痹”等。多见于5岁以下的儿童。小儿抵抗力低，且由于小儿喉部的解剖特点，喉腔狭小，喉软骨柔软，会厌软骨舌面、杓状软骨、杓状会厌襞、室带和声门下区粘膜下组织松弛，粘膜淋巴管丰富，发炎后易发生水肿，引起气道阻塞。小儿咳嗽功能不强，不易排出喉部及下呼吸道分泌物，更使呼吸困难加重。因此，小儿急性喉炎的病情常比成人严重，若诊断及处理不及时，可危及生命。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "喉炎",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "咽喉部充血",
+          "无力",
+          "发炎",
+          "犬吠样咳嗽",
+          "小儿咳嗽"
+        ],
+        "complication": [
+          "慢性呼吸衰竭",
+          "急性呼吸衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-300元）",
+        "ratio": "99%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺和胸膜听诊"
+        ],
+        "medicine": [
+          "小儿热速清糖浆",
+          "复方小儿退热栓",
+          "小儿咽扁颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿热速清糖浆(长垣)",
+          "grade": "2.63",
+          "total": "11",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "复方小儿退热栓(敬修堂)",
+          "grade": "4.17",
+          "total": "10",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "小儿咽扁颗粒(同仁堂)",
+          "grade": "3.02",
+          "total": "17",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "处女膜闭锁",
+    "information": {
+      "introduction": "处女膜孔的形状、大小和膜的厚薄，因人而异。一般处女膜孔位于中央，呈半月形，偶有出现中隔，将处女膜孔分割为左右两半，称中隔处女膜或双孔处女膜。也有膜呈筛状，覆盖于阴道口，称筛状处女膜。如处女膜褶发育过度，呈无孔处女膜，即为处女膜闭锁，是女性生殖器官发育异常中较常见的。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "青春期女孩",
+        "symptom": [
+          "处女膜无孔",
+          "无月经来潮",
+          "无月经来潮",
+          "下腹部包块",
+          "下腹痛"
+        ],
+        "complication": [
+          "便秘",
+          "肛门异位"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "98%",
+        "duration": "3天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "腹部包块",
+          "宫颈妇科常规检查",
+          "外阴部妇科常规检查",
+          "妇科常规检查",
+          "妇科B超"
+        ],
+        "medicine": [
+          "止痛化癥胶囊",
+          "桂枝茯苓胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止痛化癥胶囊(金妇康)",
+          "grade": "2.27",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "疱疹性咽峡炎",
+    "information": {
+      "introduction": "疱疹性咽峡炎这是一种急性传染性，发热性疾病，是由许多A组柯萨奇病毒，偶尔也有其他肠道病毒所引起，其特点为疱疹性溃疡性粘膜损害。该病有流行趋势，常见于婴幼儿。临床特征为骤起高热伴有咽喉痛、头痛、厌食、并常有颈、腹和四肢疼痛。在婴儿常发生呕吐和惊厥。起病2日内口腔粘膜出现少数(很少多于12个)小的(直径1~2mm)灰白色疱疹，周围绕以红晕，多见于扁桃体前部，但也可位于软腭、扁桃体、悬雍垂、舌部等。在以后的24小时内水泡破溃变为浅溃疡，直径一般在5mm以下，1~5日内愈合。并发症少见。症状一般7日内消失。在感染后能产生持久的免疫，但A组中其他型病毒或其他肠道病毒也可能引起再次发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多见于3～10岁儿童",
+        "symptom": [
+          "淋巴结肿大",
+          "高热",
+          "红晕",
+          "乏力",
+          "肌痛"
+        ],
+        "complication": [
+          "肺炎",
+          "疟疾",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "90%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "涂片",
+          "体温",
+          "血凝抑制试验",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "小儿咽扁颗粒",
+          "小儿咽扁颗粒",
+          "施保利通片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿咽扁颗粒",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿咽扁颗粒(怡悦)",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "蛛网膜下腔出血",
+    "information": {
+      "introduction": "蛛网膜下腔出血(subarachnoid hemorrhage，SAH)是出血性脑血管病的一个类型，分原发性和继发性两种。原发性蛛网膜下腔出血是由于脑表面和脑底的血管破裂出血，血液直接流入蛛网膜下腔所致。又称自发性SAH。脑实质或脑室出血、外伤性硬膜下或硬膜外出血流入蛛网膜下腔为继发性SAH。蛛网膜下腔出血是神经科最常见的急症之一，发病率占急性脑血管病的6%～10%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑出血,蛛网膜下出血",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "30～40岁青壮年多见，也有的...",
+        "symptom": [
+          "脑膜刺激症状",
+          "定位神经体征",
+          "偏瘫",
+          "癫痫和癫痫样发作",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约30000--50000元",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "尿常规",
+          "脑血管造影",
+          "脑膜刺激征",
+          "脑脊液细胞分类计数"
+        ],
+        "medicine": [
+          "尼莫地平注射液",
+          "复方芦丁片",
+          "尼群地平"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "食管炎",
+    "information": {
+      "introduction": "食道炎(esophagitis)是指食道黏膜浅层或深层组织由于受到不正常的刺激，食道粘膜发生水肿和充血而引发的炎症。这些刺激有胃酸、十二指肠反呕上来的胆汁、烈酒、辣椒、太热的菜汤、过于浓热的茶，等等。可分为原发性与继发性食道炎。食道发炎的原因有许多;像是严重呕吐后，长期放置鼻胃管或服用阿斯匹宁、强酸强碱、非类固醇类消炎药或接受化学治疗、放射治疗之患者或是病患本身抵抗力下降而受结核菌或念珠菌或病毒感染导致食道炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "胸骨后烧灼样痛",
+          "吐酸",
+          "反酸",
+          "吞咽时胸痛",
+          "心口灼热痛"
+        ],
+        "complication": [
+          "反流性食管炎",
+          "放射性食管炎",
+          "化脓性食管炎",
+          "病毒性食管炎",
+          "药物性食管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（200 —— 8000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "食管滴酸试验",
+          "内镜检查",
+          "食管钡餐透视",
+          "食管压力"
+        ],
+        "medicine": [
+          "奥美拉唑肠溶胶囊",
+          "奥美拉唑肠溶胶囊",
+          "艾司奥美拉唑镁肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "information": {
+      "introduction": "肠易激综合征(irritable bowel syndrome，IBS)为一种与胃肠功能改变有关，以慢性或复发性腹痛、腹泻、排便习惯和大便性状异常为主要症状而又缺乏胃肠道结构或生化异常的综合征，常与胃肠道其他功能性疾病如胃食管反流性疾病(GERD)和功能性消化不良(FD)同时存在。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肠道易激综合征,应激性结肠综合征，结肠过敏；结肠功能紊乱",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "便秘型女性为主，腹泻型男性...",
+        "symptom": [
+          "肚子疼",
+          "排便障碍",
+          "腹胀",
+          "稀便",
+          "原发性便秘"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "85%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肠道通过时间和压力",
+          "胃肠道功能动力学检查",
+          "胃钡餐造影",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "参倍固肠胶囊",
+          "复方谷氨酰胺肠溶胶囊",
+          "匹维溴铵片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参倍固肠胶囊(易激健)",
+          "grade": "4.75",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "痛泻宁颗粒",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参苓白术散(敖东)",
+          "grade": "3.78",
+          "total": "9",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾炎",
+    "information": {
+      "introduction": "“肾炎”顾名思义就是肾脏发生了炎症反应　但是它和其他脏器的炎症是不同的　比如说肺炎，肠炎等是细菌和病源微生物直接损伤组织器官，导致的局部炎症反应。肾炎是一种免疫性疾病是肾免疫介导的炎性反应，是不同的抗原微生物感染人体后，产生不同的抗体，结合成不同的免疫复合物，沉积在肾脏的不同部位　造成的病理损伤，形成不同的肾炎类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾小球肾炎,肾脏炎",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "老年人、肾功能损害患者、高...",
+        "symptom": [
+          "少尿",
+          "无尿",
+          "水肿",
+          "血压高",
+          "肾小球滤过率下降"
+        ],
+        "complication": [
+          "家族性出血性肾炎（Alport综合征）",
+          "放射性肾炎",
+          "失盐性肾炎",
+          "隐匿性肾炎",
+          "老年人急进性肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约5000--10000",
+        "ratio": "85%",
+        "duration": "1-3个月",
+        "method": [
+          "西药治疗、透析治疗、中药治疗、饮食调理"
+        ],
+        "examination": [
+          "腹部平片",
+          "尿常规",
+          "12小时尿细胞计数",
+          "尿细菌培养",
+          "血清透明质酸"
+        ],
+        "medicine": [
+          "复方α-酮酸片",
+          "吗替麦考酚酯胶囊",
+          "黄葵胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄葵胶囊(苏中)",
+          "grade": "2.44",
+          "total": "52",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "复方肾炎片(葫芦博士)",
+          "grade": "4.03",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾炎康复片",
+          "grade": "2.16",
+          "total": "20",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎舒片(龙潭山)",
+          "grade": "2.18",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血小板减少症",
+    "information": {
+      "introduction": "血小板减少症是指血小板数低于正常范围所引起的病症。血小板减少症可能源于血小板产生不足,脾脏对血小板的阻留,血小板破坏或利用增加以及被稀释，无论何种原因所致的严重血小板减少，都可引起典型的出血：多发性瘀斑，最常见于小腿;或在受轻微外伤的部位出现小的散在性瘀斑;粘膜出血(鼻出血,胃肠道和泌尿生殖道和阴道出血，和手术后大量出血，胃肠道大量出血和中枢神经系统内出血可危及生命。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血小板减少",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "皮肤青紫色改变",
+          "血小板减少",
+          "怕冷",
+          "乏力"
+        ],
+        "complication": [
+          "鼻出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（2000 —— 10000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "骨髓象分析",
+          "血小板分布宽度",
+          "血清抗血小板抗体"
+        ],
+        "medicine": [
+          "地榆升白片",
+          "微达康颗粒",
+          "益血生胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "地榆升白片(地奥)",
+          "grade": "2.59",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "微达康颗粒(五叶)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益血生胶囊(999)",
+          "grade": "3.69",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "复方皂矾丸(郝其军)",
+          "grade": "2.4",
+          "total": "9",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "血宁糖浆",
+          "grade": "2.72",
+          "total": "21",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "参芪颗粒",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "带状疱疹",
+    "information": {
+      "introduction": "带状疱疹(herpes zoster，HZ)是水痘带状疱疹病毒(varicella-zoster virus，VZV)引起的急性疱疹性皮肤病。其特征为簇集性水疱沿身体一侧周围神经，呈带状分布，伴有显著的神经痛及局部淋巴结肿大，愈后极少复发。带状疱疹患者一般可获得对该病毒的终生免疫。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "缠腰火丹,缠腰龙,蛇盘疮，蛇串疮",
+        "part": [
+          "口",
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "成年人",
+        "symptom": [
+          "神经痛",
+          "带状疱疹样外观",
+          "皮肤闪电疼痛",
+          "泡样水肿",
+          "淋巴结肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "50%",
+        "duration": "＞３０天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "单纯疱疹病毒"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "盐酸伐昔洛韦片",
+          "带状疱疹治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "地图舌",
+    "information": {
+      "introduction": "裂沟舌(plicated tongue)又称阴囊舌(scrotal tongue)、裂纹舌(fissured tongue)、沟纹舌(furrowed tongue)。往往合并地图舌，易患传染性口角炎，并在Down综合征及Melkersoon Rosenthal综合征中出现。我们观察到在肢端稽留性皮炎，毛发红糠疹，掌跖脓疱病亦可出现此症。本病与中医之裂纹舌相似，俗称龟裂状舌面，多因双阴亏损，脾虚所致。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性边缘剥脱性舌炎,游走性舌炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "体质瘦弱的儿童青年女性",
+        "symptom": [
+          "舌头上有长时间不愈溃疡",
+          "口干舌燥",
+          "舌体深裂",
+          "舌痛",
+          "舌炎"
+        ],
+        "complication": [
+          "肿胀",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "87%",
+        "duration": "?",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "产科B超",
+          "宫颈刮片"
+        ],
+        "medicine": [
+          "点舌丸",
+          "冰硼含片",
+          "冰硼散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "点舌丸(朗致)",
+          "grade": "2.59",
+          "total": "33",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "冰硼含片(交大药业)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冰硼散(灵源)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "非细菌性前列腺炎",
+    "information": {
+      "introduction": "非细菌性前列腺炎是最常见的一种前列腺炎综合征，其病因尚不清楚。在非细菌性前列腺炎的前列腺分泌物中有异常数量的炎症细胞，但细菌培养或其它方法均不能发现致病菌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "夜尿增多",
+          "尿频",
+          "前列腺钙化",
+          "前列腺素合成减少",
+          "肥大结节纤维组织增生"
+        ],
+        "complication": [
+          "不射精症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000—— 2000元）",
+        "ratio": "87%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清PSA",
+          "前列腺检查",
+          "内镜检查",
+          "尿路平片",
+          "前列腺液显微镜检查"
+        ],
+        "medicine": [
+          "前列通片",
+          "前列通瘀胶囊",
+          "普适泰片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列通片(中一)",
+          "grade": "2.73",
+          "total": "142",
+          "secondary": "114"
+        },
+        {
+          "medicine_name": "前列通瘀胶囊(星光)",
+          "grade": "2.07",
+          "total": "26",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫肥大",
+    "information": {
+      "introduction": "子宫肥大症(hypertrophy of uterus)，是指子宫均匀增大，肌层厚度超过2.5cm以上，伴有不等程度子宫出血的一种疾病。主要临床症状为白带增多。另外，由于结缔组织增生及炎症沿宫颈旁或经宫骶韧带向盆腔扩散，有腰骶部疼痛或会阴部坠胀感。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "子宫肥大症",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人，生育后女性",
+        "symptom": [
+          "囊肿",
+          "息肉",
+          "怀孕时子宫异常增大",
+          "单角或双角子宫"
+        ],
+        "complication": [
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 10000元）",
+        "ratio": "50--70%",
+        "duration": "2--8周",
+        "method": [
+          "手术治疗、药物治疗、支持治疗"
+        ],
+        "examination": [
+          "阴道B超",
+          "盆腔和阴道B超",
+          "四维彩超"
+        ],
+        "medicine": [
+          "益母草软胶囊",
+          "益母草软胶囊",
+          "产后逐瘀片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益母草软胶囊(渔人牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益母草软胶囊(华山药业)",
+          "grade": "3.8",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "产后逐瘀片(金花)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产后逐瘀片(德昌祥)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "产后逐瘀片(千缘草)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产后逐瘀片(薄膜衣片)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产后逐瘀片(千缘草)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产后逐瘀片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产后逐瘀片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "下肢深静脉血栓形成",
+    "information": {
+      "introduction": "深静脉血栓形成是指血液在深静脉不正常的凝结，好发于下肢。在欧美是一种比较常见的疾病，在我国也呈逐年上升的趋势。本病在急性阶段不能得到及时诊断和处理，一些血栓可能会脱落，造成患者的肺、脑等重要脏器的栓塞而导致死亡。另一些患者不能幸免慢性血栓形成后遗症的发生，造成长期病痛，影响生活和工作能力。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "下肢深静脉血栓",
+        "part": [
+          "下肢",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胀痛",
+          "腓肠肌压痛",
+          "皮温降低",
+          "静脉血栓",
+          "持续性疼痛"
+        ],
+        "complication": [
+          "肺栓塞",
+          "皮炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "手术治疗为主 为75%",
+        "duration": "?",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "血管彩超",
+          "电阻抗体积描记",
+          "血流变学检查",
+          "血浆D-二聚体",
+          "血液生化六项"
+        ],
+        "medicine": [
+          "羟苯磺酸钙片",
+          "迈之灵片",
+          "足下垂防治护具"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脉络舒通丸(脉络舒通丸(鲁南))",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络舒通颗粒",
+          "grade": "3.38",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人颈性眩晕",
+    "information": {
+      "introduction": "颈性眩晕是因椎动脉受到刺激或压迫，致椎-基底动脉供血不足，而产生的眩晕、恶心、呕吐等一系列临床症状和体征，属椎动脉型颈椎病，此病是老年人常见病之一。椎动脉：是锁骨下动脉的第一分支，沿前斜角肌内缘向上方行，入第6颈椎横突孔，但亦见有自第5、第4、第3或第7颈椎横突孔穿入者。入颅，达延髓脑桥沟平面，左右侧椎动脉汇合成基底动脉。椎动脉在横突孔内垂直上升，从枢椎横突孔穿出横行向上，再弯曲向上，垂直上行至寰椎横穿孔。自寰椎横突孔上方穿出，向后绕过寰椎的侧块(寰椎上关节突)到寰椎后弓上面外侧的椎动脉沟，转向前方，在寰椎后膜的外缘(或穿过此膜)沿椎动脉沟进入椎管，贯穿脊膜后上行，从枕内大孔进入颅腔。枕部椎动脉环绕寰椎的上关节突，先后位于关节突的外侧、后侧和内侧，迂曲度很大。在椎骨间的关系改变时，如头过度后仰或回旋时，均可影响到椎动脉，使其变窄或阻塞，导致脑干缺血，椎-基底动脉分支供应大脑半球的枕叶，颞叶的一部分，丘脑后大半，丘脑下部的小部分，脑干、小脑及脊髓上部。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年颈性眩晕",
+        "part": [
+          "颈部",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "老年人群",
+        "symptom": [
+          "猝倒",
+          "发作性眩晕",
+          "吞咽困难",
+          "颈性眩晕",
+          "复视"
+        ],
+        "complication": [
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约10000--50000",
+        "ratio": "45%-65%，多以控制症状为主",
+        "duration": "3-6年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "头颅平片",
+          "尿素氮",
+          "裸眼检查法",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "盐酸乙哌立松片",
+          "复方七叶皂苷钠凝胶",
+          "天麻蜜环菌片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天麻蜜环菌片(三元)",
+          "grade": "4.54",
+          "total": "8",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿多动症",
+    "information": {
+      "introduction": "儿童多动症、多动综合征(hyperkinetic syndrome of childhood)是一种常见的儿童行为异常问题，又称脑功能轻微失调或轻微脑功能障碍综合征(minimal brain dysfunction,MBD)或注意缺陷障碍(attention deficiency disorder,A.D.D.)。这类患儿的智能正常或基本正常，但学习、行为及情绪方面有缺陷，表现为注意力不易集中，注意短暂，活动过多，情绪易冲动以致影响学习成绩。在家庭及学校均难与人相处，日常生活中使家长和老师感到困难。有人把这种失调比喻为一个交响乐失去协调性及和谐性。因外资料报告患病率约为5～10%。国内也认为学龄儿童发病者相当多，约占全体小学生1～10%。男孩远较女孩多。早产儿童患此病较多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "注意缺陷障碍,儿童多动综合征,脑功能轻微失调,轻微脑功能障碍综合征",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "注意力不集中",
+          "情绪起伏大",
+          "学习困难",
+          "易激动",
+          "注意力缺乏多动症"
+        ],
+        "complication": [
+          "焦虑症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "精神病科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "70%",
+        "duration": "1-3年",
+        "method": [
+          "利它林、右旋苯丙胺、甲基苯丙胺、匹莫林"
+        ],
+        "examination": [
+          "羊水甲胎蛋白测定（AFP）",
+          "脑诱发电位",
+          "脑电图"
+        ],
+        "medicine": [
+          "多动宁胶囊",
+          "盐酸硫必利片",
+          "地牡宁神口服液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

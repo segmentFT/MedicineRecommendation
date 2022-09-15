@@ -1,0 +1,1117 @@
+[
+  {
+    "disease_name": "尿布疹",
+    "information": {
+      "introduction": "尿布疹是发生在裹尿布部位的一种皮肤炎性病变，也称为婴儿红臀，表现为臀部与尿布接触区域的皮肤发红、发肿，甚至出现溃烂、溃疡及感染，稍有轻微的外力或摩擦便会引起损伤。继续发展则出现渗出液，表皮脱落，浅表的溃疡，不及时治疗则发展为较深的溃疡，甚至褥疮。尿布疹大多发生在1周岁以内的婴儿，通常在7-9个月时最厉害。因为婴儿在这一时期开始进食的食物种类逐渐增多，排出的尿便对臀部皮肤的刺激性增大，尤其是在腹泻或排出的便在尿布中过夜、婴儿或哺乳期母亲使用抗生素时。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "婴儿红臀,尿布湿疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "婴儿臀部红",
+          "充血",
+          "丘疹",
+          "皮肤发红",
+          "红斑样皮疹"
+        ],
+        "complication": [
+          "湿疹",
+          "皮炎",
+          "褥疮",
+          "脓毒症和菌血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-3000元）",
+        "ratio": "治愈率100%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "皮肤病的物理检查",
+          "涂片",
+          "皮肤颜色"
+        ],
+        "medicine": [
+          "复方硫黄乳膏",
+          "硫磺硼砂乳膏",
+          "硝酸咪康唑散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方硫黄乳膏(维肤康乳膏(百花)",
+          "grade": "4.75",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "皮肤康洗液",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺气虚",
+    "information": {
+      "introduction": "肺气虚损不足，临床以咳嗽乏力、畏风自汗等为主要表现的证。多见于咳嗽、哮喘、自汗，以及西医的慢性支气管炎、支气管扩张、肺气肿、肺心病等疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "咳嗽",
+          "多汗恶风",
+          "自汗肢冷",
+          "气短",
+          "声音变低"
+        ],
+        "complication": [
+          "颅咽管瘤",
+          "感冒",
+          "新生儿泪囊炎",
+          "咳嗽变异性哮喘",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "金复康口服液",
+          "参苓白术散",
+          "参一胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金复康口服液",
+          "grade": "3.25",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参苓白术散(立效)",
+          "grade": "4.59",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "参一胶囊(亚泰)",
+          "grade": "2.32",
+          "total": "30",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "润肺止嗽丸(修正)",
+          "grade": "2.19",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "润肺止嗽丸(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五加参精(宝葫芦)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "咳灵胶囊(雪丹)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "润肺止嗽丸(修正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保儿宁糖浆(黄金贝乐)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保儿宁糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "润肺止嗽丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "润肺止嗽丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参芪膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "参芪膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "头癣",
+    "information": {
+      "introduction": "头癣是头皮和头发的浅部真菌感染，根据病原菌和临床表现的不同可分为黄癣、白癣和黑点癣三种。好发于儿童，传染性较强，易在托儿所、幼稚园、小学校及家庭中互相传染。主要通过被污染的理发工具传染，也可通过接触患癣的猫、狗等家畜而感染。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "头癣，阴癣，圆癣，疠疡风，紫白癜风，黄癣、白癣、黑癣",
+        "part": [
+          "头部"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群（好发于儿童）",
+        "symptom": [
+          "鳞屑",
+          "脓疱",
+          "丘疹",
+          "永久性秃发",
+          "头皮屑多"
+        ],
+        "complication": [
+          "体癣",
+          "股癣"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 2000元）",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌培养",
+          "皮肤真菌镜检",
+          "头皮检查",
+          "毛发",
+          "直接涂片检查"
+        ],
+        "medicine": [
+          "擦癣药水",
+          "硝酸咪康唑乳膏",
+          "达克宁乳膏 20mg/g"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消炎癣湿药膏(铍宝)",
+          "grade": "3.25",
+          "total": "11",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨膜炎",
+    "information": {
+      "introduction": "骨膜是一层致密结缔组织膜，覆盖在骨的表面(关节面除外)，含有丰富的血管、神经和成骨细胞。骨膜对骨的生长和再生有重要作用。骨膜炎是由于骨膜及骨膜血管扩张、充血、水肿或骨膜下出血，血肿机化骨膜增生及炎症性改变造成的应力性骨膜损伤或化脓性细菌侵袭造成的感染性骨膜损伤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "关节疼痛",
+          "增生性骨膜炎",
+          "胫骨疼痛",
+          "膝关节疼痛",
+          "眼眶疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000—— 3000元）",
+        "ratio": "65%",
+        "duration": "2-4个月",
+        "method": [
+          "药物治疗、针灸治疗"
+        ],
+        "examination": [
+          "骨与关节MRI"
+        ],
+        "medicine": [
+          "羧甲司坦口服溶液",
+          "十三味红花丸",
+          "头孢克洛缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "直肠脱垂",
+    "information": {
+      "introduction": "直肠脱垂是指肛管、直肠甚至乙状结肠下端向下移位突出于肛门外的一种病理状态。仅黏膜下脱是不完全脱垂，直肠全层下脱为完全脱垂。脱垂部分位于直肠内称内脱垂，脱出肛门外则称外脱垂。直肠脱垂以儿童及老年人多见，直肠脱垂在儿童是一种自限性疾病，多数在5岁前自愈，故以非手术治疗为主。成人完全性直肠脱垂较严重者，长期脱垂将致阴部神经损伤产生肛门失禁、溃疡、肛门周围感染、直肠出血、脱出肠段水肿坏死及狭窄，应以手术治疗为主。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脱肛,直肠脱出",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "幼年期，老年期，久病体弱和...",
+        "symptom": [
+          "里急后重",
+          "肛门坠胀",
+          "无力",
+          "便血",
+          "排便不尽感"
+        ],
+        "complication": [
+          "溃疡病大出血",
+          "肠套叠",
+          "小儿直肠脱垂",
+          "小儿慢性肉芽肿病",
+          "小儿乳糜泻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "直肠镜",
+          "肛门视诊",
+          "排粪造影检查"
+        ],
+        "medicine": [
+          "黄芪颗粒",
+          "溃疡灵胶囊",
+          "外科补片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄芪颗粒(好好)",
+          "grade": "3.83",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "溃疡灵胶囊(斯威)",
+          "grade": "4.53",
+          "total": "45",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "褥疮",
+    "information": {
+      "introduction": "褥疮(decubitus)又名压疮(pressure sores)，系身体局部长期受压使血液循环受阻，而引起的皮肤及皮下组织缺血而发生水疱、溃疡或坏疽。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "压迫性溃疡",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "溃疡",
+          "水肿",
+          "结痂",
+          "皮肤水疱，后形成黑色干痂",
+          "鳞屑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（2000-5000元）",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "皮肤病的物理检查"
+        ],
+        "medicine": [
+          "康复新液",
+          "京万红软膏",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.32",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "京万红软膏(京万红)",
+          "grade": "2.75",
+          "total": "26",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.32",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "冻疮消酊(鼎龙)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冻疮消酊(马应龙)",
+          "grade": "4.6",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "橡皮生肌膏(京万红)",
+          "grade": "2.17",
+          "total": "22",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿脑瘫",
+    "information": {
+      "introduction": "小儿脑瘫也称为儿童脑瘫，病变部位在脑，累及四肢，常伴有癫痫、智力缺陷，行为异常、精神障碍及视、听觉、语言障碍等症状，是儿童时期常见的中枢神经障碍综合症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿脑性瘫痪,儿童脑瘫,小儿大脑性瘫痪,小儿脑性麻痹",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "智力发育迟缓",
+          "烦躁不安",
+          "非对称性紧张性颈反射",
+          "癫痫和癫痫样发作",
+          "抽搐"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000 —— 50000元）",
+        "ratio": "10%",
+        "duration": "1-6个月",
+        "method": [
+          "物理治疗、心理治疗、药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "肌电图",
+          "颅脑CT",
+          "脑诱发电位",
+          "脑电图"
+        ],
+        "medicine": [
+          "吡拉西坦片",
+          "二维三七桂利嗪胶囊",
+          "单唾液酸四己糖神经节苷脂钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "灯盏细辛软胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保婴散(中华)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿支原体肺炎",
+    "information": {
+      "introduction": "支原体肺炎(mycoplasmal pneumonia)旧称原发性非典型肺炎，冷凝集阳性肺炎，是由支原体(mycoplasma，MP)感染引起的、基本病程间质性肺炎及毛细支气管炎样改变，临床表现为顽固性剧烈咳嗽的肺部炎症，MP是儿童时期肺炎和其它呼吸道感染的重要病原之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿冷凝集阳性肺炎,小儿MP肺炎,原发性非典型肺炎，冷凝集阳性肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "有传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "恶心",
+          "呼吸音减弱",
+          "低烧",
+          "咽痛",
+          "干咳"
+        ],
+        "complication": [
+          "小儿支原体肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "99.9%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "支原体检查",
+          "痰液病原体",
+          "冷凝集试验",
+          "痰液常规检查",
+          "胸部平片"
+        ],
+        "medicine": [
+          "金振口服液",
+          "宝咳宁颗粒",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金振口服液(康缘)",
+          "grade": "4.23",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "宝咳宁颗粒(腾药)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睾丸癌",
+    "information": {
+      "introduction": "睾丸癌是生在男性生殖系统睾丸的恶性肿瘤，是男性生殖系统的常见肿瘤，约占男性恶性肿瘤的2%。睾丸癌好发于20~40岁男性青壮年。作为年轻男性高发的癌症之一，睾丸癌的发病原因并不为人们所知晓，据统计显示，男性睾丸癌的发病率是十万分之七，且逐年增加，原因通常是恶性肿瘤转移造成",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "睾丸胀痛",
+          "睾丸增大和变硬",
+          "阴囊下坠",
+          "阴囊肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "40%(本病属于恶性肿瘤一般手术后5年生存率在40%左右)",
+        "duration": "3-6个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "睾丸自我检查",
+          "CT检查"
+        ],
+        "medicine": [
+          "甲氨蝶呤片",
+          "卡铂注射液",
+          "甲氨蝶呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾病",
+    "information": {
+      "introduction": "肾病，肾脏的各种病证。人体脏腑之间，内环境与外环境之间均保持着动态平衡。内外界多种致病因素如果破坏了人体的平衡，导致脏腑气血功能失调，病及于肾，则引起肾脏疾病的产生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "肥胖人群、高血压人群、劳累...",
+        "symptom": [
+          "水肿",
+          "无尿",
+          "多尿",
+          "尿蛋白",
+          "乏力"
+        ],
+        "complication": [
+          "多发性骨髓瘤病肾病",
+          "先天性肾病综合征",
+          "囊性肾病",
+          "农药中毒性肾病",
+          "造影剂肾病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（10000--30000元）",
+        "ratio": "75%-80%",
+        "duration": "4-6个月",
+        "method": [
+          "药物治疗、中医治疗、透析治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肾图",
+          "血压测量",
+          "血清甲状腺素结合前白蛋白"
+        ],
+        "medicine": [
+          "复方α-酮酸片",
+          "吗替麦考酚酯胶囊",
+          "金水宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄葵胶囊(苏中)",
+          "grade": "2.44",
+          "total": "52",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "妊娠糖尿病",
+    "information": {
+      "introduction": "妊娠合并糖尿病包括糖尿病患者妊娠(即糖尿病合并妊娠)，以及妊娠期糖尿病。妊娠期糖尿病(gestational diabetes mellitus，GDM)是妊娠期间发现或发病的由不同程度糖耐量异常及糖尿病引起的不同程度的高血糖。根据其定义，该类糖尿病包括妊娠前即已存在但妊娠期间才诊断的和随着妊娠期而发生的2类，同时它既包括糖尿病，又包括糖耐量减低(impaired glucose tolerance，IGT)和空腹血糖不良(impaired fasting glucose，IFG)。妊娠糖尿病系高危妊娠，它严重危害母儿的健康。在胰岛素问世之前母体死亡率27～30%，胎儿围产期死亡率>40%。胰岛素问世后尤其围产医学开展以来，围产死亡率已明显下降。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "妊娠期糖尿病,妊娠合并糖尿病,妊娠性糖尿病",
+        "part": [
+          "全身",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "发于妊娠中后期的孕妇",
+        "symptom": [
+          "多饮",
+          "多食",
+          "多尿",
+          "妊娠期血糖高",
+          "体重减轻"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "1-3个月",
+        "method": [
+          "饮食指导、西药治疗"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "尿常规",
+          "糖筛",
+          "尿葡萄糖",
+          "尿酮体"
+        ],
+        "medicine": [
+          "罗格列酮钠片",
+          "盐酸二甲双胍片",
+          "盐酸二甲双胍片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "早期乳腺癌",
+    "information": {
+      "introduction": "早期乳腺癌(early mammary cancer，EBC)是多年来乳腺肿瘤学家积极关注的问题之一。其意义在于早期乳腺癌的长期治愈率可达90%以上;早期乳腺癌诊断率的提高将大大提高病人的生存率和生存年限，降低病死率。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "earlybreastcancer，early-stagebreastcancer",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性",
+        "symptom": [
+          "腋下淋巴肿大",
+          "乳腺肥大",
+          "乳腺刺痛",
+          "乳腺组织肥厚",
+          "腋下淋巴肿大"
+        ],
+        "complication": [
+          "乳头内陷",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（10000--30000元）",
+        "ratio": "90%",
+        "duration": "2-4月",
+        "method": [
+          "手术治疗、放射治疗、中药治疗"
+        ],
+        "examination": [
+          "近红外线乳腺扫描",
+          "乳房手术活检",
+          "乳腺B超",
+          "胸部B超 ",
+          "血清抗普肯耶细胞抗体"
+        ],
+        "medicine": [
+          "多西他赛注射液",
+          "阿那曲唑片",
+          "阿那曲唑片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "滴虫性外阴炎",
+    "information": {
+      "introduction": "滴虫性外阴炎常继发于滴虫性阴道炎。女性的阴道毛滴虫多寄生于阴道、尿道、前庭大腺及膀胱。前庭大腺受累者罕见。阴道毛滴虫是一咱鞭毛虫，比多形核白细胞大许多，呈梨形，顶端有鞭毛四条，尾部有轴柱凸出，可以寄生在人体内而不引起临床症候。某些细菌可诱致滴虫活跃而产生症状，但体内抗体又可以直接或间接传播，主要通过浴池、浴具、游泳池、或未彻底消毒的医疗器械等途径间接传播。直接传播可以通过性交，从男性泌尿系统传来，患者的尿液及粪便也可能是来源。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "外阴"
+        ],
+        "infection": "有传染性",
+        "people": "成年女性",
+        "symptom": [
+          "尿痛",
+          "瘙痒",
+          "尿频",
+          "白带增多",
+          "阴道脓性分泌物"
+        ],
+        "complication": [
+          "尿道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约2000-5000",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "阴道毛滴虫检查",
+          "白带常规"
+        ],
+        "medicine": [
+          "妇炎灵泡腾片",
+          "妇炎消泡腾片",
+          "硝呋太尔制霉素阴道软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇炎灵泡腾片(伊能净)",
+          "grade": "3.06",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎消泡腾片(中一)",
+          "grade": "1.89",
+          "total": "15",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方黄松洗液(肤阴洁)",
+          "grade": "3.72",
+          "total": "95",
+          "secondary": "84"
+        },
+        {
+          "medicine_name": "利夫康洗剂(利夫康乐)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "青柏洁身洗液(恒生)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性喉炎",
+    "information": {
+      "introduction": "急性喉炎（acute laryngitis）是喉粘膜的急性卡他性炎症，常继发于急性鼻炎、鼻窦炎、急性咽炎，为整个上呼吸道感染的一部分，也可单独发生。有时大声喊叫、过度用嗓、剧烈咳嗽，也可引起急性喉炎。若发生于儿童，病情较为严重。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "喉粘膜急性卡他性炎症",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，年轻人",
+        "symptom": [
+          "发烧",
+          "呼吸困难",
+          "浑身忽冷忽热",
+          "声音嘶哑",
+          "咽痛"
+        ],
+        "complication": [
+          "喉阻塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-300元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率100%，但延误治疗可能转为慢性喉炎）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "间接喉镜"
+        ],
+        "medicine": [
+          "黄氏响声含片",
+          "功劳去火胶囊",
+          "金嗓开音丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄氏响声含片(黄氏)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "功劳去火胶囊(健兴)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金嗓开音丸(碑林)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "牛黄解毒片(薄膜衣片)",
+          "grade": "1.95",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方草珊瑚含片(江中)",
+          "grade": "4.48",
+          "total": "157",
+          "secondary": "156"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "银黄滴丸(通润维康)",
+          "grade": "2.82",
+          "total": "94",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "复方草珊瑚含片(江中)",
+          "grade": "4.44",
+          "total": "188",
+          "secondary": "156"
+        },
+        {
+          "medicine_name": "众生丸(众生)",
+          "grade": "3.75",
+          "total": "129",
+          "secondary": "90"
+        },
+        {
+          "medicine_name": "喉康散(白云山)",
+          "grade": "4.36",
+          "total": "19",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "功劳去火片(玉兰)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "喉舒宁片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "喉康散(葛仙翁)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "轮状病毒性肠炎",
+    "information": {
+      "introduction": "轮状病毒性胃肠炎(rotavirus gastroenteritis)是由轮状病毒(rotavirus)所致的急性消化道传染病。病原体主要通过消化道传播。主要临床表现为急性发热，呕吐及腹泻。病程大多较短。是腹泻最常见的原因之一，可发生流行或大流行。本病主要发生在婴幼儿，常由A组轮状病毒引起，发病高峰在秋季，故名“婴儿秋季腹泻”。全世界每年因轮状病毒感染导致约1.25亿婴幼儿腹泻，其中大多数发生在发展中国家。B组轮状病毒可引起成人腹泻。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "轮状病毒性胃肠炎，婴儿秋季腹泻",
+        "part": [
+          "肠"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "乏力",
+          "水样便",
+          "腹部压痛",
+          "肚子疼",
+          "肠鸣"
+        ],
+        "complication": [
+          "肠套叠",
+          "过敏性紫癜",
+          "溶血尿毒症综合征",
+          "弥漫性血管内凝血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "内科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "人类轮状病毒抗体",
+          "聚合酶链式反应",
+          "大便颜色",
+          "粪便性状",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "复合乳酸菌胶囊",
+          "枯草杆菌二联活菌颗粒",
+          "苍苓止泻口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "苍苓止泻口服液(天方)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿广朴止泻口服液(国奥)",
+          "grade": "2.33",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "连番止泻胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿石蔻散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

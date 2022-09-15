@@ -1,0 +1,981 @@
+[
+  {
+    "disease_name": "牙隐裂",
+    "information": {
+      "introduction": "又称不全牙裂或牙微裂。指牙冠表面的非生理性细小裂纹，常不易被发现。牙隐裂的裂纹常深入到牙本质结构，是引起牙痛的原因之一。由于临床上比较多见，而裂纹又容易被忽略，故临床医师应给予足够的注意。隐裂牙发生于上颌磨牙最多，其次是下颌磨牙和上颌前磨牙。第一磨牙又明显多于第二磨牙，尤其近中腭尖更易发生，此乃上下颌咀嚼运动时主要的工作牙尖，承担着最大的合力，且与下颌磨牙中央窝有最合适的尖窝对位关系。上颌磨牙虽有斜嵴，由于磨耗不均的高陡牙尖和紧密的咬合关系，也易在合面的近中或远中窝沟处，两颊尖或两舌尖之间的沟裂处发生隐裂。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "不全牙裂,牙微裂",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "牙疼",
+          "磨牙后垫红肿",
+          "假牙疼痛",
+          "牙疼"
+        ],
+        "complication": [
+          "牙龈炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-2000元）",
+        "ratio": "85%",
+        "duration": "2-4周",
+        "method": [
+          "全冠修复"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "人工牛黄甲硝唑胶囊",
+          "人工牛黄甲硝唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "大肠湿热",
+    "information": {
+      "introduction": "大肠湿热证是指湿热侵袭大肠所表现的证候。多因外感湿热之邪，或因饮食不节等因素造成。相当于中医的急慢性细菌性痢疾，细菌性食物中毒，急慢性阿米巴肠炎，慢性非特异性溃疡性结肠炎，急性阑尾炎，痔疮。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腹痛腹泻",
+          "里急后重",
+          "脓血便",
+          "小便短赤",
+          "苔黄腻"
+        ],
+        "complication": [
+          "阿米巴结肠炎",
+          "溃疡性结肠炎",
+          "弯曲菌性肠炎",
+          "慢性溃疡性结肠炎",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "60-80%",
+        "duration": "4-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "直接涂片检查"
+        ],
+        "medicine": [
+          "解毒止泻胶囊",
+          "苋菜黄连素胶囊",
+          "化痔栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "解毒止泻胶囊",
+          "grade": "3.2",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "苋菜黄连素胶囊",
+          "grade": "1.74",
+          "total": "26",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "化痔栓(敬修堂)",
+          "grade": "2.24",
+          "total": "22",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "小儿功劳止泻颗粒",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "通舒口爽胶囊(永孜堂)",
+          "grade": "3.80",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "泻停胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方青蒿喷雾剂(刚好)",
+          "grade": "2.45",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒(嘉应)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方酸藤消痔胶囊",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒(恒诚制药)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒(方略)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒(莱泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菊五花茶颗粒",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "压力性尿失禁",
+    "information": {
+      "introduction": "国际尿控协会(InteRNAtional Continence Society，ICS)提出的压力性尿失禁(stress incontinence)定义为：腹压的突然增加导致尿液不自主流出，不是由逼尿肌收缩压或膀胱壁对尿液的张力压引起的。其特点是正常状态下无遗尿，而腹压突然增高时尿液自动流出。如咳嗽、大笑、打喷嚏、跳跃、搬重物时，尿液不自主地从尿道口漏出的现象。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "尿道",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "高发年龄为45～55岁",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "膀胱造影"
+        ],
+        "medicine": [
+          "低频神经肌肉治疗仪",
+          "低频神经肌肉治疗仪",
+          "尿失禁吊带"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "乳头炎和乳晕炎",
+    "information": {
+      "introduction": "乳头炎(papillitis)和乳晕炎(areolitis)是由金黄葡萄球等感染引致的乳头及乳晕皮肤和腺体的化脓性炎症。多发生于妇女的哺乳期，处理不当，可发展成乳房炎，中医称本病为“乳头风”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乳头风",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "妇女的哺乳期",
+        "symptom": [
+          "蜂窝组织炎",
+          "婴儿含吮时乳头刀割样疼痛并渗血",
+          "泌乳障碍",
+          "结痂",
+          "脓肿"
+        ],
+        "complication": [
+          "急性蜂窝组织炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "90%",
+        "duration": "2-6周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "中性粒细胞比例"
+        ],
+        "medicine": [
+          "妇科千金片",
+          "合成鱼腥草素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "过敏性休克",
+    "information": {
+      "introduction": "过敏性休克(anaphylaxis,anaphylactic shock)是外界某些抗原性物质进入已致敏的机体后，通过免疫机制在短时间内发生的一种强烈的多脏器累及症群。过敏性休克的表现与程度，依机体反应性、抗原进入量及途径等而有很大差别。通常都突然发生且很剧烈，若不及时处理，常可危及生命。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "风厥",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "过敏体质人群接触变应原后易...",
+        "symptom": [
+          "意识模糊",
+          "皮肤瘙痒",
+          "皮肤苍白",
+          "皮肤有瘙痒抓痕",
+          "口唇苍白"
+        ],
+        "complication": [
+          "意识障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "7--21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血压测量",
+          "中心静脉压",
+          "肺动脉楔压",
+          "红细胞压积(HCT)",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "盐酸异丙嗪注射液",
+          "盐酸肾上腺素注射液",
+          "肾上腺素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "滴虫病",
+    "information": {
+      "introduction": "毛滴虫病(trichomoniasis)是由毛滴虫(trichomonias)引起，寄生人体的毛滴虫有三种：阴道毛滴虫(trichomoniasis vaginalis)，人毛滴虫(T.hanims)和口腔毛滴虫(T.tenax);分别寄生于泌尿生殖系统、肠道和口腔，与皮肤病有关的是阴道毛滴虫，引起滴虫性阴道炎。是一种主要通过性交传播的寄生虫疾病，具有传染性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "毛滴虫病,膣炎,膣炎症",
+        "part": [
+          "女性生殖",
+          "尿道"
+        ],
+        "infection": "有传染性",
+        "people": "成年妇女，性活跃人群多见",
+        "symptom": [
+          "阴道脓性分泌物",
+          "急性阴道感染",
+          "瘙痒",
+          "外阴烧灼刺激感",
+          "排尿时外阴灼热、瘙痒或疼痛"
+        ],
+        "complication": [
+          "膀胱炎",
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（800—— 2000元）",
+        "ratio": "85%",
+        "duration": "6-8周",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "寄生虫检查的浓聚法",
+          "虫卵计数法",
+          "粪细菌培养",
+          "白带常规",
+          "粪便寄生虫"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "妇科千金片",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "踝扭伤",
+    "information": {
+      "introduction": "踝部扭伤轻者韧带拉松或部分撕裂;重者则完全断裂，并有踝关节半脱位，或并发骨折脱位。踝关节扭伤后，病人外跟前下方或下方有疼痛、肿胀，急性期可有瘀斑。这时做足内翻的动作会加重疼痛，做足外翻则可无疼痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "关节",
+          "小腿"
+        ],
+        "infection": "无传染性",
+        "people": "除婴幼儿外的所有人群",
+        "symptom": [
+          "关节扭伤",
+          "踝部及足背水肿",
+          "踝关节疼痛",
+          "踝关节屈曲挛缩畸形",
+          "足外翻"
+        ],
+        "complication": [
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "98%",
+        "duration": "2-4周",
+        "method": [
+          "保守治疗、手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "关节检查",
+          "抽屉试验"
+        ],
+        "medicine": [
+          "壮骨麝香止痛膏",
+          "壮骨麝香止痛膏",
+          "正骨水"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "壮骨麝香止痛膏(九寨沟)",
+          "grade": "4.84",
+          "total": "25",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "壮骨麝香止痛膏(羚锐)",
+          "grade": "4.84",
+          "total": "25",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "斧标驱风油(斧标)",
+          "grade": "4.53",
+          "total": "158",
+          "secondary": "134"
+        },
+        {
+          "medicine_name": "跌打万花油(敬修堂)",
+          "grade": "4.35",
+          "total": "233",
+          "secondary": "220"
+        },
+        {
+          "medicine_name": "双虎肿痛宁喷雾剂(葵花牌)",
+          "grade": "3.31",
+          "total": "17",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "麝香壮骨膏",
+          "grade": "2.80",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红花油(太平)",
+          "grade": "3.74",
+          "total": "18",
+          "secondary": "10"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺性脑病",
+    "information": {
+      "introduction": "肺性脑病又称肺心脑综合征，是慢性支气管炎并发肺气肿、肺源性心脏病及肺功能衰竭引起的脑组织损害及脑循环障碍。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺心脑综合征，肺厥",
+        "part": [
+          "颅脑",
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "慢性支气管炎并发肺气肿、肺...",
+        "symptom": [
+          "肺性肥大",
+          "肺积水",
+          "心肺栓塞",
+          "肺部肿块",
+          "头痛"
+        ],
+        "complication": [
+          "老年人慢性肾功能衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "二氧化碳结合力",
+          "二氧化碳分压",
+          "脑电图",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "甘油果糖氯化钠注射液",
+          "克拉霉素片",
+          "还原型谷胱甘肽片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹红注射液",
+          "grade": "2.68",
+          "total": "73",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "松节油",
+          "grade": "4.93",
+          "total": "99",
+          "secondary": "99"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性输卵管卵巢炎",
+    "information": {
+      "introduction": "卵巢炎与输卵管炎合并发生者，称为输卵管卵巢炎或附件炎。输卵管卵巢炎的急性期，若治疗延误或不彻底，迁延日久则形成慢性。在当今已有众多强有力抗生素足以有效治疗急性输卵管卵巢炎的情况下，急性转为慢性病灶的可能性已大为减少，唯结核菌感染一般均为慢性病变过程。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性输卵管炎,慢性卵巢炎",
+        "part": [
+          "卵巢",
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "以25～35岁发病率最高",
+        "symptom": [
+          "肚子疼",
+          "卵巢功能障碍",
+          "尿频",
+          "囊性肿块",
+          "脓肿"
+        ],
+        "complication": [
+          "不孕症",
+          "宫外孕"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000--50000元）",
+        "ratio": "70%",
+        "duration": "2个月",
+        "method": [
+          "西药治疗、中药治疗、手术治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "腹部外形触诊",
+          "盆腔和阴道B超",
+          "妇科常规检查",
+          "脱落细胞"
+        ],
+        "medicine": [
+          "金归洗液",
+          "二妙丸",
+          "注射用盐酸克林霉素"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二妙丸(弗吉宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "宫颈上皮内瘤变",
+    "information": {
+      "introduction": "宫颈上皮内瘤变(cervical intraepithelial neoplasias，CIN)是一组与宫颈浸润癌密切相关的癌前期病变的统称。包括宫颈不典型增生和宫颈原位癌，反映了宫颈癌发生中连续发展的过程，即由宫颈不典型增生(轻、中、重)原位癌、早期浸润癌、浸润癌的一系列病理变化。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "宫颈上皮内瘤",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "生育期妇女",
+        "symptom": [
+          "白带增多",
+          "宫颈肥大",
+          "息肉",
+          "脓血性白带",
+          "白带增多"
+        ],
+        "complication": [
+          "宫颈复发癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（3000-5000）",
+        "ratio": "70%",
+        "duration": "10天",
+        "method": [
+          "物理治疗，手术治疗。"
+        ],
+        "examination": [
+          "涂片",
+          "宫颈检查",
+          "阴道镜"
+        ],
+        "medicine": [
+          "复方环磷酰胺片",
+          "复方斑蝥胶囊",
+          "重组人干扰素α2b阴道泡腾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方斑蝥胶囊(花溪)",
+          "grade": "2.57",
+          "total": "33",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛乳头炎",
+    "information": {
+      "introduction": "肛乳头炎主要表现为平时感到肛门内有异物感，随着乳头增生肥大，排便时乳头可脱出肛门外。小的乳头便后可自行回到肛门内，大的需用手推回肛门内。如不及时复位，可引起肛门水肿、胀痛。肿大乳头被刺激或破溃后，可使肛腺分泌增加，引起肛门部潮湿发痒。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "请壮年多见",
+        "symptom": [
+          "肛乳头肥大",
+          "肛门坠胀",
+          "肛门瘙痒",
+          "静脉曲张性外痔",
+          "肛门疼痛"
+        ],
+        "complication": [
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "肛门指检"
+        ],
+        "medicine": [
+          "甲磺酸左氧氟沙星片",
+          "盐酸左氧氟沙星片",
+          "复方氯己定甲硝唑栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性心力衰竭",
+    "information": {
+      "introduction": "急性心力衰竭是指由于器质性心脏病发展到心肌收缩力减退，使心脏不能将回心血量全部排出，心搏出量减少，引起肺静脉郁血，动脉系统严重供血不足，常见于急性心肌炎、心肌梗塞，严重心瓣膜狭窄，急性的心脏容量负荷过重，快速异位心律。临床上以极度烦躁、极度气促，咯白色泡沫或粉红色泡沫痰，双肺干湿性罗音为特点。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性心衰，急性充血性心力衰竭",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "大多数患者有心脏病病史，冠...",
+        "symptom": [
+          "粉红色泡沫痰",
+          "心排血量增多",
+          "四肢抽搐",
+          "呼吸困难",
+          "端坐呼吸"
+        ],
+        "complication": [
+          "支气管炎",
+          "静脉血栓形成",
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心排血量",
+          "心肌灌注显像",
+          "胸部平片",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "盐酸贝那普利片",
+          "福辛普利钠片",
+          "盐酸胺碘酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "口周皮炎",
+    "information": {
+      "introduction": "口周皮炎(Perioral\ndermatitis)系口周、鼻唇沟等处出现丘疹、丘疱疹、脓疱、红斑、脱屑等损害、呈周期性发作。发病不明，发病机制还不清楚。治疗以避免一切外源性刺激，口服四环素、米诺环素有效，甲硝唑对本病无效。本病属中医“唇风”、“紧唇”、“渖唇”范畴。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼻唇沟皮炎,光感性皮脂溢出疹,酒渣鼻样皮炎,口周酒渣鼻,口周脂溢性皮炎,口周综合征",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "20～35岁之间的女性",
+        "symptom": [
+          "疱疹",
+          "脓疱",
+          "斑丘疹",
+          "斑疹",
+          "脓疱"
+        ],
+        "complication": [
+          "剥脱性唇炎",
+          "唇病",
+          "唇裂",
+          "浆细胞性唇炎",
+          "小儿双唇综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000—— 3000元）",
+        "ratio": "95%",
+        "duration": "2-5月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "免疫病理检查",
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "氯霉素搽剂",
+          "克林霉素甲硝唑搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胆管炎",
+    "information": {
+      "introduction": "胆道炎症以胆管炎症为主者称胆管炎(cholangitis)，以胆囊炎症为主者称胆囊炎(cholecystitis)。两者常同时发生，其病因、发病机制以及病理变化大致相同，多是在胆汁淤积的基础上继发细菌(主要为大肠杆菌、副大肠杆菌和葡萄球菌等)感染所致。细菌可经淋巴道或血道到达胆道，也可从肠道经十二指肠乳头逆行进入胆道。在我国以后者更为常见。可分为急性和慢性两种类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "中年人群",
+        "symptom": [
+          "恶心与呕吐",
+          "腹部不适",
+          "胀痛",
+          "上腹部疼痛",
+          "肚子疼"
+        ],
+        "complication": [
+          "小儿硬化性胆管炎",
+          "小儿急性胆囊炎与胆管炎",
+          "原发性硬化性胆管炎",
+          "胆管结石与胆管炎",
+          "急性化脓性胆管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（500 —— 5000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "胆道造影",
+          "皮肝穿刺胆管造影",
+          "尿淀粉酶",
+          "十二指肠钡餐造影",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星胶囊",
+          "盐酸米诺环素胶囊",
+          "消炎利胆片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒胆胶囊(白云山)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清肝利胆胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(白云山)",
+          "grade": "3.32",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片",
+          "grade": "2.73",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(广健)",
+          "grade": "2.66",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方胆通胶囊",
+          "grade": "3.79",
+          "total": "32",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "自发性气胸",
+    "information": {
+      "introduction": "自发性气胸是指因肺脏实质或脏层胸膜在无外源性或介入性因素的影响下破裂，引起气体在胸膜腔内蓄积。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "多见于男性青壮年或患有慢性...",
+        "symptom": [
+          "心悸",
+          "胸骨后疼痛",
+          "胸闷",
+          "呼吸困难",
+          "胸痛"
+        ],
+        "complication": [
+          "血气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "75%-85%(外科手术治愈率约为75%-85%)",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗（紧急抽气、闭式引流）、药物治疗"
+        ],
+        "examination": [
+          "胸部CT",
+          "胸部平片"
+        ],
+        "medicine": [
+          "注射用过氧化碳酰胺",
+          "气胸排放套件",
+          "气胸排放套件"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

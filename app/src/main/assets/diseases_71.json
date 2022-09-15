@@ -1,0 +1,1046 @@
+[
+  {
+    "disease_name": "一度房室传导阻滞",
+    "information": {
+      "introduction": "一度房室传导阻滞(first degree atrioventricular block，Ⅰ°AVB)是指房室传导时间延长，超过正常范围，但每个心房激动仍能传入心室，亦称房室传导延迟。在心电图上，P-R间期达到或超过0.21s(14岁以下儿童达到或超过0.18s)，每个P波后均有QRS波。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "房室传导延迟",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "哭泣晕厥",
+          "心电图异常",
+          "乏力",
+          "头昏",
+          "气短"
+        ],
+        "complication": [
+          "阵发性室性心动过速"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（50-100元）",
+        "ratio": "80%",
+        "duration": "2-4月",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "宁心宝胶囊",
+          "盐酸异丙肾上腺素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "宁心宝胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "常年性鼻炎",
+    "information": {
+      "introduction": "是指每年过敏性鼻炎的症状持续在9个月以上，多为室内的过敏原，如尘螨或其粪便所致。尽管发作具有常年性，但是或者在一天里症状轻重是不一样的，在螨繁殖最多的时节加重。常年性过敏性鼻炎一年四季都有症状。儿童由于无法表达，经常表现为推鼻子、做鬼脸、青眼窝等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "可发生于任何年龄，男女均有...",
+        "symptom": [
+          "侧卧时位于下侧鼻腔出现鼻塞",
+          "鼻分泌物增多",
+          "回吸性涕血",
+          "鼻塞",
+          "息肉"
+        ],
+        "complication": [
+          "鼻窦炎",
+          "鼻息肉"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "前鼻镜",
+          "纤维鼻咽镜",
+          "鼻部功能检查",
+          "耳鼻咽喉CT"
+        ],
+        "medicine": [
+          "鼻炎康片",
+          "滴通鼻炎水",
+          "盐酸左西替利嗪胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎康片(德众)",
+          "grade": "3.87",
+          "total": "368",
+          "secondary": "253"
+        },
+        {
+          "medicine_name": "滴通鼻炎水(博科)",
+          "grade": "4.97",
+          "total": "71",
+          "secondary": "71"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高钙血症",
+    "information": {
+      "introduction": "高钙血症是指血清离子钙浓度的异常升高。当进入细胞外液的钙(肠、骨)超过了排出的钙(肠、肾)则发生高钙血症，血钙浓度高于2.75mmol/L。引起高钙血症的病因有两大类：PTH依赖性和非PTH依赖性高钙血症。一般认为血清钙在3.75mmol/L以上，可发生高钙危象，处理不当有生命危险，是一种临床急症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血钙过多症,血内钙过多症",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "原发性甲状旁腺功能亢进者多...",
+        "symptom": [
+          "乏力",
+          "木僵",
+          "头痛",
+          "抑郁",
+          "乏力"
+        ],
+        "complication": [
+          "间质性肾炎",
+          "肾结石"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "血液科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "30%",
+        "duration": "10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "血清钙"
+        ],
+        "medicine": [
+          "呋塞米注射液",
+          "帕米膦酸二钠葡萄糖注射液",
+          "依降钙素注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小细胞肺癌",
+    "information": {
+      "introduction": "小细胞肺癌（Small Cell Lung Cancer，SCLC）约占肺癌的20%，恶性程度高，倍增时间短，转移早而广泛，对化疗、放疗敏感，初治缓解率高，但极易发生继发性耐药，容易复发，治疗以全身化疗为主。﻿",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "中年吸烟人群多发",
+        "symptom": [
+          "乏力",
+          "咳嗽",
+          "气短",
+          "体重减轻"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（20000—— 50000元）",
+        "ratio": "40%-60%",
+        "duration": "1-5年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肿瘤VIP受体显像",
+          "血清NSE",
+          "p53基因"
+        ],
+        "medicine": [
+          "吉非替尼片",
+          "康莱特注射液",
+          "康莱特软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康莱特注射液",
+          "grade": "3.55",
+          "total": "53",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "康莱特软胶囊(康莱特)",
+          "grade": "3.86",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "孕吐",
+    "information": {
+      "introduction": "是指妊娠早期出现的恶心、呕吐，头晕厌食，甚或食入即出者。在妊娠早期，少数孕妇会出现出现频繁而剧烈地恶心呕吐，并会持续存在、进行性加重，常常影响到正常的工作和生活，甚至还会危及孕妇的生命，这种现象在医学上称为妊娠剧吐。妊娠剧吐多见于怀第一胎的孕妇。而通常提到的早孕反应，是指孕妇在妊娠早期出现的轻度恶心呕吐、食欲不振、头晕、倦怠等症状，这是一种正常的生理反应，一般在妊娠6周出现，12周左右就会逐渐好转并自行消失。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "妊娠呕吐",
+        "part": [
+          "女性生殖",
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "孕妇",
+        "symptom": [
+          "停经",
+          "混合型酸碱平衡紊乱",
+          "妊娠期的生理变化",
+          "疲乏",
+          "唇干裂"
+        ],
+        "complication": [
+          "休克",
+          "眼球震颤",
+          "肺水肿",
+          "胎儿生长受限"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "妇产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000—— 3000元）",
+        "ratio": "98%(经过系统调整，98%都能安全度过。)",
+        "duration": "10天",
+        "method": [
+          "中药、西药"
+        ],
+        "examination": [
+          "肝功能",
+          "CT检查",
+          "血清游离蛋白S",
+          "血液检查",
+          "心电图"
+        ],
+        "medicine": [
+          "产妇康洗液",
+          "复方乌鳢口服液",
+          "胰岛素注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "高血压脑出血",
+    "information": {
+      "introduction": "高血压脑出血(HCH)是脑血管病中病死率和致残率都很高的一种疾患。近百年来虽然国内外已有众多医学机构研究，但其病死率仍居高不下，3/4以上存活者遗有不同程度的残疾。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于50～70岁，男性略多...",
+        "symptom": [
+          "昏迷",
+          "深感觉障碍",
+          "脑叶出血",
+          "高热",
+          "中枢性发热"
+        ],
+        "complication": [
+          "肺水肿",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 80000元）",
+        "ratio": "治愈率79%",
+        "duration": "手术治疗周期14天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT",
+          "脑脊液生长抑素"
+        ],
+        "medicine": [
+          "复方三嗪芦丁片",
+          "芦丁片",
+          "脑室镜"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑血康胶囊(昊福)",
+          "grade": "2.52",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康颗粒",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "脑血康片(脑血康)",
+          "grade": "2.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康片(东宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经梅毒",
+    "information": {
+      "introduction": "神经梅毒(neurosyphilis)为苍白密螺旋体(梅毒螺旋体)感染神经系统所引起的疾病。分为先天性与后天性梅毒两类。本病主要由于不洁的性交导致感染，也可经黏膜及接触带病原体之血液而感染人体。临床常见的几种神经梅毒为：①无症状性神经梅毒;②脑膜神经梅毒;③血管神经梅毒;④脊髓痨;⑤麻痹性痴呆;⑥先天性神经梅毒。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "神经系梅毒",
+        "part": [
+          "颅脑",
+          "脊髓",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "晚期（Ⅲ期）梅毒多见",
+        "symptom": [
+          "梅毒感染",
+          "生殖泌尿道危象",
+          "感觉障碍",
+          "无力",
+          "白细胞增多"
+        ],
+        "complication": [
+          "脑积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--40000",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼底检查",
+          "CT检查",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": [
+          "地红霉素肠溶胶囊",
+          "红霉素肠溶胶囊",
+          "十三味红花丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸(藏王天宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸",
+          "grade": "4.88",
+          "total": "39",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "冬季瘙痒症",
+    "information": {
+      "introduction": "冬季瘙痒症又称皮脂缺乏性湿疹(asteatotic eczema)，裂隙性湿疹(eczema craquele)，冬令湿疹。主要见于老年人皮肤，特别是小腿、前臂和手部发生以干燥和发裂为突出的湿疹样皮炎。患者皮肤可见开裂，开裂可以分为3个阶段，称为皴裂，龟裂和皲裂。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "四十岁以上的成年",
+        "symptom": [
+          "小腿瘙痒干燥",
+          "瘙痒",
+          "皮肤皴裂",
+          "皮肤干燥",
+          "鳞屑"
+        ],
+        "complication": [
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约(500--1000元)",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗，局部治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "花蛇解痒胶囊",
+          "维生素E软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "花蛇解痒胶囊(三鹤药业)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病性神经病",
+    "information": {
+      "introduction": "糖尿病性神经病是糖尿病的代谢障碍及血管病变所致的周围及中枢神经系统损害。其并发率过去统计认为约5%。但肌电图、神经传导速度及脑诱发电位的检查发现早期、轻微神经系统改变的发生率可高达92%-96%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "胰腺",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中老年",
+        "symptom": [
+          "低血糖性昏迷",
+          "感觉障碍",
+          "消瘦",
+          "高渗性昏迷",
+          "周围神经损害"
+        ],
+        "complication": [
+          "脑梗死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "西药"
+        ],
+        "examination": [
+          "肌电图",
+          "尿葡萄糖",
+          "尿酮体"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "甲钴胺片",
+          "依帕司他片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿细菌性痢疾",
+    "information": {
+      "introduction": "细菌性痢疾(bacillary dysentery)简称菌痢，病原菌是肠杆菌科志贺菌属(shigella)，也称痢疾杆菌(dysenteriae)。该病为小儿肠道传染病，临床以发热、腹痛、腹泻、脓血便、里急后重为特点。中毒性菌痢是其中最重要的临床类型，可发生频繁惊厥、休克、呼吸衰竭，易发生死亡。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿杆菌痢疾,小儿杆菌性痢疾,小儿急性痢疾,小儿慢性痢疾",
+        "part": [
+          "肠",
+          "其他"
+        ],
+        "infection": "有传染性",
+        "people": "婴幼儿人群",
+        "symptom": [
+          "恶心",
+          "食欲减退",
+          "乏力",
+          "黏液便",
+          "发烧"
+        ],
+        "complication": [
+          "拉肚子",
+          "营养不良",
+          "佝偻病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元",
+        "ratio": "治愈率99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "硝酸盐还原试验",
+          "粪细菌培养",
+          "乙状结肠镜检查"
+        ],
+        "medicine": [
+          "固本益肠片",
+          "龙虎人丹",
+          "穿心莲内酯软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "固本益肠片(新乐)",
+          "grade": "3.83",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "龙虎人丹",
+          "grade": "3.96",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "穿心莲内酯软胶囊(金鸿)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠炎宁丸(摩美得)",
+          "grade": "3.5",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "肠炎宁颗粒2克(葫芦娃)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠炎宁颗粒(康恩贝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性附件炎",
+    "information": {
+      "introduction": "慢性附件炎是指女性内生殖器官，包括子宫、输卵管、卵巢及其周围的结缔组织、盆腔 腹膜等处发生感染时的炎症的总称，慢性附件炎大多发生在产后、剖宫产后、流产后、各种妇科手术后，以及在放置宫内避孕器之后，这时生殖器官的完整性及其自然的防御有了损伤，使细菌得以进入创面使之感染而得病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "大多发生在产后、剖宫产后、...",
+        "symptom": [
+          "肚子疼",
+          "下腹坠胀",
+          "白带增多",
+          "腰骶部酸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "子宫及附件检查",
+          "盆腔和阴道B超",
+          "盆腔CT"
+        ],
+        "medicine": [
+          "妇炎康丸",
+          "妇炎康软胶囊",
+          "妇炎净胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇炎康丸(蝴蝶迷)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎康软胶囊",
+          "grade": "1.90",
+          "total": "29",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "花红片(花红)",
+          "grade": "2.81",
+          "total": "63",
+          "secondary": "28"
+        },
+        {
+          "medicine_name": "妇宝颗粒(太极)",
+          "grade": "3.17",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "妇炎净片(仁和)",
+          "grade": "4.75",
+          "total": "354",
+          "secondary": "353"
+        },
+        {
+          "medicine_name": "妇炎净片",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎净片(贞婷)",
+          "grade": "4.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "妇炎净片(丽思青)",
+          "grade": "4.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "妇炎净片(海水美人)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎净片(金爵)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎净片(宏奇)",
+          "grade": "4.09",
+          "total": "11",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "妇炎康丸(丽夫宝)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "无排卵性不孕症",
+    "information": {
+      "introduction": "因卵巢不排卵而造成的不孕症，称为无排卵性不孕症。排卵障碍是构成不孕的主要原因之一，据统计排卵障碍约占女性不孕的25%～30%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期妇女",
+        "symptom": [
+          "月经稀少",
+          "月经周期改变",
+          "女性不孕",
+          "不排卵",
+          "阴道不规则出血"
+        ],
+        "complication": [
+          "发作性睡病",
+          "月经不调",
+          "新生儿泪囊炎",
+          "副鼻窦炎",
+          "颅咽管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "妇科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "40--50%",
+        "duration": "1--6个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "雌激素"
+        ],
+        "medicine": [
+          "注射用绒促性素",
+          "注射用尿促性素",
+          "甲磺酸溴隐亭片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "结核性脑膜炎",
+    "information": {
+      "introduction": "结核性脑膜炎(tuberculous meningitis)是结核病中最严重的肺外结核病型，也是小儿结核病致死的主要原因。常在初染结核1年内发生，尤其在初染结核3～6个月内发病最高。由于卡介苗的广泛接种及结核病防治工作的开展，其发病率已明显减少。但由于防治工作开展不够平衡，有些地区本病仍较常见，所发现的患者仍以晚期为多。因此掌握其发生发展规律，早期诊断及合理的治疗，对降低病死率，减少后遗症有重要意义。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "结脑",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "有传染性",
+        "people": "肺结核群体多见",
+        "symptom": [
+          "消瘦",
+          "颈部强硬",
+          "脉搏细速",
+          "食欲减退"
+        ],
+        "complication": [
+          "癫痫",
+          "意识障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "聚合酶链反应技术",
+          "CT检查",
+          "WBC",
+          "胸部平片"
+        ],
+        "medicine": [
+          "异烟肼",
+          "利福平",
+          "盐酸乙胺丁醇片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "尺神经损伤",
+    "information": {
+      "introduction": "在腕部，尺神经易受切割伤。在手指及掌部，指神经易被割伤或挫伤。尺神经深支为运动支，有时可受刺伤或贯穿伤。在肘部，尺神经常受直接外伤或骨折脱臼合并损伤。严重肘外翻畸形及尺神经滑脱所引起的尺神经损伤，又称肘管综合征或慢性尺神经炎。全身麻醉时如不注意保护，使手悬垂于手术台边，可因压迫过久而引起瘫痪。颈肋或前斜角肌综合征时，以尺神经受损为最多。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "上肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "青少年、老年群体",
+        "symptom": [
+          "拇指和食指不能对掌成完好的“O”形",
+          "不能向尺侧屈腕及屈环小指远侧指关节",
+          "病理性神经损伤",
+          "无力",
+          "小指感觉消失"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "手外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "85%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "花托试验",
+          "小指屈指试验",
+          "拇收肌肌力试验",
+          "神经系统检查",
+          "肌电图"
+        ],
+        "medicine": [
+          "贝诺酯胶囊",
+          "珊瑚七十味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性肾炎",
+    "information": {
+      "introduction": "急性肾小球肾炎(acute glomerulonephritis)，即急性感染后肾小球肾炎(acute postinfectious glomerulonephritis)，临床表现为急性起病，以血尿、蛋白尿、高血压、水肿、少尿及氮质血症为特点的肾小球疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性感染后肾小球肾炎,急性链球菌感染后肾小球肾炎,急性肾小球肾炎，皮水",
+        "part": [
+          "肾",
+          "血液血管",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "常见于3-8岁儿童",
+        "symptom": [
+          "头晕",
+          "水肿",
+          "无尿",
+          "蛋白尿",
+          "蛋白尿"
+        ],
+        "complication": [
+          "肺水肿",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（20000-50000元）",
+        "ratio": "95%",
+        "duration": "8-12周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "细菌学检验",
+          "血液生化六项",
+          "抗核抗体"
+        ],
+        "medicine": [
+          "头孢氨苄甲氧苄啶胶囊",
+          "硝普钠",
+          "肾复康胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肾复康胶囊(吉春)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾复康胶囊(强身)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康胶囊(敖东)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康片(敖东)",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肾复康胶囊(辅仁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "肾复康胶囊(兆誉隆)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康胶囊(仁源堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾复康胶囊(神源)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾复康胶囊(吉尔吉)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康胶囊(花溪)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康胶囊(海外)",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "肾复康胶囊",
+          "grade": "3.88",
+          "total": "36",
+          "secondary": "36"
+        }
+      ]
+    }
+  }
+]

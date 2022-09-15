@@ -1,0 +1,1220 @@
+[
+  {
+    "disease_name": "白血病",
+    "information": {
+      "introduction": "1847年德国病理学家鲁道夫魏尔啸首次识别了白血病。白血病的病源是由于细胞内脱氧核糖核酸的变异形成的骨髓中造血组织的不正常工作。骨髓中的干细胞(stem cell)每天可以制造成千上万的红血球和白血球。白血病病人过分生产不成熟的白血球，妨害骨髓的其他工作，这使得骨髓生产其它血细胞的功能降低。白血病可以扩散到淋巴结、脾、肝、中枢神经系统和其它器官。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血癌",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "儿童和青年",
+        "symptom": [
+          "柏油便",
+          "肝脾肿大",
+          "牙龈出血",
+          "骨压痛",
+          "继发感染"
+        ],
+        "complication": [
+          "肺炎",
+          "高尿酸血症",
+          "肠炎",
+          "水痘",
+          "带状疱疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（50000-100000元）",
+        "ratio": "10%",
+        "duration": "3-5年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "血浆因子XIII缺乏筛选试验",
+          "血浆凝血酶调节蛋白活性",
+          "血栓与止血检测",
+          "酶学检查"
+        ],
+        "medicine": [
+          "维A酸胶囊",
+          "氨基己酸片",
+          "甲氨蝶呤片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "银屑病",
+    "information": {
+      "introduction": "银屑病俗称牛皮癣，是一种常见的易于复发的慢性炎症性皮肤病，特征性损害为红色丘疹或斑块上覆有多层银白色鳞屑。青壮年发病最多，男性发病多于女性，北方多于南方，春冬季易发或加重，夏秋季多缓解。病因和发病机理未完全明确，研究发现，本病的发病与遗传因素、感染链球菌、免疫功能异常、代谢障碍及内分泌变化等有关。临床上有四种类型：寻常型、脓胞型、红皮病型和关节病型。寻常型银屑病最常见，病情较轻。本病呈慢性经过，治愈后容易复发。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "牛皮癣,白疕,松皮癣",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "男性多于女性",
+        "symptom": [
+          "鳞屑",
+          "全身弥漫性潮红",
+          "脓疱",
+          "丘疹",
+          "关节疼痛"
+        ],
+        "complication": [
+          "感冒",
+          "贫血",
+          "类风湿性关节炎",
+          "银屑病",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "40%-60%",
+        "duration": "6-12周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清白介素6",
+          "血清人白细胞抗原B27",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "卡泊三醇软膏",
+          "皮敏消胶囊",
+          "盐酸特比萘芬乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨质增生",
+    "information": {
+      "introduction": "骨质增生症又称为增生性骨关节炎、骨性关节炎(OA)、退变性关节病、老年性关节炎、肥大性关节炎，是由于构成关节的软骨、椎间盘、韧带等软组织变性、退化，关节边缘形成骨刺，滑膜肥厚等变化，而出现骨破坏，引起继发性的骨质增生，导致关节变形，当受到异常载荷时，引起关节疼痛，活动受限等症状的一种疾病。分原发性和继发性两种。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "增生性骨关节炎,退变性关节病,老年性关节炎,肥大性关节炎",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "膝盖长骨刺",
+          "关节肿痛",
+          "脚后跟长骨刺",
+          "骨增粗",
+          "颈背疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "84%",
+        "duration": "14天(手术治疗周期14天)",
+        "method": [
+          "药物治疗、物理疗法"
+        ],
+        "examination": [
+          "脊柱活动度",
+          "外科检查",
+          "骨关节及软组织CT",
+          "骨显像"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "单氯芬那酸片",
+          "消痛贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "消痛贴膏(奇正)",
+          "grade": "2.55",
+          "total": "156",
+          "secondary": "67"
+        },
+        {
+          "medicine_name": "骨仙片(白云山中一)",
+          "grade": "3.69",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨刺丸(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨刺平片(罗浮山)",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨刺平片(同济堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨质宁搽剂(摩美得)",
+          "grade": "3.42",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "穿龙骨刺片(铁威龙)",
+          "grade": "2.58",
+          "total": "4",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "透骨灵橡胶膏(科尔沁)",
+          "grade": "2.72",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "骨痛灵酊",
+          "grade": "1.85",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金乌骨通胶囊(神奇)",
+          "grade": "2.26",
+          "total": "83",
+          "secondary": "47"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫内膜异位症",
+    "information": {
+      "introduction": "正常情况下，子宫内膜覆盖于子宫体腔面，如因某种因素，使子宫内膜在身体其他部位生长，即可成为子宫内膜异位症。这种异位的内膜在组织学上不但有内膜的腺体，且有内膜间质围绕;在功能上随雌激素水平而有明显变化，即随月经周期而变化，但仅有部分受孕激素影响，能产生少量月经而引起种种临床现象。患者如受孕，异位内膜可有蜕膜样改变。这种异位内膜虽在其他组织或器官内生长，但有别于恶性肿瘤的浸润。本病发生的高峰在30～40岁。子宫内膜异位的实际发生率远较临床所见为多。如在因妇科其他病行剖腹探查时及对切除的子宫附件标本仔细作病理检查，可发现约20～25%患者有异位的子宫内膜。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "子宫腺肌病,内在性子宫内膜异位症",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "30～40岁女性",
+        "symptom": [
+          "女性不孕",
+          "肚子疼",
+          "尿频"
+        ],
+        "complication": [
+          "痛经",
+          "性交疼痛",
+          "月经量多",
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "70%",
+        "duration": "1-2个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "解脲脲原体",
+          "直肠镜",
+          "生育镜",
+          "子宫输卵管造影",
+          "血清抗子宫内膜抗体"
+        ],
+        "medicine": [
+          "妇炎净胶囊",
+          "痛经宝颗粒",
+          "复方醋酸棉酚片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "痛经宝颗粒(月月舒)",
+          "grade": "1.88",
+          "total": "76",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "散结镇痛胶囊(康缘)",
+          "grade": "2.14",
+          "total": "51",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿道炎",
+    "information": {
+      "introduction": "尿道炎(urethritis)是指尿道黏膜的炎症,是一种常见病，多见于女性，临床上分为急性和慢性、非特异性尿道炎和淋菌性尿道炎，后两种临床表现类似，必须根据病史和细菌学检查加以鉴别。多为致病菌逆行侵入尿道引起。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "尿道炎症",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多见于女性",
+        "symptom": [
+          "尿道烧灼感",
+          "尿道痒感",
+          "白色黏液状尿",
+          "尿道刺痒",
+          "尿道口有白膜形成"
+        ],
+        "complication": [
+          "盆腔炎",
+          "前列腺炎",
+          "附睾炎",
+          "膀胱炎",
+          "尿道狭窄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约200--500元",
+        "ratio": "95%",
+        "duration": "15-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "阴道毛滴虫检查",
+          "尿道分泌物检查",
+          "尿道口检查",
+          "眼标本的细菌学检查"
+        ],
+        "medicine": [
+          "复方石韦颗粒",
+          "磷霉素氨丁三醇散",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "前列通瘀胶囊(星光)",
+          "grade": "2.07",
+          "total": "26",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "前列安栓",
+          "grade": "1.60",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "解毒通淋丸(强寿)",
+          "grade": "1.62",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "四味姜黄汤散",
+          "grade": "3.54",
+          "total": "11",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "肾舒颗粒(伊典)(无糖型)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "灭滴栓(芙乐尔)",
+          "grade": "5.0",
+          "total": "11",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "灭滴栓",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心绞痛",
+    "information": {
+      "introduction": "心绞痛(angina pectoris)是冠状动脉供血不足，心肌急剧的、暂时缺血与缺氧所引起的临床综合征。其特点为阵发性的前胸压榨性疼痛感觉，可伴有其他症状，疼痛主要位于胸骨后部，可放射至心前区与左上肢，常发生于劳动或情绪激动时，持续数分钟，休息或用硝酸酯制剂后消失。本病多见于男性，多数病人在40岁以上，劳累、情绪激动、饱食、受寒、阴雨天气、急性循环衰竭等为常见的诱因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "冠心病,缺血性心脏病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群，多见于男性，多...",
+        "symptom": [
+          "心率增快",
+          "胸骨后疼痛",
+          "皮肤苍白",
+          "出冷汗",
+          "心音异常"
+        ],
+        "complication": [
+          "急性心力衰竭",
+          "急性心肌梗死",
+          "心律失常",
+          "心肌梗塞",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "血管外科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "1-7天",
+        "method": [
+          "西医治疗、中医治疗"
+        ],
+        "examination": [
+          "动态血压监测(ABPM)",
+          "饱餐试验",
+          "体位",
+          "瑞斯托霉素诱导血小板聚集测定",
+          "血浆组织纤溶酶原活化物活性"
+        ],
+        "medicine": [
+          "复方丹参片",
+          "血塞通泡腾片",
+          "参松养心胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方丹参片(白云山)",
+          "grade": "4.39",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血塞通泡腾片",
+          "grade": "3.11",
+          "total": "119",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参松养心胶囊(以岭)",
+          "grade": "1.90",
+          "total": "124",
+          "secondary": "39"
+        },
+        {
+          "medicine_name": "复方丹参滴丸(薄膜衣)",
+          "grade": "2.98",
+          "total": "106",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "复方丹参片(白云山)",
+          "grade": "4.40",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血栓心脉宁片(圣喜)",
+          "grade": "3.84",
+          "total": "18",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨质疏松",
+    "information": {
+      "introduction": "骨质疏松症(osteoporosis)是一种系统性骨病，其特征是骨量下降和骨的微细结构破坏，表现为骨的脆性增加，因而骨折的危险性大为增加，即使是轻微的创伤或无外伤的情况下也容易发生骨折。骨质疏松症是一种多因素所致的慢性疾病。在骨折发生之前，通常无特殊临床表现。该病女性多于男性，常见于绝经后妇女和老年人。随着我国老年人口的增加，骨质疏松症发病率处于上升趋势，在我国乃至全球都是一个值得关注的健康问题。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "骨质疏松症",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ，老年人最多",
+        "symptom": [
+          "广泛性骨质疏松",
+          "驼背",
+          "骨骼变形缩短",
+          "胸椎畸形",
+          "全身骨骼肌收缩"
+        ],
+        "complication": [
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "10%",
+        "duration": "1-2个月",
+        "method": [
+          "中医治疗、西医治疗"
+        ],
+        "examination": [
+          "血清骨钙素",
+          "维生素U",
+          "亚健康人群体检",
+          "尿羟脯氨酸",
+          "骨密度"
+        ],
+        "medicine": [
+          "维生素D滴剂",
+          "氯膦酸二钠片",
+          "碳酸钙D3片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "仙灵骨葆胶囊(同济堂)",
+          "grade": "1.81",
+          "total": "169",
+          "secondary": "68"
+        },
+        {
+          "medicine_name": "强骨胶囊(歧黄)",
+          "grade": "4.53",
+          "total": "35",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "骨疏康胶囊(康辰)",
+          "grade": "3.9",
+          "total": "13",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经衰弱",
+    "information": {
+      "introduction": "神经衰弱是一种以脑和躯体功能衰弱为主的神经症。以易于兴奋又易于疲劳为特征，常伴有紧张、烦恼、易激惹等情绪症状及肌肉紧张性疼痛、睡眠障碍等生理功能紊乱症状。这些症状不是继发于躯体疾病和脑器质性病变，也不是其他任何精神障碍的一部分。但患者病前可存在持久的情绪紧张和精神压力。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "神经衰弱症，神劳",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "16到40岁，脑力劳动者多见",
+        "symptom": [
+          "易激惹",
+          "易疲乏",
+          "保持睡眠障碍性失眠",
+          "头痛"
+        ],
+        "complication": [
+          "月经不调",
+          "便秘",
+          "植物神经紊乱",
+          "阳痿",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "20%(一般在正规综合三甲医院的典型病例治愈率（治愈率20%）)",
+        "duration": "120天",
+        "method": [
+          "药物治疗、情绪疗法"
+        ],
+        "examination": [
+          "CT检查",
+          "颅内多普勒血流图(TCD)",
+          "肌电图",
+          "脑电图",
+          "心电图"
+        ],
+        "medicine": [
+          "天麻素胶囊",
+          "泻肝安神丸",
+          "乌灵胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "泻肝安神丸(同仁堂)",
+          "grade": "3.41",
+          "total": "91",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乌灵胶囊(佐力)",
+          "grade": "2.95",
+          "total": "98",
+          "secondary": "77"
+        },
+        {
+          "medicine_name": "壮腰健肾丸(陈李济)",
+          "grade": "4.14",
+          "total": "97",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "壮腰健肾丸(陈李济)",
+          "grade": "4.59",
+          "total": "94",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "健脑补肾丸(999)",
+          "grade": "3.33",
+          "total": "93",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "益脑胶囊(闽海)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑心舒口服液(汇仁)",
+          "grade": "4.23",
+          "total": "90",
+          "secondary": "89"
+        },
+        {
+          "medicine_name": "安神补脑液(敖东)",
+          "grade": "2.47",
+          "total": "389",
+          "secondary": "331"
+        },
+        {
+          "medicine_name": "壮腰健肾丸(同仁堂)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脑灵素片(琪康)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "薄芝片(浙南)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "扁平疣",
+    "information": {
+      "introduction": "扁平疣是人类乳头瘤病毒引起的皮肤上突出的病变，又称青年扁平疣。表面多扁平光滑，无明显不适，好发于青少年面部、手背等处。常呈慢性病变过程，属良性疾病。可以治愈，无严重危害。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "瘊子",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "儿童青少年，亦常见于成人。",
+        "symptom": [
+          "皮肤瘙痒",
+          "丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "98%",
+        "duration": "28--42天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "转移因子胶囊",
+          "十三味菥蓂丸",
+          "除疣器具盒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十三味菥蓂丸",
+          "grade": "2.02",
+          "total": "34",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五妙水仙膏(楚克)",
+          "grade": "2.45",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "土贝母皂苷注射液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五妙水仙膏(天龙)",
+          "grade": "1.05",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五妙水仙膏(宝昌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五妙水仙膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "偏头痛",
+    "information": {
+      "introduction": "偏头痛是一类有家族发病倾向的周期性发作疾病。表现为发作性的偏侧搏动性头痛，伴恶心、呕吐及羞明，经一段歇期后再次发病。在安静、黑暗环境内或睡眠后头痛缓解。在头痛发生前或发作时可伴有神经、精神功能障碍。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "偏头风",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "女性占2/3以上， 10岁前、20岁...",
+        "symptom": [
+          "单侧头痛",
+          "电击样痛或刺痛的头痛",
+          "头痛为搏动性",
+          "儿童偏头痛",
+          "神经官能症状"
+        ],
+        "complication": [
+          "意识障碍",
+          "眩晕",
+          "高血压",
+          "心律失常",
+          "低血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（30--50）",
+        "ratio": "70--90%",
+        "duration": "10--21天",
+        "method": [
+          "药物治疗、物理疗法"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "脑血流图",
+          "脑电图",
+          "脑脊液神经降压肽"
+        ],
+        "medicine": [
+          "苯甲酸利扎曲普坦片",
+          "普瑞巴林胶囊",
+          "布洛芬混悬液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "通天口服液(太极)",
+          "grade": "2.11",
+          "total": "28",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "晕痛定胶囊(龙都)",
+          "grade": "2.92",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "舒脑欣滴丸(松柏)",
+          "grade": "2.74",
+          "total": "33",
+          "secondary": "16"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "精神分裂症",
+    "information": {
+      "introduction": "精神分裂症(schizophrenia)是以基本个性改变，思维、情感、行为的分裂，精神活动与环境的不协调为主要特征的一类最常见的精神病。精神分裂症是精神病中最常见的一组精神病，美国六个区的调查资料显示，其年发病率为0.43‰～0.69‰，15岁以上为0.30‰～1.20‰(Babigian,1975)，我国部分地区为0.09‰，根据国际精神分裂症试点调查(IPSS)资料，18个国家的20个中心，历时20多年调查3000多人的调查报告，一般人群中精神分裂症年发病率在0.2‰～0.6‰之间，平均 0.3‰(Shinfuku,1992)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年，自卑者，工作压力大...",
+        "symptom": [
+          "幻觉",
+          "思维破裂",
+          "思维紊乱",
+          "精神运动性兴奋",
+          "色情行为"
+        ],
+        "complication": [
+          "心脏病",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "SPECT显像",
+          "颅脑MRI",
+          "CT检查",
+          "脑代谢显像",
+          "正电子发射计算机断层扫描"
+        ],
+        "medicine": [
+          "盐酸三氟拉嗪",
+          "盐酸氟奋乃静片",
+          "富马酸喹硫平片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "幽门螺杆菌感染",
+    "information": {
+      "introduction": "幽门螺杆菌是一种螺旋状、革兰阴性、微需氧性细菌。人群中几乎一半终身感染，感染部位主要在胃及十二指肠球部。早在1893年，Bizzozero报道在狗的胃内观察到一种螺旋状微生物。之后，Kreintz和Rosenow在人胃内也发现了螺旋体。1979年，Warren发现慢性胃炎和消化性溃疡患者的多数胃黏膜活检标本上定居有弯曲菌样的细菌，有规律地存在于黏膜细胞层的表面及黏液层的下面，易于用Warthin-Starry饱和银染色法染色。直到1983年，Marshall及Warren用弯曲菌的微氧培养方法，首次报道成功分离出了这种细菌。从此引起医学届广泛兴趣和深入研究。以后发现此菌许多特征与弯曲菌属相似，而命名为“幽门弯曲菌(Campylobacter pylori，CP)”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "幽门螺旋杆菌感染",
+        "part": [
+          "胃"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "腹胀",
+          "恶心",
+          "反酸",
+          "肚子疼"
+        ],
+        "complication": [
+          "慢性胃炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "治愈率81%",
+        "duration": "治疗周期30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "幽门螺旋杆菌的免疫学检测",
+          "幽门螺旋杆菌血清学测试",
+          "幽门螺旋杆菌的直接检查",
+          "血清抗幽门杆菌IgG抗体",
+          "幽门螺杆菌检测"
+        ],
+        "medicine": [
+          "复方雷尼替丁胶囊",
+          "枸橼酸铋雷尼替丁胶囊",
+          "艾司奥美拉唑镁肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "性欲亢进",
+    "information": {
+      "introduction": "性欲亢进症，或称性欲过盛症，是指对性行为要求过于强烈、性交过于频繁且能完成性交全过程为主要特征的疾病。主要临床表现为性交过频、过快、过剧，甚者见性即有性兴奋，烦躁不安。中医文献将本病列入阳强病范畴，病因多为思淫过度至相火妄动或阴虚火旺所致。其因素主要为，受某些性文化的影响，尤其是色情录像等过度刺激，致性心理失常；或神经内分泌失调，如垂体肿瘤、睾丸间质细胞瘤、颅内肿瘤等性腺激素或雄激素分泌过多，缺少抑制；大脑、下丘脑对性激素的感性增强，而致性欲亢进。另外，毒品成瘾也可能诱发性欲亢进。而且其发病率并不低，男女均可见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "性欲过盛,性欲过旺",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中年，青年较多发",
+        "symptom": [
+          "迷走神经兴奋",
+          "阴茎异常勃起",
+          "性上瘾"
+        ],
+        "complication": [
+          "前列腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "心理咨询",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "70-80%",
+        "duration": "1-2个月",
+        "method": [
+          "心理治疗、药物治疗"
+        ],
+        "examination": [
+          "性激素六项检查",
+          "颅脑CT",
+          "性激素六项 "
+        ],
+        "medicine": [
+          "抑亢丸",
+          "甲亢灵胶囊",
+          "醋酸环丙孕酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抑亢丸(敖东)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "甲亢灵胶囊(东泰)",
+          "grade": "2.11",
+          "total": "4",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心肌炎",
+    "information": {
+      "introduction": "心肌炎（myocarditis）是指由各种原因引起的心肌的局限性或弥漫性炎症。虽然某些心肌炎由于在终期可过渡为充血性或限制性心肌病，而被某些学者视为继发性心肌病，但在发病学上心肌炎毕竟是可区分的疾病类型。引起心肌炎的原因很多，诸如病毒、细菌、真菌、寄生虫、免疫反应，以及物理、化学因素等均可引起心肌炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年人群",
+        "symptom": [
+          "恶心与呕吐",
+          "疲劳",
+          "不典型胸痛",
+          "胸闷",
+          "心悸"
+        ],
+        "complication": [
+          "急性心力衰竭",
+          "心律失常",
+          "心肌病",
+          "休克",
+          "心源性休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "95%",
+        "duration": "6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "血清抗心肌抗体",
+          "心电图",
+          "胸部平片",
+          "二维超声心动图"
+        ],
+        "medicine": [
+          "辅酶Q10胶囊",
+          "果糖二磷酸钠口服溶液",
+          "果糖二磷酸钠口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性胆囊炎",
+    "information": {
+      "introduction": "慢性胆囊炎(chronic cholecystitis)系指胆囊慢性炎症性病变,大多为慢性结石性胆囊炎，占85%～95%，少数为非结石性胆囊炎，如伤寒带菌者。本病可由急性胆囊炎反复发作迁延而来,也可慢性起病。临床表现无特异性，常见的是右上腹部或心窝部隐痛，食后饱胀不适，嗳气，进食油腻食物后可有恶心，偶有呕吐。在老年人，可无临床症状，称无症状性胆囊炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胆囊炎，胆胀",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "恶心与呕吐",
+          "上腹不适",
+          "胆囊触痛征",
+          "胆囊积水",
+          "胆囊扣痛"
+        ],
+        "complication": [
+          "黄疸",
+          "胆囊炎",
+          "胆囊癌",
+          "发作性睡病",
+          "肝胆湿热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "5-15天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "胆道造影",
+          "静脉胆道造影",
+          "胆囊胆道B超",
+          "血清化学检查",
+          "胆囊触诊"
+        ],
+        "medicine": [
+          "复方金钱草颗粒",
+          "鸡骨草胶囊",
+          "胆舒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "鸡骨草胶囊(玉林)",
+          "grade": "4.19",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藏茵陈胶囊(蒂达)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十味蒂达胶囊(诺迪康)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "胆宁片(上药牌)",
+          "grade": "2.48",
+          "total": "12",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金龙舒胆胶囊",
+          "grade": "2.14",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清肝利胆胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利胆止痛片",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金胆片(雷氏)",
+          "grade": "3.36",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆乐胶囊(二洞天)",
+          "grade": "2.26",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方胆通胶囊",
+          "grade": "3.79",
+          "total": "32",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

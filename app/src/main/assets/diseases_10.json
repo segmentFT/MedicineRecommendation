@@ -1,0 +1,1056 @@
+[
+  {
+    "disease_name": "淋巴癌",
+    "information": {
+      "introduction": "恶性淋巴癌又称“淋巴瘤”，是原发于淋巴结或其他淋巴组织的恶性肿瘤，是我国常见的十大恶性肿瘤之一。本病多见于中、青年，男性患者多于女性。本病按其细胞成分的不同可分为何杰金氏病和非何杰金氏淋巴瘤两大类。其恶性程度不一，由淋巴一组织细胞系统恶性增生所引起，多发生在淋巴结内。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "恶性淋巴瘤",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴结肿大",
+          "体重减轻",
+          "发烧",
+          "肝肿大",
+          "淋巴道转移"
+        ],
+        "complication": [
+          "吸收不良综合征",
+          "淋巴瘤",
+          "瘙痒症",
+          "痒疹",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "血液科"
+        ],
+        "cost": "市三甲医院约（10000——50000元）",
+        "ratio": "10%(系统治疗后患者5年生存率达到80%)",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗、手术治疗、放化疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肿瘤前哨淋巴结显像",
+          "血液生化六项",
+          "细胞免疫检查",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "注射用盐酸吡柔比星",
+          "注射用环磷酰胺",
+          "甲氨蝶呤片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平滴丸(中化)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平糖浆(都生)",
+          "grade": "3.32",
+          "total": "48",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鹅口疮",
+    "information": {
+      "introduction": "鹅口疮是新生儿时期经常见到的疾病，尤其是出生一周以后的早产儿。俗称白口糊，中医叫雪口症。是由白色念珠菌感染引起的，是属于真菌的一种，也称霉菌。一般认为是由于新生儿免疫机能低下，如虚弱，营养不良，腹泻，或因感染而长期应用各种抗生素或激素如强的松等所造成的。鹅口疮(雪口病)是最常见的口咽黏膜念珠菌病，是念珠菌属感染所引起的口腔粘膜疾病。近年来，由于抗生素和免疫抑制剂在临床上的广泛应用，发生菌群失调或免疫力降低，而使内脏、皮肤、粘膜被真菌感染者日益增多，口腔粘膜念珠菌病的发生率也相应增高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "念白菌病，雪口病，新生儿鹅口疮",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": " 婴幼儿 ，刚出生的小宝宝",
+        "symptom": [
+          "口腔难愈的白色片状物",
+          "口腔粘膜上白色较硬的隆起斑块",
+          "口腔念珠菌感染",
+          "口角生疮",
+          "口腔痛"
+        ],
+        "complication": [
+          "脱水",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "99%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "扫描电子显微镜",
+          "口腔内窥镜",
+          "涂片",
+          "吞噬白色念珠菌功能试验",
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "度米芬含片",
+          "氟康唑片",
+          "复方珍珠口疮颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方珍珠口疮颗粒(美大康)",
+          "grade": "2.64",
+          "total": "14",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "甲沟炎",
+    "information": {
+      "introduction": "指甲的生长部称甲基质或甲根，被皮肤覆盖，指甲的两侧与皮肤皱褶相接，形成甲沟。甲沟炎即指甲板两侧与皮肤皱褶结合部的化脓性感染，是临床常见的指(趾)部感染性疾病之一。致病菌为皮肤表面的金黄葡萄球菌。可发生于各种轻伤后。早期局部消炎处理，感染可以控制。形成脓肿后，必须切开治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "手部",
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": "除了儿童，其他的人群，男性...",
+        "symptom": [
+          "脓肿",
+          "手指尖痛或触痛",
+          "发烧",
+          "脓疱",
+          "指（趾）甲颜色改变"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300-800元）",
+        "ratio": "80%",
+        "duration": "20天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "曲安奈德益康唑乳膏",
+          "达克宁乳膏 20mg/g",
+          "头孢地尼分散片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胃炎",
+    "information": {
+      "introduction": "胃炎是指由各种因素引起胃黏膜发生炎症性改变。在饮食不规律，作息不规律的人群尤为高发。根据病程分急性和慢性两种，慢性比较常见。包括急性胃炎（急性化脓性胃炎、急性糜烂性胃炎、急性单纯性胃炎、急性腐蚀性胃炎）、慢性胃炎（慢性浅表性胃炎、萎缩性胃炎、慢性糜烂性胃炎）、手术后反流性胃炎、胆汁返流性胃炎、电冰箱胃炎、巨大肥厚性胃炎等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胃肠感染,肠胃炎",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "饮食不节人群，男性多于女性",
+        "symptom": [
+          "食欲不振",
+          "体重减轻",
+          "疲乏",
+          "腹胀",
+          "肚子疼"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "胃蛋白酶",
+          "血清抗胃壁细胞抗体",
+          "血清胃泌素",
+          "胃液酸碱度"
+        ],
+        "medicine": [
+          "康复新液",
+          "胃炎宁颗粒",
+          "枸橼酸铋钾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(远达)",
+          "grade": "3.99",
+          "total": "172",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "三九胃泰颗粒(无糖型)",
+          "grade": "2.15",
+          "total": "155",
+          "secondary": "111"
+        },
+        {
+          "medicine_name": "胃康灵胶囊(葵花)",
+          "grade": "2.15",
+          "total": "76",
+          "secondary": "59"
+        },
+        {
+          "medicine_name": "胃乃安胶囊(白云山)",
+          "grade": "4.13",
+          "total": "112",
+          "secondary": "104"
+        },
+        {
+          "medicine_name": "胃复春片(胡庆余堂)",
+          "grade": "2.73",
+          "total": "67",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腱鞘炎",
+    "information": {
+      "introduction": "腱鞘就是套在肌腱外面的双层套管样密闭的滑膜管，是保护肌腱的滑液鞘。它分两层包绕着肌腱，两层之间一空腔即滑液腔，内有腱鞘滑液。内层与肌腱紧密相贴，外层衬于腱纤维鞘里面，共同与骨面结合，具有固定、保护和润滑肌腱，使其免受摩擦或压迫的作用。肌腱长期在此过度摩擦，即可发生肌腱和腱鞘的损伤性炎症，引致肿胀，这情况便称为腱鞘炎。若不治疗，便有可能发展成永久性活动不便。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼠标手",
+        "part": [
+          "手部"
+        ],
+        "infection": "无传染性",
+        "people": "中青年人群，经常做运动的人",
+        "symptom": [
+          "疼痛",
+          "足背部肿胀",
+          "腱鞘变干",
+          "腱鞘厚化"
+        ],
+        "complication": [
+          "肱二头肌长头腱鞘炎",
+          "手指屈肌腱鞘炎",
+          "桡骨茎突部狭窄性腱鞘炎",
+          "化脓性腱鞘炎",
+          "肌腱炎和腱鞘炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "98%",
+        "duration": "2-3月",
+        "method": [
+          "物理治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "双氯芬酸钠缓释胶囊",
+          "双氯芬酸钠肠溶片",
+          "复方水杨酸甲酯乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿急性支气管炎",
+    "information": {
+      "introduction": "急性支气管炎(acute bronchitis)或急性气管支气管炎(acute treacheo broncitis)是由于各种致病原引起的支气管粘膜炎症，由于气管常同时受累，故称为急性气管支气管炎。在婴幼儿时期发病较多、较重，常并发或继发于上下呼吸道感染，并为麻疹、百日咳、伤寒及其它急性传染病的一种临床表现。发生支气管炎时，气管大多同时发炎，如果涉及毛细支气管，则其病理与症状均与肺炎相仿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿外感咳嗽，急性气管支气管炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "支气管分泌物增加",
+          "胸痛",
+          "疲劳",
+          "湿啰音",
+          "干咳"
+        ],
+        "complication": [
+          "肺炎",
+          "喉炎",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "治愈率98.9%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "胸部平片"
+        ],
+        "medicine": [
+          "小儿肺热咳喘颗粒4克",
+          "小儿化痰止咳颗粒",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿肺热咳喘颗粒4克(葫芦娃)",
+          "grade": "2.94",
+          "total": "14",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "小儿化痰止咳颗粒",
+          "grade": "2.99",
+          "total": "6",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        },
+        {
+          "medicine_name": "虫草清肺胶囊(同济堂)",
+          "grade": "3.50",
+          "total": "79",
+          "secondary": "69"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "红眼病",
+    "information": {
+      "introduction": "急性卡他性结膜炎（acute catarrhal conjunctivitis）俗称“红眼”或“火眼”，是由细菌感染引起的一种常见的急性流行性眼病。其主要特征为结膜明显充血，脓性或粘液脓性分泌物，有自愈倾向。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性卡他性结膜炎,火眼,红眼",
+        "part": [
+          "眼"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眼睛发红",
+          "睫状充血",
+          "泪溢",
+          "红眼",
+          "目痛"
+        ],
+        "complication": [
+          "结膜炎",
+          "卡他性结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（300—— 600元）",
+        "ratio": "90%",
+        "duration": "7--10天",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "眼及眶区CT"
+        ],
+        "medicine": [
+          "炎可宁片",
+          "盐酸羟苄唑",
+          "盐酸金霉素眼膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "炎可宁片",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳头内陷",
+    "information": {
+      "introduction": "女性乳房的乳头如不凸出于乳晕平面，甚至凹入陷于皮面之下，致局部呈火山口状时，称乳头内陷(crater nipple)，是一种较常见的女性乳房畸形。有报道乳头凹陷的妇女的比例高达40%。乳头内陷有两种情形：乳头退缩或翻入乳房内，且牵拉也不高出乳房皮肤者，称真性乳头内陷;乳头发育正常而陷入乳晕内，乳头与皮肤在同一平面，而不能竖起者，经牵拉出如常人者，称假性乳头内陷。真性乳头内陷双侧常见，原发性或有遗传性;单侧乳头内陷较少，通常继发于乳房疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳头凹陷",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "少女，初产妇，哺乳期女性。",
+        "symptom": [
+          "乳晕深部可扪及肿块",
+          "乳腺内无痛单发的硬肿块"
+        ],
+        "complication": [
+          "急性乳腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（200 —— 500元）",
+        "ratio": "60%",
+        "duration": "5--7天",
+        "method": [
+          "手法牵拉、吸允、药物治疗"
+        ],
+        "examination": [
+          "乳房触诊",
+          "乳房视诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "枸橼酸他莫昔芬片",
+          "盐酸左氧氟沙星氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "甲减",
+    "information": {
+      "introduction": "甲状腺功能减退症（简称甲减），是由于甲状腺激素合成及分泌减少，或其生理效应不足所致机体代谢降低的一种疾病。按其病因分为原发性甲减，继发性甲减及周围性甲减三类。　",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "甲状腺功能减退,甲状腺功能减退症，甲状腺功能低下，甲低",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "女性多于男性",
+        "symptom": [
+          "表情淡漠",
+          "心动过缓",
+          "嗜睡",
+          "食欲缺乏",
+          "情感淡漠"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "70%",
+        "duration": "3-5个月",
+        "method": [
+          "中药、西药治疗"
+        ],
+        "examination": [
+          "血清超敏促甲状腺激素",
+          "血清促甲状腺激素",
+          "普通透视检查",
+          "基础代谢",
+          "心电图"
+        ],
+        "medicine": [
+          "左甲状腺素钠片",
+          "左旋甲状腺素钠",
+          "甲状腺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "支气管扩张",
+    "information": {
+      "introduction": "支气管扩张(bronchiectasis)以局部支气管不可逆性解剖结构异常为特征，是由于支气管及其周围肺组织慢性化脓性炎症和纤维化，使支气管壁的肌肉和弹性组织破坏，导致支气管变形及持久扩张。典型的临床症状有慢性咳嗽、咳大量脓痰和反复咯血。主要致病因素为支气管的感染、阻塞和牵拉，部分有先天遗传因素。患者多有童年麻疹、百日咳或支气管肺炎等病史。随着人民生活的改善，麻疹、百日咳疫苗的预防接种，以及抗生素的应用等，本病已明显减少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "支气管扩张症，支扩",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": " 儿童和青年 ",
+        "symptom": [
+          "咳嗽",
+          "脓痰",
+          "胸闷",
+          "咯血如注",
+          "食欲减退"
+        ],
+        "complication": [
+          "气胸",
+          "慢性肺源性心脏病",
+          "肺脓肿",
+          "肺炎",
+          "肺动脉高压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "80%",
+        "duration": "2-3月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "支气管镜",
+          "PaO2",
+          "胸部CT",
+          "胸部平片"
+        ],
+        "medicine": [
+          "盐酸溴己新片",
+          "盐酸氨溴索胶囊",
+          "噻托溴铵粉雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢早衰",
+    "information": {
+      "introduction": "卵巢早衰定义：女性在40岁以前出现卵巢功能减退的现象，称为卵巢早衰(Premature ovarian failure)。POF的发病率占成年女性的1-3%。临床表现伴见不同程度的潮热多汗、阴道干涩、性欲下降等绝经前后症状，使患者未老先衰，给其身心健康和夫妻生活带来极大痛苦。卵巢早衰，影响女性生活质量。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "40岁之前女性",
+        "symptom": [
+          "女性第二性征消失",
+          "抗卵巢抗体阳性",
+          "绝经期面红",
+          "盗汗",
+          "甲状腺功能低下"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "雌激素撤血试验",
+          "雌二醇",
+          "血清抗肾上腺皮质抗体"
+        ],
+        "medicine": [
+          "黄体酮注射液",
+          "黄体酮注射液",
+          "卵泡刺激素(FSH)测定试剂盒(胶体金法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "大肠癌",
+    "information": {
+      "introduction": "大肠癌是指大肠粘膜上皮在环境或遗传等多种致癌因素作用下发生的恶性病变，预后不良，死亡率较高，是我国常见的恶性肿瘤之一。其中由粘膜上皮发生的恶性肿瘤统称为大肠癌，为胃肠道最常见的恶性肿瘤。起源于间叶组织者称为肉瘤，约占大肠恶性病变的1%。手术切除后的5年生存率平均可达40%～60%，早期发现、早期诊断、早期治疗以及开展规范化的手术治疗仍是提高大肠癌疗效的关键。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "大肠恶性肿瘤",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "腹部肿块",
+          "肚子疼",
+          "便血",
+          "大便变细形似铅笔",
+          "排便障碍"
+        ],
+        "complication": [
+          "贫血",
+          "坐骨神经痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "20%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "蛋白质类肿瘤标志物",
+          "血红蛋白浓度",
+          "血清癌胚抗原",
+          "MRI",
+          "p53基因"
+        ],
+        "medicine": [
+          "消癌平片",
+          "消癌平糖浆",
+          "消癌平口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平片(三联)",
+          "grade": "2.66",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平糖浆(都生)",
+          "grade": "3.32",
+          "total": "48",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平片(金马)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平片(振霖牌)",
+          "grade": "3.14",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平滴丸(中化)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片(得进)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片(艾必妥)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片",
+          "grade": "4.57",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平胶囊(汉森)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平片(胜艾仙)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "黄褐斑",
+    "information": {
+      "introduction": "黄褐斑又名肝斑，是一种常见的发生于面部的后天性色素沉着过度性皮肤病，发生于日晒部位，并于日晒后加重。中青年女性多见。病程慢性，无明显自觉症状。 病情有一定季节性，夏重冬轻。色素沿着区域平均光密度值大于自身面部平均光密度值的20%以上。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肝斑,肝癍",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性，特别是妊娠期、...",
+        "symptom": [
+          "浅棕色斑点",
+          "脸上长斑",
+          "妊娠性黄褐斑",
+          "脸上黑斑",
+          "面部斑点"
+        ],
+        "complication": [
+          "子宫肌瘤",
+          "附件炎",
+          "不孕症",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "氢醌乳膏",
+          "舒肝颗粒",
+          "丝白祛斑软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒肝颗粒(云昆)",
+          "grade": "2.41",
+          "total": "22",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "化瘀祛斑胶囊(祺笑)",
+          "grade": "4.93",
+          "total": "30",
+          "secondary": "29"
+        },
+        {
+          "medicine_name": "润伊容胶囊(良方制药)",
+          "grade": "4.71",
+          "total": "7",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "景天祛斑胶囊(晶珠)",
+          "grade": "4.66",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "景天祛斑片(永乐)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红花逍遥片(宫宝)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "化瘀祛斑胶囊(姣容)",
+          "grade": "4.86",
+          "total": "31",
+          "secondary": "29"
+        },
+        {
+          "medicine_name": "养荣祛斑膏",
+          "grade": "2.30",
+          "total": "25",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "红花逍遥胶囊(三迪)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养荣祛斑膏",
+          "grade": "2.50",
+          "total": "24",
+          "secondary": "24"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢癌",
+    "information": {
+      "introduction": "卵巢癌是女性生殖器官常见的肿瘤之一，发病率仅次于子宫颈癌和子宫体癌而列居第三位。但因卵巢癌致死者，却占各类妇科肿瘤的首位，对妇女生命造成严重威胁。由于卵巢的胚胎发育，组织解剖及内分泌功能较复杂，它所患的肿瘤可能是良性或恶性。因卵巢癌临床早期无症状，鉴别其组织类型及良、恶性相当困难，卵巢癌行剖腹探查术中发现肿瘤局限于卵巢的仅占30%，大多数已扩散到子宫，双侧附件，大网膜及盆腔各器官，所以卵巢癌无论在诊断和治疗上确是一大难题。多年来专家们对卵巢恶性肿瘤的病理形态，临床发生发展规律及治疗方案进行了许多的探讨，积累了大量的经验，到目前为止，就国内外临床资料统计，其五年生存率仅25%～30%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "症癜，卵巢恶性肿瘤",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "30～60岁女性，多发生于围绝...",
+        "symptom": [
+          "消瘦",
+          "下腹胀痛",
+          "下腹部包块",
+          "绝经后出血"
+        ],
+        "complication": [
+          "卵巢肿瘤破裂",
+          "继发性腹膜炎",
+          "休克",
+          "呕吐",
+          "绝经"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（50000-80000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、化学治疗、放射免疫治疗、中医药治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "生殖系统肿瘤检查项目",
+          "腹部CT",
+          "卵巢检查",
+          "小肠造影"
+        ],
+        "medicine": [
+          "卡铂注射液",
+          "六甲蜜胺片",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结肠炎",
+    "information": {
+      "introduction": "结肠炎腹痛一般多为隐痛或绞痛，常位于左下腹或小腹。其它表现有食欲不振、腹胀、恶心、呕吐及肝大等;左下腹可 有压痛，有时能触及痉挛的结肠。常见的全身症状有消瘦、乏力、发热、贫血等。有少部分病人在慢性的病程中，病情突然恶化或初次发病就呈暴发性，表现严重腹泻，每日 10-30 次，排出含血、脓，粘液的粪便，并有高热、呕吐、心动过速、衰竭、失水、电解质紊乱、神志昏迷甚至结肠穿孔，不及时治疗可以造成死亡。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "非特异性溃疡性结肠炎",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "饮食不节的人群",
+        "symptom": [
+          "腹满便溏",
+          "肚子疼",
+          "腹部不适",
+          "消瘦",
+          "肠鸣欲便"
+        ],
+        "complication": [
+          "溃疡性结肠炎",
+          "缺血性结肠炎",
+          "慢性溃疡性结肠炎",
+          "阿米巴结肠炎",
+          "老年人缺血性结肠炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "95%以上(小于5%发展成为慢性，迁延不愈。)",
+        "duration": "1周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "上消化道X线钡餐",
+          "粪便隐血试验",
+          "WBC",
+          "大便红细胞"
+        ],
+        "medicine": [
+          "胃乐新颗粒",
+          "胃肠灵胶囊",
+          "美沙拉嗪肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胃乐新颗粒",
+          "grade": "2.85",
+          "total": "94",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃肠灵胶囊(永孜堂)",
+          "grade": "2.92",
+          "total": "124",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金胃泰胶囊(老方)",
+          "grade": "3.06",
+          "total": "25",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

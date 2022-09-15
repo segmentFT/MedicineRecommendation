@@ -1,0 +1,1037 @@
+[
+  {
+    "disease_name": "主动脉瓣关闭不全",
+    "information": {
+      "introduction": "主动脉瓣关闭不全（aortic insufficlency）可因主动脉瓣和瓣环，以及升主动脉的的病变造成男性患者多见，约占75%；女性患者多同时伴有二尖瓣病变。慢性发病者中，由于风湿热造成的瓣叶损害所引起者最多见，占全部主动脉瓣关闭不全患者的三分之二。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "男性人群多见",
+        "symptom": [
+          "端坐呼吸",
+          "劳力性呼吸困难",
+          "呼吸困难",
+          "心音异常",
+          "心悸"
+        ],
+        "complication": [
+          "主动脉瓣关闭不全",
+          "感染性心内膜炎",
+          "心力衰竭",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元",
+        "ratio": "70%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脉搏强弱",
+          "毛细血管搏动征",
+          "蓝多耳菲征",
+          "周围血管征",
+          "颈动脉搏动检查"
+        ],
+        "medicine": [
+          "洋地黄毒苷片",
+          "单硝酸异山梨酯片",
+          "注射用硝普钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "血栓闭塞性脉管炎",
+    "information": {
+      "introduction": "血栓闭塞性脉管炎(thrombosis angiitis obliterans，TAO)是一种有别于动脉硬化，节段分布的血管炎症，病变主要累及四肢远段的中、小动静脉，病理上主要表现为特征性的炎症细胞浸润性血栓，而较少有血管壁的受累。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "上肢",
+          "下肢"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "皮肤干燥",
+          "皮肤湿冷",
+          "肌肉萎缩",
+          "小腿溃疡",
+          "急性下肢缺血"
+        ],
+        "complication": [
+          "血症",
+          "血管炎",
+          "神经炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "30%",
+        "duration": "30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "紧张度与动脉壁状态",
+          "动脉通畅性试验",
+          "肢体血流图",
+          "红外热象图",
+          "血液黏度"
+        ],
+        "medicine": [
+          "曲克芦丁片",
+          "双嘧达莫片",
+          "抗栓胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗栓胶囊(亦通)",
+          "grade": "1.88",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "通塞脉片(南星)",
+          "grade": "4.09",
+          "total": "11",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "皮肤念珠菌病",
+    "information": {
+      "introduction": "念珠菌病（candidiasis）是由念珠菌属主要是白色念珠菌引起的皮肤、粘膜或内脏器官的真菌病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "念珠菌病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，多见于肥胖儿童",
+        "symptom": [
+          "念珠菌感染",
+          "结痂",
+          "良性反应性改变",
+          "免疫缺陷",
+          "红晕"
+        ],
+        "complication": [
+          "脑膜炎",
+          "心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元）",
+        "ratio": "治疗后100%治愈",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "涂片",
+          "真菌检查",
+          "白带常规"
+        ],
+        "medicine": [
+          "复方克霉唑乳膏(Ⅱ)",
+          "环吡酮胺乳膏",
+          "萘替芬酮康唑乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "痈",
+    "information": {
+      "introduction": "痈(carbunculus)是由多个相邻的急性深毛囊炎和毛囊周围炎相互融合所形成的皮肤深层脓肿病，为多数毛囊性脓头及多房性脓肿，好发于皮下组织致密部位，常伴有全身中毒症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于成人",
+        "symptom": [
+          "头晕",
+          "高热",
+          "寒战",
+          "淋巴结肿大",
+          "剧烈疼痛"
+        ],
+        "complication": [
+          "黄疸",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "95%",
+        "duration": "1周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "空腹血葡萄糖",
+          "皮肤病的物理检查",
+          "WBC",
+          "白细胞分类计数",
+          "糖化血清蛋白"
+        ],
+        "medicine": [
+          "氨苄西林胶囊",
+          "麦迪霉素片",
+          "丹参酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "六神胶囊(雷允上)",
+          "grade": "2.87",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "朱砂莲胶囊(龙人)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "朱砂莲胶囊(颐和)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "六神丸(雷氏)",
+          "grade": "3.64",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "梅翁退热颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "梅翁退热片(强身)",
+          "grade": "3.54",
+          "total": "89",
+          "secondary": "88"
+        },
+        {
+          "medicine_name": "三黄丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "梅翁退热颗粒(康和)",
+          "grade": "3.54",
+          "total": "88",
+          "secondary": "88"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性喉炎",
+    "information": {
+      "introduction": "慢性喉炎chronic laryngitis)是一种常见的喉部疾病，主要表现为声带、室带的慢性炎性病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "喉部堵塞感",
+          "喉头水肿",
+          "咽喉部充血",
+          "喉部有痰",
+          "声音嘶哑"
+        ],
+        "complication": [
+          "咳嗽晕厥综合征",
+          "慢性咳嗽",
+          "虚寒咳嗽"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000 —— 8000元）",
+        "ratio": "30%-50%",
+        "duration": "1-3年",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "喉舒宁片",
+          "橘红痰咳煎膏",
+          "金嗓散结丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "喉舒宁片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "橘红痰咳煎膏(香雪)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金嗓散结丸(碑林)",
+          "grade": "2.57",
+          "total": "27",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "藏青果喉片(同仁堂)",
+          "grade": "3.62",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄氏响声丸",
+          "grade": "2.89",
+          "total": "67",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "西青果颗粒(藏青果颗粒)(藏青果颗粒(天天乐)",
+          "grade": "3.33",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "西青果颗粒",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "开喉剑喷雾剂(儿童型)(三力制药)",
+          "grade": "4.27",
+          "total": "47",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "百蕊片",
+          "grade": "2.34",
+          "total": "22",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "金鸣片(宏济堂)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藏青果喉片(长安)(成人)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西青果颗粒(清胭独)(无蔗糖)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "西青果颗粒(藏青果颗粒(维威)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "会阴裂伤",
+    "information": {
+      "introduction": "会阴裂伤分为三度。其中I度、Ⅱ度会阴裂伤比较表浅，出血较少，经正确缝合后，大都愈合良好，会阴Ⅲ度裂伤或称会阴完全裂伤，包括阴道口裂伤、会阴裂伤及肛门括约肌的裂伤，严重者破裂可伸展到直肠壁，引起大便及气体失禁。发生原因多由于分娩过程处理不当，偶有外伤致成。由于新法接生的大力推行，接生员恰当地保护会阴，使会阴Ⅲ度裂伤的发生率大大降低。在城市的大医院中也偶有发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "会阴Ⅲ度裂伤,会阴完全裂伤，会阴撕裂",
+        "part": [
+          "会阴部"
+        ],
+        "infection": "无传染性",
+        "people": "女性（车祸、性生活过度激烈...",
+        "symptom": [
+          "会阴部牵引痛",
+          "会阴部撕裂感",
+          "阴道裂伤",
+          "阴道入口粘膜撕裂",
+          "产后大便失禁"
+        ],
+        "complication": [
+          "产后泌尿道感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "妇产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "99%",
+        "duration": "2-4周治疗周期",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "肛门视诊",
+          "阴道镜",
+          "外阴部妇科常规检查",
+          "电子阴道镜",
+          "肛门指检"
+        ],
+        "medicine": [
+          "新生化颗粒",
+          "益母草胶囊",
+          "红核妇洁洗液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "新生化颗粒(安邦)",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红核妇洁洗液(附冲洗器)",
+          "grade": "2.33",
+          "total": "61",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "毒蛇咬伤",
+    "information": {
+      "introduction": "毒蛇咬伤后引起发病的原因是由于毒腺中所分泌的蛇毒，主要为蛋白质，系多肽和多种酶组成。蛇毒可分为神经毒素和血液毒素。前者对中枢、周围神经、神经肌肉传导功能等产生损害作用，可引起惊厥、瘫痪和呼吸麻痹;后者对心血管和血液系统造成损害，引起心律失常、循环衰竭、溶血和出血。主要见于我国南方农村、山区，夏秋季节发病较多。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "与毒蛇接触的人",
+        "symptom": [
+          "毛细血管渗漏综合征",
+          "腹腔出血",
+          "恶心",
+          "乏力",
+          "鼻衄"
+        ],
+        "complication": [
+          "瘫痪",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "40%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗、中药、西药治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肝功能",
+          "尿素氮",
+          "血液电解质",
+          "心电图"
+        ],
+        "medicine": [
+          "季德胜蛇药片",
+          "穿心莲软胶囊",
+          "金钱草颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "穿心莲软胶囊(彤罗)",
+          "grade": "1.61",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草颗粒(金甘)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱草胶囊",
+          "grade": "2.36",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草颗粒(同和顺)",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草片(元和)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草颗粒(东方)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱草颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草片(必应青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草片(浸膏片)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "穿心莲软胶囊",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草片(薄膜衣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "穿心莲分散片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经病",
+    "information": {
+      "introduction": "神经病指神经系统发生的器质性疾病。根据神经所在的位置和功能不同，可以把神经系统分为中枢神经系统和周围神经系统。根据神经所支配的对象的不同，又可以把神经系统分为躯体神经和内脏神经。神经病指中枢与周围神经或者说内脏神经与躯体神经表现出解剖学上的病理特征，其主要特征是神经有器质性的病变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "癫痫,羊癫痫,疯狂病,狐大仙",
+        "part": [
+          "颅脑",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群均可发病，但老年人...",
+        "symptom": [
+          "意识改变状态",
+          "头痛",
+          "反复抽搐",
+          "昏迷",
+          "四肢瘫痪"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "?",
+        "duration": ">120天(需要终身治疗)",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "神经系统检查"
+        ],
+        "medicine": [
+          "甲钴胺片",
+          "单唾液酸四己糖神经节苷脂钠注射液",
+          "复方氯唑沙宗片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "颈痛颗粒(明仁)",
+          "grade": "2.5",
+          "total": "18",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "颈痛片(明仁)",
+          "grade": "4.98",
+          "total": "24",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "壮骨伸筋胶囊(金马)",
+          "grade": "1.41",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "二十五味珊瑚丸(天知)",
+          "grade": "3.63",
+          "total": "57",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "先天性巨结肠",
+    "information": {
+      "introduction": "先天性巨结肠为一错误的命名，因为巨结肠改变不是先天性的。由于巨结肠的远端肠壁内没有神经节细胞，处于痉挛狭窄状态，丧失蠕动和排便功能，致使近端结肠蓄便、积气，而续发扩张、肥厚，逐渐形成了巨结肠改变。　有遗传倾向。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "希尔施普龙病",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿人群",
+        "symptom": [
+          "充血",
+          "肠鸣",
+          "不排胎便",
+          "新生儿便秘",
+          "新生儿腹胀"
+        ],
+        "complication": [
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "外科",
+          "消化内科",
+          "肛肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000-5000元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肛门指检"
+        ],
+        "medicine": [
+          "葡萄糖氯化钠注射液",
+          "氯化钠注射液",
+          "甲泼尼龙片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "单纯糠疹",
+    "information": {
+      "introduction": "单纯糠疹(pityriasis simples)，一种以发生于颜面部位的浅表性干燥鳞屑性色素减退为特征的一种慢性皮肤病。炎症轻微或缺如，主要侵犯儿童，好发于颜面，间或累及躯干四肢。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "白色糠疹,虫斑",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于学龄前男，女儿童",
+        "symptom": [
+          "唇圆或椭圆形红斑",
+          "鳞屑",
+          "额部白斑",
+          "鳞屑"
+        ],
+        "complication": [
+          "毛状白斑"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "14--21天",
+        "method": [
+          "药物"
+        ],
+        "examination": [
+          "皮损",
+          "免疫病理检查",
+          "涂片",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "氟轻松维B6乳膏",
+          "氟轻松维B6乳膏",
+          "硫软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "巩膜炎",
+    "information": {
+      "introduction": "巩膜炎是以眼红和视力下降为始发症状、以重度眼痛为主要特点的巩膜感染性疾病。又称深层巩膜炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "眼痛",
+          "周期性发作的巩膜充血",
+          "眼充血",
+          "巩膜水肿",
+          "早晨上下眼睑粘连"
+        ],
+        "complication": [
+          "角膜病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "90%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼底荧光血管造影",
+          "视力",
+          "裂隙灯"
+        ],
+        "medicine": [
+          "重组人干扰素α1b滴眼液",
+          "氟康唑滴眼液",
+          "普拉洛芬滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "单纯性甲状腺肿",
+    "information": {
+      "introduction": "单纯性甲状腺肿又称非毒性甲状腺肿，是由于缺碘、碘过量、致甲状腺肿物质或先天性缺陷等因素，导致甲状腺激素生成障碍或需求增加，使甲状腺激素相对不足、垂体分泌TSH增多致甲状腺代偿性肿大，但不伴有甲状腺功能异常。肿大甲状腺组织继而不规则增生和再生，出现结节则称结节性甲状腺肿。分为地方性和散发性甲状腺肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "非毒性甲状腺肿，地方性甲状腺肿，散发性甲状腺肿",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "流行于离海较远，海拔较高的...",
+        "symptom": [
+          "甲状腺扪及光滑坚实的椭圆形结节",
+          "甲状腺肿",
+          "声音嘶哑",
+          "恶心",
+          "甲状腺肿大"
+        ],
+        "complication": [
+          "地方性甲状腺肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "治疗周期120天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "甲状腺B超",
+          "ECT",
+          "心电图",
+          "胸透"
+        ],
+        "medicine": [
+          "酒石酸美托洛尔片",
+          "醋酸泼尼松龙片",
+          "左甲状腺素钠片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "厌氧菌感染",
+    "information": {
+      "introduction": "厌氧菌是正常菌群的主要组成部分，它可以引起人体任何组织和器官的感染。近年来随着培养技术的不断改进，厌氧菌得以及时分离和鉴定，厌氧菌感染(anaerobic infection)的报道渐见增多，厌氧菌在细菌感染性疾病中的重要地位已日益受到临床工作者的重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "继发感染",
+          "白细胞增多",
+          "阑尾感染",
+          "继发感染",
+          "脓肿"
+        ],
+        "complication": [
+          "肺炎",
+          "脉管炎",
+          "败血症",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（6000—— 10000元）",
+        "ratio": "90%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "厌氧菌的分离与鉴定",
+          "厌氧菌检测",
+          "半饱和氧分压",
+          "动脉血氧含量"
+        ],
+        "medicine": [
+          "甲硝唑氯化钠注射液",
+          "甲硝唑",
+          "甲硝唑氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "亚硝酸盐中毒",
+    "information": {
+      "introduction": "亚硝酸盐中毒是指由于食用硝酸盐或亚硝酸盐含量较高的腌制肉制品、泡菜及变质的蔬菜可引起中毒，或者误将工业用亚硝酸钠作为食盐食用而引起，也可见于饮用含有硝酸盐或亚硝酸盐苦井水、蒸锅水后，亚硝酸盐能使血液中正常携氧的低铁血红蛋白氧化成高铁血红蛋白，因而失去携氧能力而引起组织缺氧。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肠原性紫绀症，乌嘴病 ",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "恶心",
+          "肚子疼",
+          "乏力",
+          "腹胀"
+        ],
+        "complication": [
+          "厥脱",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "30%",
+        "duration": "1-7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清铁蛋白",
+          "血清铁"
+        ],
+        "medicine": [
+          "布美他尼片",
+          "亚甲蓝注射液",
+          "盐酸丙哌维林片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "心肌病",
+    "information": {
+      "introduction": "心肌病（DDM）是一组由于心脏下部分腔室(即心室)的结构改变和心肌壁功能受损所导致心脏功能进行性障碍的病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人多见",
+        "symptom": [
+          "呼吸困难",
+          "心脏肥大",
+          "新生儿心力衰竭",
+          "活动后气促",
+          "流感样症状"
+        ],
+        "complication": [
+          "感染性心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "40%",
+        "duration": "1-2年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心血管造影",
+          "心电图",
+          "二维超声心动图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "心荣颗粒",
+          "果糖二磷酸钠口服溶液",
+          "复方丹参滴丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心荣颗粒(九方)",
+          "grade": "3.57",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方丹参滴丸(薄膜衣)",
+          "grade": "2.98",
+          "total": "106",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "滋心阴胶囊(天施康)",
+          "grade": "4.22",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

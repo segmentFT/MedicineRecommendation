@@ -1,0 +1,944 @@
+[
+  {
+    "disease_name": "雷诺综合征",
+    "information": {
+      "introduction": "雷诺综合征(Raynaud’s syndrome)系由寒冷或情绪因素诱发的一种以双手皮肤发作性苍白、发绀和潮红为特征的病理生理改变。此征由指动脉的发作性痉挛所引起，多见于青年女性，好发于双手和手指，但也可涉及双足和足趾。中医中并没有“雷诺综合征”的病名。但关于其临床表现，文献中有类似的记载。如远在汉代张仲景的《伤寒杂病论》中即有“手足厥冷，脉细欲绝者，当归四逆汤主之。若其人内有久寒者，加吴茱萸、生姜汤主之。”本病应属中医痹证的脉痹、寒痹、四肢逆冷、手足厥寒范畴。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "雷诺现象",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "20～40岁女性",
+        "symptom": [
+          "皮肤苍白",
+          "皮肤痛",
+          "手背部皮肤发红肿胀",
+          "多疑",
+          "手足厥寒"
+        ],
+        "complication": [
+          "失眠症",
+          "骨髓炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000--3000",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清免疫蛋白电泳",
+          "血清类风湿因子",
+          "抗核抗体",
+          "血清补体C6",
+          "激发试验"
+        ],
+        "medicine": [
+          "卡托普利",
+          "卡托普利片",
+          "贝前列素钠片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "非特异性尿道炎",
+    "information": {
+      "introduction": "非特异性尿道炎(nonspecific urethritis，NGU)又称非淋菌性尿道炎，是一种较为常见的性病，通常是指男性在性交后几天或几周内，出现尿道黏液脓性或浆液性分泌物，并且伴有尿痛;尿道分泌物中含有大量脓细胞，但革兰染色镜检或培养均查不到淋球菌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "青年男性多见",
+        "symptom": [
+          "腹部不适",
+          "尿频",
+          "尿流中断",
+          "高热",
+          "尿痛"
+        ],
+        "complication": [
+          "前列腺炎",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "90%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿道分泌物检查",
+          "涂片",
+          "沙眼衣原体",
+          "支原体检查",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "氨苄西林胶囊",
+          "解毒通淋丸",
+          "金萆通淋颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "解毒通淋丸(强寿)",
+          "grade": "1.62",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金萆通淋颗粒(亚东瑞晴)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五虎丹胶囊(大深林)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "输尿管肿瘤",
+    "information": {
+      "introduction": "输尿管肿瘤临床较为少见。1841年，法国病理学家Rayer首先描述输尿管肿瘤。1902年，Albarran报道第1例在术前明确诊断的原发性输尿管肿瘤。截至1976年，世界文献报道仅为2200例，而国内主要文献统计原发性输尿管恶性肿瘤，至1996年8月共报道280余例。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "输尿管"
+        ],
+        "infection": "无传染性",
+        "people": "30岁以上人群多见",
+        "symptom": [
+          "输尿管痉挛",
+          "癌性输尿管狭窄",
+          "肾盂积水",
+          "肚子疼",
+          "腹部肿块"
+        ],
+        "complication": [
+          "膀胱肿瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "60%",
+        "duration": "2-4月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "静脉尿路造影",
+          "泌尿系统CT",
+          "MRI",
+          "脱落细胞"
+        ],
+        "medicine": [
+          "注射用磷酸氟达拉滨",
+          "注射用磷酸氟达拉滨",
+          "输尿管支架及导管套件"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "风寒头痛",
+    "information": {
+      "introduction": "风寒头痛是中医学对头痛分类中的一个类型，此种头痛临床上较为常见，中医认为系由风寒之邪侵袭人体所致。中医学认为风为阳邪，其性开泄，易袭阳位，所谓“伤于风者，上先受之。”故常伤及人体的上部(头面)、阳经、肌表;寒为阴邪，易伤阳气，寒性凝滞、收引，易致经脉凝结、拘挛，使气血阻滞而不能畅通，不通则痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "头部"
+        ],
+        "infection": "无传染性",
+        "people": "中青年期达发病高峰，女性多...",
+        "symptom": [
+          "前额头痛",
+          "苔白而润",
+          "头痛",
+          "舌苔薄白",
+          "脉浮紧"
+        ],
+        "complication": [
+          "颅咽管瘤",
+          "发作性睡病",
+          "妊娠合并偏头痛",
+          "偏头痛",
+          "脑血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "85%",
+        "duration": "10-15天",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "夏枯草膏",
+          "酚氨咖敏胶囊",
+          "感冒清热颗粒(无蔗糖)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒(无蔗糖)(同仁堂)",
+          "grade": "2.72",
+          "total": "42",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "感冒软胶囊(同仁堂)",
+          "grade": "3.11",
+          "total": "75",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "都梁软胶囊(华森)",
+          "grade": "4.33",
+          "total": "12",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "藿香正气滴丸(天士力)",
+          "grade": "4.06",
+          "total": "73",
+          "secondary": "67"
+        },
+        {
+          "medicine_name": "风寒感冒颗粒(孔府)",
+          "grade": "5.0",
+          "total": "8",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "感冒疏风片(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "天麻头痛片(鼎鹤)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天麻头痛片(灵泰)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "天麻头痛片(东新)",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "感冒疏风丸(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "天麻头痛片(普林松)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天麻头痛片(乌苏里江)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "梅毒合并HIV感染",
+    "information": {
+      "introduction": "近年来，出现了许多梅毒患者合并HIV感染的病例，改变了梅毒的临床病程。因为梅毒患者生殖器溃疡是获得及传播HIV感染的重要危险因素;而HIV可致脑膜病变，使梅毒螺旋体易穿过血脑屏障而引起神经梅毒。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "梅毒合并艾滋病",
+        "part": [
+          "免疫系统"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃人群多见",
+        "symptom": [
+          "免疫缺陷",
+          "溃疡"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "大败毒胶囊",
+          "大败毒胶囊",
+          "替比夫定片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大败毒胶囊(同仁堂)",
+          "grade": "2.19",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胸骨骨折",
+    "information": {
+      "introduction": "胸骨为坚韧扁骨，创伤性胸骨骨折仅占胸部创伤的110%～ 515%。多由直接暴力或作用于胸前的挤压力量所造成，如汽车撞压，房屋倒塌压伤，钝器打击伤，身体运动中前胸被硬物撞击等，脊柱过度屈曲亦可造成胸骨骨折。刀刺伤致胸骨不全骨折较少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胸部",
+          "其他骨"
+        ],
+        "infection": "无传染性",
+        "people": "车祸患者多见",
+        "symptom": [
+          "胸痛",
+          "无力",
+          "呼吸异常",
+          "右胸痛",
+          "胸痛"
+        ],
+        "complication": [
+          "气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "55%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "胸部外部检查",
+          "胸部疾病体征检查",
+          "胸部CT",
+          "胸部平片"
+        ],
+        "medicine": [
+          "独一味丸",
+          "钛制胸骨固定系统",
+          "钢丝系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "独一味丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "斯德哥尔摩综合症",
+    "information": {
+      "introduction": "　斯德哥尔摩综合症（Stockholm syndrome），斯德哥尔摩效应，又称斯德哥尔摩症候群或者称为人质情结或人质综合症，是指犯罪的被害者对于犯罪者产生情感，甚至反过来帮助犯罪者的一种情结。这个情感造成被害人对加害人产生好感、依赖心、甚至协助加害于他人。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "人质情结,人质综合征",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "成年人多见",
+        "symptom": [
+          "精神依赖性"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "疔疮",
+    "information": {
+      "introduction": "疔疮是一种发病迅速，易于恶化，危险性较大的疮疡。多发生在颜面和手足等处。若处理不当，发于颜面者易引起走黄危证而危及生命，发于手足者则可损筋伤骨而影响功能。疔的范围很广，包括西医的疖、痈、坏疽的一部分，皮肤炭疽及急性淋巴管炎。因此名称繁多，证因各异，按照发病部位和性质不同，分为颜面疔疮、手足疔疮、红丝疔、烂疔、疫疔五种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群均可发病",
+        "symptom": [
+          "水疱或大疱损害",
+          "脓疱",
+          "瘙痒",
+          "疼痛"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "颅咽管瘤",
+          "脑血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "95%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "片仔癀",
+          "拔毒膏",
+          "夏桑菊颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "片仔癀",
+          "grade": "2.17",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "拔毒膏",
+          "grade": "3.75",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(星群(白云山)",
+          "grade": "4.49",
+          "total": "139",
+          "secondary": "136"
+        },
+        {
+          "medicine_name": "六神胶囊(雷允上)",
+          "grade": "2.87",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(无糖)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱草颗粒(金甘)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "点舌丸(朗致)",
+          "grade": "2.59",
+          "total": "33",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "金钱草胶囊",
+          "grade": "2.36",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "六神丸(雷氏)",
+          "grade": "3.64",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(健民)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(百神)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(龙城)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(花城)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(菲德力)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(化州中药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "髌股关节疼痛",
+    "information": {
+      "introduction": "可以引起髌股关节疼痛的原因有：先天性高髌骨症，髌骨软骨纤维化，腘绳肌紧张，跟腱紧张，股外侧肌，髌肌束和外侧支持韧带的紧张，股内侧肌萎缩以及Q角（髌韧带与大腿纵轴的夹角）＞15°。当小腿内旋时，股内侧肌向内牵拉髌骨，而其余三股肌肉则向外牵拉。其中最常见的原因是过度内旋后，髌骨被向外牵拉，撞击股骨外髁。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "膝部",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肢体疼痛",
+          "单腿半蹲痛",
+          "关节疼痛",
+          "髌骨骨裂",
+          "髌骨劳损"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "研磨试验",
+          "关节检查",
+          "血液检查",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "舒筋活血片",
+          "舒筋活血片",
+          "白花油"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒筋活血片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒筋活血片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "白花油(真龙)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "时行感冒",
+    "information": {
+      "introduction": " 时行感冒 ，病名。感受四时不正之气，发病呈流行性之感冒病证。病情常较一般感冒为重。《类证治裁·伤风》：“时行感冒，寒热往来，伤风无汗，参苏饮、人参败毒散、神术散。”《诸病源候论·时气候》：“时行病者，是春时应暖而反寒，夏时应热而反冷，秋时应凉而反热，冬时应寒而反温，非其时而有其气，是以一岁之中，病无长少，率相似者，此则时行之气也。”",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "抵抗力弱者冬春两季较为多见...",
+        "symptom": [
+          "高热寒战",
+          "剧烈头痛",
+          "流鼻涕",
+          "怕冷",
+          "疲乏"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "荆防败毒丸",
+          "荆防败毒丸",
+          "感冒灵颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荆防败毒丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "荆防败毒丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "感冒灵颗粒",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "维生素缺乏",
+    "information": {
+      "introduction": "维生素是维持身体健康所必需的物质，多数不能在体内合成，必须从食物中摄取。虽然机体对维生素的需要量很小，缺乏时，可引起维生素缺乏症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "小儿多见",
+        "symptom": [
+          "夜盲",
+          "足胫软弱",
+          "耳廓牵拉疼"
+        ],
+        "complication": [
+          "小儿维生素D缺乏性手足搐搦症",
+          "小儿维生素E缺乏病",
+          "小儿晚发性维生素K缺乏病",
+          "小儿维生素C缺乏病",
+          "维生素B2缺乏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "水溶性维生素",
+          "脂溶性维生素"
+        ],
+        "medicine": [
+          "维生素B6片",
+          "维生素B12",
+          "多维元素片(29)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "杨梅疮",
+    "information": {
+      "introduction": "杨梅疮是因感染梅毒而引致的一种全身性疾病。见《疮疡经验全书》卷六。又名霉疮、广疮、时疮、棉花疮。多因气化(间接)传染和精化(接触)传染而发。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "霉疮、广疮、时疮、棉花疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "成年人，性活跃人群多见",
+        "symptom": [
+          "腹股沟淋巴结肿大",
+          "发烧",
+          "头痛",
+          "关节酸痛",
+          "口燥咽干"
+        ],
+        "complication": [
+          "骨与关节梅毒",
+          "梅毒肾病",
+          "外阴湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "性病科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "60%",
+        "duration": "2周--7周",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腺病毒感染",
+    "information": {
+      "introduction": "可引起人、猿、马、猪、羊、狗等感染。实验发现可引起动物致癌;未证实其可致人类肿瘤，但可引起人类多种感染性疾病。腺病毒对热和酸不稳定。由于不含脂质，对胆盐等脂质溶解剂抵抗力强。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻",
+          "咽喉"
+        ],
+        "infection": "有传染性",
+        "people": "人群普遍易感，多见于儿童。",
+        "symptom": [
+          "发烧",
+          "咽痛",
+          "发烧",
+          "咳嗽",
+          "咽痛"
+        ],
+        "complication": [
+          "支气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "治愈率89%",
+        "duration": "治疗周期14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血检查",
+          "直接涂片检查",
+          "结核杆菌血清学检查"
+        ],
+        "medicine": [
+          "转移因子口服溶液",
+          "利巴韦林泡腾颗粒",
+          "九项呼吸道感染病原体IgM抗体检测试剂盒(间接免疫荧光法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肘管综合征",
+    "information": {
+      "introduction": "肘管综合征(cubital tunnel syndrome)是指尺神经在肘部被卡压引起的症状和体征。1957年，Osborne首先报告了此病并称之为迟发性尺神经炎。1958年，Feined和Stratford称此病为肘管综合征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "迟发性尺神经炎,肘管综合症",
+        "part": [
+          "肘部",
+          "周围神经系统",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "肘部创伤性关节炎者多见",
+        "symptom": [
+          "神经疼痛",
+          "无力",
+          "上肢麻木",
+          "肘痛",
+          "放射性疼痛"
+        ],
+        "complication": [
+          "肘外翻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "针灸科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "中医理疗、药物、手术治疗"
+        ],
+        "examination": [
+          "肌电图",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "通络开痹片",
+          "那如三味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "通络开痹片(上岗)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "那如三味丸",
+          "grade": "2.14",
+          "total": "16",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腘窝囊肿",
+    "information": {
+      "introduction": "腘窝囊肿临床上多见于中年以上发病率最高，男性多于女性，导致机械性伸膝和屈膝受限，疼痛较轻，紧张膨胀感明显。患者主诉往往以腘窝区逐渐发生肿胀为特点，伴膝后疼痛。偶尔囊肿可以压迫阻碍静脉回流，引起小腿水肿。囊肿长大到一定程度则膝关节屈伸活动受限。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "Baker's囊肿",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "先天性多见于儿童，后天性多...",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000—— 3000元）",
+        "ratio": "85%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "桂枝茯苓胶囊",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  }
+]

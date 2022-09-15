@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#BCFFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="药品名称: "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:background="#C8CFEAB0" />
+
+        <TextView
+            android:id="@+id/medicineName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TEST"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#CB88BF48" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="药品评分: "
+            android:textStyle="bold"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_marginLeft="10dp"
+            android:background="#C8CFEAB0" />
+
+        <TextView
+            android:id="@+id/generalGrade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TEST"
+            android:layout_marginLeft="5dp"
+            android:background="#59D5ECBB" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/commentSource"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="评分由39健康网，寻医问药网的用户评价计算得到"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" />
+
+    <LinearLayout
+        android:id="@+id/commentSource1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="来自39健康网的评价条数: "
+            android:layout_marginLeft="10dp"
+            android:background="#65D9EDC3" />
+
+        <TextView
+            android:id="@+id/commentSource1Count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TEST"
+            android:layout_marginLeft="5dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/commentSource2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="来自寻医问药网的评价条数: "
+            android:layout_marginLeft="10dp"
+            android:background="#65D9EDC3" />
+
+        <TextView
+            android:id="@+id/commentSource2Count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TEST"
+            android:layout_marginLeft="5dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

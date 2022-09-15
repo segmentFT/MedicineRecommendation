@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:fadeScrollbars="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="疾病相关信息:"
+                android:textSize="20sp"
+                android:layout_margin="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:background="#77B7DF88" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="6dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="#D08BC34A" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical"
+                android:background="#20CAE8A7">
+
+                <TextView
+                    android:id="@+id/diseaseIntroductionLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="疾病简介: "
+                    android:textSize="16sp"
+                    android:layout_margin="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:background="#9CB5E47E" />
+
+                <TextView
+                    android:id="@+id/diseaseIntroductionContent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="简介内容"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginBottom="10dp" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_margin="5dp"
+                android:background="#8F8CE426" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:background="#20CAE8A7">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="基本知识: "
+                    android:textSize="16sp"
+                    android:layout_margin="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:background="#9CB5E47E" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="是否属于医保: "
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/insuranceContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="别名: "
+                        android:background="#708AD831"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginTop="10dp" />
+
+                    <TextView
+                        android:id="@+id/aliasContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="72dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="发病部位: "
+                        android:layout_marginTop="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingLeft="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/positionContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:layout_marginLeft="44dp"
+                        android:layout_marginTop="10dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="传染性: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/infectionContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="58dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="发病人群: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/susceptiblePopulationContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="44dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="相关症状: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/relativeSymptomContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="44dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="并发疾病: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/complicationContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="44dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_margin="5dp"
+                android:background="#8F8CE426" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#20CAE8A7"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="治疗知识:"
+                    android:textSize="16dp"
+                    android:layout_margin="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:background="#9CB5E47E" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="20dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="就诊科室: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/departmentContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="治疗费用: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/costOfCureContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="治愈率: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/ratioOfCureContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="34dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="治疗周期: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/treatmentDurationContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="治疗方法: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/treatmentMethodContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="相关检查: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/relativeExaminationContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="常用药品: "
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:background="#708AD831" />
+
+                    <TextView
+                        android:id="@+id/commonMedicineContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="无信息"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_marginLeft="20dp"
+                        android:background="#B5D6EDBD" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_margin="5dp"
+                android:background="#8F8CE426" />
+
+            <Button
+                android:id="@+id/displayMedicineButton"
+                android:layout_width="220dp"
+                android:layout_height="36dp"
+                android:text="查看能够治疗疾病的中药"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#E6FFFFFF"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/button_background1" />
+
+
+            <Button
+                android:id="@+id/redirectToNavigationPage"
+                android:layout_width="160dp"
+                android:layout_height="36dp"
+                android:text="返回到导航界面"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#E6FFFFFF"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/button_background1" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

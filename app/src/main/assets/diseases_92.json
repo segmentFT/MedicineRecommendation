@@ -1,0 +1,867 @@
+[
+  {
+    "disease_name": "拇外翻",
+    "information": {
+      "introduction": "大脚骨是指拇趾向外倾斜大于生理角度15度的一种畸形症状，突出骨的外侧也容易形成厚皮及滑囊，造成脚趾永久变形，疼痛也就伴随而来。是一种复杂的解剖畸形，并且在治疗上极具挑战性。多见于中老年妇女，最常发生在有遗传倾向加上长时间穿不合适的鞋子的人，不合适的鞋子会对拇趾施加异常压力。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "足部",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "中老年妇女",
+        "symptom": [
+          "拇趾与二趾趾间距大",
+          "关节疼痛"
+        ],
+        "complication": [
+          "拇外翻",
+          "扁平足"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "外科手术治愈率约为65%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "骨与关节MRI",
+          "拇外翻检测",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "万通筋骨片",
+          "通络开痹片",
+          "跖骨趾关节假体"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "万通筋骨片(山雄)",
+          "grade": "3.45",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "通络开痹片(上岗)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经源性膀胱",
+    "information": {
+      "introduction": "正常的排尿活动由脊髓反射中枢及交感、副交感、体神经共同参与，控制排尿功能的中枢神经系统或周围神经受到损害而引起的膀胱尿道功能障碍称为神经原性膀胱。根据逼尿肌功能分为两类：1、逼尿肌反射亢进;2、逼尿肌无反射。神经源性膀胱尿道功能障碍是一类由神经病变或损害引起的膀胱和(或)尿道的功能障碍性疾病，常同时伴有膀胱尿道功能的协调性失常。神经源性膀胱尿道功能障碍产生复杂的排尿症状，排尿不畅或尿潴留是其中最常见的症状之一。由此诱发的泌尿系并发症是患者死亡的主要原因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "上尿路结构和功能损害",
+          "逼尿肌反射亢进",
+          "排尿不畅",
+          "无尿",
+          "尿急"
+        ],
+        "complication": [
+          "尿路感染",
+          "肾盂肾炎",
+          "肾积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "静脉尿路造影",
+          "膀胱造影",
+          "尿路平片",
+          "膀胱镜"
+        ],
+        "medicine": [
+          "盐酸黄酮哌酯片",
+          "盐酸黄酮哌酯片",
+          "盐酸奥昔布宁片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "宫颈浸润癌",
+    "information": {
+      "introduction": "浸润性宫颈癌往往在妇科检查中被发现并通过病理活检组织学检查证实。部分宫颈癌无症状和肉眼异常所见，称为临床前浸润性宫颈癌。在发展中国家有90%～95%的宫颈浸润癌为鳞癌，2%～8%是腺癌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "绝经以后的妇女以及多名性伴...",
+        "symptom": [
+          "阴道出血",
+          "持续性疼痛",
+          "腹水",
+          "肚子疼",
+          "腹胀"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "20--40%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "阴道镜"
+        ],
+        "medicine": [
+          "宫颈癌片",
+          "宫颈癌片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "宫颈癌片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫颈癌片(糖衣片)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性鼻窦炎",
+    "information": {
+      "introduction": "急性化脓性鼻窦炎是鼻窦粘膜的急性化脓性炎症，重者可累及骨质。上颌因窦腔较大，窦底较低，而窦口较高，易于积脓，且居于各鼻窦之下方，易被他处炎症所感染，故上颌窦炎的发病率最高，筛窦炎次之，额窦炎又次之，蝶窦炎最少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性化脓性鼻窦炎",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "低龄、年老体弱者更多见",
+        "symptom": [
+          "阵发性鼻塞",
+          "脓鼻涕增多且不易擤尽",
+          "增殖腺肥大",
+          "间歇性鼻阻塞",
+          "鼻脓涕有臭味"
+        ],
+        "complication": [
+          "骨膜炎",
+          "蜂窝织炎",
+          "硬脑膜外脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（300——1000元）",
+        "ratio": "80%",
+        "duration": "120天",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "鼻腔检查",
+          "鼻窦检查",
+          "体位引流"
+        ],
+        "medicine": [
+          "荔花鼻窦炎片",
+          "鼻窦炎口服液",
+          "鼻渊通窍颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荔花鼻窦炎片",
+          "grade": "2.05",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻窦炎口服液(太极)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "164"
+        },
+        {
+          "medicine_name": "鼻渊通窍颗粒(鲁南)",
+          "grade": "2.85",
+          "total": "14",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "抽动障碍",
+    "information": {
+      "introduction": "以不自主的、反复的、快速的一个或多个部位的运动抽动和/或发声抽动为主要特征的一组综合征。包括短暂性抽动障碍、慢性运动或发声抽动障碍、发声与多种运动联合抽动障碍(抽动秽语综合征、Tourette综合征)。抽动主要表现为运动抽动和发声抽动，肌肉抽动发生在一个或多个部位，包括简单运动抽动或复杂运动抽动。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "起病于儿童和青少年期",
+        "symptom": [
+          "喃喃重复自语",
+          "易激惹",
+          "学习困难",
+          "强迫行为",
+          "模仿言语"
+        ],
+        "complication": [
+          "强迫症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "精神病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "CT检查",
+          "脑神经检查",
+          "神经系统检查"
+        ],
+        "medicine": [
+          "盐酸硫必利片",
+          "盐酸帕罗西汀片",
+          "可乐定透皮贴片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人腔隙性脑梗死",
+    "information": {
+      "introduction": "腔隙性脑梗死(lacunar infarction)是一集病理-CT-临床为一体的概念。是老年人的常见病，高发年龄组在60～70岁。Fisher将其概述为：发生于脑深穿通动脉(或其他微小动脉)的缺血性微梗死(或软化灶)，经慢性愈合后所形成的不规则腔隙。病变累及的微小动脉直径在200µm左右，病理改变为2～20mm的腔隙或梗死灶，头颅CT扫描显现为2～20mm(一般不应超过15mm)的不同程度的密度减低区，目前临床已可诊断20多种腔隙综合征。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年腔隙性脑梗塞",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多见",
+        "symptom": [
+          "反应迟钝",
+          "脑缺血",
+          "意识丧失",
+          "发音障碍",
+          "步态不稳"
+        ],
+        "complication": [
+          "瘫痪"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约2000-4000元",
+        "ratio": "50%",
+        "duration": "3--8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血流变学检查",
+          "颅脑CT",
+          "脑电图",
+          "心电图",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "长春胺缓释胶囊",
+          "阿魏酸哌嗪片",
+          "血栓心脉宁片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血栓心脉宁片(圣喜)",
+          "grade": "3.84",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康滴丸",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "咽喉部肿瘤",
+    "information": {
+      "introduction": "发生在咽喉部的肿瘤。多为良性肿瘤，可能为不当使用或过度使用声带所造成的。恶性肿瘤的患者，大多是大量吸烟的人。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "40至50岁多见",
+        "symptom": [
+          "咽部灼热疼痛",
+          "咽部有异物感",
+          "咽部溃疡",
+          "喉部刺痛",
+          "鼻和喉部灼热感"
+        ],
+        "complication": [
+          "小儿颅咽管瘤",
+          "咽畸胎瘤",
+          "咽部神经鞘膜瘤",
+          "咽部乳头状瘤",
+          "咽部脊索瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "鼻咽部活组织检查",
+          "CT检查",
+          "色素内镜检查"
+        ],
+        "medicine": [
+          "医用钬激光治疗机",
+          "医用钬激光治疗机"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肺大疱",
+    "information": {
+      "introduction": "肺大疱是指发生在肺实质内直径超过1cm气肿性肺泡，常发生在肺气肿基础上，一般继发于细小支气管的炎性病变，如肺炎、肺气肿和肺结核，临床上最常与肺气肿并存。发生机制与肺气肿相似但程度较重。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺大泡",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "先天性多见于小儿，后天性多...",
+        "symptom": [
+          "胸闷憋气",
+          "寒战",
+          "气短",
+          "胸闷",
+          "气短"
+        ],
+        "complication": [
+          "自发性气胸",
+          "创伤性窒息",
+          "自发性血胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "外科手术治愈率约为85%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "胸部CT",
+          "胸透",
+          "胸部平片"
+        ],
+        "medicine": [
+          "利肺片",
+          "养肺丸",
+          "甲泼尼龙片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利肺片(灵泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养肺丸(同仁堂)",
+          "grade": "2.38",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "儿童尖锐湿疣",
+    "information": {
+      "introduction": "随着尖锐湿疣的患病率越来越高，儿童尖锐湿疣的发病率呈上升趋势。儿童尖锐湿疣临床表现与成年人尖锐湿疣之临床表现无太大区别。儿童尖锐湿疣潜伏期从几周到几年都有，大多数仍在3个月之间。尖锐湿疣患儿年龄越小，其以后携带HPV的时间(无论有无症状)相对越长。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖",
+          "女性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "亲属有尖锐湿疣者多见",
+        "symptom": [
+          "呼吸困难",
+          "声音嘶哑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "HPV检查"
+        ],
+        "medicine": [
+          "注射用胸腺肽",
+          "注射用胸腺肽",
+          "注射用胸腺肽"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "子宫复旧不全",
+    "information": {
+      "introduction": "子宫复旧不全是产后较常见的并发症。在正常情况下，分娩后，由于子宫体肌纤维收缩及缩复作用，肌层内的血管管腔狭窄甚至栓塞，使局部血液供应明显减少，子宫肌细胞缺血发生自溶而逐渐缩小，胞质减少，因而子宫体积明显缩小，子宫腔内的胎盘剥离面随着子宫的逐渐缩小而相应缩小，加之子宫内膜的再生使剥离面得以修复，子宫通常在产后5～6周时恢复到接近非孕时状态，这个过程称为子宫复旧(involution of uterus)。当上述复旧功能受到阻碍时，即发生子宫复旧不全(subinvolution of uterus)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "子宫复旧不良",
+        "part": [
+          "女性生殖",
+          "盆腔"
+        ],
+        "infection": "无传染性",
+        "people": "生育后女性多见",
+        "symptom": [
+          "脓性分泌物",
+          "人工流产术后出血",
+          "胀感",
+          "剧烈疼痛",
+          "恶露"
+        ],
+        "complication": [
+          "子宫内膜炎",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "妇产科"
+        ],
+        "cost": "市三甲医院约（300—— 800元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "盆腔和阴道B超",
+          "妇科常规检查"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "抗宫炎片",
+          "复方益母草胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "抗宫炎片",
+          "grade": "4.25",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "复方益母草胶囊",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大蓟止血片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "产复欣丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大蓟止血片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "男性生殖器外伤",
+    "information": {
+      "introduction": "男性的生殖器如阴茎、阴囊和睪丸，如同身体的其他器官和组织，也是会受到外伤，只是因为该部位受衣着的遮蔽，经过治疗后的外伤，一般并不为旁人看得见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "排尿障碍",
+          "生殖器外伤",
+          "尿血",
+          "阴茎疼痛",
+          "阴茎异常勃起"
+        ],
+        "complication": [
+          "阴茎异常勃起",
+          "血管损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "外伤科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 6000元）",
+        "ratio": "60%",
+        "duration": "7-10天",
+        "method": [
+          "手术治疗、再植、中医药物治疗"
+        ],
+        "examination": [
+          "阴茎海绵体血管活性物质注射",
+          "阴茎检查",
+          "睾丸检查",
+          "阴囊检查",
+          "阴囊超声检查"
+        ],
+        "medicine": [
+          "鬼臼毒素酊",
+          "奥硝唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "房事两感症",
+    "information": {
+      "introduction": "房事两感症是男女在进行房事活动时，由于要消耗一定的体力，有时会出汗。如果不注意避风预寒，贪欢着凉就容易患上的疾病。这种病又叫“伤寒两感症”，是成年男女在房事中因汗出后感受风寒而致的一种病症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "伤寒两感症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "发烧",
+          "肚子疼",
+          "阴茎疼痛",
+          "急性腹痛",
+          "恶寒"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "恶寒发热",
+          "新生儿泪囊炎",
+          "盆底痉挛综合症",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 1000元）",
+        "ratio": "70%",
+        "duration": "1个月",
+        "method": [
+          "卧床休息、中药治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "复发性外阴阴道念珠菌病",
+    "information": {
+      "introduction": "复发性外阴阴道念珠菌病是指妇女患单纯性念珠菌外阴阴道炎，经治疗后，临床症状和体征消失，真菌学检查阴性后，又出现症状，经真菌学检查又为阳性，可称为念珠菌外阴阴道炎复发。如1年内发作4次或以上，则称复发性外阴阴道念珠菌病。是目前妇科常见的多发性、顽固性疾病，病因十分复杂，导致复发的因素较广泛。据估计5%的成年妇女患有反复发作的顽固性念珠菌性外阴阴道炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "复发性假丝酵母菌外阴阴道炎,难治性外阴阴道炎,严重性外阴阴道炎",
+        "part": [
+          "阴道"
+        ],
+        "infection": "有传染性",
+        "people": "免疫力低下、有糖尿病的病人...",
+        "symptom": [
+          "白带增多",
+          "尿频",
+          "尿急",
+          "白带增多",
+          "外阴皮肤肿胀"
+        ],
+        "complication": [
+          "尖锐湿疣",
+          "淋病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "外用药物治疗、内服药物治疗、冲洗阴道"
+        ],
+        "examination": [
+          "白带pH值",
+          "阴道分泌物涂片",
+          "白带常规",
+          "阴道病原体",
+          "阴道分泌物细胞学检查"
+        ],
+        "medicine": [
+          "克霉唑栓",
+          "黄藤素栓",
+          "酮康唑片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "颞下颌关节脱位",
+    "information": {
+      "introduction": "下颌骨髁状突运动时如超越正常限度，脱出关节凹而不能自行回复照位，即为颞下颌关节脱位。临床上多为前方脱位，可以发生于单侧或双侧。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "颞下颌关节脱臼",
+        "part": [
+          "口",
+          "颅骨"
+        ],
+        "infection": "无传染性",
+        "people": "好发于女性",
+        "symptom": [
+          "呈开口状态而不能闭合",
+          "张嘴颌骨响",
+          "下颌前突",
+          "吞咽困难",
+          "颌骨错位"
+        ],
+        "complication": [
+          "吞噬功能缺陷病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "90%",
+        "duration": "1-3天",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "头颅平片",
+          "颞下颌关节造影",
+          "下颌运动检查",
+          "头面部触诊"
+        ],
+        "medicine": [
+          "脱氧核苷酸钠片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾病综合症",
+    "information": {
+      "introduction": "肾病综合症(nephrotic syndrome，NS)是一种常见的儿科肾脏疾病，是由于多种病因造成肾小球基底膜通透性增高，大量蛋白从尿中丢失的临床综合征。主要特点是大量蛋白尿、低白蛋白血症、严重水肿和高胆固醇血症。根据其临床表现分为单纯性肾病、肾炎性肾病和先天性肾病三种类型。在5岁以下小儿，肾病综合征的病理型别多为微小病变型，而年长儿的病理类型以非微小病变型(包括系膜增生性肾炎、局灶节段性硬化等)居多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿原发性肾病综合征,小儿肾综",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "无力",
+          "面色苍白",
+          "皮肤干燥",
+          "水肿",
+          "低蛋白血症"
+        ],
+        "complication": [
+          "小儿脑水肿与颅内高压综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "肾内科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "10%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "尿纤维蛋白降解产物",
+          "蛋白电泳",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "环孢素软胶囊",
+          "雷公藤多苷片",
+          "雷公藤多苷片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(复旦复华)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾肝宁胶囊",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾肝宁胶囊(广健)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾肝宁胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

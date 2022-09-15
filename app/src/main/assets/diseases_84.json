@@ -1,0 +1,802 @@
+[
+  {
+    "disease_name": "糠秕孢子菌毛囊炎",
+    "information": {
+      "introduction": "糠秕孢子菌毛囊炎系圆形或卵圆形糠秕孢子菌引起的皮肤毛囊性真菌感染。1973年由Potter正式报道和命名。多见于年轻患者。皮损为孤立散在的红色圆顶毛囊性丘疹或脓疱。排除细菌性毛囊炎、寻常型痤疮、丘疹型皮肤念珠菌病、嗜酸性脓疱性毛囊炎等疾病，即可诊断。损害广泛或严重者，可口服酮康唑片。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "年轻患者",
+        "symptom": [
+          "脓疱",
+          "丘疹",
+          "瘙痒",
+          "局部灼热",
+          "刺痛"
+        ],
+        "complication": [
+          "花斑癣",
+          "脂溢性皮炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（100-500元）",
+        "ratio": "50%",
+        "duration": "1-3个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "真菌组织病理学"
+        ],
+        "medicine": [
+          "伊曲康唑胶囊",
+          "氟康唑片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "过敏性阴道炎",
+    "information": {
+      "introduction": "过敏性阴道炎是指阴道黏膜出现类似于鼻、眼、肺及皮肤过敏反应的表现。阴道和外阴是能引起局部或甚至严重的全身过敏反应原进入机体的重要途径，可因全身或局部变态反应而引发，故变态反应是过敏性阴道炎的主要原因。其他常见的阴道炎有：非特异性阴道炎 、细菌性阴道炎、念珠菌性阴道炎、滴虫性阴道炎、霉菌性阴道炎、蛲虫性阴道炎、 结核性阴道炎、阴道嗜血杆菌性阴道炎 、阿米巴性阴道炎、老年性阴道炎、婴幼儿阴道炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "变应性阴道炎",
+        "part": [
+          "阴道",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "阴道用药、用护垫的女性多见",
+        "symptom": [
+          "阴道分泌物增多",
+          "性交困难",
+          "脓血性白带",
+          "阴道分泌物增多",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "输卵管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（100 —— 500元）",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "子宫疾病自检",
+          "阴道妇科常规检查",
+          "阴道镜",
+          "血清免疫球蛋白E",
+          "阴道分泌物细胞学检查"
+        ],
+        "medicine": [
+          "金鸡胶囊",
+          "双唑泰栓",
+          "妇炎清洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "妇炎清洗剂(思壮)",
+          "grade": "4.33",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "窥阴癖",
+    "information": {
+      "introduction": "窥阴癖是一种反复出现或持续存在的窥视他人性活动或亲呢行为如脱衣作为自己性兴奋的偏爱方式。其患病率未明，此类人一般为男性，年龄以20～40岁居多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "20～40岁的男性",
+        "symptom": [
+          "窥淫癖",
+          "紧张",
+          "紧张性手抖",
+          "窥淫癖",
+          "以偷窥为快感源泉的性变态"
+        ],
+        "complication": [
+          "性功能异常伴发的精神障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(5000--10000元)",
+        "ratio": "60-80%",
+        "duration": "1-3年",
+        "method": [
+          "心理矫正、行为治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "五氟利多片",
+          "盐酸氯丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "转移性肝癌",
+    "information": {
+      "introduction": "转移性肝癌(metastatic hepatic carcinoma)是由全身其他部位原发的恶性肿瘤转移至肝脏，并在肝脏形成单个或多个的癌灶。大多数病人原发癌的临床表现先于转移性肝癌，但有部分病人的原发病灶起源不明确或同时发现包括肝脏在内的两处或两处以上的脏器发生肿瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "继发性肝癌,肝脏转移性癌",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "原发癌症患者",
+        "symptom": [
+          "肚子疼",
+          "发烧",
+          "肝昏迷",
+          "消瘦",
+          "右上腹压痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "3%",
+        "duration": "1-3个月",
+        "method": [
+          "化疗、手术治疗"
+        ],
+        "examination": [
+          "超级影像",
+          "肝功能",
+          "乙肝病毒学指标",
+          "肝显像",
+          "CT造影增强扫描"
+        ],
+        "medicine": [
+          "消癌平糖浆",
+          "固元片",
+          "注射用盐酸表柔比星"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平糖浆(都生)",
+          "grade": "3.32",
+          "total": "48",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "过期妊娠",
+    "information": {
+      "introduction": "凡妊娠达到或超过42周(>=294天)称过期妊娠。其发生占分娩数的5~10%。围产儿死亡率约为足月分娩的3~6倍。过期妊娠胎儿宫内的存活主要取决于胎盘功能，1、胎盘功能正常，胎儿继续生长，出生时胎儿体重偏重甚至为巨大儿或因颅骨钙化而造成难产;2、胎盘因过期而发生老化，功能不全，胎盘血流和供氧不足，胎儿不再继续生长发育而呈“小老人”(过熟儿综合征)，因缺氧胎儿排出胎粪染及羊水、胎儿皮肤、羊膜和脐带，出生时评分低，死亡率高。初产妇过期妊娠胎儿较经产妇者危险性增加。对胎儿和母亲的危害：胎儿窘迫、羊水量减少、分娩困难及损伤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "大于孕龄",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠妇女",
+        "symptom": [
+          "羊水血性",
+          "羊水中回声增强增多",
+          "羊水中有胎粪",
+          "羊水粪染",
+          "胎动减少"
+        ],
+        "complication": [
+          "羊水过少",
+          "羊水与胎粪吸入综合征",
+          "胎儿宫内窘迫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（6000 —— 10000元）",
+        "ratio": "治愈率99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "羊膜镜",
+          "胎盘分级",
+          "胎盘成熟度",
+          "介入性宫内取材检查",
+          "雌激素"
+        ],
+        "medicine": [
+          "卡前列甲酯栓",
+          "灭菌前列腺素E2溶液",
+          "灭菌前列腺素E2溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "跟骨骨刺综合征",
+    "information": {
+      "introduction": "由于牵拉骨膜上的足底筋膜引起的跟骨下区域的足跟痛，在X线上有或无骨刺表现。骨刺是由于足底筋膜在跟骨的附着处过度牵拉骨膜所致。过度牵拉引起足底筋膜内缘的疼痛（足底筋膜炎）。导致跖筋膜紧张的病变有平足及跟腱挛缩。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "跟骨痹",
+        "part": [
+          "足部",
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "足跟淤血",
+          "脚后跟长骨刺",
+          "足跟后凸",
+          "足跟痛",
+          "骨刺形成"
+        ],
+        "complication": [
+          "瘫痪",
+          "骨质增生"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（200 —— 1000元）",
+        "ratio": "70%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、微创治疗、中医治疗、手术治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "CT检查",
+          "血液检查"
+        ],
+        "medicine": [
+          "壮腰消痛液",
+          "壮腰消痛液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "壮腰消痛液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "壮腰消痛液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "溶血",
+    "information": {
+      "introduction": "    溶血是指血红细胞在低渗溶液作用下，细胞肿胀、破裂释放出血红蛋白的过程。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "婴儿多见",
+        "symptom": [
+          "溶血性黄疸",
+          "溶血现象",
+          "免疫性溶血",
+          "急性溶血性尿毒综合征",
+          "微血管溶血性贫血"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "红细胞渗透脆性试验",
+          "红细胞检查",
+          "血浆游离血红蛋白",
+          "红细胞寿命"
+        ],
+        "medicine": [
+          "阿莫西林片",
+          "头孢克洛干混悬剂",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "头外伤",
+    "information": {
+      "introduction": "头皮裂伤多由锐器或钝器致伤。裂口大小，深度不一，创缘整齐或不整齐，有时伴有皮肤挫伤或缺损，由于头皮血管丰富，血管破裂后不易自行闭合，即使伤口小出血也较严重，甚至因此发生休克。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "头皮裂伤,头皮撕脱伤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "头皮撕裂伤",
+          "头皮撕脱伤",
+          "皮肤撕脱伤",
+          "皮肤撕脱伤",
+          "头皮不规则裂口"
+        ],
+        "complication": [
+          "休克",
+          "贫血",
+          "感染性腹泻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "外伤科",
+          "急诊科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "2-3个月",
+        "method": [
+          "外科缝合、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规"
+        ],
+        "medicine": [
+          "洛索洛芬钠胶囊",
+          "跌打丸",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "跌打丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "外伤如意膏",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "积雪苷霜软膏(现代)",
+          "grade": "2.20",
+          "total": "37",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "皮肤纤维瘤",
+    "information": {
+      "introduction": "皮肤纤维瘤(dermatofibroma)也称硬纤维瘤，是成纤维细胞或组织细胞灶性增生引致的一种真皮内的良性肿瘤。本病可发生于任何年龄，但中青年多见。女性多于男性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "韧带样瘤,韧带样纤维瘤,硬纤维瘤",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性",
+        "symptom": [
+          "瘤体坚硬",
+          "结节",
+          "丘疹",
+          "圆形或卵圆形丘疹或结节",
+          "丘疹"
+        ],
+        "complication": [
+          "皮肤平滑肌瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "60%",
+        "duration": "7-14天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "免疫病理检查"
+        ],
+        "medicine": [
+          "曲安奈德",
+          "曲安奈德注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "昏厥",
+    "information": {
+      "introduction": "晕厥(syncope)是一种临床综合征，又称为昏厥。本症系因短暂的全脑血流量突然减少，一时性大脑供血或供氧不足，以致网状结构功能受抑制而引起意识丧失;历时数秒至数分钟;发作时不能保持姿势张力，故不能站立而晕倒，但恢复较快。造成脑血流量突然减少的原因有：血压急剧下降;心排出量骤然减少;脑动脉急性而广泛的供血不足。上述3种异常又各由多种不同因素所引发，各种因素又可相互联系，部分病人的晕厥为多因素性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "晕厥",
+        "part": [
+          "颅脑",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中老年多见",
+        "symptom": [
+          "抽搐",
+          "舌咬伤",
+          "焦虑",
+          "面色苍白"
+        ],
+        "complication": [
+          "意识障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（2000——3000元）",
+        "ratio": "90%",
+        "duration": "1天",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "导管吹张法",
+          "心电图",
+          "血常规"
+        ],
+        "medicine": [
+          "氨酪酸片",
+          "盐酸甲氯芬酯胶囊",
+          "消栓肠溶胶囊[消栓胶囊(肠溶)]"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "红灵散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "Bazin硬红斑",
+    "information": {
+      "introduction": "硬红斑(erythema induratum)又名硬结性红斑，或Bazin病，或硬结性皮肤结核(tuberculosis cutis indurativa)，是一种深部血源性皮肤结核。文献上还有另一种硬红斑，叫Whitfield硬红斑，一般认为是一种结节性血管炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "腓发,驴眼疮",
+        "part": [
+          "皮肤",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "青年女性",
+        "symptom": [
+          "皮下结节",
+          "红斑结节",
+          "结节",
+          "红斑样皮疹",
+          "炎性细胞浸润"
+        ],
+        "complication": [
+          "血管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 — 2000元）",
+        "ratio": "0.5%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "皮肤病的物理检查",
+          "皮疹"
+        ],
+        "medicine": [
+          "三乙醇胺乳膏",
+          "肝素钠维E乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肥厚性咽炎",
+    "information": {
+      "introduction": "肥厚性咽炎，又名增生性咽炎或粒型咽炎，多为慢性。这种病症多发于25～50岁之间，常为慢性单纯性咽炎的继发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "增生性咽炎，粒型咽炎",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "多见于成年人",
+        "symptom": [
+          "咽喉部干燥刺痒",
+          "咽部异物感",
+          "干咳",
+          "咽喉部充血",
+          "痰中带血丝"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "耳鼻咽喉CT",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "半导体激光治疗机",
+          "一次性载液抗菌器",
+          "半导体激光治疗机"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿泪囊炎",
+    "information": {
+      "introduction": "新生儿泪囊炎是由于鼻泪管下端的胚胎残膜没有退化，阻塞鼻泪管下端，导致泪液和细菌潴留在泪囊内，引起继发性感染所致。新生儿泪囊炎是一种非常常见的婴幼儿先天性眼病，也是小儿眼科常见病，多发病。表现为婴儿的眼睛经常是泪汪汪的。在婴儿的眼睛里有许多浓性分泌物流出，发病时间可早可晚，有的是出生后第一天就有症状，有的可以是一周后或者一个月以后出现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "先天性泪道阻塞,先天性鼻泪管阻塞,先天性泪道狭窄",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "眼屎多",
+          "眼睛痒",
+          "流泪",
+          "流泪",
+          "新生儿眼屎多"
+        ],
+        "complication": [
+          "结膜炎",
+          "蜂窝织炎",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3500—— 5000元）",
+        "ratio": "80%",
+        "duration": "7-14天",
+        "method": [
+          "保守治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "挤压泪囊试验",
+          "鼻泪管内镜",
+          "角膜荧光素染色",
+          "眼外部检查"
+        ],
+        "medicine": [
+          "氧氟沙星眼膏",
+          "乳酸左氧氟沙星滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿唐氏综合征",
+    "information": {
+      "introduction": "唐氏综合征即21-三体综合征(trisomy 21 syndrome)又称先天愚型或Down综合征，是由染色体异常（多了一条 21 号染色体）而导致的疾病。60%患儿在胎内早期即夭折流产，存活者有明显的智能落后、特殊面容、生长发育障碍和多发畸形。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "先天愚型,先天愚症,小儿21-三体综合征,小儿伸舌样痴呆,小儿唐氏综合症,小儿唐综合征",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "颈短",
+          "流涎",
+          "眼距宽阔",
+          "眼距宽阔",
+          "小头"
+        ],
+        "complication": [
+          "先天性心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 —— 100000元）",
+        "ratio": "染色体疾病，无法治愈",
+        "duration": "1-6个月",
+        "method": [
+          "智能训练"
+        ],
+        "examination": [
+          "唐筛",
+          "X线头影测量",
+          "染色体核型分析",
+          "脑电图",
+          "心电图"
+        ],
+        "medicine": [
+          "复合氨基酸口服液",
+          "唐氏综合征产前筛查试剂",
+          "炔雌醇"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脊髓肿瘤",
+    "information": {
+      "introduction": "脊髓肿瘤是生长在脊髓中的新生肿块，可以是良性也可以是恶性。脊髓肿瘤可以是原发性的也可以是继发性的，比颅内肿瘤发病率低，儿童罕见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "椎管内肿瘤",
+        "part": [
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "脊膜瘤女性多见，室管膜瘤男...",
+        "symptom": [
+          "脊柱和四肢畸形",
+          "脊髓病变",
+          "肌束震颤",
+          "节段性分离性感觉障碍",
+          "上颈髓区病变"
+        ],
+        "complication": [
+          "脊髓压迫症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "脑脊液蛋白定性",
+          "脑脊液蛋白定量",
+          "MRI",
+          "多药耐药基因"
+        ],
+        "medicine": [
+          "鸦胆子油口服乳液",
+          "华蟾素胶囊",
+          "巴氯芬片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鸦胆子油口服乳液(白云山)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "华蟾素胶囊(东泰)",
+          "grade": "1.73",
+          "total": "42",
+          "secondary": "7"
+        }
+      ]
+    }
+  }
+]

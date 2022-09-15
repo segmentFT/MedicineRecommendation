@@ -1,0 +1,957 @@
+[
+  {
+    "disease_name": "慢性糜烂性胃炎",
+    "information": {
+      "introduction": "慢性糜烂性胃炎是介乎慢性浅表性胃炎和消化性溃疡之间的一种临床常见的消化系统疾病，在临床上具有很高的发病率。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "疣状胃炎，痘疹状胃炎",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血红蛋白"
+        ],
+        "medicine": [
+          "三九胃泰胶囊",
+          "枸橼酸铋钾胶囊",
+          "枸橼酸铋钾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三九胃泰胶囊(三九999)",
+          "grade": "1.98",
+          "total": "69",
+          "secondary": "60"
+        },
+        {
+          "medicine_name": "胃舒宁胶囊(金爵)",
+          "grade": "2.5",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "主动脉硬化",
+    "information": {
+      "introduction": "主动脉硬化是动脉硬化中常见的类型。主动脉硬化会导致主动脉夹层、腹动脉瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胸骨后异物阻塞感及隐痛",
+          "胸骨后烧灼样痛",
+          "胸骨压痛",
+          "收缩期杂音",
+          "脉压增宽"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约4000-6000元",
+        "ratio": "70%-80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "血流变学检查",
+          "心血管造影",
+          "心肺功能运动试验"
+        ],
+        "medicine": [
+          "支架系统",
+          "支架系统",
+          "支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "体温过低",
+    "information": {
+      "introduction": "因长期暴露于任何温度，人体散热大于产热时，可引起体温过低。体温过低最常见于寒冷季节或浸泡在水中。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "嗜睡",
+          "呼吸浅慢",
+          "幻觉",
+          "双手轮替动作笨拙",
+          "易激动"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(5000--20000元)",
+        "ratio": "60%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "体温"
+        ],
+        "medicine": [
+          "血液升温仪",
+          "血液升温仪",
+          "输血、输液、透析加温仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿麻痹症",
+    "information": {
+      "introduction": "小儿麻痹症又称脊髓灰质炎(poliomyelitis，以下简称polio)，是由脊髓灰质炎病毒引起的一种急性传染病。流行时以隐匿感染和无瘫痪病例为多，儿童发病较成人为高，普种疫苗前尤以婴幼儿患病为多，故称小儿麻痹症(Infantile paralysis)。临床表现主要有发热、咽痛和肢体疼痛，部分病人可发生弛缓性麻痹。其主要病变在脊髓灰质，损害严重者可有瘫痪后遗症。自50年代末普遍采用疫苗预防本病后，其发病率已大大下降，天花于70年代被消灭后，小儿麻痹症已定为本世纪末下一个被消灭的目标。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脊髓灰质炎,流性行脊髓灰质炎,脊灰",
+        "part": [
+          "脊髓"
+        ],
+        "infection": "有传染性",
+        "people": "儿童",
+        "symptom": [
+          "发烧",
+          "咽痛",
+          "肢体障碍",
+          "麻痹",
+          "四肢瘫痪"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "25%",
+        "duration": "1-6个月",
+        "method": [
+          "药物治疗、理疗"
+        ],
+        "examination": [
+          "肛门拭子检查法",
+          "肌电图",
+          "脑电图"
+        ],
+        "medicine": [
+          "注射用乙酰谷酰胺",
+          "地巴唑片",
+          "可调式步行训练器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "中耳炎",
+    "information": {
+      "introduction": "中耳炎是累及中耳( 包括咽鼓管鼓室 鼓窦及乳突气房 )全部或部分结构的炎性病变绝大多数为非特异性安排炎症，尤其好发于儿童。可分为非化脓性及化脓性两大类。非化脓性者包括分泌性中耳炎气压损伤性中耳炎;化脓性者有急性和慢性真是之分特异性炎症太少少见如结核性中耳炎等。常见有分泌性中耳炎、急性化脓性中耳炎、及胆脂瘤型中耳炎和气压损伤性中耳炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "听力减退",
+          "耳痛",
+          "耳流脓",
+          "传导性耳鸣",
+          "传导性耳聋"
+        ],
+        "complication": [
+          "气压创伤性中耳炎",
+          "分泌性中耳炎",
+          "粘连性中耳炎",
+          "急性化脓性中耳炎",
+          "慢性化脓性中耳炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（500—— 1000元）",
+        "ratio": "95%",
+        "duration": "7天",
+        "method": [
+          "西医药物治疗、中医药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "声阻抗"
+        ],
+        "medicine": [
+          "阿莫西林片",
+          "头孢克洛干混悬剂",
+          "施保利通片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "布氏杆菌病",
+    "information": {
+      "introduction": "布氏杆菌病又称波状热，是由布氏杆菌引起的人畜共患的传染病。其临床特点为长期发热、多汗、关节痛、睾丸炎、肝脾肿大等。病菌为革兰阴性短小杆菌，按生化和血清学反应分为马尔他布鲁菌（羊型）、流产布鲁菌（牛型）、猪布鲁菌（猪型），另外还有森林鼠型、绵羊附睾型和犬型。感染人者主要为羊、牛和猪型。其致病力以羊型最强，次为猪型，牛型最弱。传染源是患病的羊、牛、猪，病原菌存在于病畜的组织、尿、乳、产道分泌物、羊水，胎盘及羊盖体内。接触受染，也可通过消化、呼吸道传染。人群普遍易感，并可重复感染或慢性化。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "波状热",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "神经痛",
+          "肝脾肿大",
+          "淋巴结肿大",
+          "头痛",
+          "不规则热"
+        ],
+        "complication": [
+          "神经炎",
+          "胆囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "99%",
+        "duration": "3～6个月",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "布氏杆菌凝集试验",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "盐酸美他环素片",
+          "硫酸链霉素片",
+          "硫酸链霉素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性盆腔炎",
+    "information": {
+      "introduction": "急性盆腔炎多见于有月经、性生活频繁的妇女。炎症可局限于一个部位，也可同时累及几个部位，最常见的是输卵管炎及输卵管卵巢炎，单纯的子宫内膜炎或卵巢炎较少见。急性盆腔炎主要包括急性子宫内膜炎、急性输卵管炎、急性输卵管卵巢脓肿、急性盆腔腹膜炎、急性盆腔结缔组织炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "盆腔",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "妇女",
+        "symptom": [
+          "下腹痛",
+          "发烧",
+          "疼痛",
+          "食欲减退"
+        ],
+        "complication": [
+          "不孕症",
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000--10000元）",
+        "ratio": "30%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗、对症治疗"
+        ],
+        "examination": [
+          "盆腔充气造影",
+          "盆腔MRI",
+          "阴道分泌物涂片",
+          "盆腔和阴道B超",
+          "盆腔CT"
+        ],
+        "medicine": [
+          "金鸡胶囊",
+          "妇乐颗粒",
+          "妇乐颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "妇乐颗粒(康缘)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.81",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(杨济生)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇乐颗粒(苗泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎平片(罗浮山国药)",
+          "grade": "3.34",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(信邦)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(晁氏)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐胶囊(南昌)",
+          "grade": "3.88",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "筋膜炎",
+    "information": {
+      "introduction": "筋膜炎又称纤维织炎，只能算是一个综合的概念，近年来已少有采用。纤维织炎是指有些腰痛病人在骶棘肌的表面或在髂嵴肌附着处有一些小结节，伴有疼痛及压痛，有时也可以在臀部发现。1904年Gower正式应用这个名词，他认为此病是组织的一种非特异性炎症，但并未能在病理学上得到证实。临床上所扪及的结节，实质上是一个局限性的脂肪结节，故又称脂肪疝。这种结节可能刺激周围神经末梢而产生局部肌痉挛和疼痛。这种结节用1%普鲁卡因封闭，疼痛可缓解。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "纤维织炎",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "臀部酸痛",
+          "腰骶部酸痛",
+          "腰背酸痛",
+          "肌肉酸痛",
+          "肌肉痉挛"
+        ],
+        "complication": [
+          "腹壁坏死性筋膜炎",
+          "坏死性筋膜炎",
+          "结节性筋膜炎",
+          "弥漫性筋膜炎",
+          "嗜酸性筋膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "物理治疗、手术治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "嗜酸性粒细胞数",
+          "血液生化六项",
+          "血小板计数",
+          "RBC"
+        ],
+        "medicine": [
+          "复方氯唑沙宗片",
+          "复方氯唑沙宗片",
+          "氯唑沙宗片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "性病性淋巴肉芽肿",
+    "information": {
+      "introduction": "本病是由沙眼衣原体引起的性传播疾病之一，表现为多种急性至慢性的生殖器损害并伴有局部淋巴结病。此病的同义名有：热带横痃、奥尔索(althaun)、腺病、登布横痃、良性化脓性腹股沟周围淋巴结炎、腹股沟表皮淋巴结病、腹股沟淋巴肉芽肿lymphagranuloma inguinale、Durand-Nicolas-Favre病和第四性病forth venereal disease。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "第四性病",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "淋巴"
+        ],
+        "infection": "有传染性",
+        "people": "不洁性交史",
+        "symptom": [
+          "腹股沟淋巴结肿大",
+          "直肠狭窄",
+          "红斑结节",
+          "肝脾肿大",
+          "里急后重"
+        ],
+        "complication": [
+          "肺炎",
+          "肺脓肿",
+          "腹膜炎",
+          "结肠炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元",
+        "ratio": "35%",
+        "duration": "1-3年",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "性传播疾病免疫检测",
+          "衣原体检查法",
+          "血清锰",
+          "补体结合试验",
+          "血清钴"
+        ],
+        "medicine": [
+          "土霉素片",
+          "盐酸多西环素胶囊",
+          "盐酸美他环素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "血小板减少性紫癜",
+    "information": {
+      "introduction": "血小板减少性紫癜(thrombocytopenic purpura)系血小板减少引起的皮肤黏膜出现瘀点、瘀斑或内脏出血。分为原发性或特发性血小板减少性紫癜;继发性或症状性血小板减少性紫癜。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "女性多见",
+        "symptom": [
+          "伴皮膜粘膜出血",
+          "反复鼻出血",
+          "尿胆红素阴性",
+          "皮肤黏膜出血",
+          "皮肤出血点"
+        ],
+        "complication": [
+          "肾炎",
+          "哮喘",
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血小板第3因子功能",
+          "瑞斯托霉素诱导血小板聚集测定",
+          "血管壁的检测",
+          "血浆血栓烷B2",
+          "血小板计数"
+        ],
+        "medicine": [
+          "肾上腺色腙片",
+          "达那唑胶囊",
+          "硫唑嘌呤片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "断血流片(司空山)",
+          "grade": "3.62",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "升血小板胶囊(郝其军)",
+          "grade": "2.06",
+          "total": "15",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "归参补血片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "归参补血片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "泪囊炎",
+    "information": {
+      "introduction": "非特异性泪囊炎(dacryocystitis)一般表现为慢性和急性两种，而以慢性最常见，急性泪囊炎(acute dacryocystitis)常是慢性泪囊炎的急性发作，原因是由于毒力强的细菌如链球菌或混合肺炎链球菌等感染所致。可以无泪溢史而突然发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脓性分泌物",
+          "泪道阻塞",
+          "老年人流泪多",
+          "泪溢",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "匐行性角膜溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（300-500元）",
+        "ratio": "90%",
+        "duration": "7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "挤压泪囊试验",
+          "泪管显象",
+          "眼及眶区CT"
+        ],
+        "medicine": [
+          "氧氟沙星眼膏",
+          "盐酸米诺环素胶囊",
+          "氧氟沙星眼膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "皮肌炎",
+    "information": {
+      "introduction": "皮肌炎（dermatomyositis，DM）又称皮肤异色性皮肌炎（poikilodermatomyositis），属自身免疫性结缔组织疾病之一，是一种主要累及横纹肌，呈以淋巴细胞浸润为主的非化脓性炎症病变，可伴有或不伴有多种皮肤损害，也可伴发各种内脏损害。多发性肌炎（polymyositis，PM）系指本组疾患而无皮肤损害者。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "发生于任何年龄，女性略占多...",
+        "symptom": [
+          "抗Jo-1抗体阳性",
+          "瘙痒",
+          "丘疹",
+          "光过敏",
+          "关节疼痛"
+        ],
+        "complication": [
+          "心力衰竭",
+          "蛛网膜下腔出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "75% ",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿肌酸",
+          "胸壁检查",
+          "肌电图",
+          "尿肌红蛋白"
+        ],
+        "medicine": [
+          "醋酸泼尼松片",
+          "薄芝片",
+          "醋酸泼尼松片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "薄芝片(浙南)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "薄芝菌注射液",
+          "grade": "3.5",
+          "total": "9",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脱水",
+    "information": {
+      "introduction": "钠盐(NaCl、NaHCO3)是决定细胞外液渗透压的主要无机盐，因此血清钠浓度是决定血浆渗透压高低的主要因素，由于水、钠缺失的比例不同，导致不同的血浆钠浓度变化和渗透压变化。脱水时，临床上常根据血清钠浓度的高低将脱水分为3种类型：等渗性脱水、低渗性脱水和高渗性脱水。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "青少年",
+        "symptom": [
+          "疲劳",
+          "头晕",
+          "眼花",
+          "脱水热"
+        ],
+        "complication": [
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "内科"
+        ],
+        "cost": "市三甲医院约1000---3000元",
+        "ratio": "98%",
+        "duration": "2-4周",
+        "method": [
+          "补液治疗、西药治疗"
+        ],
+        "examination": [
+          "皮肤弹性",
+          "白蛋白(A,Alb)",
+          "全血黏度",
+          "血红蛋白浓度",
+          "尿比重"
+        ],
+        "medicine": [
+          "口服补液盐Ⅰ",
+          "大黄通便颗粒",
+          "硝酸毛果芸香碱滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄通便颗粒(珍芝堂)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高钾血症",
+    "information": {
+      "introduction": "血钾高于5.5mmol/L称为高钾血症，>7.0mmol/L则为严重高钾血症。因高钾血症常常没有或很少症状而骤然致心脏停搏，应及早发现，及早防治。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血钾过多,血钾过多症,血内钾过多症",
+        "part": [
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "肚子疼",
+          "烦躁不安",
+          "恶心",
+          "神志不清",
+          "窒息"
+        ],
+        "complication": [
+          "低钾血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "80%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "尿钠",
+          "尿钾",
+          "血清钾",
+          "血清钠"
+        ],
+        "medicine": [
+          "心可舒胶囊",
+          "宁心宝胶囊",
+          "聚磺苯乙烯钠散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心可舒胶囊(国金)",
+          "grade": "3.33",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(宇宙)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾精亏虚",
+    "information": {
+      "introduction": "　 肾精亏虚是指肾精空虚，不能充养脑髓的病症。肾所藏之精，是机体生命活动之本。肾精的主要功能是主人体的生长繁殖，是生命活动的基础物质。神精能调节脏腑之精，供其活动需要;能生髓、养骨、补脑、并参与血液的生成，提高机体的抗体能力。肾精亏虚之形成多数是由于老年体衰，肾的精气亏损，或先天禀赋不足，或因久病耗损、后天失养所致。其实病理表现为在婴幼儿时期可能影响其生长发育;在青年时期，可能导致早衰、性功能减退而见滑泄、阳痿等。肾精亏虚通常表现为眩晕耳鸣，腰膝酸软，性功能减退，男子精少，女子“天葵”早竭，过早衰老，神疲健忘，舌淡苔少，脉沉细等多种病状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "中老年患者",
+        "symptom": [
+          "过早衰老",
+          "腰膝酸软",
+          "健忘",
+          "精子稀少",
+          "男子性功能障碍"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "脑血管瘤",
+          "发作性睡病",
+          "颅咽管瘤",
+          "肾虚耳鸣"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "八子补肾胶囊",
+          "左归丸",
+          "安神补脑液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "左归丸",
+          "grade": "3.05",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安神补脑液(敖东)",
+          "grade": "2.47",
+          "total": "389",
+          "secondary": "331"
+        },
+        {
+          "medicine_name": "龙鹿胶囊(千子乐)",
+          "grade": "1.99",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "古汉养生精口服液(古汉养生精)(古汉养生精口服液(古汉)",
+          "grade": "4.82",
+          "total": "226",
+          "secondary": "217"
+        },
+        {
+          "medicine_name": "人参鹿茸丸(同仁堂)",
+          "grade": "1.44",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益血生胶囊(999)",
+          "grade": "3.69",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "古汉养生精片(古汉)",
+          "grade": "4.36",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安神健脑液(同仁堂)",
+          "grade": "3.27",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "安神补脑液(白云山)",
+          "grade": "2.72",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "安神补脑液(维奥)",
+          "grade": "2.35",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "脾肾双补丸(河西)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益肾强身丸(同仁堂)(浓缩水蜜丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补肾益脑胶囊(仙灵)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "补肾益脑胶囊(太极)",
+          "grade": "2.0",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

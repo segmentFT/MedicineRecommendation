@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="中药推荐:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#D5FFFFFF"
+        android:layout_margin="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="#F274CC0D"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/sortByGradeButton"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text="按照评分排序"
+            android:textStyle="bold"
+            android:textColor="#D8FFFFFF"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/button_background1" />
+
+        <Button
+            android:id="@+id/sortByCommentCountButton"
+            android:layout_width="130dp"
+            android:layout_height="30dp"
+            android:text="按照评价数量排序"
+            android:textStyle="bold"
+            android:textColor="#D8FFFFFF"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/button_background1" />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/medicineList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="60dp"
+        android:background="#9EBBE48B" />
+
+</LinearLayout>

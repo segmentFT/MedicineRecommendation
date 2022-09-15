@@ -1,0 +1,1054 @@
+[
+  {
+    "disease_name": "慢性肺炎",
+    "information": {
+      "introduction": "病程超过3个月者为慢性肺炎。近年来小儿急性肺炎病死率正在降低，但重症肺炎患儿有时未彻底恢复，复发和演变成慢性肺炎者颇不少见。因此，及时地防治慢性肺炎非常重要。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人及婴幼儿",
+        "symptom": [
+          "支气管脓性分泌物增多",
+          "柠檬色痰",
+          "呼吸困难",
+          "发烧",
+          "发绀"
+        ],
+        "complication": [
+          "心律失常",
+          "心力衰竭",
+          "多系统器官功能衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "73%",
+        "duration": "14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胸部CT",
+          "心电图",
+          "胸部平片",
+          "纤维支气管镜",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "头孢羟氨苄胶囊",
+          "阿莫西林胶囊",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "宫颈白斑",
+    "information": {
+      "introduction": "子宫颈白斑(Leucoplasia of the cervix)，系指在子宫颈阴道部出现的一种灰白色不透明的斑块状病变。多数学者认为，临床肉眼所见白斑仅表示有不同程度的上皮增生。随着对宫颈癌前病变和早期癌的深入研究及阴道镜的广泛应用，此病已逐渐被引起重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "子宫颈白斑",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "白带增多",
+          "点状出血",
+          "阴道血性分泌物",
+          "阴道出血"
+        ],
+        "complication": [
+          "宫颈糜烂",
+          "宫颈外翻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "80%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "宫颈分泌物培养",
+          "宫颈检查",
+          "子宫颈涂片测试",
+          "阴道镜",
+          "宫颈刮片"
+        ],
+        "medicine": [
+          "微波热疗机",
+          "MJT-C型超声治疗机",
+          "医用抗菌凝胶敷料"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "臂丛神经损伤",
+    "information": {
+      "introduction": "臂丛神经损伤(brachial plexus)是周围神经损伤的一个常见类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "臂丛损伤",
+        "part": [
+          "上臂",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "感觉障碍",
+          "肌肉萎缩",
+          "上肢呈迟缓性麻痹",
+          "神经根损伤",
+          "食指感觉消失"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "2--8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "拇收肌肌力试验",
+          "肱桡肌肌力试验",
+          "旋前圆肌和旋前方肌肌力试验",
+          "神经系统检查",
+          "肌电图"
+        ],
+        "medicine": [
+          "全天麻胶囊",
+          "复方小活络丸",
+          "天丹通络胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "全天麻胶囊(神奇)",
+          "grade": "3.16",
+          "total": "22",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "复方小活络丸(同仁堂)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天丹通络胶囊(凤凰城)",
+          "grade": "2.10",
+          "total": "11",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年眩晕",
+    "information": {
+      "introduction": "眩晕是老年患者临床常见症状之一，是一种运动性错觉(或幻觉)，是指患者在静止状态睁眼或闭目时，有动的感觉(或觉外物围绕自己在转，或觉自身在空间旋转)，年龄越大，发病率越高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "耳前庭功能受损",
+          "紧张性头晕",
+          "老年性眩晕",
+          "恶心与呕吐",
+          "旋转性眩晕"
+        ],
+        "complication": [
+          "眩晕",
+          "脑出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "老年科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 10000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "治疗周期120天",
+        "method": [
+          "药物治疗、中医治疗、介入治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "眼震电图描记法",
+          "Frenzel氏眼镜检查法",
+          "MRI",
+          "心电图"
+        ],
+        "medicine": [
+          "盐酸地芬尼多片",
+          "参鹿补虚胶囊",
+          "六味地黄丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参鹿补虚胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "六味地黄丸(九芝堂)",
+          "grade": "3.99",
+          "total": "244",
+          "secondary": "242"
+        },
+        {
+          "medicine_name": "六味地黄丸(同仁堂)",
+          "grade": "4.27",
+          "total": "31",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "中风回春胶囊",
+          "grade": "4.71",
+          "total": "116",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "中风回春胶囊(香雪)",
+          "grade": "4.64",
+          "total": "41",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脚气",
+    "information": {
+      "introduction": "脚气是一种极常见的真菌感染性皮肤病。成人中70-80%的人有脚气，只是轻重不同而已。常在夏季加重，冬季减轻，也有人终年不愈。包括：糜烂型脚气、水疱型脚气、角化型脚气。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "香港脚，脚癣",
+        "part": [
+          "足部",
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "成人，大部分是男性",
+        "symptom": [
+          "真菌感染",
+          "脚臭",
+          "手、足部厚壁水疱",
+          "干性脚气",
+          "水疱或大疱损害"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（50-100元）",
+        "ratio": "80%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿维生素B1"
+        ],
+        "medicine": [
+          "盐酸布替萘芬喷雾剂",
+          "盐酸特比萘芬乳膏",
+          "皮肤病血毒丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮肤病血毒丸(同仁堂)",
+          "grade": "3.69",
+          "total": "27",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "足光散(九芝堂)",
+          "grade": "2.90",
+          "total": "82",
+          "secondary": "68"
+        },
+        {
+          "medicine_name": "黄柏胶囊(希尔安)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "静脉血栓形成",
+    "information": {
+      "introduction": "静脉血栓形成(phlebothrombosis)是各种原因引起小腿静脉回流压力降低，导致血栓形成。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "静脉血栓",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "静脉血栓",
+          "静脉曲张",
+          "迁徙性浅静脉血栓形成",
+          "微血栓形成",
+          "局部静脉压痛"
+        ],
+        "complication": [
+          "血栓性浅静脉炎",
+          "静脉曲张综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约10000--20000",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "颈静脉压",
+          "电阻抗体积描记",
+          "血浆组织纤溶酶原活化物抗原",
+          "血浆组织纤溶酶原活化物抑制物活性",
+          "血浆组织纤溶酶原活化物抑制物抗原"
+        ],
+        "medicine": [
+          "华法林钠片",
+          "双嘧达莫片",
+          "华法林钠片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络舒通颗粒",
+          "grade": "3.38",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络舒通丸(脉络舒通丸(鲁南))",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "丛集性头痛",
+    "information": {
+      "introduction": "丛集性头痛(cluster headache，CH)以往又称组织胺性头痛、睫状神经痛、蝶腭神经痛、偏头痛性神经痛、Horton综合征。是一种多见于中年男性的、周期性丛集性发作的、部位固定于一侧眼眶及其周围的头痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "偏头痛性神经痛，组胺性头痛,蝶腭神经痛等",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "多见于中年男性",
+        "symptom": [
+          "头胀",
+          "头痛",
+          "中度或轻度头痛",
+          "眼部胀痛",
+          "眼部胀痛"
+        ],
+        "complication": [
+          "丛集性头痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约3000--8000",
+        "ratio": "80%",
+        "duration": "终身间歇性对症治疗",
+        "method": [
+          "药物治疗、针灸治疗"
+        ],
+        "examination": [
+          "组织胺激发试验",
+          "颅脑MRI",
+          "组胺试验",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "布洛芬颗粒",
+          "对乙酰氨基酚片",
+          "大川芎片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大川芎片(富祺)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "椎间盘突出症",
+    "information": {
+      "introduction": "椎间盘突出症是临床上较为常见的脊柱疾病之一。主要是因为椎间盘各组成部分(髓核、纤维环、软骨板)，尤其是髓核，发生不同程度的退行性病变后，在外界因素的作用下，椎间盘的纤维环破裂，髓核组织从破裂之处突出(或脱出)于后(侧)方或椎管内，从而导致相邻的组织，如脊神经根和脊髓等受到刺激或压迫，产生颈、肩、腰腿痛，麻木等一系列临床症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腰部"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "椎间盘退行性变",
+          "腰脊椎疼痛",
+          "惧站立，喜依托",
+          "胸腰段及腰椎前凸消失",
+          "根性坐骨神经痛"
+        ],
+        "complication": [
+          "胸椎间盘突出症",
+          "颈椎间盘突出症",
+          "极外侧型腰椎间盘突出症",
+          "急性颈椎间盘突出症",
+          "腰椎间盘突出"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清类风湿因子",
+          "健肢抬高试验",
+          "脊柱运动试验",
+          "脑脊液的化学检查"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "腰痹通胶囊",
+          "恒古骨伤愈合剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "腰痹通胶囊(康缘)",
+          "grade": "1.21",
+          "total": "71",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "恒古骨伤愈合剂(克雷斯)",
+          "grade": "1.96",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹鹿通督片(羚锐)",
+          "grade": "2.18",
+          "total": "113",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "正骨膏(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "当归拈痛丸(老专家)",
+          "grade": "4.14",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蟾马正痛酊(欧珂)",
+          "grade": "4.77",
+          "total": "39",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "椎管狭窄",
+    "information": {
+      "introduction": "椎管狭窄症(vertebral canal stenosis)从总体概念上来讲是指因组成椎管的骨性或纤维性组织异常，引起椎管内的有效容量减小，以致位于管道中的神经组织受压或刺激而产生功能障碍及一系列症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "腰椎椎管狭窄症,腰椎狭窄",
+        "part": [
+          "腰部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上中年人",
+        "symptom": [
+          "间歇性跛行",
+          "腰骶疼痛",
+          "腰椎椎管狭窄",
+          "脊髓性间歇破行",
+          "脊柱生理弯曲消失"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "20%",
+        "duration": "15-30天",
+        "method": [
+          "针灸、理疗、手术治疗、药物治疗"
+        ],
+        "examination": [
+          "腰背部检查",
+          "CT检查",
+          "脊椎平片",
+          "趾背屈试验",
+          "MRI"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "己酮可可碱肠溶片",
+          "丹鹿通督片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "丹鹿通督片(羚锐)",
+          "grade": "2.18",
+          "total": "113",
+          "secondary": "16"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心阴虚",
+    "information": {
+      "introduction": "心阴虚指阴液亏损，心与心神失养，虚热内扰，以心烦、心悸、失眠及阴虚症状为主要表现的虚热证候。心阴虚证为临床常见虚证之一。多因情志内伤，五志化火，消灼心阴;或因劳伤太过，心阴暗耗;或热病伤阴，心阴亏损;或肝肾阴虚日久，致使心阴不足。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "脑力工作者、未成年人",
+        "symptom": [
+          "五心烦热",
+          "失眠",
+          "心悸",
+          "心悸怔忡",
+          "多梦"
+        ],
+        "complication": [
+          "肝肾综合征",
+          "脑血管瘤",
+          "慢性肾性贫血",
+          "心肾不交",
+          "肾疳"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（2000-3000元）",
+        "ratio": "95%",
+        "duration": "30天",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "朱砂安神丸",
+          "养血安神丸",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "朱砂安神丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养血安神丸(同仁堂)",
+          "grade": "3.08",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(同仁堂)",
+          "grade": "2.77",
+          "total": "86",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "阴虚胃痛颗粒",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神口炎清)",
+          "grade": "4.31",
+          "total": "82",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(同仁堂)",
+          "grade": "3.42",
+          "total": "15",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "百乐眠胶囊(扬子江)",
+          "grade": "3.15",
+          "total": "335",
+          "secondary": "229"
+        },
+        {
+          "medicine_name": "石斛夜光丸(诺得胜)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(浓缩丸)(耳聋左慈丸(佛慈)(浓缩丸)",
+          "grade": "3.83",
+          "total": "104",
+          "secondary": "76"
+        },
+        {
+          "medicine_name": "复明片(碑林)",
+          "grade": "3.31",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冠心生脉丸(华洋)",
+          "grade": "4.64",
+          "total": "53",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性干燥性鼻炎",
+    "information": {
+      "introduction": "慢性干燥性鼻炎(chronic rhinitis sicca)一般认为长期受外界的物理或化学物质的刺激所致。本病是一种常见的职业性慢性鼻炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鼻干",
+          "鼻黏膜和鼻甲萎缩",
+          "鼻粘膜干燥发痒",
+          "鼻屎多",
+          "鼻干"
+        ],
+        "complication": [
+          "嗅觉障碍",
+          "硬脑膜外脓肿",
+          "硬脑膜下脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "70%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "鼻腔内镜",
+          "激发试验"
+        ],
+        "medicine": [
+          "鼻炎康片",
+          "辛芳鼻炎胶囊",
+          "鼻血止颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎康片(德众)",
+          "grade": "3.87",
+          "total": "368",
+          "secondary": "253"
+        },
+        {
+          "medicine_name": "辛芳鼻炎胶囊(立效)",
+          "grade": "3.44",
+          "total": "35",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "鼻血止颗粒",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃穿孔",
+    "information": {
+      "introduction": "胃穿孔是溃疡病患者最严重的并发症之一。病人的胃穿孔主要是暴饮暴食所致，暴饮暴食能引起胃酸和胃蛋白酶增加，而很容易诱发胃穿孔。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": " 50岁以上 ",
+        "symptom": [
+          "恶心与呕吐",
+          "发烧",
+          "白细胞增多",
+          "肚子疼"
+        ],
+        "complication": [
+          "新生儿胃穿孔",
+          "胃溃疡性穿孔",
+          "胃、十二指肠溃疡急性穿孔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "95%",
+        "duration": "2-6周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "上消化道X线钡餐",
+          "胃肠道CT"
+        ],
+        "medicine": [
+          "盐酸林可霉素滴耳液",
+          "盐酸林可霉素滴耳液",
+          "穿孔针"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "寒冷性荨麻疹",
+    "information": {
+      "introduction": "寒冷性荨麻疹是指皮肤在暴露于冷风、冷水等后，数分钟内局部出现瘙痒性水肿和风团，保暖后缓解。冬季接触寒冷物体的机会多，故本病易见到。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "寒战",
+          "瘙痒",
+          "头痛",
+          "心动过速"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "阿伐斯汀胶囊",
+          "阿伐斯汀胶囊",
+          "炉甘石洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荆肤止痒颗粒(丽珠)",
+          "grade": "3.38",
+          "total": "6",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "瘫痪",
+    "information": {
+      "introduction": "瘫痪(paralysis)是随意运动功能的减低或丧失，是神经系统常见的症状。瘫痪是上、下运动神经元、锥体束及周围神经病变所致，有关肌肉本身病变导致的肌无力将另外叙述。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "麻痹",
+        "part": [
+          "颅脑",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "截瘫",
+          "感觉障碍",
+          "面肌强直",
+          "面纹消失",
+          "肌张力降低"
+        ],
+        "complication": [
+          "褥疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "30%",
+        "duration": "30天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "头颅平片",
+          "尿素氮",
+          "血液电解质",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "珍宝丸",
+          "扎冲十三味丸",
+          "瘫痪功能康复仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珍宝丸",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "扎冲十三味丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "同仁大活络丸(同仁堂)",
+          "grade": "2.38",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "偏瘫复原丸(同仁堂)",
+          "grade": "2.16",
+          "total": "23",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "大活络胶囊(药都)",
+          "grade": "2.74",
+          "total": "42",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "华佗再造丸(奇星)",
+          "grade": "2.44",
+          "total": "38",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(金诃)",
+          "grade": "1.74",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "如意珍宝丸(金诃)",
+          "grade": "2.11",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿结核病",
+    "information": {
+      "introduction": "结核病(tuberculosis)是由结核杆菌引起的慢性传染病。全身各个器官都可累及，但以肺结核病为最多见。30年来由于推广了卡介苗接种及应用抗结核药物治疗，结核病流行情况大为好转，但由于目前人口众多，结核病仍为目前我国常见病。目前，世界结核病流行的两个问题是：(1)多种耐药结核菌感染。(2)爱滋病与结核病在感染及发病上相互间的不良影响",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "原发性结核好发于青少年",
+        "symptom": [
+          "呼吸困难",
+          "白细胞增多",
+          "鼻部结核",
+          "低烧",
+          "疱疹"
+        ],
+        "complication": [
+          "咯血",
+          "自发性气胸",
+          "慢性肺源性心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": ">40%",
+        "duration": ">30天",
+        "method": [
+          "药物治疗、手术治疗、支持治疗"
+        ],
+        "examination": [
+          "胸部平片",
+          "结核杆菌检查",
+          "结核杆菌基因检测",
+          "结核杆菌血清学检查",
+          "血清免疫球蛋白D"
+        ],
+        "medicine": [
+          "注射用重组人白介素-2(125Ala)",
+          "氢溴酸右美沙芬咀嚼片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

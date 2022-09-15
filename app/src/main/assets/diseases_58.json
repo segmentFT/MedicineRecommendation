@@ -1,0 +1,948 @@
+[
+  {
+    "disease_name": "皮肤划痕症",
+    "information": {
+      "introduction": "人工性荨麻疹又称皮肤划痕症，皮肤上通常无风团，若用指甲或钝器划皮肤时，即发生与划痕相一致的条状隆起，不久消退，伴有瘙痒。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "人工性荨麻疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多发于女性或过敏体质的年轻...",
+        "symptom": [
+          "皮肤有瘙痒抓痕",
+          "瘙痒",
+          "红斑样皮疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "皮肤划痕试验"
+        ],
+        "medicine": [
+          "盐酸异丙嗪片",
+          "盐酸异丙嗪片",
+          "盐酸异丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性溃疡性结肠炎",
+    "information": {
+      "introduction": "溃疡性结肠炎是一种结、直肠粘膜的弥漫性炎症，其临床特点为原因不明的、时好时坏血性腹泻。难以设想如此一个破坏性疾病却无一个可确定的病因或一个特异的内科治疗方法。虽然切除全部病变的结、直肠可完全治愈此病；但付出的代价将是有可能从此终身腹部回肠造口。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "大瘕泄，慢性非特异性溃疡性结肠炎",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "腹胀",
+          "充血",
+          "面色苍白",
+          "肠鸣"
+        ],
+        "complication": [
+          "腹膜炎",
+          "结节性红斑",
+          "肿胀",
+          "多形红斑",
+          "鹅口疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约8000--15000",
+        "ratio": "80%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血清总蛋白",
+          "血清癌胚抗原",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "奥沙拉秦钠胶囊",
+          "固肠止泻丸",
+          "巴柳氮钠颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠炎宁胶囊(长谓安)",
+          "grade": "3.61",
+          "total": "72",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "健脾理肠片(王老吉)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胃肠宁片(万通)",
+          "grade": "4.35",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠炎宁胶囊",
+          "grade": "3.83",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "胃肠宁片(圣朗)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "牙髓炎",
+    "information": {
+      "introduction": "牙髓病是指牙髓组织的疾病，包括牙髓炎症、牙髓坏死和牙髓退变。由于牙髓组织处于牙体硬组织包绕之中，只通过根尖孔、侧副根管与外界联系，牙髓急性炎症时，血管充血、渗出物积聚，导致髓腔内压力增高，使神经受压，加以炎性渗出物的刺激而使疼痛极为剧烈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "牙髓病,牙髓坏死,牙髓退变",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "门齿间距增宽",
+          "咬痛",
+          "牙釉质腐蚀",
+          "牙疼",
+          "牙龈肿胀"
+        ],
+        "complication": [
+          "蜂窝织炎",
+          "牙折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-2000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "牙髓冷热诊",
+          "牙髓电活力"
+        ],
+        "medicine": [
+          "甲硝唑芬布芬胶囊",
+          "清眩丸",
+          "丁硼乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清眩丸(同仁堂)",
+          "grade": "2.25",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丁细牙痛胶囊(泰康)",
+          "grade": "2.26",
+          "total": "130",
+          "secondary": "99"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾结核",
+    "information": {
+      "introduction": "肾结核(tuberculosis of kidney)在泌尿生殖系结核中占有重要地位，泌尿生殖系其他器官结核，大多继发于肾结核。因此，既要把泌尿生殖系结核作为全身结核病的一部分，也要把泌尿生殖系某一器官结核作为整个系统结核病的一部分。结核杆菌侵入肾脏，首先在双肾毛细血管丛形成病灶，但不产生临床症状，多数病灶由于机体抵抗力增强而痊愈，此时称为病理性肾结核。如侵入肾脏的结核分枝杆菌数量多、毒性强、机体抵抗力低下，则可侵入肾髓质及肾乳头，产生临床症状，此时称为临床肾结核。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾消耗病，肾痨",
+        "part": [
+          "肾"
+        ],
+        "infection": "有传染性",
+        "people": "青壮年人群",
+        "symptom": [
+          "盗汗",
+          "低烧",
+          "脓尿",
+          "尿痛",
+          "膀胱刺激症"
+        ],
+        "complication": [
+          "膀胱炎",
+          "肾积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "传染科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "治愈率72%",
+        "duration": "治疗周期9个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾上腺CT",
+          "脊柱MRI",
+          "直接涂片检查",
+          "胸部平片"
+        ],
+        "medicine": [
+          "消石片",
+          "腰痛宁胶囊",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消石片(玉林)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "夏枯草口服液(即瑞)",
+          "grade": "3.55",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方柳菊片(赣鹰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿肠套叠",
+    "information": {
+      "introduction": "肠套叠(intussusception)是指近端肠段及其肠系膜套入远端肠腔，导致肠梗阻的一种婴幼儿常见急腹症。肠套叠是小儿肠梗阻的常见病因，多发生于2岁以下的医院儿童。最多见的为回肠末端套入结肠。在我国发病率较高，占婴儿肠梗阻的首位。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "儿童肠套叠",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "小儿哭闹不安",
+          "嗜睡",
+          "肚子疼",
+          "排气障碍",
+          "肚子疼"
+        ],
+        "complication": [
+          "脱水",
+          "休克",
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "90%",
+        "duration": "1-3周",
+        "method": [
+          "灌肠治疗、手术治疗"
+        ],
+        "examination": [
+          "腹部透视",
+          "粪便隐血试验",
+          "十二指肠钡餐造影",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "注射用甲磺酸培氟沙星",
+          "甲磺酸培氟沙星",
+          "电脑遥控灌肠整复仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨盆骨折",
+    "information": {
+      "introduction": "骨盆骨折是一种严重外伤，多由直接暴力骨盆挤压所致。多见于交通事故和塌方。战时则为火器伤。骨盆骨折创伤在，半数以上伴有合并症或多发伤。最严重的是创伤性失血性休克，及盆腔脏器合并伤，救治不当有很高的死亡率。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "盆骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "剧痛",
+          "骨盆损伤",
+          "漏斗骨盆",
+          "膀胱功能障碍"
+        ],
+        "complication": [
+          "失血性休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "88%",
+        "duration": "180天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "骶髂关节检查法",
+          "骨盆分离试验",
+          "骨盆挤压试验",
+          "一般摄片检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "麝香接骨胶囊",
+          "水解蛋白口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "麝香接骨胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "露阴癖",
+    "information": {
+      "introduction": "“露阴癖”属于性变态的一种，也称“阴部暴露症”。其特点是在不适当的环境中对异性公开裸露自己的生殖器引起异性的紧张性情绪反应，而获得满足或快感，但无进一步性行为施加于对方的一种性偏离现象。通常发生于男性，男女之比为4∶1，又以未婚男青年居多(易发于25～35岁之间)，晚年发生往往提示为重性精神病或器质性损害。露阴对象多是素不相识的年轻异性，裸露程度不一，男性多数仅显露生殖器，女性显露乳房，少数暴露全身。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阴部暴露症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "窥淫癖",
+          "心理性性功能障碍",
+          "灌肠癖",
+          "精神变态"
+        ],
+        "complication": [
+          "神经质",
+          "神经病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "70-80%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "CT检查",
+          "脑电图"
+        ],
+        "medicine": [
+          "五氟利多片",
+          "盐酸氯丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "扩张型心肌病",
+    "information": {
+      "introduction": "扩张型心肌病是原发性心肌病常见的类型。其特点是以左心室(多数)或右心室有明显扩大，且均伴有不同程度的心肌肥厚，心室收缩功能减退，以心脏扩大、心力衰竭、心律失常、栓塞为基本特征。以往曾被称为充血性心肌病。本病常伴有心律失常，病情呈进行性加重，死亡可发生于疾病的任何阶段。约20%的DCM患者有心肌病的家族史。近年来，扩张型心肌病的诊断率逐渐增加，据估计，年诊断率约为8/10万，患病率约为37/10万，其中半数患者年龄在55岁以下，约1/3患者心功能为Ⅲ～Ⅳ级(纽约心脏病协会分级标准)。但部分未被诊断的轻型患者可能会使实际患病率更高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "充血性心肌病，心肌病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "乏力",
+          "腹部不适",
+          "呼吸困难",
+          "胸痛",
+          "心脏增大"
+        ],
+        "complication": [
+          "胸腔积液",
+          "动脉栓塞",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "40-50%，多以对症治疗为主",
+        "duration": "终身治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清抗心肌抗体",
+          "心电图",
+          "胸部平片",
+          "M型超声心动图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "心荣颗粒",
+          "盐酸地尔硫片",
+          "免疫定量分析仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心荣颗粒(九方)",
+          "grade": "3.57",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "剥脱性角质松解症",
+    "information": {
+      "introduction": "剥脱性角质松解症是一种浅表的手足角质剥脱性皮肤病，好发于双侧掌跖，以非炎症性表浅脱皮为其特点。在儿童中较为常见，可以自愈，但常复发，严重者可有手指皲裂、疼痛，对患儿生活造成一定影响。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "角层板状出汗不良,手掌脱皮症,汗疱症,汗疹症",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鳞屑",
+          "瘙痒",
+          "出汗减少",
+          "足底脱皮"
+        ],
+        "complication": [
+          "多汗症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "皮肤性病"
+        ],
+        "cost": "市三甲医院约（3000— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "皮疹"
+        ],
+        "medicine": [
+          "尿素软膏",
+          "尿素软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "髋关节脱位",
+    "information": {
+      "introduction": "本病是一种严重损伤，因为髋关节结构稳固，必须有强大的外力才能引起脱位。在脱位的同时软组织损伤亦较严重。且常合并其它部位或多发损伤。因此患者多为活动很强的青壮年。一般分为前、后及中心脱位3种类型。脱位后股骨头位于Nelaton线（髂骨前上棘与坐骨结节连线）之前者为前脱位。脱位于该线之后者为后脱位。股骨头被挤向中线，冲破髋臼而进入骨盆者为中心脱位。三种类型中以后脱位最为常见。这种损伤应按急诊处理，复位越早效果越好。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "屈髋屈膝及外旋畸形",
+          "关节疼痛",
+          "髋外侧可见皮下瘀血斑",
+          "髋部酸胀不适",
+          "大转子叩痛"
+        ],
+        "complication": [
+          "缺血性坏死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "95%",
+        "duration": "1-7天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "单腿站立试验",
+          "内拉通线检查",
+          "望远镜试验",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "薏辛除湿止痛胶囊",
+          "散寒活络丸",
+          "聚左旋乳酸可吸收骨固定系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "散寒活络丸(同仁堂)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "热感冒",
+    "information": {
+      "introduction": "暑热感冒是因久旱酷热而生，属于纯粹的阳热证候。此类感冒的重要特征是热象突出，是四季感冒中症状较重的一种类型。发生于夏季最炎热的七、八月间，由于气温较高，毛窍开泄，故易感受暑热之邪而发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "暑热感冒",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ",
+        "symptom": [
+          "浮脉",
+          "高热寒战",
+          "口干",
+          "涕唾稠粘",
+          "舌苔薄白"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "儿科",
+          "中医科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "暑热感冒颗粒",
+          "流感茶",
+          "小儿感冒颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "暑热感冒颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "流感茶(希尔安)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒灵颗粒(999)",
+          "grade": "2.98",
+          "total": "88",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒灵胶囊",
+          "grade": "2.99",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(双蚁)",
+          "grade": "3.56",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方感冒灵颗粒(双蚁)",
+          "grade": "3.34",
+          "total": "69",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "感冒软胶囊(同仁堂)",
+          "grade": "3.11",
+          "total": "75",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清片",
+          "grade": "4.42",
+          "total": "46",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒(无蔗糖)(同仁堂)",
+          "grade": "2.72",
+          "total": "42",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "感冒清热软胶囊(欧意)",
+          "grade": "2.75",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "连花清瘟胶囊(以岭)",
+          "grade": "2.11",
+          "total": "168",
+          "secondary": "115"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "巨幼细胞性贫血",
+    "information": {
+      "introduction": "巨幼细胞性贫血(megaloblastic anemia)是由于脱氧核糖核酸(DNA)合成障碍所引起的一组贫血，主要系体内缺乏维生素B12或叶酸所致，亦可因遗传性或药物等获得性DNA合成障碍引起。约95%的病例系因叶酸或(和)维生素B12缺乏引起的营养性贫血，其早期阶段，单纯表现为叶酸或维生素B12缺乏者临床上并不少见。营养性巨幼细胞贫血具有地区性，我国以山西和陕西省等西北地区较多见，患病率可达5.3%;恶性贫血在我国则罕见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "恶性贫血，巨幼红细胞性贫血，巨幼贫，巨幼细胞贫血",
+        "part": [
+          "全身",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "青少年、孕妇",
+        "symptom": [
+          "气短",
+          "眼睑浮肿",
+          "出血倾向",
+          "无力",
+          "忧郁"
+        ],
+        "complication": [
+          "心力衰竭",
+          "痛风",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "4-6个月",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "维生素B12",
+          "异常红细胞形态",
+          "红细胞检查",
+          "血液生化六项",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "安神补脑液",
+          "再造生血片",
+          "维生素B12注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安神补脑液(敖东)",
+          "grade": "2.47",
+          "total": "389",
+          "secondary": "331"
+        },
+        {
+          "medicine_name": "再造生血片(蜂王牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "非性病性梅毒",
+    "information": {
+      "introduction": "非性病性梅毒(地方性梅毒)(endemic syphilis，nonvenereal syphilis)是由Ⅱ型苍白密螺旋体引起的地方流行性疾病，非性传播引起。人与人间的传播主要是通过黏膜接触。机体接触被病原体污染的餐具、饮料杯或毡制品等而被传染。最常见的是二期口腔黏膜斑。不经治疗的二期地方性梅毒可在6～9个月自愈。三期损害为皮肤、鼻咽和骨的胶性溃疡。单剂量苄星青霉素治疗本病及其接触者是有效的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "贝吉病,地方性梅毒,非性病梅毒",
+        "part": [
+          "口",
+          "皮肤",
+          "骨"
+        ],
+        "infection": "有传染性",
+        "people": "由螺旋体引起的地方流行性疾...",
+        "symptom": [
+          "丘疹",
+          "咽痛",
+          "鼻黏膜溃疡",
+          "咽部溃疡",
+          "无痛性口腔溃疡"
+        ],
+        "complication": [
+          "鼻咽炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "性病科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（3000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "梅毒螺旋体血凝试验",
+          "梅毒螺旋体血球凝集试验",
+          "血清梅毒螺旋体抗体"
+        ],
+        "medicine": [
+          "大败毒胶囊",
+          "琥乙红霉素片",
+          "盐酸多西环素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大败毒胶囊",
+          "grade": "4.60",
+          "total": "15",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "空调病",
+    "information": {
+      "introduction": "空调病(air-condition disease)，空调给人们带来舒爽的同时，也带来的一种“疾病”。这类现象在现代医学上称之为“空调综合症”或“空调病”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老人、儿童和妇女",
+        "symptom": [
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "体检保健科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "90%",
+        "duration": "5-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "亿方拔罐器（手宁式）"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "淋巴水肿",
+    "information": {
+      "introduction": "淋巴水肿是由于淋巴液淤积的长期刺激，致使皮肤和皮下组织增生，皮皱加深，皮肤增厚变硬粗糙，并可有棘刺和疣状突起，外观似大象皮肤，故名象皮肿。本病中医称“无名肿”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "象皮肿，淋巴管性水肿，无名肿",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "旅行者水肿",
+          "皮肤粗糙",
+          "淋巴发育不全",
+          "慢性溃疡",
+          "寒战"
+        ],
+        "complication": [
+          "肺栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "外科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（3000-7000元）",
+        "ratio": "40%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血钼",
+          "局部淋巴显象",
+          "淋巴显像"
+        ],
+        "medicine": [
+          "呋塞米注射液",
+          "呋塞米片",
+          "空气波压力治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

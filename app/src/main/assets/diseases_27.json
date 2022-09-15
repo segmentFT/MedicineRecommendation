@@ -1,0 +1,980 @@
+[
+  {
+    "disease_name": "性障碍",
+    "information": {
+      "introduction": "性障碍包括性生理功能及障碍及性心理障碍两大类。性问题引起医生的关心只是近数十年的事，在我国则还刚开始。由于性障碍常与心理因素有关，所以精神科医生对此较早接触。性生理功能障碍的患者多去秘尿科门诊，女性患者则很少去就就诊或去妇产科就诊。近年来由于有关这方面的科普文章较多，性心理咨询的对象也就多了起来，目前很重要的是在医生中普及这方面的知识，然后才有可能在社会中进行科学的性知识教育。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "成年人群",
+        "symptom": [
+          "晚霞样或夕照样眼底",
+          "抑郁",
+          "快感缺乏",
+          "震颤"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "心理治疗 药物治疗"
+        ],
+        "examination": [
+          "前列腺检查",
+          "男性性功能全面测试"
+        ],
+        "medicine": [
+          "前列回春胶囊",
+          "龟鹿补肾丸",
+          "他达拉非片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列回春胶囊(神益)",
+          "grade": "2.20",
+          "total": "95",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龟鹿补肾丸(花城)",
+          "grade": "3.45",
+          "total": "419",
+          "secondary": "365"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨质宁搽剂(摩美得)",
+          "grade": "3.42",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益肾壮阳膏(新天夫)",
+          "grade": "1.12",
+          "total": "28",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阴道痉挛",
+    "information": {
+      "introduction": "阴道痉挛(vaginismus)是一种性心理及性生理障碍综合征，又称性交恐惧症。系指在预感或事实上向阴道插入阴茎或一种替代物时，围绕阴道外1/3的肌肉，包括会阴浅横肌、深横肌、肛提肌，大腿内肌群发生不自主的痉挛性收缩，以致产生性交疼痛或性交不能进入。但性唤起多无困难，阴道滑润作用正常，对非性交活动可能感到满意和愉快，性高潮反应正常。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "性交恐惧症",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "新婚期女性",
+        "symptom": [
+          "阴道出血",
+          "阴道持续少量流血",
+          "产后下腹坠痛或阴道坠胀感",
+          "性交困难"
+        ],
+        "complication": [
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500—— 1000元）",
+        "ratio": "90%",
+        "duration": "1个月",
+        "method": [
+          "心理治疗、药物治疗"
+        ],
+        "examination": [
+          "阴道触诊",
+          "阴道窥器检查",
+          "白带常规",
+          "宫颈涂片"
+        ],
+        "medicine": [
+          "去痛片",
+          "氢溴酸高乌甲素注射液",
+          "联苯苄唑乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "突发性耳聋",
+    "information": {
+      "introduction": "突发性聋亦名特发性聋或暴聋，即在无耳鸣、耳聋的情况下，原因不明突然瞬间发生耳鸣、耳聋，于数小时或数日内听力迅速丧失达到高峰者。多累及单耳，以40～60岁成年人发病率高，双耳患者占1％，男性较多，春秋季节易发病。发病率据Byl（1977年）统计为10.7/10万，北京同仁医院听力门诊统计，占初诊感音性耳聋的4.8％。据最近内外文献报道，此病似有逐渐增加趋势。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "突发性聋、突聋",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、青壮年",
+        "symptom": [
+          "听力下降",
+          "恶心",
+          "复聪现象",
+          "耳堵",
+          "眼睑震颤"
+        ],
+        "complication": [
+          "中耳炎",
+          "耳聋",
+          "耳膜穿孔",
+          "眩晕"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 20000元）",
+        "ratio": "60%",
+        "duration": "7-10天",
+        "method": [
+          "糖皮质激素治疗、高压氧治疗"
+        ],
+        "examination": [
+          "施瓦巴赫试验",
+          "音叉检查",
+          "纯音听力计检查法",
+          "听力图",
+          "听力检查"
+        ],
+        "medicine": [
+          "注射用降纤酶",
+          "注射用葛根素",
+          "愈风宁心片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "愈风宁心片(同仁堂)",
+          "grade": "4.55",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "愈风宁心片(燕峰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胆囊癌",
+    "information": {
+      "introduction": "在胆囊恶性肿瘤中胆囊癌(carcinoma of the gall-blader)占首位，其它尚有肉瘤、类癌、原发性恶性黑色素瘤、巨细胞腺癌等。因后者均属少见，故本章主要讨论原发性胆囊癌。过去被认为是比较罕见的恶性肿瘤，无论用任何方法治疗，病程仍进展迅速，最后导致死亡。女性较男性多2～4倍。多见于50～70岁。早期诊断和采取适当的治疗方法对本病的预后具有重要意义。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群40岁以上",
+        "symptom": [
+          "嗳气",
+          "恶病质",
+          "持续性疼痛",
+          "胆囊积脓",
+          "胆囊壁变薄"
+        ],
+        "complication": [
+          "血栓形成"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肝胆外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元",
+        "ratio": "30%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、放射治疗、化学治疗"
+        ],
+        "examination": [
+          "胆囊胆道B超",
+          "血清组织多肽抗原",
+          "p53基因",
+          "多药耐药基因",
+          "血浆游离皮质醇"
+        ],
+        "medicine": [
+          "依托泊苷软胶囊",
+          "替莫唑胺胶囊",
+          "经肝胆道支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄  虫丸",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄庶虫丸",
+          "grade": "3.73",
+          "total": "12",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "人格障碍",
+    "information": {
+      "introduction": "人格障碍又称为病态人格或异常人格，是指人格的畸形发展，形成了一种特有的、明显的、偏离所处的社会文化背景，及多数人认可的认知行为模式。人格特征的偏离对环境适应不良，明显干扰了其社会和职业功能，导致此人不能保持和谐的人际关系和难以适应社会生活。不但给别人带来伤害，而且其本人也深受其害或引起痛苦。病态人格原是广义的概念，泛指所有类型的人格不正常，后来一些学者发现病态人格的最初定义，符合现今称谓的反社会人格，从而又出现了病态人格的狭义的概念，专指反社会人格，提出以人格障碍(personality disorders)代替广义的病态人格。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "病态人格,异常人格",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "压力大者好发",
+        "symptom": [
+          "猜疑",
+          "多疑",
+          "易于产生病理嫉妒信念",
+          "社交敏感性障碍",
+          "冲动型人格障碍"
+        ],
+        "complication": [
+          "精神分裂症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "60%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、心理咨询"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "盐酸氟西汀胶囊",
+          "碳酸锂片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "睡美人症候群",
+    "information": {
+      "introduction": "所谓睡美人症候群，英文原名为Kleine-Levine Syndrome，简称KLS，这是一种会反覆出现过度的睡眠及行为改变的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "克莱恩-莱文综合症",
+        "part": [
+          "头部"
+        ],
+        "infection": "无传染性",
+        "people": "青年人",
+        "symptom": [
+          "嗜睡",
+          "抑郁",
+          "情绪性疲劳",
+          "神志不清",
+          "神志淡漠"
+        ],
+        "complication": [
+          "性病神经症",
+          "性欲亢进"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "脑外科",
+          "精神病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "CT检查",
+          "神经系统检查",
+          "血清NSE",
+          "脑脊液总胆固醇"
+        ],
+        "medicine": [
+          "氟马西尼",
+          "氟马西尼"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾虚腰痛",
+    "information": {
+      "introduction": "肾虚腰痛是慢性腰痛中的又一病症。多为先天禀赋不足，后天又劳累太过或久病体虚，或年老体衰，或房室不节，导致肾精亏损，无以滋养腰脊而发生疼痛。现代医学认为，肾虚腰痛多数与肾上腺皮质激素水平的下降，特别是性激素分泌减退和蛋白质缺乏有关，类似代谢性骨病——骨质疏松症。它是由于成骨细胞失去固有活力，使骨的基质不足而形成的一种代偿性疾病。骨质疏松的脊椎，常可出现双凹样畸形(图152)，即使遭受轻微外伤，也易造成压缩性骨折，但是骨质的组织学及化学成分均属正常。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口咸",
+          "腰背刺痛",
+          "下腰部疼痛",
+          "肾阴虚",
+          "肾气虚"
+        ],
+        "complication": [
+          "肾嗜酸细胞瘤",
+          "慢性肾性贫血",
+          "发作性睡病",
+          "小儿肾母细胞瘤",
+          "颅咽管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿酸",
+          "尿醛固酮",
+          "尿亮氨酸氨基肽酶",
+          "尿去氢异雄酮",
+          "尿沉渣细胞学"
+        ],
+        "medicine": [
+          "八子补肾胶囊",
+          "六味地黄丸",
+          "五子衍宗丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "62",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "五子衍宗丸(同仁堂)(水蜜丸)",
+          "grade": "2.00",
+          "total": "47",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒筋健腰丸(陈李济)",
+          "grade": "1.67",
+          "total": "153",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "壮腰健肾丸(陈李济)",
+          "grade": "4.14",
+          "total": "97",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "金锁固精丸(九芝堂)",
+          "grade": "3.97",
+          "total": "7",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "五子衍宗丸(太极)",
+          "grade": "2.22",
+          "total": "66",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "五子衍宗软胶囊(阿特维斯)",
+          "grade": "3.42",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "蚕蛹补肾胶囊(延朝)",
+          "grade": "1.92",
+          "total": "136",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "阳春口服液(同仁堂)",
+          "grade": "2.89",
+          "total": "10",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "五子衍宗丸(浓缩丸)(太极)",
+          "grade": "3.38",
+          "total": "62",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "沙苑子胶囊(凯达)",
+          "grade": "2.2",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五子衍宗丸(修正)",
+          "grade": "4.77",
+          "total": "9",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "腰痛片(龙门)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "健肾生发丸(亚宝尔宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胃食管反流病",
+    "information": {
+      "introduction": "胃食管反流性疾病(GERD)是一种食管胃动力性疾病。下食管扩约肌(LES)松弛期间，胃内容物反流人食管称胃食管反流(GER)胃食管存在生理反流和病理性反流两种。生理性反流是由LES自发性松弛引起，有利于胃内气体排出，食管会出现推动性蠕动将胃液推进到胃里，正常情况下不造成食管部膜损伤。病理性反流是多种因素引起的胃食管抗反流功能不全，所造成的一种病理现象。胃食管反流性疾病是胃或十二指肠内容物反流人食管引起的疾病。常合并食管炎，人群中约10%-20%有胃辅反流症状，但X线内镜检查可无异常发现，可能在相当长时间不被认识。持续发展可导致严重并发症，如：食管狭窄、溃疡、出血及巴瑞特(Barrett)食管，后者为癌前期病变。还可能发生食管外的并发症。如酸性喉炎、呼吸道痉挛、肺的损伤并发症等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "胃食管返流病,胃食管返流疾病",
+        "part": [
+          "食管",
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "嗳气",
+          "反胃",
+          "黏膜损害",
+          "吞咽困难",
+          "胃灼热"
+        ],
+        "complication": [
+          "先天性食管狭窄",
+          "糖尿病",
+          "巴来特(Barrett)食管",
+          "贲门失弛缓症",
+          "食管息肉"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "14-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "食道X线钡餐",
+          "酸返流试验",
+          "内镜检查",
+          "血清总胆红素",
+          "食管压力"
+        ],
+        "medicine": [
+          "艾司奥美拉唑镁肠溶片",
+          "注射用艾司奥美拉唑钠",
+          "上消化道PH值动态监测仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人睡眠障碍",
+    "information": {
+      "introduction": "睡眠障碍是指脑内网状激活系统及其他区域的神经失控或与睡眠有关的神经递质改变而导致的睡眠功能减退或睡眠影响呼吸功能。老年人并非睡眠需要减少，而是睡眠能力减退。睡眠障碍能引起相当的醒觉时病态(如生活质量下降甚至致命性损害)，因此，它是目前老年医学研究的重点。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年睡眠障碍",
+        "part": [
+          "颅脑",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "入睡困难",
+          "睡眠呼吸暂停",
+          "嗜睡",
+          "睡眠时间倒错",
+          "夜寐不实"
+        ],
+        "complication": [
+          "猝死",
+          "高血压",
+          "心律失常",
+          "睡眠障碍",
+          "肺动脉高压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "纤维鼻咽镜",
+          "多导睡眠图检查",
+          "动态心电图",
+          "动脉血气分析",
+          "多导睡眠图"
+        ],
+        "medicine": [
+          "乌灵胶囊",
+          "补肾益寿胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌灵胶囊(佐力)",
+          "grade": "2.95",
+          "total": "98",
+          "secondary": "77"
+        },
+        {
+          "medicine_name": "补肾益寿胶囊(太极)",
+          "grade": "2.83",
+          "total": "78",
+          "secondary": "18"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阿斯匹林不耐受三联症",
+    "information": {
+      "introduction": "阿斯匹林不耐受三联症(aspirin intolerance triad)或称Wiolal综合征(Wielals syndrome)，是一种原因不明的呼吸道高反应性疾病。此类患者常伴有鼻息肉和支气管哮喘。阿斯匹林、消炎痛等非类固醇抗炎药物，常可诱发鼻炎(喷嚏、流涕)、哮喘发作，还可伴有荨麻疹、血管性血肿等症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "Wiolal综合征",
+        "part": [
+          "鼻",
+          "肺",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "胸闷",
+          "变应性鼻炎",
+          "皮质激素依赖",
+          "鼻溢液",
+          "鼻分泌物增多"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "耳鼻喉科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "激发试验"
+        ],
+        "medicine": [
+          "盐酸氨溴索分散片",
+          "盐酸氨溴索分散片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "自然流产",
+    "information": {
+      "introduction": "妊娠不足28周、胎儿体重不足1000g而终止妊娠者，称为自然流产。自然流产根据发生的时间不同，又可以分为早期自然流产、中期流产和早产几种。怀孕早期自然流产通常情况下自然流产是指在胎儿能够存活以前，流出母体之外。自然流产占所有妊娠的百分之十五到三十左右。在妊娠前三个月流产，称为怀孕早期自然流产。在妊娠十二周到二十周期间流产，称为中期流产。在妊娠二十周以后流产，称为早产，胎儿有可能存活，但需有非常先进的护理条件。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "自发流产,自发性流产",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期女性人群",
+        "symptom": [
+          "下腹痛",
+          "阴道出血",
+          "停经",
+          "子宫小",
+          "完全流产"
+        ],
+        "complication": [
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "治愈率98%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "IgG抗A-效价",
+          "子宫大小",
+          "血清孕激素",
+          "子宫内膜活检",
+          "阴道细胞学检查"
+        ],
+        "medicine": [
+          "黄体酮胶囊",
+          "维生素E软胶囊",
+          "滋肾育胎丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "滋肾育胎丸(中一牌)",
+          "grade": "2.14",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性白血病",
+    "information": {
+      "introduction": "急性白血病是一种或多种造血干细胞及祖细胞恶变，失去正常的增殖、分化及成熟能力，无控制的持续增殖，逐步取代骨髓并经血液侵润至全身组织及器官。是一种造血组织的恶性肿瘤，俗称血癌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、青年",
+        "symptom": [
+          "胸骨后烧灼样痛",
+          "不明原因发热",
+          "出血倾向",
+          "性欲减退",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "肺炎",
+          "高尿酸血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（80000 —— 100000元）",
+        "ratio": "45%",
+        "duration": "3-6月",
+        "method": [
+          "化学治疗、骨髓移植、靶向治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "骨髓增生程度",
+          "血液生化六项",
+          "血小板计数",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "硫唑嘌呤片",
+          "维A酸片",
+          "甲氨蝶呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阵发性室上性心动过速",
+    "information": {
+      "introduction": "阵发性室上性心动过速(paroxysmal supraventricular tachycardia，PSVT)是指连续出现3次以上的房性早搏(artial premature beats)或房室交界性早搏(premature atrioventricular junctional beats)所组成的异常性心律。多见于无器质性心脏病的年轻人或有风湿性心脏病、冠心病、心肌病及甲亢病人。其特征是心动过速突发突止，轻者感心慌胸闷，重者因血流动力学障碍而出现头昏，甚至意识丧失。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "室上速",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "多见于无器质性心脏病的年轻...",
+        "symptom": [
+          "胸闷憋气",
+          "面色青灰",
+          "无力",
+          "心悸",
+          "心率增快"
+        ],
+        "complication": [
+          "心绞痛",
+          "低血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（3000-10000元）",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "盐酸莫雷西嗪片",
+          "珊瑚七十味丸",
+          "腺苷注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "冻疮",
+    "information": {
+      "introduction": "冻疮是由于寒冷引起的局限性炎症损害。冻疮是冬天的常见病，尤其是儿童、妇女及老年人。冻疮一旦发生，在寒冷季节里常较难快速治愈，要等天气转暖后才会逐渐愈合，欲减少冻疮的发生，关键在于入冬前就应开始预防。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、妇女及老年人",
+        "symptom": [
+          "皮肤潮红肿胀",
+          "红斑样皮疹",
+          "肢体发凉",
+          "肢端发绀",
+          "手指冻肿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（2000 —— 4000)",
+        "ratio": "80%",
+        "duration": "7--14天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": "?",
+        "medicine": [
+          "肝素钠乳膏",
+          "辣椒风湿膏",
+          "冻疮消酊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "辣椒风湿膏(羚锐)",
+          "grade": "1.66",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "冻疮消酊(鼎龙)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冻疮消酊(马应龙)",
+          "grade": "4.6",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "消肿止痛酊(花红)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "140"
+        },
+        {
+          "medicine_name": "冻疮消酊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冻疮未溃膏",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺栓塞",
+    "information": {
+      "introduction": "肺栓塞(pulmonary　embolism)是指嵌塞物质进入肺动脉及其分支，阻断组织血液供应所引起的病理和临床状态。常见的栓子是血栓，其余为少见的新生物细胞、脂肪滴、气泡、静脉输入的药物颗粒甚至导管头端引起的肺血管阻断。由于肺组织受支气管动脉和肺动脉双重血供，而且肺组织和肺泡间也可直接进行气体交换，所以大多数肺栓塞不一定引起肺梗塞。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺动脉栓塞",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胸痛",
+          "右心衰竭",
+          "心肺栓塞",
+          "呼吸困难",
+          "急性呼吸困难"
+        ],
+        "complication": [
+          "肺栓塞",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000-100000元）",
+        "ratio": "40%",
+        "duration": "1个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺通气量",
+          "血浆D-二聚体",
+          "二氧化碳分压",
+          "胸部CT",
+          "心电图"
+        ],
+        "medicine": [
+          "双嘧达莫片",
+          "利肺片",
+          "三七通舒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利肺片(灵泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三七通舒胶囊(华神)",
+          "grade": "2.82",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养正消积胶囊(以岭)",
+          "grade": "3.87",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "甜梦胶囊",
+          "grade": "3.03",
+          "total": "37",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "舒血宁注射液",
+          "grade": "1.48",
+          "total": "8",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

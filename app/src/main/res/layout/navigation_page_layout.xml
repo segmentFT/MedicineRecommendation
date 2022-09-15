@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="选择查询疾病的方式"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center_vertical|center_horizontal"
+            android:background="#9491E432" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#6BB11B" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="如果你已经知道疾病名称，在此输入疾病名查询: "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="#8BD7F6B4" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/inputDiseaseName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4" />
+
+            <Button
+                android:id="@+id/inputDiseaseNameButton"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:layout_weight="1"
+                android:text="查询疾病"
+                android:background="@drawable/button_background1" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_margin="5dp"
+        android:background="#A66BB11B" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="如果你不知道疾病名称，可以通过疾病的类别查询"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="#8BD7F6B4" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/queryWithPositionLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="通过疾病的发病部位查询: "
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="40dp" />
+
+            <Button
+                android:id="@+id/queryWithPositionButton"
+                android:layout_width="120dp"
+                android:layout_height="25dp"
+                android:text="通过部位查询"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_toRightOf="@id/queryWithPositionLabel"
+                android:background="#BFEC8B" />
+
+            <TextView
+                android:id="@+id/queryWithDepartmentLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/queryWithPositionLabel"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="20dp"
+                android:text="通过疾病对应的科室查询: "
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/queryWithDepartmentButton"
+                android:layout_width="120dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/queryWithPositionButton"
+                android:layout_toRightOf="@id/queryWithDepartmentLabel"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:text="通过科室查询"
+                android:background="#BFEC8B" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#A66BB11B" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="如果你对疾病不熟悉，可以通过症状查询疾病"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="#8BD7F6B4" />
+
+        <Button
+            android:id="@+id/queryBySelfDiagnosis"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text="点击此处进入疾病自查界面"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="#DFFFFFFF"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_background1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_marginTop="30dp"
+            android:background="#A66BB11B" />
+
+    </LinearLayout>
+
+</LinearLayout>

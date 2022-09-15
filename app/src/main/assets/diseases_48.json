@@ -1,0 +1,839 @@
+[
+  {
+    "disease_name": "多囊肾",
+    "information": {
+      "introduction": "多囊肾为肾实质中有无数的大小不等的囊肿，大者可很大，小者可肉眼仅能可见，使肾体积整个增大，表面呈高低不平的囊性突起，囊内为淡黄色浆液，有时因出血而呈深褐色或红褐色。多囊肾有两种类型，常染色体隐性遗传型(婴儿型)多囊肾和常染色体显性遗传型(成年型)多囊肾。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "囊胞肾,肾脏良性多房性囊瘤，Potter(Ⅰ)综合征，Perlmann综合征，先天性肾囊肿瘤病",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "双侧肾内痛",
+          "血压高",
+          "慢性肾功能不全",
+          "肾区压痛",
+          "肾区钝痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元",
+        "ratio": "治愈率20%",
+        "duration": "治疗周期15-45天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "尿常规",
+          "肾血管造影",
+          "肾脏MRI",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "复方α-酮酸片",
+          "吗替麦考酚酯胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "霍乱",
+    "information": {
+      "introduction": "霍乱(cholera)，是由霍乱是由霍乱弧菌所引起的，通常是血清型O1的霍乱弧菌所致的烈性肠道传染病，霍乱弧菌能产生霍乱毒素，造成分泌性腹泻，即使不再进食也会不断腹泻，洗米水状的粪便是霍乱的特征，严重者导致外周循环衰竭和急性肾衰竭。发病急、传播快，是亚洲、非洲大部分地区腹泻的重要原因，属国际检疫传染病。在我国属于甲类传染病。一般以轻症多见，带菌者亦较多，但重症及典型患者治疗不及时可致死亡。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "有传染性",
+        "people": "婴幼儿，儿童",
+        "symptom": [
+          "水样便",
+          "皮肤弹性差",
+          "乏力",
+          "分泌性腹泻",
+          "头晕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约20000--50000元",
+        "ratio": "10%",
+        "duration": "1-7天",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "粪细菌培养",
+          "粪便性状",
+          "霍乱弧菌检测"
+        ],
+        "medicine": [
+          "周氏回生丸",
+          "复方磺胺甲噁唑片",
+          "Ο1群霍乱弧菌诊断血清"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "周氏回生丸",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "强直性脊柱炎",
+    "information": {
+      "introduction": "强直性脊柱炎(ankylosingsporidylitis，AS)是一种主要侵犯骶髂关节和脊柱，并可不同程度的累及周围关节、内脏系统的全身性炎性疾病。早期本病被认为是类风湿关节炎的一种特殊类型，称为类风湿性脊柱炎、畸形性脊柱炎、类风湿中心型等，现统一称之为强直性脊柱炎。AS的特征性病理变化是肌腱、韧带、骨附着点病变，韧带钙化及骨性强直为其重要特点。本病一般类风湿因子呈阴性，与银屑病关节炎、反应性关节炎、炎症性肠病性关节炎、未分化脊柱关节病等统属血清阴性脊柱关节病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "类风湿性脊柱炎，畸形性脊柱炎，类风湿中心型，龟背",
+        "part": [
+          "脊柱",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": " 10～40岁，平均发病年龄为25...",
+        "symptom": [
+          "晨僵",
+          "持续性疼痛",
+          "骶髂关节疼痛",
+          "关节疼痛",
+          "腰脊椎疼痛"
+        ],
+        "complication": [
+          "房室传导阻滞",
+          "心肌炎",
+          "主动脉瓣关闭不全",
+          "前列腺炎",
+          "脊髓压迫症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "20%(控制症状治疗为主，手术为辅。)",
+        "duration": ">120天(大部分需要终身治疗)",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清类风湿因子",
+          "脊柱检查",
+          "腰背部检查",
+          "血液生化六项",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "萘普生片",
+          "萘普生片",
+          "美洛昔康片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "链球菌感染",
+    "information": {
+      "introduction": "链球菌属(Streptococcus)细菌侵入人体引起的疾病。分2类：一类是感染性疾病，如急性扁桃体炎、脓皮病、肺炎等;另一类为变态反应性疾病，如急性肾小球肾炎等链球菌感染为人类常见疾病，不仅遍及世界各地，而且四季均可发生。肺炎链球菌旧称肺炎双球菌(Diplococ- cuspneumoniae)，存在于正常人体的口、鼻、咽腔，人体抵抗力降低时方致病，主要引起大叶性肺炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "牙龈肿胀",
+          "细菌性心内膜炎",
+          "窒息",
+          "呼吸异常",
+          "昏迷"
+        ],
+        "complication": [
+          "链球菌坏死",
+          "溶血性链球菌性坏疽",
+          "米氏链球菌肺炎",
+          "肺炎链球菌败血症",
+          "肺炎链球菌性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科",
+          "肾内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清抗链球菌型M蛋白抗体",
+          "血清抗链球菌壁多糖抗体",
+          "抗“O”试验",
+          "抗链球菌激酶试验",
+          "抗链球菌溶血素“O”试验"
+        ],
+        "medicine": [
+          "盐酸四环素胶囊",
+          "头孢丙烯片",
+          "加替沙星滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝脓肿",
+    "information": {
+      "introduction": "肝脓肿可由溶组织阿米巴原虫或细菌感染所引起。阿米巴肝脓肿的发病与阿米巴结肠炎有密切关系，且脓肿大多数为单发；细菌性肝脓肿的细菌侵入途径除败血症外，可由腹腔内感染直接蔓延所引起，亦可因脐部感染经脐血管，门静脉而入肝脏，胆道蛔虫亦可为引起细菌性肝脓肿的诱因。常见的细菌有金黄色葡萄球菌，链球菌等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "肝病患者",
+        "symptom": [
+          "肚子疼",
+          "右上腹痛",
+          "持续性疼痛",
+          "肝区痛",
+          "发烧"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝胆外科",
+          "肝病"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-8000元）",
+        "ratio": "90%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肝脏超声检查",
+          "血清总蛋白",
+          "肝、胆、脾CT",
+          "肝、胆、胰、脾MRI",
+          "肝脏B超"
+        ],
+        "medicine": [
+          "奥硝唑片",
+          "奥硝唑胶囊",
+          "小金胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小金胶囊(健民)",
+          "grade": "2.54",
+          "total": "24",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "小金胶囊(天基)",
+          "grade": "4.33",
+          "total": "10",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "小金丸(同仁堂)",
+          "grade": "1.42",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿尿路感染",
+    "information": {
+      "introduction": "尿路感染(urinary tract infection，UTI)简称尿感，是指病原微生物入侵泌尿系统，并在尿中繁殖，侵入泌尿道黏膜或组织引起炎症反应。分上尿路和下尿路感染;下尿路感染指膀胱炎和尿道炎;上尿路指肾盂肾炎，感染的危害较大，以婴幼儿发病率最高，反复感染可形成肾瘢痕，严重者可致继发性高血压和慢性肾功能衰竭。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿非特异性细菌的尿路感染",
+        "part": [
+          "肾",
+          "输尿管",
+          "盆腔"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "血沉增快",
+          "肾区叩击痛",
+          "高热",
+          "寒战"
+        ],
+        "complication": [
+          "败血症",
+          "肾功能不全"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "97%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "放射性核素肾扫描",
+          "尿液细菌培养",
+          "膀胱B超",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "呋喃妥因肠溶片",
+          "甲氧苄啶片",
+          "注射用头孢噻肟钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿缺铁性贫血",
+    "information": {
+      "introduction": "缺铁性贫血(iron deficiency anaemia，IDA)是婴幼儿时期最常见的一种贫血。其发生的根本病因是体内铁缺乏，致使血红蛋白合成减少而发生的一种小细胞低色素性贫血。临床上除可出现贫血外，还可因缺铁而降低许多含铁酶的生物活性，进而影响细胞代谢功能，使机体出现消化道功能紊乱、循环功能障碍、免疫功能低下、精神神经症状以及皮肤黏膜病变等一系列非血液系统的表现，对小儿健康危害较大，故为我国重要防治的小儿疾病之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿低铁性贫血,小儿营养性低色素性贫血,小儿营养性小细胞低色素性贫血",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "持续性发热",
+          "持续低烧",
+          "头晕",
+          "意识朦胧状态",
+          "神志淡漠"
+        ],
+        "complication": [
+          "小儿缺铁性贫血",
+          "特发性肺含铁血黄素沉着症",
+          "小儿特发性肺含铁血黄素沉着症",
+          "继发性铁粒幼细胞性贫血",
+          "遗传性铁粒幼细胞性贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "一般正规三甲医院典型病例治愈率达75%",
+        "duration": "正规治疗周期为100天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血液生化六项",
+          "新生儿溶血症筛查",
+          "血液分析仪",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "小儿硫酸亚铁糖浆",
+          "复方肝浸膏片",
+          "复方硫酸亚铁颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿生血糖浆(九芝堂)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "小儿生血糖浆(花溪)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈动脉狭窄",
+    "information": {
+      "introduction": "颈动脉狭窄，是作为血液由心脏通向脑和头其他部位的主要血管的颈动脉，出现狭窄的症状。颈动脉狭窄多是由于颈动脉的粥样斑块导致的颈动脉管腔的狭窄，其发病率较高，在60岁以上人群中患颈动脉狭窄者约占9%，多发生于颈总动脉分叉和颈内动脉起始段。有些狭窄性病变甚至可能逐渐发展至完全闭塞性病变。颈动脉狭窄可以通过药物控制或外科手术治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颈部",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体，中1老年人",
+        "symptom": [
+          "昏迷",
+          "失眠",
+          "脑缺血",
+          "感觉障碍",
+          "嗜睡"
+        ],
+        "complication": [
+          "短暂性脑缺血发作"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（10000-30000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "动脉听诊",
+          "颈动脉彩超",
+          "颈部MRI",
+          "放射性核素脑血管显像"
+        ],
+        "medicine": [
+          "盐酸氯丙嗪注射液",
+          "球囊扩张导管",
+          "颈动脉支架(单轨型)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "夜盲症",
+    "information": {
+      "introduction": "维生素A缺乏病(Vitamin A deficiency)是因体内缺乏维生素A而引起的全身性疾病，其主要病理变化是全身上皮组织显现角质变性。眼部症状出现较早而显著，对暗适应能力降低，继之结膜、角膜干燥，最后角膜软化，甚至穿孔，故又有夜盲前些天(night blindness)、干眼症(xerophthalmia)及角膜软化症(keratomalacia)等之称。本病多见于营养不良及长期腹泻的婴幼儿，发病高峰多在1～4岁，6岁以上较少见，亚非发展中国家均多见此病，在我国边远地区尚非少见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "维生素A缺乏病，蟾皮病，蟾皮症，维生素A缺乏症",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "多见于儿童",
+        "symptom": [
+          "夜盲",
+          "干性皮肤",
+          "结膜干燥斑",
+          "畏光",
+          "眼干"
+        ],
+        "complication": [
+          "小儿营养不良性消瘦",
+          "角膜软化症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "营养科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "3个月",
+        "method": [
+          "饮食、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血清维生素A",
+          "维生素A结合蛋白（RBP）",
+          "血清视黄醇结合蛋白"
+        ],
+        "medicine": [
+          "维生素AD滴剂",
+          "维生素AD软胶囊",
+          "维生素AD滴剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝豆状核变性",
+    "information": {
+      "introduction": "肝豆状核变性是以青少年为主的遗传性疾病，由铜代谢障碍引起。其特点为肝硬化、大脑基底节软化和变性、角膜色素环(Kayser-Fleischer环)，伴有血浆铜蓝蛋白缺少和氨基酸尿症。又名Wilson病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "Wilson病,威尔逊变性，颤症",
+        "part": [
+          "肝",
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "注意力不集中",
+          "无力",
+          "肝功能衰竭",
+          "鼻衄",
+          "肝昏迷"
+        ],
+        "complication": [
+          "褥疮",
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-20000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "骨关节及软组织CT",
+          "脑诱发电位",
+          "脑电图"
+        ],
+        "medicine": [
+          "硫酸锌口服溶液",
+          "氨肽素硫酸锌片",
+          "注射用二巯丁二钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "多发性硬化",
+    "information": {
+      "introduction": "多发性硬化(multiple sclerosis，MS)是以中枢神经系统(CNS)白质脱髓鞘病变为特点，遗传易感个体与环境因素作用发生的自身免疫性疾病。MS是中枢神经系统脱髓鞘疾病中最常见最主要的疾病。青、中年多见，临床特点是病灶播散广泛，病程中常有缓解复发的脑、脊髓和视神经神经损害。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "多发性硬化症,轴周性硬化性脑炎",
+        "part": [
+          "颅脑",
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脑白质变性",
+          "病理性发笑和哭喊",
+          "反应迟钝",
+          "抽搐",
+          "四肢无力"
+        ],
+        "complication": [
+          "褥疮",
+          "尿路感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "风湿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "45%",
+        "duration": "2-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "颅脑MRI",
+          "脑脊液一般性状",
+          "脑脊液游离型髓鞘碱性蛋白",
+          "脑脊液纤维连接蛋白"
+        ],
+        "medicine": [
+          "甲泼尼龙片",
+          "盐酸替扎尼定片",
+          "巴氯芬片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "扁平足",
+    "information": {
+      "introduction": "足弓是人类特有的解剖结构，系适应长期单一站立及行走的需要演变而来的，由于人的生活方式及所处的环境不同，正常人足弓的高低不一，足弓低平者并不是造成平足症的原因，只有某些原因致足骨形态异常、肌肉萎缩、韧带挛缩或慢性劳损时才形成平足症(the flap foot)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": " 儿童 ",
+        "symptom": [
+          "关节疼痛",
+          "疲劳",
+          "足部肿胀压痛",
+          "足掌痛",
+          "八字脚步态"
+        ],
+        "complication": [
+          "松弛性跖痛症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "体检保健科"
+        ],
+        "cost": "市三甲医院约（5000—— 12000元）",
+        "ratio": "75%",
+        "duration": "?",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "足轴线偏移",
+          " 足畸形检查",
+          "跟轴线测量",
+          "足长轴与两踝连线的测量"
+        ],
+        "medicine": [
+          "布洛芬乳膏",
+          "复方氯唑沙宗片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "卵巢肿瘤",
+    "information": {
+      "introduction": "卵巢肿瘤约占小儿恶性肿瘤的1%，罕见于5岁前，约20%发生于月经来潮前的女孩，2/3来源于生殖细胞，最多见的是成熟的畸胎瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "消瘦",
+          "下腹胀痛",
+          "下腹部包块",
+          "绝经后出血"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "50%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "脏器声学造影",
+          "CT平扫",
+          "CT造影增强扫描",
+          "卵巢检查",
+          "阴道妇科常规检查"
+        ],
+        "medicine": [
+          "盐酸伊立替康",
+          "六甲蜜胺片",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "白淫",
+    "information": {
+      "introduction": "①指男子尿出白物如精及女子带下病。《素问·痿论》：“思想无穷，所愿不得，意淫于外，入房太甚，宗筋弛纵，发为筋痿，乃为白淫。②指男子受外界色欲刺激而滑精。《证治要诀·遗精》：“甚者耳闻目见，其精即出，名曰白淫。”《理虚元鉴·白浊白淫论》：“初出茎中痛而浓浊如膏，谓之白浊。久之不已、精微弱而薄，痛亦渐减，至后闻淫声，见女色而精下流，清稀而不痛，则谓之白淫也。”③指蛊病。《杂病源流犀烛·五淋二浊源流》：“白淫，热郁病也，一名蛊。”宜用半苓丸、清心莲子饮等方。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾",
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "尿液混浊",
+          "夜尿增多",
+          "小便短赤",
+          "尿频",
+          "乳白色尿"
+        ],
+        "complication": [
+          "发作性睡病",
+          "颅咽管瘤",
+          "副鼻窦炎",
+          "脑囊虫病",
+          "垂体性侏儒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "中医科",
+          "男科"
+        ],
+        "cost": "市三甲医院约(5000--10000元)",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "中医药物治疗、针灸治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "库欣综合征",
+    "information": {
+      "introduction": "库欣综合征(Cushings syndrome)又称皮质醇增多症(hvpercortisolism)或柯兴综合征。1912年，由Harvey Cushing首先报道。本征是由多种病因引起的以高皮质醇血症为特征的临床综合征，主要表现为满月脸、多血质外貌、向心性肥胖、痤疮、紫纹、高血压、继发性糖尿病和骨质疏松等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "皮质醇增多症,柯兴氏综合征",
+        "part": [
+          "肾上腺"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "疲乏",
+          "满月脸",
+          "忧郁",
+          "重度肥胖",
+          "男性化"
+        ],
+        "complication": [
+          "肾结石",
+          "高血压",
+          "多囊卵巢综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "促皮质素释放激素兴奋试验",
+          "地塞米松抑制试验",
+          "血清促肾上腺皮质激素",
+          "尿17-羟-皮质类固醇"
+        ],
+        "medicine": [
+          "抗饥消渴片",
+          "盐酸二甲双胍缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗饥消渴片(同仁堂)",
+          "grade": "2.58",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

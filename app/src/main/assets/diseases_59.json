@@ -1,0 +1,836 @@
+[
+  {
+    "disease_name": "缺血性心肌病",
+    "information": {
+      "introduction": "缺血性心肌病( ischemic cardiomyopathy， ICM)属于冠心病的一种特殊类型或晚期阶段，是指由冠状动脉粥样硬化引起长期心肌缺血，导致心肌弥漫性纤维化，产生与原发性扩张型心肌病类似的临床综合征。随着冠心病发病率的不断增加， ICM对人类健康所造成的危害也日渐严重。1995年WHO/ISFC对缺血性心肌病的定义为：表现为扩张型心肌病，伴收缩功能损害，但不能用冠状动脉病变程度和缺血损害程度来解释。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "冠心病,冠状动脉粥样硬化性心脏病，胸痹(心痛)",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "吸烟、高血脂、高血糖、高血...",
+        "symptom": [
+          "心脏结构异常",
+          "心肌营养障碍",
+          "胸痛",
+          "劳力性呼吸困难",
+          "心肌顿抑"
+        ],
+        "complication": [
+          "心力衰竭",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "心电图",
+          "胸透",
+          "胸部平片",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "血塞通分散片",
+          "补心气口服液",
+          "超声治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血塞通分散片",
+          "grade": "3.14",
+          "total": "98",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "补心气口服液(福人)",
+          "grade": "2.78",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "心通口服液(鲁南)",
+          "grade": "3.2",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "泌尿生殖系支原体感染",
+    "information": {
+      "introduction": "随着研究工作的不断深入和新型选择培养基的不断出现，支原体的新种类随之增多。迄今，能导致人类性传播疾病(STD)或寄生于人类泌尿生殖道的支原体有解脲支原体(mycoplasma urealyticum)、人型支原体(mycoplasma hominis，MH)、生殖支原体(mycoplasma genitalium，MG)、渗透支原体(mycoplasma penetrans，MPe)、发酵支原体(mycoplasma fermentans，MF)、唾液支原体(mycoplasma salivarium，MS)、嗜精子支原体(mycoplasma spermatophilum，MSp)和灵长类支原体(mycoplasma primatum，MPr)等。有证据表明，这类支原体(MH、MG)可引起人类泌尿生殖系统感染，是非淋病性尿道炎(NGU)的常见病原体。可引起尿道炎、男性不育、慢性前列腺炎、附睾炎、输卵管炎、盆腔炎、阴道炎等。其中解脲脲原体是引起围生期母婴感染的重要病原体之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "泌尿生殖系统支原体感染",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "尿道"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃的人多见",
+        "symptom": [
+          "尿急",
+          "尿频",
+          "尿痛",
+          "尿道烧灼感",
+          "排尿障碍"
+        ],
+        "complication": [
+          "子宫内膜炎",
+          "早产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "性病科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿道分泌物检查",
+          "宫颈粘液检查",
+          "内镜检查",
+          "生殖道分泌物培养",
+          "白带常规"
+        ],
+        "medicine": [
+          "妇科千金片",
+          "抗宫炎片",
+          "解脲脲原体分离培养基试剂盒(微生物检验法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "舌下腺囊肿",
+    "information": {
+      "introduction": "舌下腺囊肿为舌下腺导管堵塞涎液潴留所形成的囊肿。目前认为导管远端部分堵塞后扩张和导管破裂粘液外漏人周围组织间隙是形成囊肿的主要因素。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "蛤蟆肿",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "创伤",
+          "继发感染",
+          "囊肿",
+          "舌乳头增生",
+          "舌体肥大"
+        ],
+        "complication": [
+          "舌下神经损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "咽异感症",
+    "information": {
+      "introduction": "咽异感症中国医学称为梅核气，早在隋朝就有类似此病的记载，其病症状犹如梅核阻塞咽喉。目前临床上，常将咽异感症一词用以泛指除疼痛外的各种咽部异常感觉，如幻觉、球塞感、蚁行感等，是临床工作中经常遇到的主诉症状之一。患者大多数为中年人，以女性较多见，因为咽喉部异物感，怀疑肿瘤就医者不在少数。在某些肿瘤的早期，如环后癌、食道上段癌，可有咽喉部异物感的症状，如对其缺乏警惕性，容易误诊。因此，诊断咽异感应详细检查，以防漏诊、误诊。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "梅核气",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "30～40岁女性",
+        "symptom": [
+          "咽喉部干燥刺痒",
+          "抑郁",
+          "咽喉疼痛",
+          "喉部堵塞感",
+          "咽喉部充血"
+        ],
+        "complication": [
+          "咽喉部外伤",
+          "耳鼻咽喉创伤",
+          "咽喉部肿瘤",
+          "尿道癌",
+          "人流后妇科病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-500元）",
+        "ratio": "70%",
+        "duration": "10-30天",
+        "method": [
+          "病因治疗"
+        ],
+        "examination": [
+          "鼻咽部活组织检查",
+          "颈部活动度",
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "利咽灵片",
+          "西瓜霜清咽含片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利咽灵片(同仁堂)",
+          "grade": "1.98",
+          "total": "14",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "传染性湿疹样皮炎",
+    "information": {
+      "introduction": "传染性湿疹样皮炎(Dermatitis Eczematoides Infectiosa)是在感染性病灶的基础上发生的一种局限性急性湿疹样皮炎。向附近逐渐蔓延，往往成片渗湿及结痂，也可以干燥及脱屑。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "成年人多常见",
+        "symptom": [
+          "发炎",
+          "丘疹",
+          "脓疱",
+          "脓肿",
+          "鳞屑"
+        ],
+        "complication": [
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000—— 5000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "免疫病理检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "冰黄肤乐软膏",
+          "复方参子洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "低钠血症",
+    "information": {
+      "introduction": "低钠血症仅表示血清钠离子浓度低于正常水平，不一定真正合并机体钠含量的下降。根据发病的急缓，可分为急性低钠血症和慢性低钠血症，前者是指48h内，血清钠离子浓度降至正常水平以下，否则为慢性低钠血症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "低钠血,血钠过少",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "较为常见，特别在老年人中",
+        "symptom": [
+          "抽搐",
+          "多饮",
+          "乏力",
+          "昏迷",
+          "利尿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "内科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "99%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血浆蛋白S",
+          "颅脑CT",
+          "心电图",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "呋塞米注射液",
+          "注射用依他尼酸钠",
+          "托伐普坦片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "皮肤囊肿",
+    "information": {
+      "introduction": "任何年龄均发生，以青年时期头面、臂、背部发病多见。为一柔软或多个柔软或坚实的球状物，直径在1～3cm不等。粉瘤埋藏于皮肤或皮下组织内，与皮肤粘连，基底可移动。皮表可见开口小孔，推动囊肿时，此处与皮肤粘连甚紧，并见略微凹陷而出现小坑，即为直接通达皮肤表面的腺体所在导管开口。有的开口处塞着一个黑色粉刺样小栓可挤出白色蜡样物质。发病多年而无症状，易继发感染，化脓破溃，有的奇臭难闻。文献报告有癌变，多数转变为基底细胞癌，少数变为鳞状细胞癌，癌变率约2.2%～4%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "囊肿",
+          "囊性肿块",
+          "继发感染",
+          "囊肿",
+          "皮肤粘连"
+        ],
+        "complication": [
+          "皮样囊肿",
+          "表皮囊肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "100%治愈率",
+        "duration": "2-5周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "皮肤病理检查",
+          "免疫病理检查"
+        ],
+        "medicine": [
+          "头孢泊肟酯分散片",
+          "复方片仔癀软膏",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高眼压症",
+    "information": {
+      "introduction": "高眼压症是针对原发性开角型青光眼的诊治过程中，经过数十年的临床实践经验逐步深入认识到的一种特殊现象。人们在临床工作中也不断证实了绝大多数明确诊断的青光眼患者都具有眼压升高的共同特征。高眼压症虽然发展缓慢，且较少引起视盘和视野损害，但毕竟具有与开角型青光眼共同的重要病理因素，即眼压升高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "高眼压,眼高压,眼内高压",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "视网膜出血",
+          "高眼压",
+          "视力障碍",
+          "青光眼斑",
+          "近视弧"
+        ],
+        "complication": [
+          "失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（2000 —— 4000元）",
+        "ratio": "70%",
+        "duration": "2-3周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "巩膜检查法",
+          "眼压计测量法",
+          "动态视野检查"
+        ],
+        "medicine": [
+          "拉坦前列素滴眼液",
+          "马来酸噻吗洛尔滴眼液",
+          "曲伏前列素滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "毛囊角化病",
+    "information": {
+      "introduction": "毛囊角化病(keratosis follicularis)又名Darier病，是一种少见的以表皮细胞角化不良为基本病理变化的遗传性疾病。一般在8～16岁发病，5岁以前少见，无明显种族及性别差异，随年龄增长病情可逐渐加重，特征性皮损为针尖至豌豆大的毛囊性坚硬丘疹，顶端覆以油腻性痂皮或糠状鳞屑。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "达里埃病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "一般在8～16岁发病",
+        "symptom": [
+          "毛孔粗大",
+          "瘙痒",
+          "鳞屑",
+          "剧痒",
+          "足底脱皮"
+        ],
+        "complication": [
+          "灰指甲"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "40%-70%，多以对症治疗为主",
+        "duration": "6-12个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "胸部平片"
+        ],
+        "medicine": [
+          "维A酸乳膏",
+          "维胺酯胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "ARDS",
+    "information": {
+      "introduction": "急性呼吸窘迫综合征(acute respiratory distress syndrome,ARDS)是指严重感染、创伤、休克等肺内外袭击后出现的急性、进行性缺氧性呼吸衰竭。以肺泡毛细血管损伤为主要表现，属于急性肺损伤(acute lung injury,ALI)是严重阶段或类型。其临床特征呼吸频速和窘迫，进行性低氧血症，X线呈现弥漫性肺泡浸润。本症与婴儿呼吸窘迫综合征颇为相似，但其病因和发病机制不尽相同，故提出成人呼吸窘迫综合征(adult respiratory distress syndrome)的命名。现在称为急性呼吸窘迫综合征，缩写仍是ARDS。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "成人呼吸窘迫综合征",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "呼吸急促",
+          "心源性呼吸窘迫",
+          "呼吸困难",
+          "呼吸窘迫综合症",
+          "活动后气促"
+        ],
+        "complication": [
+          "多重肺部感染",
+          "细菌性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心血管内科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "补吸气量",
+          "呼气高峰流量",
+          "每分钟肺泡通气量",
+          "每分钟静息通气量",
+          "胸部平片"
+        ],
+        "medicine": [
+          "心荣口服液",
+          "角鲨烯胶丸",
+          "人血白蛋白"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心荣口服液",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脱臼",
+    "information": {
+      "introduction": "关节脱位(dislocation of joints)是指组成关节的各骨的关节面失去正常的对应关系。临床上可分损伤性脱位、先天性脱位及病理性脱位。 关节脱位后，关节囊、韧带、关节软骨及肌肉等软组织也有损伤，另外关节周围肿胀，可有血肿，若不及时复位，血肿机化，关节粘连，使关节不同程度丧失功能。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "关节脱位",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "关节疼痛",
+          "搭肩试验阳性",
+          "关节扭伤",
+          "关节酸痛",
+          "关节疼痛"
+        ],
+        "complication": [
+          "骨折",
+          "骨化性肌炎",
+          "创伤性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科",
+          "中西医结合科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 6000元）",
+        "ratio": "100%，手法复位",
+        "duration": "2-4周",
+        "method": [
+          "复位、外固定、手术"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "关节检查"
+        ],
+        "medicine": [
+          "跌打丸",
+          "抗骨增生胶囊",
+          "跳骨片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "跌打丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗骨增生胶囊(康缘)",
+          "grade": "3.81",
+          "total": "14",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "跳骨片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "伤筋正骨酊(神奇)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "跳骨片(闽海)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "跳骨片(得普昇)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "新力正骨喷雾剂(奥邦)",
+          "grade": "5.0",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "跳骨片(强身)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "双虎肿痛宁(三金)",
+          "grade": "4.2",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "跳骨片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "损伤速效止痛气雾剂",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "角化型脚气",
+    "information": {
+      "introduction": "角化型脚气无水疱及化脓，病程缓慢，多年不愈。在脚气患者中比较常见，冬季可因皲裂致出血及疼痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "皲裂脚气",
+        "part": [
+          "足部"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脚底干裂",
+          "干性脚气",
+          "手掌及足趾皮肤过度角化",
+          "疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "咽鼓管阻塞",
+    "information": {
+      "introduction": "咽鼓管软骨段在解剖上正常，但其机能发生障碍，即咽鼓管咽口被动开放而不能主动开放。与一般炎性水肿所致的咽口阻塞有所区别。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "增殖腺肥大",
+          "听力下降",
+          "咽鼓管堵塞",
+          "传导性耳聋"
+        ],
+        "complication": [
+          "耳聋"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(1000-5000元)",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "耳镜检查法",
+          "咽鼓管荧光素试验",
+          "咽鼓管检查法",
+          "脉冲震荡肺功能"
+        ],
+        "medicine": [
+          "黄氏响声含片",
+          "鼻咽灵片",
+          "医用洗耳球"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄氏响声含片(黄氏)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "鼻咽灵片(白云山中一)",
+          "grade": "3.73",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "人格分裂",
+    "information": {
+      "introduction": "多重人格是一种严重的心理障碍，美国精神病大词典对于多重人格的定义是：一个人具有两个以上的，相对独特的并相互分开的亚人格，是位多重人格。术语一种癔症性的分离性心理障碍。其基本特征是：虽然同一个体具有两种或更多完全不同的人格，但在某一时间，只有其中之一明显。每种人格都是完整的，有自己的记忆，行为，偏好，可以与单一的病前人格完全对立。多重人格可以有双重人格，三重，四重，最多的可以达到十几重，甚至二十几重人格，其中以双重人格相对多见，通常其中一种占优势，但两种人格都不进入另一方的记忆，几乎已是不到另一方的存在。从一种人格向另一种人格的转变，开始时通常很突然，与创伤性事件密切相关;其后，一般仅在遇到巨大的或应激性事件、或接受放松、催眠或发泄等治疗时，才发生转换。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "多重人格",
+        "part": [
+          "心理",
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "有精神症状的病人中,人格障...",
+        "symptom": [
+          "人格解体",
+          "分裂型人格障碍"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝脏肿瘤",
+    "information": {
+      "introduction": "肝肿瘤(hepatic tumor,tumor of liver)是指发生在肝脏部位的肿瘤病变。肝脏是肿瘤好发部位之一,良性肿瘤较少见,恶性肿瘤中转移性肿瘤较多。原发性肿瘤可发生于肝细胞索、胆管上皮、血管或其他中胚层组织,转移性肿瘤中多数为转移性癌,少数为转移性肉瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肝肿瘤",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "中年男性",
+        "symptom": [
+          "肝区痛",
+          "上腹不适",
+          "肝肿大",
+          "消瘦",
+          "肝区血管杂音"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "CT平扫",
+          "CT造影增强扫描",
+          "红外热象图",
+          "亚健康人群体检",
+          "体液免疫检测法"
+        ],
+        "medicine": [
+          "注射用磷酸氟达拉滨",
+          "注射用磷酸氟达拉滨",
+          "复方红豆杉胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

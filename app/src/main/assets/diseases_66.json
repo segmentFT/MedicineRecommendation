@@ -1,0 +1,943 @@
+[
+  {
+    "disease_name": "慢性筛窦炎",
+    "information": {
+      "introduction": "在鼻窦中，以筛窦解剖最为复杂，特别是前组筛窦开口处的半月裂孔及其附近的钩突和筛漏斗等，是中鼻道内的小突起和沟状间隙，称为窦口鼻道复合体。该处是鼻腔吸入气流冲击之处，也是细菌、病毒、吸入性抗原(变应原)最易侵入的部位。无论感染或变态反应，开始都是表现为该处粘膜肿胀，纤毛运动停止，筛窦通气和引流受阻，然后才波及到其他鼻窦。由于筛窦引流不畅，若有炎症不易消散，很易迁延成为慢性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群均可发病",
+        "symptom": [
+          "鼻塞",
+          "头痛",
+          "嗅觉丧失",
+          "脓性分泌物",
+          "面痛"
+        ],
+        "complication": [
+          "鼻出血",
+          "硬脑膜下血肿",
+          "脑膜炎",
+          "硬脑膜下脓肿",
+          "脑脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "30天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "鼻嗅觉功能",
+          "鼻腔检查",
+          "鼻窦检查",
+          "鼻咽部MRI",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "阿莫西林胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "婴儿肠痉挛",
+    "information": {
+      "introduction": "肠痉挛是由于肠壁平滑肌阵阵强烈收缩而引起的阵发性腹痛，是小儿急性腹痛中最常见的情况。在小婴儿，可从哭吵的程度和强度来了解是否存在肠痉挛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿肠痉挛",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "肠痉挛",
+          "急性腹痛",
+          "颜面潮红",
+          "小儿哭闹不安",
+          "小儿双下肢蜷曲"
+        ],
+        "complication": [
+          "休克",
+          "小儿胆道蛔虫症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "90%",
+        "duration": "1-3天",
+        "method": [
+          "对症治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "便常规",
+          "腹部透视",
+          "血液生化六项"
+        ],
+        "medicine": [
+          "地巴唑片",
+          "甲溴贝那替秦片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "寒湿困脾",
+    "information": {
+      "introduction": "寒湿困脾证是指寒湿内盛，阻困中阳所表现的证候。多因饮食不节，嗜食生冷，或淋雨涉水，居处潮湿以致内湿素盛等因素引起。相当于中医的湿阻，泄泻，霍乱，臌胀，黄疸，西医的急性肠炎，霍乱，副霍乱，病毒性肝炎，肝硬化腹水等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身",
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "青年（19-29岁）",
+        "symptom": [
+          "胃纳差",
+          "恶心与呕吐",
+          "口粘",
+          "头重如裹",
+          "肢体重困"
+        ],
+        "complication": [
+          "急性肠胃炎",
+          "急性出血性坏死性小肠炎",
+          "发作性睡病",
+          "肝炎",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "桂附理中丸",
+          "十香暖脐膏",
+          "复方丁香开胃贴"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂附理中丸",
+          "grade": "2.69",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十香暖脐膏",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "附子理中丸(同仁堂)",
+          "grade": "3.75",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "乙肝灵丸",
+          "grade": "2.13",
+          "total": "7",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿肥胖",
+    "information": {
+      "introduction": "素有“儿童成人病”之称的肥胖症，在我国发病率显著增加，特别在大都市，如北方的某些城市，已经突破20%的比例，严重影响着儿童的健康成长。小儿发胖会使其开始行走的时间推迟，且常因缺钙、体重过重，发生膝内翻或膝外翻及扁平足等。又由于肥胖，小儿机体对外界的反应力、抵抗力下降，容易发生各种感染，特别是呼吸道感染性疾病。长期肥胖的小儿还会发生高脂血症，进而导致动脉硬化、高血压、冠心病、脂肪肝、糖尿病等多种儿童成人病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿单纯性肥胖症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "营养习惯不好的小儿多见",
+        "symptom": [
+          "情绪性进食",
+          "重度肥胖",
+          "遗传性肥胖",
+          "青春期肥胖",
+          "肥胖"
+        ],
+        "complication": [
+          "高脂血症",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "营养科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "1-3年",
+        "method": [
+          "改变饮食习惯、适当体育锻炼、药物治疗"
+        ],
+        "examination": [
+          "血清载脂蛋白",
+          "地塞米松抑制试验",
+          "血清脂蛋白a",
+          "甘油三酯",
+          "血清甘油三酯"
+        ],
+        "medicine": [
+          "奥利司他片",
+          "轻身消胖丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "轻身消胖丸(北京同仁堂)",
+          "grade": "1.56",
+          "total": "18",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫炎",
+    "information": {
+      "introduction": "子宫炎是妇女常见的盆腔炎症类型。包括子宫内膜炎、子宫周炎和子宫旁炎在内的整个子宫及其外周组织发炎的总称。一般是指子宫内膜炎和宫颈炎，子宫周炎和子宫旁炎是指炎症仅只涉及浆膜或子宫韧带而言，这两种疾病除主要继发于严重的子宫内膜炎。子宫内膜炎是子宫内膜的炎症。按照病程的长短，可以分为急性子宫内膜炎和慢性子宫内膜炎；宫颈炎可分为急性宫颈炎和慢性宫颈炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "生育期妇女多见",
+        "symptom": [
+          "下腹痛",
+          "白带增多",
+          "子宫压痛",
+          "腰骶部酸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "500-1000元",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "子宫与附件肿块",
+          "子宫及附件检查",
+          "盆腔和阴道B超",
+          "性激素六项检查"
+        ],
+        "medicine": [
+          "头孢氨苄",
+          "金鸡胶囊",
+          "康妇炎胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "丹鳖胶囊(潘高寿)",
+          "grade": "2.20",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "椿乳凝胶(千金)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "金鸡片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金鸡颗粒(金鸡)",
+          "grade": "3.13",
+          "total": "45",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "花红颗粒",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "臂丛神经痛",
+    "information": {
+      "introduction": "臂丛神经痛是指由颈5至胸1的神经前支组成的臂丛神经的各部受损时，产生其支配范围内的疼痛的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "Moro反应迟钝",
+          "肩胛带和上肢疼痛",
+          "凝肩",
+          "无力",
+          "神经痛"
+        ],
+        "complication": [
+          "颈椎病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "针灸科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "中医理疗、药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "颈椎CT",
+          "肢体血流图",
+          "肱三头肌反射",
+          "肌电图"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "对乙酰氨基酚片",
+          "多功能治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "表皮囊肿",
+    "information": {
+      "introduction": "表皮囊肿由Critchey于1928年正式命名。它与中耳胆脂瘤不同，不是由于反复炎症所致上皮脱落形成，而是先天异位发生的。如果异位组织发生在胚胎早期(即神经沟封闭时)，则囊肿多位于中线部；如发生在晚期(第二脑泡形成期)，则囊肿多位于侧方。少数表皮样囊肿可为外伤造成，如通过实验性损伤将上皮组织植入颅内可形成表皮样囊肿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "表皮样囊肿,脑内表皮样囊肿,脑内上皮样瘤,脑内珍珠瘤,脑内真性胆脂瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "好发于青年、儿童",
+        "symptom": [
+          "神经痛",
+          "头痛",
+          "共济失调",
+          "视力障碍",
+          "多尿"
+        ],
+        "complication": [
+          "脑膜炎",
+          "脑室炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "1%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "头颅正侧位片",
+          "颅脑CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "氟尿嘧啶注射液",
+          "注射用盐酸平阳霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人尿失禁",
+    "information": {
+      "introduction": "尿失禁(urinary incontinence)即膀胱内的尿不能控制而自行流出。尿失禁可发生于各年龄组的病人，但以老年病人更为常见。由于老年人尿失禁较多见，致使人们误以为尿失禁是衰老过程中不可避免的自然后果。事实上，老年人尿失禁的原因很多，其中有许多原因可控制或避免。尿失禁不是衰老的正常表现，也不是不可逆的，应寻找各种原因，采取合理的治疗方法。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年尿失禁,老年人遗尿",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "尿急",
+          "尿频",
+          "硬化",
+          "糖尿",
+          "膀胱痉挛"
+        ],
+        "complication": [
+          "湿疹",
+          "老年褥疮",
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "男科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "30%",
+        "duration": "1-2个月",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿素氮",
+          "血清钾",
+          "血清钠"
+        ],
+        "medicine": [
+          "癃清胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "癃清胶囊(南海制药)",
+          "grade": "4.6",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "铜绿假单胞菌感染",
+    "information": {
+      "introduction": "假单胞菌属在自然界分布广泛，对人和动物有致病性的菌种有十余种，以铜绿假单胞菌(绿脓杆菌)在医学中最为重要。本属细菌侵袭性弱，一般认为属条件致病菌。当机体免疫功能受损或缺损时，可引起严重的甚至致死性的感染;手术后或某些治疗操作后(气管切开、保留导尿管等)的患者也易罹患本菌感染，故亦为医院内感染的重要病原菌之一。铜绿假单胞菌可感染人体的血液、呼吸、中枢神经、泌尿等各个系统组织，引起一系列病变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "绿脓杆菌感染",
+        "part": [
+          "全身",
+          "肺",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "在婴儿的脐周、烧伤的表面，...",
+        "symptom": [
+          "发烧",
+          "脓肿",
+          "发烧",
+          "弛张热",
+          "稽留热"
+        ],
+        "complication": [
+          "ARDS",
+          "弥散性血管内凝血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科",
+          "血液科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "30%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺和胸膜听诊",
+          "WBC",
+          "颅脑CT",
+          "直接涂片检查",
+          "血液及骨髓细菌培养"
+        ],
+        "medicine": [
+          "氟罗沙星胶囊",
+          "盐酸米诺环素胶囊",
+          "磺胺嘧啶银乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿白血病",
+    "information": {
+      "introduction": "白血病(Leukemia)是造血干细胞增殖分化异常而引起的恶性增殖性疾病。儿童白血病是小儿恶性肿瘤中最多见的一种，好发年龄从出生到14岁，但以2-5岁多见。是5岁以上小儿死亡的主要原因之一。一般发病率为3～5人/10万人，高发区可达6.6人/10万人。小儿白血病的类型与成人白血病有所不同，以急性白血病为主，急性淋巴细胞白血病、急性粒细胞性白血病多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "3-7岁儿童",
+        "symptom": [
+          "低烧",
+          "皮肤黏膜苍白",
+          "肝脾肿大",
+          "乏力",
+          "齿龈增生"
+        ],
+        "complication": [
+          "败血症",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "血液科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "5%",
+        "duration": "5-6个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "尿酸",
+          "儿童体检",
+          "骨髓象分析",
+          "胸透",
+          "胸部平片"
+        ],
+        "medicine": [
+          "盐酸多柔比星",
+          "乌苯美司胶囊",
+          "注射用重组人干扰素α1b"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "牙齿感觉过敏症",
+    "information": {
+      "introduction": "牙齿感觉过敏症（tooth hypersensitivity）又称过敏性牙本质（hypersensitive dentine）或牙本质过敏（dentine hypersensitivity），是牙齿在受到外界刺激，如温度（冷、热）、化学物质（酸、甜）以及机械作用（磨擦或咬硬物）等所引起的酸痛症状，其特点为发作迅速、疼痛尖锐、时间短暂。牙齿感觉过敏不是一种独立的疾病，而是各种牙体疾病共有的症状，发病的高峰年龄在40岁左右。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "过敏性牙本质,牙本质过敏，牙质过敏症",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "发病的高峰年龄在40岁左右。",
+        "symptom": [
+          "牙的咀嚼磨损",
+          "牙疼",
+          "牙龈肿胀",
+          "牙齿遇冷热痛",
+          "牙齿小且无光泽"
+        ],
+        "complication": [
+          "牙龈炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（1000-5000元） ",
+        "ratio": "98% ",
+        "duration": "2-4周",
+        "method": [
+          "康复治疗 支持性治疗"
+        ],
+        "examination": [
+          "咬合关系检查"
+        ],
+        "medicine": [
+          "人工牛黄甲硝唑胶囊",
+          "冰硼含片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "冰硼含片(交大药业)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "矽肺",
+    "information": {
+      "introduction": "矽肺(silicosis)是尘肺中最为严重的一种类型，由于长期吸入含有游离二氧化硅(SiO2)的粉尘所引起。肺部有广泛的结节性纤维化，严重时影响肺功能，丧失劳动能力。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "矽肺病,硅肺,肺石末沉着症,硅肺病,磨工病,石末沉着病",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "沙石厂工人",
+        "symptom": [
+          "呼吸困难",
+          "啰音",
+          "呼气音延长",
+          "肺间质纤维化",
+          "呼吸困难"
+        ],
+        "complication": [
+          "心脏病",
+          "心力衰竭",
+          "自发性气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "85%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "职业病检查项目",
+          "胸部疾病体征检查",
+          "胸部CT",
+          "胸部平片",
+          "肺灌注显像"
+        ],
+        "medicine": [
+          "磷酸哌喹片",
+          "异烟肼片",
+          "矽肺宁片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "矽肺宁片(胡庆余堂)",
+          "grade": "4.87",
+          "total": "16",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "黄根片",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "哮喘胶囊(克刻)",
+          "grade": "4.53",
+          "total": "107",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "带下病",
+    "information": {
+      "introduction": "带下指阴道壁及宫颈等组织分泌的一种黏稠液体。在发育成熟期或经期前后、妊娠期带下均可增多，带下色白无臭味，这是生理现象。当阴道、宫颈或内生殖器发生病变时，带下量明显增多，并且色、质和气味异常，伴全身或局部症状者，称为“带下病”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "女性生殖系统炎症",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性、更年期妇女多见",
+        "symptom": [
+          "白带增多",
+          "白带",
+          "脓血性白带",
+          "脓浊带下",
+          "带下赤白"
+        ],
+        "complication": [
+          "肠子宫内膜异位",
+          "子宫颈平滑肌瘤",
+          "子宫内膜增生",
+          "子宫颈肉瘤",
+          "围绝经期功能失调性子宫出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 3000元）",
+        "ratio": "90%",
+        "duration": "1个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "妇科千金片",
+          "保妇康栓",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎平片(罗浮山国药)",
+          "grade": "3.34",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "坤复康胶囊(万花山)",
+          "grade": "2.0",
+          "total": "28",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "妇科千金胶囊(千金)",
+          "grade": "4.00",
+          "total": "222",
+          "secondary": "214"
+        },
+        {
+          "medicine_name": "花红片(花红)",
+          "grade": "2.81",
+          "total": "63",
+          "secondary": "28"
+        },
+        {
+          "medicine_name": "妇炎康片(芙喜)",
+          "grade": "1.44",
+          "total": "26",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "妇炎康片(鑫字牌)",
+          "grade": "2.74",
+          "total": "123",
+          "secondary": "99"
+        },
+        {
+          "medicine_name": "康妇消炎栓(葵花)",
+          "grade": "1.96",
+          "total": "54",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "坤灵丸(雪缘)",
+          "grade": "2.16",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "坤灵丸(天士力)",
+          "grade": "1.57",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "杏香兔耳风片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢性不孕",
+    "information": {
+      "introduction": "由卵巢病变导致的不孕症，称之为卵巢性不孕，是女性不孕中常见的原因之一，有 15%-20%的不孕妇女有排卵缺陷，这种缺陷临床常伴有月经紊乱、不排卵或黄体功能不全未破裂卵泡黄素化综合征等。引起排卵障碍的因素除卵巢病变外还有下丘脑-垂体-卵巢轴功能障碍、肾上腺及甲状腺功能异常。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "不排卵",
+          "卵巢性闭经",
+          "雄激素过多",
+          "女性不孕",
+          "月经稀少"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约3000-10000元",
+        "ratio": "98%",
+        "duration": "?",
+        "method": [
+          "一般疗法、药物疗法、手术疗法"
+        ],
+        "examination": [
+          "卵巢功能检查",
+          "卵巢检查",
+          "性激素六项检查",
+          "盆腔CT",
+          "MRI"
+        ],
+        "medicine": [
+          "ZPZ系列亿方妇科治疗仪",
+          "注射用高纯度尿促性素",
+          "GP系列特种光宫颈糜烂与盆腔炎治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "甲状腺乳头状癌",
+    "information": {
+      "introduction": "        甲状腺乳头状癌最常见，恶性度也最轻。约占甲状腺癌的半数，多见于儿童或年轻（40岁前）女性患者，有些患者在儿童时期曾作过颈部x线治疗。肿瘤生长缓慢，可在甲状腺内局限数年，病灶可经腺内淋巴管自原发部位扩散至腺体的其他部位和局部淋巴结，也可局限数年，故易忽视其性质。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "儿童或年轻（40岁前）女性",
+        "symptom": [
+          "甲状腺肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肿瘤VIP受体显像"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

@@ -1,0 +1,991 @@
+[
+  {
+    "disease_name": "甲肝",
+    "information": {
+      "introduction": "甲型肝炎是由通过感染甲型肝炎病毒(HAV)引起的急性肝脏炎症，主要经粪-口途径传播，发病以儿童和青少年多见，是我国常见的肠道传染病之一，在病毒性肝炎中发病率及感染率最高。甲型肝炎传染源通常是急性患者和亚临床感染者，病人自潜伏末期至发病后10天传染性最大，粪-口途径是其主要传播途径，日常生活接触是散发病例的主要传播途径。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "甲型肝炎,甲型病毒性肝炎",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "大块肝细胞坏死",
+          "食欲不振",
+          "食欲减退",
+          "肝郁气滞",
+          "心动过缓"
+        ],
+        "complication": [
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肝炎"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "100%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "血清总蛋白",
+          "献血者健康检查",
+          "肝脏B超",
+          "心电图",
+          "血清甲型肝炎病毒抗原"
+        ],
+        "medicine": [
+          "当飞利肝宁胶囊",
+          "利巴韦林片",
+          "联苯双酯滴丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "当飞利肝宁胶囊",
+          "grade": "2.29",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肾肝宁胶囊",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿崩症",
+    "information": {
+      "introduction": "尿量超过3L/d称尿崩。引起尿崩的常见疾病称尿崩症。尿崩症(diabetes insipindus)是指血管加压素(vasopressin,VP)又称抗利尿激素(antidiuretic hormone,ADH)分泌不足(又称中枢性或垂体性尿崩症)，或肾脏对血管加压素反应缺陷(又称肾性尿崩症)而引起的一组症群，其特点是多尿、烦渴、低比重尿和低渗尿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾性尿崩症",
+        "part": [
+          "肾",
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "发生于任何年龄，但以青壮年...",
+        "symptom": [
+          "烦渴多饮",
+          "多尿",
+          "尿比重下降",
+          "溺多而频",
+          "视野缺损"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约20000--50000元",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "禁水试验",
+          "尿渗透压",
+          "MRI",
+          "血浆渗透压",
+          "血浆抗利尿激素"
+        ],
+        "medicine": [
+          "消渴丸",
+          "癃闭通胶囊",
+          "醋酸去氨加压素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消渴丸(白云山)",
+          "grade": "2.99",
+          "total": "20",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "癃闭通胶囊",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "输精管堵塞",
+    "information": {
+      "introduction": "双侧输精管道(从睾丸网到射精管)，因任何原因造成的完全性堵塞均可引起无精子症。据统计，堵塞性无精子症约占无精子症病因的55%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "输精管"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性人群",
+        "symptom": [
+          "射精疼",
+          "输精管变粗",
+          "输精管疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "泌尿外科",
+          "男科"
+        ],
+        "cost": "市三甲医院约（500-3000元）",
+        "ratio": "65%",
+        "duration": "1-2年",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "睾丸活检",
+          "输精管造影",
+          "阴囊检查",
+          "精液检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "咳嗽变异性哮喘",
+    "information": {
+      "introduction": "咳嗽性哮喘(cough type asthma)，又称咳嗽变异性哮喘，是指以慢性咳嗽为主要或惟一临床表现的一种特殊类型哮喘。在支气管哮喘开始发病时，大约有5%～6%是以持续性咳嗽为主要症状的，多发生在夜间或凌晨，常为刺激性咳嗽，此时往往被误诊为支气管炎。近年来这一问题引起了国内外许多学者的注意，并发现在引起慢性咳嗽的单一原因中，哮喘占24%，居第2位，而28%的哮喘患者则以咳嗽为惟一临床症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "咳嗽性哮喘",
+        "part": [
+          "肺",
+          "气管"
+        ],
+        "infection": "无传染性",
+        "people": "年龄大于50岁，中年女性较多",
+        "symptom": [
+          "咳嗽",
+          "干咳",
+          "剧烈运动后哮喘"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "40-60%，多以控制性治疗为主",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、脱敏治疗、雾化治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "胸透",
+          "支气管激发试验"
+        ],
+        "medicine": [
+          "磷酸苯丙哌林口服溶液",
+          "痰咳清片",
+          "固本咳喘片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痰咳清片(苛复芬)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "固本咳喘片(南峰牌)",
+          "grade": "3.85",
+          "total": "6",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "嗜铬细胞瘤",
+    "information": {
+      "introduction": "嗜铬细胞瘤(pheochromocytoma，PHEO)是由嗜铬细胞所形成的肿瘤。肾上腺外的嗜铬细胞瘤可发生于自颈动脉体至盆腔的任何部位。可导致血压异常(常表现为高血压)与代谢紊乱症候群。某些患者可因长期高血压致严重的心、脑、肾损害或因突发严重高血压而导致危象，危及生命，但如能及时、早期获得诊断和治疗，又是一种可治愈的继发性高血压病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "副神经节瘤,肾上腺髓质瘤,嗜铬母细胞瘤",
+        "part": [
+          "肾上腺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，年龄多为20～50岁",
+        "symptom": [
+          "儿茶酚胺分泌过量",
+          "心脏扩大",
+          "皮肤苍白",
+          "功能性震颤",
+          "恶心"
+        ],
+        "complication": [
+          "心律失常",
+          "高血压脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000 —— 30000元）",
+        "ratio": "80%",
+        "duration": ">30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "可乐定试验",
+          "泌尿系统CT",
+          "尿儿茶酚胺",
+          "肾上腺CT",
+          "肾上腺MRI"
+        ],
+        "medicine": [
+          "乌拉地尔缓释片",
+          "呋塞米片",
+          "注射用甲磺酸酚妥拉明"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年性黄斑变性",
+    "information": {
+      "introduction": "老年性黄斑变性（senile macular degeneration）亦称年龄相关性黄斑变性（age-related macular degeneration）或衰老性黄斑变性（aging macular degeneration）。大多始发于50岁上下，年龄越大，患病率越高。发病与性别、种族无明显关系。双眼同时或先后受害。因临床表现不同，分成萎缩性与渗出性两型，前者比较多见，后者则仅为前者的1/10～15。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "衰老性黄斑变性，AMD ",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "老年人群",
+        "symptom": [
+          "色素脱失",
+          "视力障碍",
+          "黄斑回避现象",
+          "视力视野改变",
+          "黄斑回避现象"
+        ],
+        "complication": [
+          "脉络膜新生血管"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000—— 5000元）",
+        "ratio": "30%",
+        "duration": "3--6周",
+        "method": [
+          "药物治疗、手术治疗、激光治疗"
+        ],
+        "examination": [
+          "检眼镜检查法",
+          "眼底荧光血管造影",
+          "眼底检查",
+          "虹膜检查法",
+          "裂隙灯"
+        ],
+        "medicine": [
+          "复方牛磺酸滴眼液",
+          "左旋多巴片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "幼女性外阴阴道炎",
+    "information": {
+      "introduction": "幼女所患阴道炎多与外阴炎并存。因幼女外阴发育差，缺乏雌激素，阴道上皮抵抗力低，易受感染。常见的病原体有葡萄球菌、链球菌及大肠杆菌等，滴虫或念珠菌也可引起感染。病原体可通过患病的母亲、保育员或幼儿园儿童的衣物、浴盆等传播。也可由于卫生不良，外阴不洁，经常为大便所污染或直接接触污物所引起。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "幼女性外阴炎,幼女性阴道炎",
+        "part": [
+          "阴道",
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿、青春期前的少女",
+        "symptom": [
+          "外阴皮肤肿胀",
+          "外阴肿胀",
+          "婴幼儿外阴疼痛",
+          "外阴皮肤肿胀",
+          "尿道口有红斑和水肿"
+        ],
+        "complication": [
+          "尿道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500—— 1000元）",
+        "ratio": "99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "便常规",
+          "白带常规",
+          "阴道病原体"
+        ],
+        "medicine": [
+          "克霉唑栓",
+          "黄藤素栓",
+          "伊曲康唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿败血症",
+    "information": {
+      "introduction": "新生儿败血症(septicemia of newborn)是指新生儿期致病菌经各种途径侵入新生儿血循环，并在其中生长繁殖、产生毒素而造成全身性的感染。新生儿时期该病的发生率和病死率均较高。随着全身炎症反应综合征研究的深入，败血症的定义也在不断的扩大，包括内源性感染因子(如肠道菌丛)启动以后所引起的全身炎症与感染。新生儿败血症一般主要是指血液中有细菌存在并持续繁殖，通过血培养可获得阳性细菌结果的一种病理过程，在具有细菌-免疫学诊断方面的证据，而并未获得阳性血培养结果时也可做出诊断。仍是目前新生儿期很重要的疾病，其发生率约占活产婴儿的1‰～10‰，早产婴儿中发病率更高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胎热,胎毒,疮毒走黄",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "烦躁不安",
+          "腹胀",
+          "瘀斑",
+          "肝脾肿大",
+          "精神萎靡"
+        ],
+        "complication": [
+          "新生儿化脓性脑膜炎",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "血液科",
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "2--8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌感染的实验室检查",
+          "甘油复红试验",
+          "马尿酸钠水解试验",
+          "凝固酶试验",
+          "尿细菌培养"
+        ],
+        "medicine": [
+          "万应胶囊",
+          "大蒜素肠溶胶丸",
+          "硫酸庆大霉素氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "万应胶囊",
+          "grade": "2.45",
+          "total": "13",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "宫颈糜烂",
+    "information": {
+      "introduction": "宫颈糜烂是指宫颈柱状上皮异位，并不是真正意义上的糜烂。当宫颈外口表皮的脱落被宫颈口另外一种上皮组织所代替，由于遇到覆盖面的新生上皮菲薄，甚至可以看到下方的血管和红色的组织，看上去就像糜烂，属宫颈生理变化之一，不是病理改变。“宫颈糜烂”这个错误命名已在2008年医学妇产科教材中被“取消”，以“宫颈柱状上皮异位”生理现象取代。生理性宫颈柱状上皮异位多见于青春期、生育年龄妇女雌激素分泌旺盛者、口服避孕药或妊娠期，由于雌激素的作用，鳞柱交界部外移，宫颈局部呈糜烂样改变外观。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "宫颈柱状上皮异位，子宫糜烂",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性，多见于青春期、生育年...",
+        "symptom": [
+          "白带增多",
+          "下腹坠胀",
+          "宫颈黏液脓性分泌物",
+          "脓性分泌物",
+          "下腹痛"
+        ],
+        "complication": [
+          "难产",
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "宫颈检查",
+          "妇科炎症检查",
+          "外阴部妇科常规检查",
+          "电子阴道镜",
+          "宫颈刮片"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "消糜阴道泡腾片",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消糜阴道泡腾片(千缘草)",
+          "grade": "2.02",
+          "total": "95",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "抗宫炎软胶囊(ATIE)",
+          "grade": "2.25",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "苦参凝胶(坤立舒)",
+          "grade": "1.83",
+          "total": "41",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "治糜康栓(金马)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "抗宫炎片(海尔思药业)",
+          "grade": "2.29",
+          "total": "17",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗宫炎片(玉清)",
+          "grade": "1.54",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗宫炎片(城丰)",
+          "grade": "2.85",
+          "total": "5",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "霉菌性阴道炎",
+    "information": {
+      "introduction": "霉菌性阴道炎主要是由白色念珠菌感染引起的阴道炎症，临床症状主要表现为外阴瘙痒，且瘙痒症状时轻时重，时发时止，瘙痒严重时坐卧不宁，寝食难安，炎症较重时还可能出现排尿痛、性交痛等，白带增多，呈豆渣样或乳凝块状等。霉菌性阴道炎是女性高发疾病，80%的女性一生中至少得过一次。一般在妊娠、糖尿病或长期使用抗生素的妇女中较多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "念珠菌性阴道炎,真菌性阴道炎",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": " 女性,大量使用抗生素 ，妊娠...",
+        "symptom": [
+          "豆腐渣样白带",
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "白带增多",
+          "外阴烧灼刺激感",
+          "外阴肿胀"
+        ],
+        "complication": [
+          "宫颈炎",
+          "盆腔炎",
+          "阴道炎",
+          "滴虫性阴道炎",
+          "早产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "95%(一般经过系统治疗后98%以上患者都能治愈。)",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌培养",
+          "白带检查",
+          "阴道分泌物涂片",
+          "阴道清洁度",
+          "白带常规"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "保妇康栓",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "红核妇洁洗液(附冲洗器)",
+          "grade": "2.33",
+          "total": "61",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "苦参凝胶(坤立舒)",
+          "grade": "1.83",
+          "total": "41",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "利夫康洗剂(利夫康乐)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "秃头",
+    "information": {
+      "introduction": "早年秃发(alopecia prematura)也称男式脱发(male pattern alopecia)、家族性秃发(familial baldness)、寻常秃发(common baldness)。早年秃发是指在老年之前，于青壮年时期头发过早地逐渐脱落。常从前发缘向后脱落，或头顶部头发稀薄直至除发缘外整个头皮头发全部脱落。脱发常呈进行性，有家族倾向，多见于男性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "早秃,男式脱发,家族性秃发,寻常秃发，谢顶，秃头，鬼剃头",
+        "part": [
+          "头部",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，常出现于20～30岁...",
+        "symptom": [
+          "全秃",
+          "永久性秃发"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "内分泌科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "头皮检查",
+          "毛发",
+          "内分泌检查"
+        ],
+        "medicine": [
+          "养血生发胶囊",
+          "固肾生发丸",
+          "米诺地尔酊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "养血生发胶囊(敬修堂)",
+          "grade": "2.46",
+          "total": "78",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "固肾生发丸(白云山)",
+          "grade": "2.43",
+          "total": "57",
+          "secondary": "13"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肌腱炎和腱鞘炎",
+    "information": {
+      "introduction": "肌腱炎症（肌腱炎）和腱鞘内膜炎症（腱鞘炎）通常同时发生。衬有滑膜的腱鞘一般为炎症最重的部位，但炎症反应可累及其所包裹的肌腱（例如钙等沉积的结果）。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肌腱炎,腱鞘炎",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "关节活动比较多的人多见",
+        "symptom": [
+          "拇指不明原因疼痛",
+          "腱鞘变干",
+          "肌腱粘连",
+          "肌腱端炎",
+          "产后手指痛"
+        ],
+        "complication": [
+          "化脓性腱鞘炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 2000元）",
+        "ratio": "98%",
+        "duration": "1-3月",
+        "method": [
+          "制动、热敷、药物治疗"
+        ],
+        "examination": [
+          "关节检查",
+          "落臂试验",
+          "冈上肌肌腱断裂试验",
+          "雅加森试验",
+          "斯比德试验"
+        ],
+        "medicine": [
+          "双氯芬酸钠缓释片",
+          "双氯芬酸钠缓释片",
+          "双氯芬酸钠缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "月经不调",
+    "information": {
+      "introduction": "月经失调也称月经不调，表现为月经周期或出血量的异常，或是月经前、经期时的腹痛及全身症状。病因可能是器质性病变或是功能失常。许多全身性疾病如血液病（血小板无力症）、高血压、内分泌失调、流产、宫外孕、葡萄胎、高催乳素血症、肿瘤(如卵巢肿瘤、子宫肌瘤)、乳腺腺病、结核病（输卵管结核、子宫内膜结核）、炎症（慢性子宫内膜炎、慢性输卵管卵巢炎）等均可引起月经失调。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "月经失调",
+        "part": [
+          "卵巢",
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性，压力过大型，怕冷型，...",
+        "symptom": [
+          "月经稀少",
+          "子宫出血",
+          "小腹冷痛"
+        ],
+        "complication": [
+          "痛经",
+          "经前期综合征",
+          "多囊卵巢综合征",
+          "黄褐斑",
+          "粉刺"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "69%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "宫腔镜",
+          "盆腔和阴道B超",
+          "性激素六项检查",
+          "妇科B超",
+          "宫颈癌筛查"
+        ],
+        "medicine": [
+          "定坤丹",
+          "加味益母草膏",
+          "定坤丹"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "定坤丹水蜜丸(广誉远)",
+          "grade": "3.0",
+          "total": "5",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "加味益母草膏(今辰)",
+          "grade": "2.28",
+          "total": "28",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "定坤丹(广誉远)",
+          "grade": "2.23",
+          "total": "63",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "同仁乌鸡白凤丸(同仁堂)",
+          "grade": "2.80",
+          "total": "244",
+          "secondary": "149"
+        },
+        {
+          "medicine_name": "同仁乌鸡白凤丸(同仁堂)",
+          "grade": "3.06",
+          "total": "164",
+          "secondary": "149"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "艾附暖宫丸(同仁堂)",
+          "grade": "2.52",
+          "total": "113",
+          "secondary": "69"
+        },
+        {
+          "medicine_name": "培坤丸(喜运)",
+          "grade": "2.46",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹莪妇康煎膏(丹莪)",
+          "grade": "2.79",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇科十味片(同仁堂)",
+          "grade": "4.0",
+          "total": "16",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "散结镇痛胶囊(康缘)",
+          "grade": "2.14",
+          "total": "51",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "麒麟丸(麒麟牌)",
+          "grade": "3.18",
+          "total": "16",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "宫炎平胶囊(南山)",
+          "grade": "2.62",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二十五味鬼臼丸(晶珠)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾错构瘤",
+    "information": {
+      "introduction": "错构瘤亦名肾血管平滑肌脂肪瘤，是良性肿瘤。过去认为少见，随着医学影像学的发展，已很常见。可以是单独疾病，也可是结节性硬化的一种表现。国外报告大约50%诊断肾错构瘤病人有结节性硬化，是一种遗传性疾病，并有家族发病倾向，表现为大脑发育不良、癫痫、面颊部皮脂腺瘤。错构瘤也可发生在脑、眼、心、肺、骨，有时可误认为转移病灶。我国肾错构瘤病人合并结节性硬化者比较少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾血管肌脂肪瘤,肾血管平滑肌脂肪瘤",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": " 中年，女性较多 ",
+        "symptom": [
+          "尿频",
+          "蛋白尿",
+          "腰酸背痛",
+          "胃肠道症状",
+          "智力减低"
+        ],
+        "complication": [
+          "肾盂肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（50000 —— 70000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "肾血管造影",
+          "肾脏CT"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "日光性皮炎",
+    "information": {
+      "introduction": "日光性皮炎(Solar Dermatitis)又称晒伤(sunburn)。是由于日光的中波紫外线过度照射后，引起人体局部皮肤发生的光毒反应。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "晒伤",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于春来夏初，高原居民，...",
+        "symptom": [
+          "日晒斑",
+          "红斑样皮疹",
+          "水疱或大疱损害",
+          "乏力",
+          "皮肤瘙痒"
+        ],
+        "complication": [
+          "痱"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（50-100元）",
+        "ratio": "治疗后99%治愈",
+        "duration": "3-9天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "皮肤病的物理检查",
+          "皮肤颜色",
+          "皮疹"
+        ],
+        "medicine": [
+          "乌蛇止痒丸",
+          "复方吲哚美辛酊",
+          "马来酸氯苯那敏片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

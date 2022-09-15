@@ -1,0 +1,1228 @@
+[
+  {
+    "disease_name": "前列腺炎",
+    "information": {
+      "introduction": "前列腺炎是由多种复杂原因和诱因引起的与炎症、免疫和神经内分泌相关的病理变化。其临床表现多样，主要为尿道刺激症状和慢性盆腔疼痛，如排尿时有烧灼感、尿急、尿频、排尿疼痛，会阴、耻骨上区、腹股沟区、生殖器疼痛不适等。约50%的男性在一生中的某个时期会受到前列腺炎的影响，其中50岁以下的成年男性患病率较高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "前列腺精囊炎",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年时期以及成年男性，性...",
+        "symptom": [
+          "尿频",
+          "尿急",
+          "尿痛",
+          "夜尿增多",
+          "尿道烧灼感"
+        ],
+        "complication": [
+          "感冒",
+          "附睾炎",
+          "早泄",
+          "神经官能症",
+          "精囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约一般在800--3000元",
+        "ratio": "40%",
+        "duration": ">120天",
+        "method": [
+          "药物治疗（抗生素治疗）、前列腺按摩、物理治疗（红光理疗）"
+        ],
+        "examination": [
+          "精液和前列腺液检查",
+          "前列腺指检",
+          "直肠指检",
+          "前列腺液显微镜检查",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "普乐安片",
+          "野菊花栓",
+          "热淋清颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "普乐安片(前列康)",
+          "grade": "2.13",
+          "total": "253",
+          "secondary": "153"
+        },
+        {
+          "medicine_name": "野菊花栓",
+          "grade": "2.57",
+          "total": "54",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "前列舒通胶囊(步长)",
+          "grade": "2.20",
+          "total": "45",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "前列通瘀胶囊(星光)",
+          "grade": "2.07",
+          "total": "26",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "前列倍喜胶囊(太和)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙金通淋胶囊(康恩贝)",
+          "grade": "1.06",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列安栓",
+          "grade": "1.60",
+          "total": "13",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "股癣",
+    "information": {
+      "introduction": "股癣是指股内侧、会阴、臀部感染真菌后引起的皮肤病。股癣的真菌可以通过内衣、浴巾等传播，也可通过性生活传播，故股癣也被列入性传播性疾病之中。但临床上80%以上的股癣是通过非性交传播的。在我国引起股癣的病原体主要是毛癣菌属的红色毛癣菌和石膏样毛癣菌，表皮癣菌属的絮状表皮癣菌以及少数白色念珠菌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "臀部",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "青年人，男性多于女性",
+        "symptom": [
+          "大腿内侧红斑",
+          "股部内侧靠近阴囊处的皮疹",
+          "腹股沟痒",
+          "鳞屑",
+          "瘙痒"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "3-5月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌培养",
+          "皮肤真菌镜检"
+        ],
+        "medicine": [
+          "硝酸咪康唑乳膏",
+          "硝酸咪康唑乳膏",
+          "盐酸特比萘芬乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "洁尔阴洗液(恩威)",
+          "grade": "2.84",
+          "total": "216",
+          "secondary": "159"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "喉癌",
+    "information": {
+      "introduction": "喉癌(carcinoma of larynx)是一种比较常见的恶性肿瘤，发病率约占全身肿瘤的1～5%，在耳鼻喉科领域中仅次于鼻咽癌和鼻腔，鼻窦癌，居第三位。好发年龄为50～70岁。男性较女性多见，约为8：1，以东北、华北和华东地区发病率最高。其病因尚不十分清楚，但患病者几乎邻有长期抽烟历史。症状因癌肿的发声部位而不同。声带癌早期即可出现声嘶，声门上癌早期则多表现为咽部不适或异物冻，疼痛感，且常不明显，容易延误诊断。晚期则可出现明显的声嘶、喉鸣、气促、呼吸困难、疼痛、吞咽障碍及颈部包块和颈淋巴结肿大。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "喉疳",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "男性较女性多见，约为8：1",
+        "symptom": [
+          "咽部异物感",
+          "喉部堵塞感",
+          "咳嗽",
+          "咽痛",
+          "声音嘶哑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（50000-100000元）",
+        "ratio": "30%(经过系统治疗本病能够5年生存率在30%)",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、放射治疗"
+        ],
+        "examination": [
+          "头颅平片",
+          "耳鼻咽喉CT",
+          "MRI"
+        ],
+        "medicine": [
+          "平消胶囊",
+          "安替可胶囊",
+          "注射用去甲斑蝥酸钠"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安替可胶囊(sinl)",
+          "grade": "3.80",
+          "total": "13",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鸡眼",
+    "information": {
+      "introduction": "鸡眼和胼胝是皮肤由于长期受挤压或受摩擦而发生的角质性增生。鸡眼一般都出现在脚趾，为圆锥形角质增生，胼胝则为斑块状角质增生。主要发生于手、足、指、趾受摩擦或挤压部位。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胼胝，肉刺",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "60%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、手术切除"
+        ],
+        "examination": "?",
+        "medicine": [
+          "水杨酸苯酚贴膏",
+          "盐酸米诺环素胶囊",
+          "水杨酸苯酚贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝炎",
+    "information": {
+      "introduction": "肝炎(学名：Hepatitis)是肝脏的炎症。肝炎的原因可能不同，最常见的是病毒造成的，此外还有自身免疫造成的。酗酒也可以导致肝炎。肝炎分急性和慢性肝炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": " 所有人群 ",
+        "symptom": [
+          "巩膜黄染",
+          "肝区痛",
+          "肝肿大",
+          "食欲不振",
+          "肝臭"
+        ],
+        "complication": [
+          "发作性睡病",
+          "病毒性肝炎",
+          "副鼻窦炎",
+          "甲肝",
+          "缺血性肝炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝炎",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（2000 —— 4000元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "疫苗、药物疗法"
+        ],
+        "examination": [
+          "1分钟胆红素",
+          "自身免疫抗体检测",
+          "儿童体检",
+          "血浆凝血因子Ⅴ活性",
+          "肝区腹膜摩擦感"
+        ],
+        "medicine": [
+          "澳泰乐胶囊",
+          "护肝宁片",
+          "恩替卡韦分散片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "澳泰乐胶囊(敖东)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "护肝宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清开灵颗粒(白云山)",
+          "grade": "2.58",
+          "total": "95",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "清开灵颗粒(远达)",
+          "grade": "4.5",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "茵栀黄颗粒(鲁南)",
+          "grade": "2.04",
+          "total": "60",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鸡骨草胶囊(玉林)",
+          "grade": "4.19",
+          "total": "13",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "禽流感",
+    "information": {
+      "introduction": "禽流感（Bird Flu或Avian Influenza）是禽流行性感冒的简称，它是一种由甲型流感病毒的一种亚型（也称禽流感病毒）引起的传染性疾病，被国际兽疫局定为甲类传染病，又称真性鸡瘟或欧洲鸡瘟。也能感染人类引起发病，成为禽流感病毒感染或禽流感病，人感染后的症状主要表现为高热、咳嗽、流涕、肌痛等，多数伴有严重的肺炎，严重者心、肾等多种脏器衰竭导致死亡。最近几年，我国香港、广东、甘肃等地都曾发生过H5N1亚型高致病性禽流感疫情。H7N9型禽流感是一种新型禽流感，于2013年3月底在上海和安徽两地率先发现。H7N9型禽流感是全球首次发现的新亚型流感病毒，尚未纳入我国法定报告传染病监测报告系统，并且至2013年4月初尚未有疫苗推出。被该病毒感染均在早期出现发热等症状，至2013年4月尚未证实此类病毒是否具有人传染人的特性。截至2013年4月8日17时，全国共报告28例确诊病例，其中死亡8人。病例分布于上海（13例，死亡5例）、江苏（8例，1例死亡）、安徽（2例）、浙江（5例，死亡2例）4省市的17个地市级区域。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "H7N9,H7N9禽流感,人禽流感",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "头痛",
+          "一过性的流感样症状",
+          "肚子疼",
+          "鼻塞",
+          "全血细胞减少"
+        ],
+        "complication": [
+          "病毒性肺炎",
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(10000--30000元)",
+        "ratio": "75%",
+        "duration": "7-14天",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血清流感病毒抗体",
+          "痰及下呼吸道分泌物标本的细菌学检验",
+          "病毒感染免疫检测",
+          "胸部平片"
+        ],
+        "medicine": [
+          "帕拉米韦氯化钠注射液",
+          "磷酸奥司他韦胶囊",
+          "小儿感冒颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗病毒口服液(安药)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清热解毒胶囊(银涛)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "流感茶(希尔安)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "四季抗病毒合剂(海天)",
+          "grade": "3.27",
+          "total": "41",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "菊蓝抗流感胶囊(九方)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "流感茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗病毒口服液（OTC乙类）(香雪)",
+          "grade": "4.26",
+          "total": "18",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "抗病毒口服液(999)",
+          "grade": "4.29",
+          "total": "19",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热解毒胶囊",
+          "grade": "3.1",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒(同仁堂)",
+          "grade": "4.30",
+          "total": "157",
+          "secondary": "65"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膀胱癌",
+    "information": {
+      "introduction": "膀胱癌是泌尿系统最常见的恶性肿瘤，发病率居泌尿系统恶性肿瘤的首位。其发病原因还不清楚，一般认为与经常接触致癌物如萘胺、联苯胺等有关，日常生活中常见的染料，橡胶、塑料制品，油漆、洗涤剂等也有潜在的致癌危险。吸烟不仅仅对呼吸系统有害，还是会引起膀胱癌。另外，某些疾病如膀胱白斑、腺性膀胱炎、尿道结石、尿潴留等也可能会诱发膀胱癌。 男女的膀胱癌发生率约为5：2，美国每年(1997年估算)约有54500新病例。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "溺血",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": " 年龄51～70岁 ",
+        "symptom": [
+          "逼尿肌无反射",
+          "耻区肿块",
+          "无痛性尿血",
+          "脓尿",
+          "排尿障碍"
+        ],
+        "complication": [
+          "血尿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（10000-30000元）",
+        "ratio": "60%",
+        "duration": "3月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "生殖系统肿瘤检查项目",
+          "泌尿系统CT",
+          "血清肿瘤基因P53抗体",
+          "膀胱B超",
+          "HER-2基因"
+        ],
+        "medicine": [
+          "香菇菌多糖片",
+          "生血宝颗粒",
+          "增生平片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "生血宝颗粒(达骛马)",
+          "grade": "2.02",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增生平片(友好)",
+          "grade": "3.16",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "至灵胶囊",
+          "grade": "2.52",
+          "total": "37",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性阑尾炎",
+    "information": {
+      "introduction": "急性阑尾炎是外科常见病，居各种急腹症的首位。转移性右下腹痛及阑尾点压痛、反跳痛为其常见临床表现，但是急性阑尾炎的病情变化多端，因此对每一具体病例都应认真对待，详尽询问病史，仔细检查，这样才能准确诊断，早期手术，防止并发症，提高治愈率。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "阑尾炎,盲肠炎，肠痈",
+        "part": [
+          "阑尾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，大多是成年人",
+        "symptom": [
+          "肚子疼",
+          "恶心与呕吐",
+          "发烧",
+          "压痛",
+          "右下腹痛"
+        ],
+        "complication": [
+          "腹膜炎",
+          "阑尾炎",
+          "血症",
+          "菌血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "普外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "100%",
+        "duration": "3-6周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "CT检查",
+          "结肠驱气试验",
+          "闭孔内肌试验",
+          "直肠指检"
+        ],
+        "medicine": [
+          "注射用哌拉西林钠他唑巴坦钠",
+          "阑尾消炎丸",
+          "清热消炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "阑尾消炎丸(同仁堂)",
+          "grade": "3.06",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(竹安)",
+          "grade": "3.12",
+          "total": "17",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "阑尾灵颗粒(哈药)",
+          "grade": "2.83",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "千里光片(佐今明)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "千里光片(药王)",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "千里光胶囊(亿希坦)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热消炎宁片(敖东)",
+          "grade": "3.04",
+          "total": "19",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "千里光片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热消炎宁片(恒一堂)",
+          "grade": "3.25",
+          "total": "17",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热消炎宁片(明善堂)",
+          "grade": "3.13",
+          "total": "15",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "肿节风咀嚼片(先臻)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "千里光片(羚锐)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "阑尾灵颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "风疹",
+    "information": {
+      "introduction": "风疹(rubella,German measles)是由风疹病毒引起的一种常见的急性传染病。又称风痧，痧子等 。是儿童常见的一种呼吸道传染病。由于风疹的疹子来得快，去得也快，如一阵风似的，风疹也因此得名。风疹病毒在体外生活力很弱，传染性与麻疹一样强。一般通过咳嗽、谈话或喷嚏等传播。以发热、全身皮疹为特征，常伴有耳后、枕部淋巴结肿大。由于全身症状一般较轻，病程短，往往认为本病无关紧要，但是近年来风疹暴发流行中重症病例屡有报导。如果孕妇感染风疹，将全严重损害胎儿，儿童成人均可发病。中医学称本病为风疹、风痧、隐疹。认为系感受风热时邪，发于肤表所致。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "病毒性风疹,德国麻疹,风痧,红疹,流行性蔷薇疹,隐疹,风毒",
+        "part": [
+          "咽喉",
+          "皮肤",
+          "淋巴"
+        ],
+        "infection": "有传染性",
+        "people": "学龄前及学龄儿童",
+        "symptom": [
+          "发烧",
+          "皮疹",
+          "颈部淋巴结肿大",
+          "浅表淋巴结肿大",
+          "头痛"
+        ],
+        "complication": [
+          "心肌炎",
+          "血尿",
+          "肾病综合征",
+          "贫血",
+          "溶血性贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "91%",
+        "duration": "7~10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "红细胞碱粒凝集试验",
+          "淋巴细胞数",
+          "补体结合试验",
+          "白细胞数",
+          "中和试验"
+        ],
+        "medicine": [
+          "利巴韦林注射液",
+          "双氯芬酸钠缓释片",
+          "皮肤病血毒丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮肤病血毒丸(同仁堂)",
+          "grade": "3.69",
+          "total": "27",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "防风通圣丸(同仁堂)",
+          "grade": "4.39",
+          "total": "18",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "防风通圣丸(中一)",
+          "grade": "2.64",
+          "total": "15",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "防风通圣颗粒(仙阁)",
+          "grade": "4.28",
+          "total": "38",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "防风通圣丸(平光)",
+          "grade": "4.93",
+          "total": "32",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "防风通圣丸(孔孟)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "防风通圣丸(坤康)",
+          "grade": "4.93",
+          "total": "32",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "防风通圣丸(冯了性)",
+          "grade": "4.93",
+          "total": "32",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "防风通圣丸(永丰)",
+          "grade": "4.93",
+          "total": "32",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "防风通圣丸(御生堂)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "防风通圣丸(玉启堂)",
+          "grade": "4.42",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "防风通圣丸(万岁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阑尾炎",
+    "information": {
+      "introduction": "阑尾炎(Appendicitis)是指阑尾由于多种因素而形成的炎性改变。它是一种常见病，其预后取决于是否及时的诊断和治疗。早期诊治，病人多可短期内康复，死亡率极低(o.1%一0.2%);如果延误诊断和治疗可引起严重的并发症，甚至造成死亡。阑尾炎是一种常见病。临床上常有右下腹部疼痛、体温升高、呕吐和中性粒细胞增多等表现。阑尾炎是阑尾的炎症，最常见的腹部外科疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阑尾"
+        ],
+        "infection": "无传染性",
+        "people": "青年人群",
+        "symptom": [
+          "肚子疼",
+          "右下腹痛",
+          "恶心与呕吐",
+          "食欲不振",
+          "恶心"
+        ],
+        "complication": [
+          "妊娠性急性阑尾炎",
+          "老年人急性阑尾炎",
+          "小儿急性阑尾炎",
+          "慢性阑尾炎",
+          "急性阑尾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（500 —— 3000元）",
+        "ratio": "100%(经过抗炎手术的等方式治疗后都能痊愈。)",
+        "duration": "7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "腹部CT",
+          "结肠驱气试验",
+          "Bryan试验",
+          "Alder试验"
+        ],
+        "medicine": [
+          "注射用头孢西丁钠",
+          "注射用哌拉西林钠他唑巴坦钠",
+          "清热消炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎丸(同仁堂)",
+          "grade": "3.06",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "妇炎康软胶囊",
+          "grade": "1.90",
+          "total": "29",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "妇炎康丸(蝴蝶迷)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肿节风分散片",
+          "grade": "1.88",
+          "total": "25",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(竹安)",
+          "grade": "3.12",
+          "total": "17",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "阑尾灵颗粒(哈药)",
+          "grade": "2.83",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肿节风片(天施康)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阑尾消炎片(吉春)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清热消炎宁片(敖东)",
+          "grade": "3.04",
+          "total": "19",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "阑尾消炎片(国风)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "美尼尔氏综合症",
+    "information": {
+      "introduction": "美尼尔氏综合症是以膜迷路积水的一种内耳疾病。本病以突发性眩晕、耳鸣、耳聋或眼球震颤为主要临床表现，眩晕有明显的发作期和间歇期。病人多数为中年人，患者性别无明显差异，首次发作在50岁以前的病人约占65%，大多数病人单耳患病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "梅尼埃病，内耳眩晕症",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "耳痛",
+          "听觉障碍",
+          "耳源性眩晕",
+          "耳鸣如潮",
+          "耳内闭塞感"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "95%",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "纯音听力计检查法",
+          "听力检查",
+          "冷热试验",
+          "声阻抗",
+          "前庭功能"
+        ],
+        "medicine": [
+          "甲磺酸倍他司汀片",
+          "复方天麻蜜环糖肽片",
+          "低气压脉冲发生器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "天麻眩晕宁合剂(陕中)",
+          "grade": "4.08",
+          "total": "68",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "口腔癌",
+    "information": {
+      "introduction": "口腔癌是指发生于口腔的恶性肿瘤。包括唇癌、牙龈癌、舌癌、软硬腭癌、颌骨癌、口底癌、口咽癌、涎腺癌和上颌窦癌以及发生于颜面部皮肤粘膜的癌症等。口腔癌是头颈部较常见的恶性肿瘤之一。口腔癌以男性多见。口腔癌病例中，以舌活动部癌最常见，其次为颊粘膜癌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": " 所有人群 ，男性比较多",
+        "symptom": [
+          "溃疡",
+          "口腔痛",
+          "口腔粘膜上白色较硬的隆起斑块",
+          "口痛",
+          "疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "58%",
+        "duration": "2-3个月",
+        "method": [
+          "手术治疗、放射治疗、化学治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "口腔内窥镜",
+          "头颅平片",
+          "脱落细胞"
+        ],
+        "medicine": [
+          "西黄丸",
+          "西吡氯铵含漱液",
+          "鼻咽灵片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "西黄丸(九寨沟)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻咽灵片(白云山中一)",
+          "grade": "3.73",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻咽灵片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "狐臭",
+    "information": {
+      "introduction": "狐臭又称为腋臭、臭汗症等，是由患者腋窝、外阴、口角等部位的大汗腺(又叫顶浆腺)排泄的汗液，脂肪酸比普通人高，呈淡黄色，较浓稠;脂肪酸达到一定浓度，经皮肤表面的细菌，主要是葡萄球菌的分解，产生不饱和脂肪酸而发出臭味。其和狐狸肛门排除的气味相似，所以常称为狐臭。大多数狐臭患者有家族遗传史，有统计显示，有明显遗传倾向的约占60%以上。另外，狐臭的人种学倾向特别明显，白色人种、黑色人种、棕色人种患有患有狐臭这占绝大多数，因此他们中没有狐臭反而少见，狐臭在他们的人群中并不是疾病，在西方，狐臭的英文单词(B.O)body odor就是体味的意思。由于黄色人种的体味(狐臭)极轻，一旦谁的体味较重(狐臭明显)，周围的人就感觉特别刺鼻，而且普遍认为是一种疾病。患有狐臭，会因此形成较重的心理负担，影响婚姻、就业、升学、交友等。很多患者因此造成性格、思维的不正常，狐臭就真的变成了一种疾病---心理疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "腋臭,臭汗症",
+        "part": [
+          "皮肤",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "青春期最为明显，女性多于男...",
+        "symptom": [
+          "腋窝有异味",
+          "多汗且臭味较浓",
+          "自觉汗臭",
+          "汗腺分泌体味",
+          "臭汗"
+        ],
+        "complication": [
+          "急性湿疹",
+          "神经性皮炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约(1000 ——10000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、激光治疗，手术治疗"
+        ],
+        "examination": [
+          "温度与出汗"
+        ],
+        "medicine": [
+          "足光散",
+          "腋臭粉",
+          "乌洛托品溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "足光散(九芝堂)",
+          "grade": "2.90",
+          "total": "82",
+          "secondary": "68"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性胰腺炎",
+    "information": {
+      "introduction": "慢性胰腺炎(chronic pancreatitis)是由于各种因素造成的胰腺组织和功能的持续性、永久性损害。胰腺出现不同程度的腺泡萎缩、胰管变形、纤维化及钙化，并出现不同程度的胰腺外分泌和内分泌功能障碍，临床上主要表现为腹痛、腹泻或脂肪泻，消瘦及营养不良等胰腺功能不全的症候。典型慢性胰腺炎在我国较为少见，确诊较难。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胰胀",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "吸烟、饮酒、饮食不规律人群",
+        "symptom": [
+          "肚子疼",
+          "持续性疼痛",
+          "静脉血栓",
+          "胰腺纤维化",
+          "腹胀"
+        ],
+        "complication": [
+          "胰腺假性囊肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "75%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胰腺外分泌功能试验",
+          "胰腺CT",
+          "血清碱性磷酸酶",
+          "白细胞数",
+          "葡萄糖耐量试验"
+        ],
+        "medicine": [
+          "曲匹布通片",
+          "曲匹布通片",
+          "胰胆炎合剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "酒精肝",
+    "information": {
+      "introduction": "酒精性肝病是长期酗酒所致酒精中毒性肝脏疾病，包括脂肪肝、酒精性肝类和酒精性肝硬化。本病在西方国家多见，80%～90%的肝硬化病因是由饮酒所引起。在我国对肝炎后引起的肝硬化比较重视，对酒精性肝硬化认为少见而重视不够。随着我国酒的消耗量增加，临床所见酒精性肝病有逐年增多的趋势。值得今后注意。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "酒精性肝病",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "多在50岁左右出现，80%有5～10...",
+        "symptom": [
+          "指甲呈扇形",
+          "酒精性肝硬化",
+          "肝脏病变弥漫",
+          "上腹不适",
+          "肝掌"
+        ],
+        "complication": [
+          "肝硬化",
+          "营养不良",
+          "贫血",
+          "蜘蛛痣",
+          "神经炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "40-50%",
+        "duration": "1-2年",
+        "method": [
+          "饮食、药物治疗"
+        ],
+        "examination": [
+          "血清总蛋白",
+          "血葡萄糖",
+          "游离肝素时间",
+          "血清白蛋白与球蛋白比值",
+          "血清抗肝肾微粒体抗体"
+        ],
+        "medicine": [
+          "肝喜乐胶囊",
+          "复方木鸡颗粒",
+          "水飞蓟素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肝喜乐胶囊(德元堂)",
+          "grade": "2.20",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方木鸡颗粒(皇泰吉)",
+          "grade": "3.60",
+          "total": "22",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

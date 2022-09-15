@@ -1,0 +1,859 @@
+[
+  {
+    "disease_name": "尿道狭窄",
+    "information": {
+      "introduction": "尿道狭窄是指尿道任何部位的机械性管腔异常狭小，使尿道内阻力增加而产生的排尿障碍性疾病。多见于男性。按病因可将尿道狭窄分为先天性尿道狭窄、炎症性尿道狭窄、外伤性尿道狭窄3大类。由于增生的纤维组织代替了正常的尿道海绵体而形成瘢痕，使尿道及其周围组织挛缩，从而造成尿道狭窄。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴茎",
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "多见于男性",
+        "symptom": [
+          "尿道变粗变硬",
+          "排尿障碍",
+          "排尿不畅",
+          "泌尿道破裂",
+          "排尿时外阴灼热、瘙痒或疼痛"
+        ],
+        "complication": [
+          "尿路感染",
+          "急性附睾炎",
+          "尿瘘",
+          "腹股沟疝"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率90%,部分严重患者徐二期修复）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾动态显像",
+          "阴茎超声检查",
+          "精液量"
+        ],
+        "medicine": [
+          "注射用头孢哌酮钠舒巴坦钠",
+          "盐酸黄酮哌酯片",
+          "盐酸黄酮哌酯片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "排石利胆胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老花眼",
+    "information": {
+      "introduction": "处在休息状态的眼使平行光的视网膜的后面形成焦点，称为远视眼（hypermetropia，hyperopia）。这种眼的光学焦点在视网膜之后，因而在视网膜上所形成的像是模糊不清的。为了看清远处物体，要利用调节力量把视网膜后面的焦点移到视网膜上，故远视眼经常处在调节状态，易发生眼疲劳。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "老视",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "大多出现在45岁以后，随年龄...",
+        "symptom": [
+          "视近困难",
+          "流泪",
+          "疲劳",
+          "视近不能持久",
+          "反应迟钝"
+        ],
+        "complication": [
+          "结膜结核病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（6000-10000元）",
+        "ratio": "老年病范畴",
+        "duration": "终身性疾病",
+        "method": [
+          "凸透镜、手术矫正治疗"
+        ],
+        "examination": [
+          "眼外部检查",
+          "远视力检查法",
+          "视力筛查仪",
+          "视力",
+          "直接检眼镜检查法"
+        ],
+        "medicine": [
+          "眼氨肽滴眼液",
+          "冰珍清目滴眼液",
+          "折叠式多焦丙烯酸人工晶体"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "男性急性淋病",
+    "information": {
+      "introduction": "男性急性淋病是男性单纯性急性淋菌性尿道炎，男性99%以上都是通过不洁性交感染的。潜伏期一般为2～10天，平均2～5天。如果能在潜伏期内发现并给予正确的治疗，预后较好。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "男性急性淋菌性尿道炎",
+        "part": [
+          "盆腔",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "中老年群体",
+        "symptom": [
+          "尿道口粘连",
+          "尿频",
+          "脓性分泌物",
+          "刺痛",
+          "食欲不振"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "涂片",
+          "淋菌培养",
+          "药敏试验"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "妊娠合并糖尿病",
+    "information": {
+      "introduction": "糖尿病是一种常见的、有一定遗传倾向而病因未完全阐明的内分泌代谢疾病。其基本的病理生理变化为胰岛素相对或绝对不足所导致的糖、蛋白质、脂肪、水及电解质等代谢失调，以“高血糖”为其特点。还有一些疾病中也有高血糖，称为症状性糖尿病或继发性糖尿病，仅占极少数，例如胰腺炎、胰切除术后、肢端肥大症、柯兴综合征等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胰腺",
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性妊娠期发病",
+        "symptom": [
+          "血糖值升高",
+          "糖尿",
+          "酮症酸中毒",
+          "多饮",
+          "多尿"
+        ],
+        "complication": [
+          "糖尿病酮症酸中毒",
+          "急性心肌梗死",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "检眼镜检查法",
+          "孕尿雌三醇",
+          "葡萄糖可的松耐量试验",
+          "尿葡萄糖",
+          "糖化血清蛋白"
+        ],
+        "medicine": [
+          "重组人胰岛素注射液",
+          "胰岛素注射液",
+          "厄贝沙坦片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "躯体形式障碍",
+    "information": {
+      "introduction": "躯体形式障碍(somatoform disorders)是以各种躯体不适症状作为主要主诉，虽多方就医，经各种医学检查证实无器质性损害或明确的病理生理机制存在，但仍不能打消其疑虑的一类神经症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "躯体病样精神障碍",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "头痛",
+          "头晕",
+          "周身不适",
+          "心悸",
+          "共济失调"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "阿米替林片",
+          "盐酸文拉法辛胶囊",
+          "盐酸多塞平片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "戊肝",
+    "information": {
+      "introduction": "戊型病毒性肝炎(viral hepatitis type E，HE戊肝)是一种自限性传染病，主要经消化道传播，是我国乙类法定传染病之一，常引起暴发流行，临床表现和预后均与甲型肝炎(甲肝)类似，，孕妇患戊肝病死率高为本型肝炎的特点，小儿戊肝的发病率低。其流行特点也似甲型肝炎，经粪-口途径传播，具有明显季节性，多见于雨季或洪水之后，无慢性化，预后良好。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "戊型病毒性肝炎，戊型肝炎",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "头痛",
+          "大块肝细胞坏死",
+          "鼻塞",
+          "食欲缺乏",
+          "上腹不适"
+        ],
+        "complication": [
+          "肝性脑病",
+          "肝肾综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肝病"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "70%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血清戊肝IgG抗体",
+          "血清戊肝IgM抗体",
+          "尿胆汁酸",
+          "血清r-谷氨酰基转移酶",
+          "尿胆素"
+        ],
+        "medicine": [
+          "注射用胸腺肽",
+          "珍熊胆丸",
+          "体外高频肝病治疗机"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珍熊胆丸",
+          "grade": "3.91",
+          "total": "23",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "不稳定型心绞痛",
+    "information": {
+      "introduction": "不稳定型心绞痛(unstable angina pectoris)是一种冠心病的急性心脏事件，是急性冠状动脉综合征的重要组成部分，是介于慢性稳定性心绞痛和急性心肌梗死之间的中间临床综合征。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "不稳定心绞痛",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "心悸",
+          "胸痛",
+          "收缩期杂音",
+          "强迫停立位",
+          "呼吸困难"
+        ],
+        "complication": [
+          "猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "60%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "瑞斯托霉素诱导血小板聚集测定",
+          "肌酸激酶",
+          "肌红蛋白",
+          "心血管造影",
+          "动态心电图"
+        ],
+        "medicine": [
+          "硝苯地平片",
+          "硝苯地平片",
+          "注射用尼可地尔"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "流行性出血热",
+    "information": {
+      "introduction": "流行性出血热(epidemic hemorrhagic fever，EHF)是病毒引起的自然疫源性疾病。1982年世界卫生组织(WHO)定名为肾综合征出血热(hemorrhagic fever with renal syndromes，HFRS)。是以发热、出血倾向及肾脏损害为主要临床特征的急性病毒性传染病。本病主要分布于欧亚大陆，但HFRS病毒的传播几乎遍及世界各大洲。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "出血性肾病肾炎，朝鲜出血热，肾综合征出血热",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眼眶疼痛",
+          "食欲减退",
+          "面颊及上胸部充血",
+          "头昏",
+          "血压低"
+        ],
+        "complication": [
+          "休克",
+          "脑膜炎",
+          "出血性疾病",
+          "上消化道出血",
+          "登革出血热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血清循环免疫复合物",
+          "溶解酶",
+          "血清抗流行性出血热病毒抗体",
+          "血清汉坦病毒抗体"
+        ],
+        "medicine": [
+          "藻酸双酯钠片",
+          "肾上腺色腙片",
+          "流行性出血热IgM抗体检测试剂盒(酶联免疫法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "出血热预防片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "射干抗病毒注射液",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "射干抗病毒注射液",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "射干抗病毒注射液",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "射干抗病毒注射液",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "射干抗病毒注射液",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "甘草甜素胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鼻前庭炎",
+    "information": {
+      "introduction": "鼻前庭炎(vestibulits of nose)是鼻前庭皮肤的弥漫性炎症。经常挖鼻，急、慢性鼻炎和鼻窦炎、变态反应或鼻腔异物(多见于小儿)的分泌物刺激，长期在粉尘(如水泥、石棉、皮毛、烟草等)环境中工作，易诱发或加重本病。分为急性和慢性两种。急性者鼻前庭皮肤红肿，疼痛，严重者可扩及上唇交界处，有压痛，表皮糜烂并覆盖有痂皮。慢性者鼻前庭部发痒，灼热和结痂，鼻毛脱落，皮肤增厚，皲裂或覆盖有鳞屑样痂皮。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼻前庭皮肤弥漫性炎症，鼻疳",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鼻前庭部发痒",
+          "鼻毛变白",
+          "鼻毛脱落",
+          "鼻前庭皮肤红肿疼痛",
+          "鼻前庭部发痒"
+        ],
+        "complication": [
+          "海绵窦血栓",
+          "急性蜂窝组织炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "本病经过治疗后一般能够95%进行有效治愈。",
+        "duration": "一般在2-3周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "鼻前庭",
+          "前庭功能",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "辛夷鼻炎丸",
+          "防芷鼻炎片",
+          "胆木浸膏糖浆"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "辛夷鼻炎丸(白云山中一)",
+          "grade": "3.65",
+          "total": "27",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "防芷鼻炎片(天天乐)",
+          "grade": "3.92",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胆木浸膏糖浆",
+          "grade": "3.88",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "黄体囊肿",
+    "information": {
+      "introduction": "妊娠妇女有形成黄体囊肿的倾向。正常和妊娠期黄体直径小于2cm，若黄体直径达2～3cm，称囊状黄体;直径大于3cm，则称黄体囊肿。当囊状黄体或黄体囊肿退变时，转变为玻璃样变的结缔组织，但仍保持囊腔及囊腔内液体，其直径在2～3cm，称囊状白体。直径大于3cm称白体囊肿。卵巢黄体囊肿可由于某种原因引起囊肿破损、出血，严重者可引起急腹症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "卵巢黄体囊肿",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "育龄妇女",
+        "symptom": [
+          "下腹部包块",
+          "滤泡增大",
+          "囊肿",
+          "下腹部包块"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "90%",
+        "duration": "2-6周",
+        "method": [
+          "无临床症状时无需处理，发生破裂手术治疗"
+        ],
+        "examination": [
+          "肿瘤标志物",
+          "盆腔和阴道B超",
+          "凝血时间"
+        ],
+        "medicine": [
+          "桂枝茯苓胶囊",
+          "止痛化癥胶囊",
+          "雌二醇(E2)诊断试剂盒(化学发光法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "止痛化癥胶囊(东方金宝)",
+          "grade": "2.07",
+          "total": "17",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "角膜病",
+    "information": {
+      "introduction": "角膜位于眼球最前端，除具有保护内容物的作用外，又是眼屈光的重要组成部分，酷似照相机的镜头。所以，角膜疾病可直接影响视力。通常所说的“黑眼珠”，就是通过透明的角膜，虹膜和瞳孔本色的展示；故在颜面部容貌美中，角膜的透明性显得十分重要。影响角膜透明的因素是多方面的，其中角膜炎居首位。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "黑眼珠",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "角膜晶状体粘连",
+          "角膜瘘",
+          "角膜异物",
+          "角膜上皮糜烂",
+          "角膜上点状暗灰色混浊"
+        ],
+        "complication": [
+          "虹膜睫状体炎",
+          "伴有虹膜睫状体炎的继发性青光眼",
+          "角膜葡萄肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-200元）",
+        "ratio": "70%",
+        "duration": "7--14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "泪液分泌试验",
+          "角膜病灶刮片",
+          "角膜知觉检查法",
+          "角膜荧光素染色",
+          "裂隙灯"
+        ],
+        "medicine": [
+          "氯霉素滴眼液",
+          "拨云退翳丸",
+          "重组人表皮生长因子滴眼液(酵母)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "拨云退翳丸(达仁堂)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人低血压",
+    "information": {
+      "introduction": "老年低血压国内研究相对较少。实际上，它和高血压一样具有重要的临床意义：长期的症状性低血压可严重影响老年人生活质量，导致各种重要脏器功能进行性衰退;突发的低血压则可导致老年人晕厥、跌倒、外伤、急性心肌梗死、脑卒中以至危及生命，故必须予以高度的重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "血压低",
+          "听力减退",
+          "头晕",
+          "体位张力消失"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "65%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "直立倾斜试验",
+          "颅脑MRI",
+          "颅脑CT",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "左卡尼汀口服溶液",
+          "重酒石酸去甲肾上腺素注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "吸收不良综合征",
+    "information": {
+      "introduction": "吸收不良综合征是指各种原因的小肠营养物质吸收不良所引起的综合征。营养物质的吸收必须经过充分的消化作用。因此，广义的吸收不良综合征包括消化不良与吸收不良，故又称为“消化吸收不良综合征”。许多疾病可引起本综合征，但其临床表现及实验检查结果往往相似。吸收不良包括各种营养物质，其中脂肪吸收障碍最具特征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "消化吸收不良综合征，脾痿，脾消",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "腹部不适",
+          "腹胀",
+          "食欲不振",
+          "消瘦"
+        ],
+        "complication": [
+          "低渗性脱水",
+          "口角炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "小肠充盈及排空功能",
+          "小肠镜",
+          "脂肪吸收试验",
+          "粪便脂肪",
+          "维生素A耐量试验"
+        ],
+        "medicine": [
+          "健宝灵片",
+          "健儿消食口服液",
+          "泛酸钙片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健宝灵片(比必高)",
+          "grade": "1.65",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "健儿消食口服液(益民堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "B疱疹病毒感染",
+    "information": {
+      "introduction": "B疱疹病毒(B virus disease)又称猴疱疹病毒I型(herpes virus simiae),其感染猴类而得名。人被感染BV的猴咬或抓伤后可发生皮肤损害，淋巴结炎及流感样综合征，甚而并发病毒性脑炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "猴疱疹病毒I型",
+        "part": [
+          "皮肤",
+          "淋巴",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口咽部水疱状损害",
+          "疲劳",
+          "肌痛",
+          "疱疹",
+          "流感样症状"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "单纯疱疹病毒"
+        ],
+        "medicine": [
+          "盐酸吗啉胍片",
+          "诺氟沙星胶囊",
+          "盐酸伐昔洛韦片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性单纯性咽炎",
+    "information": {
+      "introduction": "慢性单纯性咽炎（simple chronic pharyngitis）为咽粘膜的慢性炎症。多因急性咽炎反复发作或治疗不彻底，以及邻近器官病灶刺激如鼻窦炎、扁桃体炎、鼻咽炎、气管炎等引起。烟酒过度、粉尘及有害气体刺激亦为常见病因。此病常为上呼吸道性炎症的一部分，并与某些全身性病症如贫血、糖尿病、便秘、心脏病、肾炎、肝硬化等引起局部末梢循环障碍有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性咽炎，慢性卡他性咽炎",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年",
+        "symptom": [
+          "恶心",
+          "咽部慢性充血",
+          "口及咽部烧灼感",
+          "咳出带臭味的干痂",
+          "咽部有异物感"
+        ],
+        "complication": [
+          "咳嗽晕厥综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约300--600元",
+        "ratio": "70%",
+        "duration": "15-30天",
+        "method": [
+          "戒除烟酒、增强体质、提高机体免疫力"
+        ],
+        "examination": [
+          "间接鼻咽镜",
+          "纤维鼻咽镜",
+          "鼻咽部活组织检查",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "清热镇咳糖浆",
+          "阿莫西林胶囊",
+          "盐酸多塞平乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热镇咳糖浆",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "咽炎片(吴太)",
+          "grade": "4.49",
+          "total": "81",
+          "secondary": "77"
+        },
+        {
+          "medicine_name": "鼻宁喷雾剂(倍鼻牌)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "复方南板蓝根片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

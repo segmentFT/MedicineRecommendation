@@ -1,0 +1,1007 @@
+[
+  {
+    "disease_name": "白喉",
+    "information": {
+      "introduction": "白喉(diphtheria)是由白喉棒状杆菌经引起的急性呼吸道传染病。白喉外毒素是主要致病因素。其临床特征为咽、喉、鼻等处黏膜充血、肿胀并有灰白色假膜形成，以及由细菌外毒素引起的全身中毒症状，严重者可有中毒性心肌炎和周围神经麻痹。本病呈世界性分布，四季均可发病，以秋季冬季较多。我国广泛推行白喉类毒素接种，发病率、死亡率显著降低。现仅在未进行免疫接种或免疫不完全的人群中偶然散发。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "儿童",
+        "symptom": [
+          "白喉假膜形成",
+          "扁桃体上有灰色膜",
+          "扁桃体充血",
+          "干咳",
+          "颌下淋巴结肿大压痛"
+        ],
+        "complication": [
+          "心肌炎",
+          "肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "耳鼻喉科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "70-80%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "细菌学检验",
+          "心电图",
+          "小白鼠毒力试验"
+        ],
+        "medicine": [
+          "嘎日迪五味丸",
+          "那如三味丸",
+          "琥乙红霉素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "嘎日迪五味丸",
+          "grade": "2.59",
+          "total": "11",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "那如三味丸",
+          "grade": "2.14",
+          "total": "16",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "八味锡类散(同仁堂)",
+          "grade": "4.23",
+          "total": "7",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "滑膜肉瘤",
+    "information": {
+      "introduction": "滑膜肉瘤(synoviosarcoma)是一种恶性程度很高的软组织肉瘤，起源于具有滑膜分化的间叶细胞，但罕见于关节内。滑膜肉瘤是第四常见的软组织肉瘤，好发于15～40岁，它很少从关节滑膜发生，而是从关节附近的软组织内发生，有时甚至远离关节。好发于四肢，约70%发生于下肢，特别在膝关节附近，其次为足及踝部，上肢以肘部为多。另外与关节无关的部位如头颈部、腹壁、后腹膜也可发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "恶性滑膜瘤",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "以青少年及中年患者多见，男...",
+        "symptom": [
+          "滑膜黑染",
+          "膝关节肿胀积血",
+          "膝关节肿大",
+          "踝膝关节积液",
+          "膝关节积液"
+        ],
+        "complication": [
+          "肺转移瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "骨科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "35%",
+        "duration": "3-6月",
+        "method": [
+          "药物、放射、化学、手术治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "骨与关节MRI",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "转移因子口服溶液",
+          "依托泊苷软胶囊",
+          "注射用甲泼尼龙琥珀酸钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脚癣",
+    "information": {
+      "introduction": "脚癣(tinea pedis)，俗称香港脚，是发生于足跖部、趾间皮肤的皮肤癣菌感染，有时可延及到足跟及足背，但仅发生于足背者称体癣。与中医所称的臭田螺、田螺疱相类似，如《医宗金鉴·外科心法》：“臭田螺疮最缠绵，脚、丫瘙痒起白斑，搓破皮烂腥水臭……”;“田螺疱在足掌生，里湿外寒蒸郁成，豆粒黄泡闷胀硬，破津臭水肿烂痛”。中医认为本病系湿润热下注或因久居湿地染毒所致。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "香港脚,足癣",
+        "part": [
+          "皮肤",
+          "下肢"
+        ],
+        "infection": "有传染性",
+        "people": "多发于中、青年人，儿童少见...",
+        "symptom": [
+          "肢端易发生不易控制的足癣感染",
+          "脚臭",
+          "足癣",
+          "丘疹",
+          "瘙痒"
+        ],
+        "complication": [
+          "急性淋巴管炎",
+          "急性蜂窝组织炎",
+          "丹毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": ">30%",
+        "duration": "30天",
+        "method": [
+          "外用药物治疗、内服药物治疗"
+        ],
+        "examination": [
+          "细菌的鉴定",
+          "细菌学检验",
+          "真菌检查"
+        ],
+        "medicine": [
+          "珊瑚癣净",
+          "华佗膏",
+          "复方聚维酮碘搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珊瑚癣净(神奇)",
+          "grade": "2.63",
+          "total": "97",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "脚气散(双井)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "脚气散",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "脚气散",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痢疾",
+    "information": {
+      "introduction": "痢疾，古称肠辟、滞下。为急性肠道传染病之一。临床以发热、腹痛、里急后重、大便脓血为主要症状。若感染疫毒，发病急剧，伴突然高热，神昏、惊厥者，为疫毒痢。痢疾初起，先见腹痛，继而下痢，日夜数次至数十次不等。多发于夏秋季节，由湿热之邪，内伤脾胃，致脾失健运，胃失消导，更挟积滞，酝酿肠道而成。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肠澼、赤沃",
+        "part": [
+          "腹部"
+        ],
+        "infection": "有传染性",
+        "people": "儿童",
+        "symptom": [
+          "肚子疼",
+          "里急后重",
+          "脓血便",
+          "高热",
+          "便血"
+        ],
+        "complication": [
+          "阿米巴痢疾",
+          "小儿中毒型痢疾",
+          "小儿细菌性痢疾",
+          "痢疾后综合症",
+          "细菌性痢疾"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "抗心磷脂抗体（ACA）",
+          "粪便吞噬细胞",
+          "大便红细胞",
+          "大便脓液",
+          "乙状结肠镜检查"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星胶囊",
+          "穿心莲软胶囊",
+          "清热消炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "穿心莲软胶囊(彤罗)",
+          "grade": "1.61",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "穿心莲内酯滴丸(天士力)",
+          "grade": "2.30",
+          "total": "52",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "木香槟榔丸(同仁堂)",
+          "grade": "3.75",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "巴特日七味丸(蒙王)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "含化上清片(广育堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "含化上清片",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "右束支传导阻滞",
+    "information": {
+      "introduction": "右束支传导阻滞(right bundle-branch block，RBBB)简称右束支阻滞。右束支传导阻滞本身不产生明显的血流动力学异常，故临床上常无症状。如出现症状则多为原发疾病的症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "右束支阻滞",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，老年人",
+        "symptom": [
+          "传导阻滞",
+          "心电图异常",
+          "QRS波宽大畸形",
+          "QRS波宽大畸形"
+        ],
+        "complication": [
+          "左束支传导阻滞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "盐酸普鲁卡因胺片",
+          "盐酸胺碘酮片",
+          "植入式心律转复除颤器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "儿童腹痛",
+    "information": {
+      "introduction": "腹痛是小儿时期最常见的症状之一，引起腹痛的原因很多，几乎涉及各科疾病。既可以是腹内脏器病变，也可以是腹外病变；可以是器质性的，也可以是功能性的；可以是内科疾患，也可以是外科疾患，甚至最初为内科疾患，以后病情发展而以外科情况为主。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "肠痉挛",
+          "放射性疼痛",
+          "持续性疼痛",
+          "回盲瓣功能不全",
+          "肠穿孔"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000-4000元）",
+        "ratio": "80%",
+        "duration": "3--7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "WBC",
+          "大便白细胞",
+          "尿红细胞",
+          "尿白细胞"
+        ],
+        "medicine": [
+          "枫蓼肠胃康片",
+          "十滴水胶丸",
+          "康复贴"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "枫蓼肠胃康片(宝岛)",
+          "grade": "2.33",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十滴水胶丸",
+          "grade": "4.16",
+          "total": "6",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "妊娠高血压",
+    "information": {
+      "introduction": "妊高症，即妊娠高血压综合症，也是以往所说的妊娠中毒症、先兆子痫等，是孕妇特有的病症，多数发生在妊娠20周与产后两周，约占所有孕妇的5%。其中一部分还伴有蛋白尿或水肿出现，病情严重者会产生头痛、视力模糊、上腹痛等症状。若没有适当治疗，可能会引起全身性痉挛甚至昏迷。根据症状的不同程度，可分为轻、中、重度。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "妊娠高血压综合征，妊娠合并原发性高血压,妊高征，妊娠高压",
+        "part": [
+          "血液血管",
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "孕妇",
+        "symptom": [
+          "血压高",
+          "蛋白尿",
+          "踝部凹陷性水肿",
+          "小腿水肿",
+          "先兆子痫"
+        ],
+        "complication": [
+          "弥散性血管内凝血",
+          "蛛网膜下腔出血",
+          "肾衰",
+          "胎盘早剥"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼底检查",
+          "血压测量",
+          "血液黏度",
+          "心电图",
+          "尿蛋白定量"
+        ],
+        "medicine": [
+          "右旋糖酐40葡萄糖注射液",
+          "右旋糖酐40氯化钠注射液",
+          "妊娠高血压综合征监测系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "中气不足",
+    "information": {
+      "introduction": "　   中气不足是指宗气不足.即脾胃之气虚弱、运化失职。症见面色黄而少华，唇淡或黯，食欲不振，食后腹胀，眩晕，声低，气短，倦怠乏力，便溏。若兼见胃痛则痛而喜按，舌嫩苔厚，脉虚等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人",
+        "symptom": [
+          "乏力",
+          "气短",
+          "食欲不振",
+          "精神萎靡",
+          "舌胖有齿痕"
+        ],
+        "complication": [
+          "颅咽管瘤",
+          "气痢",
+          "气虚眩晕",
+          "副鼻窦炎",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000—— 5000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "补中益气丸(水丸)",
+          "归脾丸",
+          "参芪力得康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "补中益气丸(水丸)(同仁堂)",
+          "grade": "2.96",
+          "total": "60",
+          "secondary": "55"
+        },
+        {
+          "medicine_name": "归脾丸",
+          "grade": "3.40",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参芪力得康片(宜研堂)",
+          "grade": "1.91",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "参芪力得康片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "生脉饮",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补气升提片(冯了性)",
+          "grade": "5.0",
+          "total": "98",
+          "secondary": "98"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "死精症",
+    "information": {
+      "introduction": "死精症是指精子成活率减少，死精子超过40%者，本病为男子不育原因之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "无子,死精子过多,精子畸形性不育症，精子活力低下症",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "青年男性",
+        "symptom": [
+          "遗精",
+          "精子异常",
+          "精子大头畸形",
+          "附睾囊肿",
+          "精囊缩小"
+        ],
+        "complication": [
+          "男性不育"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（8000-10000元）",
+        "ratio": "20-40%",
+        "duration": "5-10年",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "前列腺检查",
+          "精浆的生化检查",
+          "精子爬高试验",
+          "精子活动率"
+        ],
+        "medicine": [
+          "五子衍宗片",
+          "五子衍宗片",
+          "壬苯醇醚栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五子衍宗片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "五子衍宗片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性荨麻疹",
+    "information": {
+      "introduction": "急性荨麻疹是荨麻疹的一种常见类型，在所有荨麻疹中约占1/3。一般见于急性过敏反应。发病迅速，皮疹呈多形性。主要表现为红斑水肿基础上的丘疹、丘疱疹、水疱、糜烂、渗出、结痂等，损害境界不清，严重时可泛发全身，瘙痒剧烈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "丘疹",
+          "皮肤水疱，后形成黑色干痂",
+          "瘙痒",
+          "人工荨麻疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血检查",
+          "嗜酸性粒细胞数",
+          "皮肤划痕试验"
+        ],
+        "medicine": [
+          "皮敏消胶囊",
+          "荨麻疹丸",
+          "炉甘石洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "荨麻疹丸(世纪鑫威)",
+          "grade": "3.64",
+          "total": "35",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "防参止痒颗粒(康辰)",
+          "grade": "1.63",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "淋球菌感染",
+    "information": {
+      "introduction": "淋球菌感染是指由淋病奈瑟球菌(Neisseria gonorrhoeae，NG，简称淋球菌)引起的泌尿生殖系统的化脓性感染，是常见的性传播疾病之一，俗称淋病。临床表现以尿道炎、宫颈炎多见，典型症状是排尿困难、尿频、尿急、尿痛、排出黏液或脓性分泌物等。也可侵犯眼睛、咽部、直肠和盆腔等处以及血行播散性感染引起关节炎、肝周炎、败血症、心内膜炎或脑膜炎等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "淋病奈瑟菌感染,淋病奈瑟球菌感染,淋病奈瑟氏菌感染,淋病双球菌感染",
+        "part": [
+          "肺"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群性活跃人群多见",
+        "symptom": [
+          "尿频",
+          "尿痛",
+          "尿急",
+          "尿频",
+          "尿痛"
+        ],
+        "complication": [
+          "前列腺炎",
+          "附睾炎",
+          "盆腔炎",
+          "子宫内膜炎",
+          "骨关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "性病科",
+          "男科"
+        ],
+        "cost": "市三甲医院约（1000——5000元）",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "阴道分泌物涂片",
+          "药敏试验",
+          "ELISA"
+        ],
+        "medicine": [
+          "硬脂酸红霉素颗粒",
+          "头孢克肟片",
+          "头孢克肟颗粒(达力芬)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "天花",
+    "information": {
+      "introduction": "天花是由天花病毒所致的一种烈性传染病，传染性强，病死率高。临床表现为广泛的皮疹成批出现，依序发展成斑疹、丘疹、疱疹、脓疱疹，伴以严重的病毒血症;脓疱疹结痂、脱痂后，终身留下凹陷性瘢痕。天花是到目前为止，在世界范围被人类消灭的第一个传染病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "儿童",
+        "symptom": [
+          "高热寒战",
+          "乏力",
+          "畏光",
+          "头痛",
+          "类似荨麻疹的皮肤潮红斑块"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000—— 5000元）",
+        "ratio": "10%(一般经过治疗后90%以上可以控制病情甚至痊愈)",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血凝抑制试验",
+          "直接涂片检查",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "消银片",
+          "盐酸赛庚啶片",
+          "天花粉蛋白"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消银片(福和)",
+          "grade": "1.67",
+          "total": "14",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "消朦眼膏",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "性早熟",
+    "information": {
+      "introduction": "性早熟(precocious puberty)是指青春期提早出现，即女性在8岁以前出现性腺增大和第二性征，或者在10岁之前出现月经，男性在9岁以前发育。按发病机制的不同，性早熟一般可分为两大类：促性腺激素释放激素(GnRH)依赖性性早熟(真性性早熟)和非GnRH依赖性性早熟(假性性早熟);前者称中枢性性早熟或完全性性早熟，后者称外周性性早熟。此外，不完全性性早熟，如单纯性乳房早发育、单纯性阴毛早现，有学者归入青春发育的变异类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "性机能发育过早",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "8岁以前女童、9岁以前男童",
+        "symptom": [
+          "头痛",
+          "心理年龄大于生理年龄",
+          "甲状旁腺功能亢进",
+          "溢乳",
+          "阴道出血"
+        ],
+        "complication": [
+          "甲亢",
+          "巨人症",
+          "卵巢囊肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（8000 —— 10000元",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "黄体生成素",
+          "尿17-酮类固醇",
+          "血浆17-羟孕酮",
+          "颅骨透照试验",
+          "唾液睾酮"
+        ],
+        "medicine": [
+          "注射用醋酸曲普瑞林",
+          "达那唑胶囊",
+          "注射用醋酸亮丙瑞林微球"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肺水肿",
+    "information": {
+      "introduction": "肺水肿(pulmonary edema)是指由于某种原因引起肺内组织液的生成和回流平衡失调，使大量组织液在很短时间内不能被肺淋？巴和肺静脉系统吸收，从肺毛细血管内外渗，积聚在肺泡、肺间质和细小支气管内，从而造成肺通气与换气功能严重障碍，在临床临床表现为极度呼吸困难，端坐呼吸，紫绀，大汗淋漓，阵发性咳嗽伴大量白色或粉红色泡沫痰，双肺布满对称性湿啰音，X线胸片可见两肺蝶形片状模糊阴影，晚期可出现休克甚至死亡。动脉血气分析早期可有低O2、低CO2分压、严重缺O2、CO2 潴留及混合性酸中毒，属临床危重症之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "端坐呼吸",
+          "呼吸困难",
+          "湿啰音",
+          "肺通气一血流比例失调",
+          "混合型酸碱平衡紊乱"
+        ],
+        "complication": [
+          "弥散性血管内凝血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（6000 —— 20000元）",
+        "ratio": "98%治愈率",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血锑",
+          "于夏征",
+          "水坑试验",
+          "二氧化碳分压",
+          "PaO2"
+        ],
+        "medicine": [
+          "氨茶碱缓释片",
+          "噻托溴铵粉雾剂",
+          "金匮肾气丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金匮肾气丸(同仁堂)",
+          "grade": "2.20",
+          "total": "92",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "金匮肾气丸(同仁堂)",
+          "grade": "1.35",
+          "total": "15",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "复方肾炎片(葫芦博士)",
+          "grade": "4.03",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性膀胱炎",
+    "information": {
+      "introduction": "急性膀胱炎(acute\ncystitis)是非特异性细菌感染引起的膀胱壁急性炎症性疾病，为泌尿系常见病。发病急骤，常在过于劳累、受凉、长时间憋尿、性生活后发病，病程一般持续1～2周自行消退或治疗后消退。其特点是发病“急”、炎症反应“重”、病变部位“浅”。常见的症状有尿频、尿急、尿痛、脓尿和终末血尿，甚至全程肉眼\n血尿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "女孩和成年女性较多见",
+        "symptom": [
+          "尿道烧灼感",
+          "尿痛",
+          "尿液混浊",
+          "高热",
+          "膀胱痉挛"
+        ],
+        "complication": [
+          "膀胱输尿管反流"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 2000元）",
+        "ratio": "80%",
+        "duration": "5--7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "泌尿感染类尿常规",
+          "尿液细菌学检查",
+          "尿沉渣红细胞",
+          "12小时尿沉渣计数"
+        ],
+        "medicine": [
+          "泌淋清胶囊",
+          "三金片",
+          "银花泌炎灵片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "泌淋清胶囊(贵州百灵)",
+          "grade": "2.40",
+          "total": "42",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "金钱通淋颗粒(星辰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱通淋颗粒(白马)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "银花泌炎灵片",
+          "grade": "5.0",
+          "total": "17",
+          "secondary": "17"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,905 @@
+[
+  {
+    "disease_name": "原发性醛固酮增多症",
+    "information": {
+      "introduction": "原发性醛固酮增多症(primary aldosteronism，简称原醛症)，是由于肾上腺皮质发生病变从而分泌过多的醛固酮，导致水钠潴留，血容量增多，肾素-血管紧张素系统的活性受抑制，临床表现为高血压、低血钾为主要特征的综合征。大多数是由肾上腺醛固酮腺瘤引起，也可能是特发性醛固酮增多症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "原醛症,康恩综合征",
+        "part": [
+          "肾上腺"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "代谢性低钾",
+          "多尿",
+          "多饮",
+          "乏力",
+          "头痛"
+        ],
+        "complication": [
+          "高血压",
+          "脑梗死",
+          "脑出血",
+          "尿毒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "60%",
+        "duration": "2-4个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血浆醛固酮",
+          "肾素活性",
+          "尿醛固酮",
+          "肾上腺CT",
+          "肾上腺MRI"
+        ],
+        "medicine": [
+          "螺内酯片",
+          "氨苯蝶啶片",
+          "螺内酯片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "产后风",
+    "information": {
+      "introduction": "    产后风，又叫“月子病”。是妇女在生产孩子时期，因筋骨腠理大开，身体虚弱，内外空疏不慎风寒侵入。在“月子里”的恢复期，筋骨腠理合闭，使风寒包入体内，为之月子产后风难治的原因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "月子病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "产后妇女",
+        "symptom": [
+          "关节疼痛",
+          "肝气郁结",
+          "腰酸",
+          "抽搐",
+          "胀痛"
+        ],
+        "complication": [
+          "产后甲状腺炎",
+          "产后虚脱",
+          "产后抑郁症",
+          "产后伤食",
+          "产后泌尿道感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "新生化颗粒",
+          "驱风苏合丸",
+          "驱风苏合丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "新生化颗粒",
+          "grade": "4.52",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "驱风苏合丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "驱风苏合丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "驱风苏合丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "照山白浸膏片(燕峰)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养血生发胶囊(宏仁堂)",
+          "grade": "2.43",
+          "total": "34",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "养血生发胶囊(敬修堂)",
+          "grade": "2.46",
+          "total": "78",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "养血生发胶囊(德众)",
+          "grade": "3.93",
+          "total": "14",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "养血生发胶囊(沙溪)",
+          "grade": "4.6",
+          "total": "6",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "养血生发胶囊(百善为民)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肠道菌群失调症",
+    "information": {
+      "introduction": "健康人的胃肠道内寄居着种类繁多的微生物，这些微生物称为肠道菌群。肠道菌群按一定的比例组合，各菌间互相制约，互相依存，在质和量上形成一种生态平衡，一旦机体内外环境发生变化，特点是长期应用广谱抗生素，敏感肠菌被抑制，未被抑制的细菌而乘机繁殖，从而引起菌群失调，其正常生理组合被破坏，而产生病理性组合，引起临床症状就称为肠道菌群失调症（alteration of intestina flora）。本症的发生率约为2%～3% 。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腹痛伴恶心、呕吐",
+          "肚子疼",
+          "稀便",
+          "腹胀",
+          "腹鸣"
+        ],
+        "complication": [
+          "糖尿病",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "1-3周",
+        "method": [
+          "饮食、药物治疗"
+        ],
+        "examination": [
+          "粪便菌群失调",
+          "粪便寄生虫",
+          "乙状结肠镜检查",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "双歧杆菌三联活菌胶囊",
+          "枯草杆菌二联活菌肠溶胶囊",
+          "肠炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肠炎宁胶囊(长谓安)",
+          "grade": "3.61",
+          "total": "72",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "肠炎宁胶囊",
+          "grade": "3.83",
+          "total": "6",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性膀胱炎",
+    "information": {
+      "introduction": "慢性膀胱炎(chronic cystitis)是以革兰阴性杆菌(如大肠埃希杆菌)为主的非特异性感染引起的膀胱壁慢性炎症性疾病。部分为急性膀胱炎未彻底治疗转为慢性。大多数继发于尿道膀胱原发病变或上尿路慢性炎症。对慢性膀胱炎需系统检查寻找原发病并治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿痛",
+          "尿急",
+          "尿频",
+          "尿液混浊",
+          "尿频"
+        ],
+        "complication": [
+          "慢性膀胱炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "治愈率79%",
+        "duration": "治疗周期21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "膀胱输尿管返流显象",
+          "尿路平片",
+          "尿酸度",
+          "尿液细菌学检查"
+        ],
+        "medicine": [
+          "头孢克肟片",
+          "复方石韦胶囊",
+          "盐酸丙哌维林片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方石韦胶囊(新石伟)",
+          "grade": "4.23",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "妇炎康软胶囊",
+          "grade": "1.90",
+          "total": "29",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "妇炎康丸(蝴蝶迷)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复肾宁胶囊(汉唐圣方)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复肾宁胶囊(银涛)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复肾宁胶囊(吉春)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复肾宁胶囊(大峻)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾血管性高血压",
+    "information": {
+      "introduction": "肾血管性高血压是(renal vascular hypertension)一种常见的继发性高血压。各种病因引起的一侧或双侧肾动脉及其分支狭窄进展到一定的程度，即可引起肾血管性高血压，经介入或手术治疗后血压可恢复正常或改善。本病可导致缺血性肾病及晚期肾脏病，与原发性高血压引起的肾小动脉硬化不同。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肾性高血压",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "多见于30岁以下的女性、大于5...",
+        "symptom": [
+          "收缩期杂音",
+          "抽搐",
+          "腹部血管杂音",
+          "蛋白尿",
+          "头晕"
+        ],
+        "complication": [
+          "出血性疾病",
+          "心肌梗塞",
+          "血友病",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 —— 80000元）",
+        "ratio": "20%，多以控制血压为主",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗（自体肾移植术、经皮腔内血管成形术）"
+        ],
+        "examination": [
+          "检眼镜检查法",
+          "高钠试验",
+          "尿lgG",
+          "尿微量转铁蛋白",
+          "血清高敏CRP"
+        ],
+        "medicine": [
+          "盐酸拉贝洛尔片",
+          "盐酸拉贝洛尔片",
+          "马来酸依那普利片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性浅表性包皮龟头炎",
+    "information": {
+      "introduction": "包皮龟头炎是指包皮内板与阴茎头的炎症。男性急性浅表性龟头炎往往由于局部创伤、摩擦、避孕药、肥皂和清洁剂等刺激，导致出现红斑、糜烂、渗液甚至出血的现象，疼痛难忍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性浅表性龟头炎",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "多出现于成年男子",
+        "symptom": [
+          "阴茎疼痛",
+          "脓性分泌物",
+          "充血",
+          "乏力",
+          "低烧"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "烟雾病",
+    "information": {
+      "introduction": "烟雾病即moyamoya病，又称脑底异常血管网，是一组以颈内动脉虹吸部及大脑前、中动脉起始部狭窄或闭塞，脑底出现异常的小血管网为特点的脑血管病。因在脑血管造影时呈现许多密集成堆的小血管影似吸烟吐出的烟雾故名。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "Moyamoya病,脑底异常血管网",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "恶心",
+          "精神萎靡",
+          "假性延髓性麻痹",
+          "头昏",
+          "头痛"
+        ],
+        "complication": [
+          "肾动脉狭窄",
+          "高血压",
+          "颅内动脉瘤",
+          "脑梗死",
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "外科",
+          "血管外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000-50000元）",
+        "ratio": "95%",
+        "duration": "3-5个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "脑血管造影",
+          "颅脑MRI",
+          "脑膜刺激征",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "硝酸甘油气雾剂",
+          "硝酸甘油气雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "盘状红斑狼疮",
+    "information": {
+      "introduction": "盘状红斑狼疮(DLE)为慢性复发性疾病，主要侵犯皮肤，其特征是有界限清楚的红色斑块(红斑)，毛囊栓塞，鳞屑，毛细血管扩张以及皮肤萎缩等。病因不清。女性多见，30岁左右发病率最高。本病可分两型：①局限型皮肤损害仅限于颈部以上的皮肤;②播散型皮损累及全身广泛部位的皮肤。有些作者认为播散型容易转变为系统性红斑狼疮。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "免疫系统",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上的女性",
+        "symptom": [
+          "面部蝶形红斑",
+          "盘状红斑",
+          "溃疡",
+          "鳞屑",
+          "丘疹"
+        ],
+        "complication": [
+          "鳞状细胞癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "皮肤科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（3000 —— 10000元）",
+        "ratio": "10%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "狼疮细胞试验",
+          "皮肤颜色",
+          "血流变学检查",
+          "抗心磷脂抗体（ACA）",
+          "红斑狼疮细胞"
+        ],
+        "medicine": [
+          "雷公藤多苷片",
+          "昆明山海棠片",
+          "硫酸羟氯喹片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "雷公藤多苷片",
+          "grade": "4.55",
+          "total": "36",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "昆明山海棠片(维和)",
+          "grade": "4.2",
+          "total": "19",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "布鲁氏菌病",
+    "information": {
+      "introduction": "布鲁氏菌病(brucellosis)又称地中海弛张热，马耳他热，波浪热或波状热，是由布鲁氏菌引起的人畜共患性全身传染病，其临床特点为长期发热、多汗、关节痛及肝脾肿大等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "地中海弛张热,马耳他热,波浪热,波状热",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "多发生在牧民当中",
+        "symptom": [
+          "关节疼痛",
+          "反复发烧",
+          "乳房胀痛",
+          "神疲乏力",
+          "肌痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "细菌学检验",
+          "皮肤试验"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "白细胞减少症和粒细胞缺乏症",
+    "information": {
+      "introduction": "白细胞减少症和粒细胞缺乏症是指外周血象白细胞计数持续低于4.0X109/升者，中性粒细胞低于(1.5～1.8)X 109/升者。临床以头晕、乏力、低热、心悸、腰酸、口腔溃疡、感染等为特征。药物、理化因素或严重感染可引起本病，也可继发于其他疾病，如脾功能亢进、再生障碍性贫血等。本病如及早诊治，预后尚好，否则可引起骨髓抑制，则预后不良。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ",
+        "symptom": [
+          "乏力",
+          "头晕",
+          "衰弱",
+          "食欲减退"
+        ],
+        "complication": [
+          "败血症肾损害"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肾上腺素试验",
+          "血清类风湿因子",
+          "抗核抗体",
+          "骨髓象分析",
+          "骨髓粒细胞系统"
+        ],
+        "medicine": [
+          "田参氨基酸胶囊",
+          "胱氨酸片",
+          "腺苷钴胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脊柱炎",
+    "information": {
+      "introduction": "脊柱畸形和强直导致的功能障碍，对患者弯腰、扩胸及屈颈等运动，都会造成极大痛苦和困难。为了减轻或防止这些不良后果，患者除接受医生的各种检查和治疗外，应学会自我护理，如谨慎而长期地进行体位锻炼(最初应得到体疗医师的指导)，目的是取得和维持脊柱的最好位置，增强椎旁肌肉力量和增加肺活量。在休息时首要的是保持适当的体位，应睡硬板床，取仰卧位，避免促进屈曲畸形的体位。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "多发于青年人",
+        "symptom": [
+          "背痛",
+          "局部压痛",
+          "下蹲困难",
+          "四肢瘫痪"
+        ],
+        "complication": [
+          "强直性脊柱炎",
+          "肥大性脊椎炎",
+          "幼年型关节强硬性脊椎炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "风湿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "SPECT显像",
+          "CT检查",
+          "脊柱超伸试验",
+          "全身体检",
+          "MRI"
+        ],
+        "medicine": [
+          "双氯芬酸钠缓释胶囊",
+          "双氯芬酸钠缓释片",
+          "美洛昔康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "蠲痹抗生丸(利君)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈腰康胶囊",
+          "grade": "2.94",
+          "total": "32",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺脓肿",
+    "information": {
+      "introduction": "肺脓肿(lung abscess)是由于多种病因所引起的肺组织化脓性病变。早期为化脓性炎症，继而坏死形成脓肿。多发生于壮年，男多于女。根据发病原因有经气管感染型、血源性感染型和多发脓肿及肺癌等堵塞所致的感染型3种。肺脓肿也可以根据相关的病原进行归类，如葡萄球菌性、厌氧菌性或曲霉菌性肺脓肿。自抗生素广泛应用以来，肺脓肿的发生率已大为减少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年群体",
+        "symptom": [
+          "咳嗽伴杵状指",
+          "脓痰",
+          "胸痛",
+          "横膈低平",
+          "肺内空洞"
+        ],
+        "complication": [
+          "脓胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（10000-20000元）",
+        "ratio": "70%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "痰液免疫学检查",
+          "胸部CT",
+          "胸部平片",
+          "纤维支气管镜",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "回生甘露丸",
+          "阿莫西林克拉维酸钾片(7:1)",
+          "桉柠蒎肠溶软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "回生甘露丸(水丸)",
+          "grade": "1.82",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小金胶囊(健民)",
+          "grade": "2.54",
+          "total": "24",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "小金胶囊(天基)",
+          "grade": "4.33",
+          "total": "10",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人肺炎",
+    "information": {
+      "introduction": "与年轻人比较，老年肺炎的发病率和死亡率均显著增加的原因是多方面的，客观上，因机体老化，呼吸系统解剖和功能的改变导致全身和呼吸道局部的防御和免疫功能降低，心肺肝肾等重要脏器的功能储备减弱或罹患多种慢性严重疾病、营养不良等;主观原因则是医生或患者自己对老年肺炎的不典型临床表现认识不足，诊断延误和治疗措施不当。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": " 老年肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "呼吸急促",
+          "呼吸困难",
+          "精神萎靡",
+          "食欲不振",
+          "高热寒战"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（2000——5000元）",
+        "ratio": "治愈率83%",
+        "duration": "治疗周期10天",
+        "method": [
+          "药物治疗、一般治疗、吸氧"
+        ],
+        "examination": [
+          "胸透",
+          "胸部平片",
+          "白细胞数"
+        ],
+        "medicine": [
+          "了哥王片",
+          "头孢氨苄甲氧苄啶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "动脉瘤",
+    "information": {
+      "introduction": "分为真性、假性和夹层动脉瘤，多为动脉硬化或创伤所致，梅毒性少见。可发生在颈动脉、锁骨下动脉、腋动脉、肱动脉、桡动脉、髂动脉、股动脉和腘动脉等部位，以股动脉和腘动脉为好发部位。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "多发生在50岁以上的老年人，...",
+        "symptom": [
+          "静脉曲张",
+          "霍纳综合征",
+          "致死性上呼吸道出血",
+          "三叉神经分布区麻木感",
+          "下肢血压偏低"
+        ],
+        "complication": [
+          "颅内动脉瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "30-50%",
+        "duration": "3--8周",
+        "method": [
+          "手术治疗动脉瘤切除、血管重建"
+        ],
+        "examination": [
+          "脑血管造影",
+          "冠状动脉造影"
+        ],
+        "medicine": [
+          "复方环磷酰胺片",
+          "消癌平片",
+          "动脉瘤夹钳"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平片",
+          "grade": "4.57",
+          "total": "49",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "水疱型脚气",
+    "information": {
+      "introduction": "水疱型脚气是一种临床极为常见的发生于足缘部的皮肤癣疾。由致病性丝状真菌感染引起。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "足缘部脚气",
+        "part": [
+          "足部"
+        ],
+        "infection": "有传染性",
+        "people": "特定的人群或职业",
+        "symptom": [
+          "手、足部厚壁水疱"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

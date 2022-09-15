@@ -1,0 +1,931 @@
+[
+  {
+    "disease_name": "甲状腺微小癌",
+    "information": {
+      "introduction": "甲状腺微小癌用来描述甲状腺触不到异常肿物，而在颈部淋巴结表现转移性甲状腺肿瘤的病例。世界卫生组织1988年限定肿瘤直径≤1.0cm的甲状腺癌结节为甲状腺微小癌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "甲状腺隐匿性癌",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "甲状腺结节",
+          "骨转移",
+          "肺部转移",
+          "囊性坏死",
+          "颈部囊性病变"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "20%",
+        "duration": "3-6月",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "血清抗甲状腺球蛋白抗体",
+          "血清抗甲状腺过氧化物酶抗体",
+          "CT检查",
+          "血清降钙素",
+          "甲状腺、甲状旁腺B超"
+        ],
+        "medicine": [
+          "甲状腺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "手足皲裂",
+    "information": {
+      "introduction": "手足皲裂是手、足部皮肤由于各种原因所致的皮肤干燥和线状裂隙的一种疾病。本病是为常见的一种皮肤病，多见于老年人及妇女。因经常受机械性或化学性物质的刺激，加之冬季气候寒冷，皮下汗腺分泌减少，皮肤干燥，皮肤角质增厚，失去弹性，故当手足运动时极易发生皲裂。中医认为本病的发生系肌肤骤然被寒冷风燥所逼，致血脉阻滞，肌失濡养，皮肤遂渐枯槁，促成皲裂。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "手足破裂,皲裂伤口",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "皮肤干燥",
+          "皮肤皴裂",
+          "手脱皮",
+          "脚底干裂",
+          "脚底干裂"
+        ],
+        "complication": [
+          "皲裂疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300 —— 800元）",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "复方愈创蓝油烃软膏",
+          "肝素钠乳膏",
+          "尿素软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方蛇脂软膏",
+          "grade": "3.52",
+          "total": "8",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肠道息肉病",
+    "information": {
+      "introduction": "大肠息肉(polyp of intestinal tract)是所有向肠腔突出的赘生物总称，包括肿瘤性和非肿瘤性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肠息肉病",
+        "part": [
+          "肠",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上的中老年男性",
+        "symptom": [
+          "消瘦",
+          "腹部不适",
+          "便血",
+          "肠出血",
+          "大便习惯改变"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "手术切掉，95%，但易复发",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肠镜",
+          "无痛肠镜",
+          "纤维肠镜",
+          "电子肠镜",
+          "结肠造影"
+        ],
+        "medicine": [
+          "酚磺乙胺"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "颈淋巴结结核",
+    "information": {
+      "introduction": "颈淋巴结结核(tuberculosis of lymph \nnodes)中医称为“瘰疠”。结核杆菌多由口腔(龋齿)或扁桃体侵入，在侵入部位临床上多无结核病变可见。少数继发于肺或支气管的结核病变。临床以局部淋巴结寒性脓肿为主要表现，较少出现低热、盗汗、消瘦等全身中毒表现。晚期淋巴结干酪样变，破溃后窦道经久不愈，有豆渣样稀薄脓液排出。本病须采取综合治疗措施，在规范抗结核治疗的同时，妥善切除感染的淋巴结或刮除窦道，可促进病愈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "瘰疠",
+        "part": [
+          "颈部",
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴结肿大",
+          "急性非化脓性一过性颈淋巴结肿胀",
+          "脓肿",
+          "淋巴结肿大",
+          "皮窦道"
+        ],
+        "complication": [
+          "颈淋巴结炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "30%",
+        "duration": "30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "结核菌素皮内试验",
+          "浆膜腔积液蛋白",
+          "直接涂片检查",
+          "胸透",
+          "浆细胞"
+        ],
+        "medicine": [
+          "异烟肼片",
+          "利福平片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草口服液(即瑞)",
+          "grade": "3.55",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "夏枯草颗粒(雪立丁)",
+          "grade": "4.7",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "2.07",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏(飞云)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏(方健)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "1.99",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝炎后肝硬化",
+    "information": {
+      "introduction": "肝炎后肝硬化是各种病毒性肝炎进展至终末期最常见的表现，在中国尤以乙型病毒性肝炎、丙型病毒性肝炎所致肝硬化最为常见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "乙肝患者于中老年多见",
+        "symptom": [
+          "食管下段静脉曲张",
+          "肝腹水",
+          "肝区痛",
+          "肝病容",
+          "肝质地硬"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "消化内科",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肝功能",
+          "红细胞血清总胆红素",
+          "丙氨酸氨基转移酶(ALT）",
+          "凝血酶原时间",
+          "胆固醇酯与总胆固醇比值"
+        ],
+        "medicine": [
+          "转移因子胶囊",
+          "转移因子胶囊",
+          "转移因子胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性单纯性鼻炎",
+    "information": {
+      "introduction": "慢性单纯性鼻炎是鼻粘膜由于局部性、全身性或环境性因素所致的可逆性炎症。主要病理改变为鼻粘膜植物神经功能紊乱，粘膜血管扩张，通透性增高;血管和腺体周围有以淋巴细胞和浆细胞为主的细胞浸润;粘液腺功能活跃，分泌物增多。主要症状表现为鼻塞流涕。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性鼻炎",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "反复急性鼻炎发作史者多见",
+        "symptom": [
+          "鼻塞",
+          "呼吸气为腐臭味",
+          "脓鼻涕增多且不易擤尽",
+          "鼻塞",
+          "流鼻涕"
+        ],
+        "complication": [
+          "硬脑膜外脓肿",
+          "硬脑膜下脓肿",
+          "脑脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "中药治疗、西药治疗、手术治疗"
+        ],
+        "examination": [
+          "鼻腔检查",
+          "组胺吸入试验",
+          "鼻腔内镜",
+          "激发试验"
+        ],
+        "medicine": [
+          "鼻窦炎口服液",
+          "防芷鼻炎片",
+          "盐酸多塞平乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻窦炎口服液(太极)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "164"
+        },
+        {
+          "medicine_name": "防芷鼻炎片(天天乐)",
+          "grade": "3.92",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "鼻宁喷雾剂(倍鼻牌)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "胆香鼻炎片",
+          "grade": "3.04",
+          "total": "17",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆香鼻炎片(万通)",
+          "grade": "4.0",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆香鼻炎片(大峻)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆香鼻炎片(刻康)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆香鼻炎胶囊(吉福莱)",
+          "grade": "3.33",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻塞通滴鼻液(千里明)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "女性急性淋病",
+    "information": {
+      "introduction": "女性急性淋病通常在感染后7-12日开始出现症状，症状轻重不一，自觉症状有尿痛、尿急、尿频、尿道灼烧感等炎症症状，但较轻，也可没有。该病多与原发性宫颈炎同时并存。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "盆腔",
+          "女性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "青壮年多见",
+        "symptom": [
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "尿频",
+          "尿急",
+          "尿痛",
+          "尿道烧灼感"
+        ],
+        "complication": [
+          "前庭大腺炎",
+          "肛周炎",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "产检"
+        ],
+        "medicine": [
+          "加替沙星注射液",
+          "甲磺酸加替沙星胶囊",
+          "甲磺酸加替沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "睾丸损伤",
+    "information": {
+      "introduction": "阴囊软组织松弛，睾丸活动度较大，但阴囊内容物组织脆嫩，抗损伤能力较差。因此，阴囊及其内容物的损伤临床上并不少见。一般多发生于青壮年。往往同时出现睾丸、鞘膜、精索及阴囊壁的损伤，常见的致伤原因多为直接暴力。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年多发",
+        "symptom": [
+          "阴囊肿胀",
+          "睾丸萎缩",
+          "恶心",
+          "瘀斑",
+          "血肿形成"
+        ],
+        "complication": [
+          "睾丸炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（5000—— 10000元）",
+        "ratio": "50-70%",
+        "duration": "7--14天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "提睾反射",
+          "阴囊超声检查"
+        ],
+        "medicine": [
+          "头孢地尼分散片",
+          "头孢呋辛酯胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿窒息",
+    "information": {
+      "introduction": "新生儿窒息(asphyxia of the newborn)是指婴儿由于产前、产时或产后的各种病因，使胎儿缺氧而发生宫内窘迫或娩出过程中引起的呼吸、循环障碍，导致生后1min内无自主呼吸或未能建立规律呼吸，以低氧血症、高碳酸血症和酸中毒为主要病理生理改变的疾病。它是新生儿最常见的症状，多为胎儿窒息(宫内窘迫)的延续，也是引起伤残和死亡的主要原因之一。需争分夺秒抢救护理。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "草迷,初生不啼,闷气生,梦生,新生儿呼吸暂停症,婴儿假死症",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "皮肤苍白",
+          "呼吸浅慢",
+          "呼吸抑制",
+          "新生儿心力衰竭",
+          "面色青紫"
+        ],
+        "complication": [
+          "新生儿惊厥",
+          "脑干损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科",
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "80%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "羊膜镜",
+          "血液电解质",
+          "动脉血气分析",
+          "胸透",
+          "胸部平片"
+        ],
+        "medicine": [
+          "盐酸洛贝林注射液",
+          "盐酸洛贝林注射液",
+          "盐酸洛贝林注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "结肠过敏症",
+    "information": {
+      "introduction": "结肠过敏症是临床上常见的一种肠道功能性疾病，以肠道壁无器质性病变、 肠功能紊乱为特点，由肠道敏感痉挛而表现出一系列的症状。 有人称本病为结肠功能紊乱、粘液性结肠炎、过敏性结肠炎、痉挛性结肠炎、过敏性结肠综合征、 激惹性肠综合征、肠应激综合征、肠道易激综合征等。结肠过敏症可发生于任何年龄，一般以20～50岁的青壮年最多，女性多于男性（女性约占3/4），其发病率在国内外尚无可靠的统计。据有关资料统计，在一般门诊中，约占消化道疾病的30-50％。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "结肠功能紊乱,粘液性结肠炎",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "一般以20～50岁的青壮年居多...",
+        "symptom": [
+          "肚子疼",
+          "肠鸣",
+          "黏液便",
+          "肚子疼",
+          "肠鸣"
+        ],
+        "complication": [
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肛肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肠镜",
+          "胃肠道CT",
+          "结肠造影"
+        ],
+        "medicine": [
+          "复方谷氨酰胺肠溶胶囊",
+          "鞣酸苦参碱胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "单纯性乳腺增生症",
+    "information": {
+      "introduction": "单纯性乳腺上皮增生症(simple epithelial hyperplasia of mammary glands)是乳腺结构不良症的早期病变，为育龄妇女常见病，可发生于青春期后至绝经期前的任何年龄组，尤其以未婚女性或已婚未育者，或已育未哺乳的性功能旺盛的女性为多见。该病的发病高峰年龄为30～40岁。在临床上50%女性有乳腺增生症的表现，在组织学上则有90%女性可见乳腺结构不良的表现。1922年Bloodgood首先描述，1928年Semb注意到此病表现为乳房疼痛并有肿块，命名为单纯性腺纤维瘤病。1931年Beatle称之为乳腺单纯性脱皮性上皮增生症;1948年Gescnickter称之为乳痛症(mastodynia)。一直沿用至今。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "单纯性腺纤维瘤病,乳痛症,乳腺单纯性脱皮性上皮增生症",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "生育期女性",
+        "symptom": [
+          "钝痛",
+          "乳头破碎",
+          "乳房胀痛",
+          "乳房肿块",
+          "乳腺随月经出现胀痛"
+        ],
+        "complication": [
+          "流产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "70-80%",
+        "duration": "3-6个月",
+        "method": [
+          "中药治疗、"
+        ],
+        "examination": [
+          "乳腺超声",
+          "乳腺远红外检查",
+          "近红外线乳腺扫描",
+          "乳腺检查",
+          "乳房穿刺针活检"
+        ],
+        "medicine": [
+          "乳增宁片",
+          "乳增宁胶囊",
+          "乳核散结片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳增宁片(大鹏)",
+          "grade": "2.90",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳增宁胶囊(丰原)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳核散结片(白云山中一)",
+          "grade": "2.48",
+          "total": "20",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "乳块消片",
+          "grade": "2.23",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿急性阑尾炎",
+    "information": {
+      "introduction": "急性阑尾炎是小儿最常见的急腹症。小儿阑尾炎年龄越小，症状越不典型，短时间内即发生穿孔、坏死、弥漫性腹膜炎，若诊断治疗不及时，则会带来严重的并发症，甚至死亡，故应加以重视。到目前为止国内外报道婴幼儿急性阑尾炎的误诊率35%～50%，新生儿达90%以上。由此而产生的穿孔率达33%～52%，阑尾无炎症切除率达10%～30%。术后并发症高达10%～20%，迄今死亡率仍在0.01%以上。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿盲肠炎,儿童急性阑尾炎",
+        "part": [
+          "阑尾"
+        ],
+        "infection": "无传染性",
+        "people": "5岁以上的儿童多见",
+        "symptom": [
+          "肠鸣",
+          "腹胀",
+          "肚子疼",
+          "下腹疼痛"
+        ],
+        "complication": [
+          "盆腔脓肿",
+          "粘连性肠梗阻",
+          "粪瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "外科",
+          "普外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "腹部平片",
+          "尿常规",
+          "CT检查",
+          "胃肠道疾病的超声检查",
+          "肛门指检"
+        ],
+        "medicine": [
+          "阑尾消炎片",
+          "千里光片",
+          "千里光片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "阑尾消炎片(无为)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "千里光片(佐今明)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "千里光片(药王)",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "千里光胶囊(亿希坦)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "千里光片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "千里光片(羚锐)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "成人痒疹",
+    "information": {
+      "introduction": "成人痒疹(Prorigo adultorum)又称寻常性痒疹(Prurigo Vulgaris)。亦属中医粟疮范畴。病因尚不清楚。多与胃肠道功能障碍和神经精神因素有关，可见于妊娠、白血病及患有某种内分泌或代谢障碍患者。发病机制还不明。临床上多见30岁以上成人女性。好发于四肢伸侧、胸背、腰围，皮损为米粒至绿豆大小风团性丘疹或丘疱疹，少数可形成水疱，个别有坏死性大疱者。自觉阵发性剧痒。原则为追查病因并给予相应处理，局部对症止痒。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "寻常性痒疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "糙皮病样皮疹",
+          "丘疹",
+          "剧痒",
+          "血痂",
+          "夏季痒疹"
+        ],
+        "complication": [
+          "疱疹样湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（5000-8000元）",
+        "ratio": "95%",
+        "duration": "3-6月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "皮肤涂片显微镜检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "乌蛇止痒丸",
+          "盐酸依匹斯汀胶囊",
+          "盐酸依匹斯汀胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈部淋巴结转移癌",
+    "information": {
+      "introduction": "颈部淋巴结转移癌(cervical lymph node metastatic carcinoma)约占颈部恶性肿瘤总数的3/4;在颈部肿块中，发病率仅次于慢性淋巴结炎和甲状腺疾病。原发癌灶绝大部分(85%)在头颈部，尤以鼻咽癌和甲状腺癌的转移最为多见。锁骨上窝转移性肿瘤的原发癌灶，多在胸腹部(包括肺、纵隔、乳房、胃肠道、胰腺等);但胃肠道、胰腺癌肿的颈部淋巴结转移，经胸导管多发生在左锁骨上窝。必须注意，在不少头颈部恶性肿瘤(如鼻咽癌、甲状腺癌)患者中，颈侧区转移性肿瘤常是其首先出现的主要症状;相反，原发癌灶往往很小。患者自己并无感觉，甚至检查时也难发现。因此，必须全面细致地进行检查，以明确诊断。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部"
+        ],
+        "infection": "无传染性",
+        "people": "头颈部原发癌症患者",
+        "symptom": [
+          "放射性疼痛",
+          "灰白色结节",
+          "颈部淋巴结肿大",
+          "颈后及肩部皮肤发硬",
+          "颈部淋巴结肿大"
+        ],
+        "complication": [
+          "气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约10000--50000",
+        "ratio": "20%",
+        "duration": "3个月",
+        "method": [
+          "放射治疗、化学治疗、手术治疗"
+        ],
+        "examination": [
+          "上消化道造影",
+          "乳腺超声",
+          "CT检查",
+          "血清EB病毒抗体",
+          "胸部平片"
+        ],
+        "medicine": [
+          "重组人干扰素α1b注射液",
+          "重组人干扰素α2b注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肺腺癌",
+    "information": {
+      "introduction": "肺腺癌 ( lung adenocarcinoma )是肺癌的一种，属于非小细胞癌 。不同于 鳞状细胞肺癌 ，肺腺癌较容易发生于女性及不抽烟者。起源于支气管粘膜上皮，少数起源于大支气管的粘液腺。发病率比鳞癌和未分化癌低，发病年龄较小，女性相对多见。多数腺癌起源于较小的支气管，为周围型肺癌。早期一般没有明显的临床症状，往往在胸部 X 线检查时被发现。表现为圆形或椭圆形肿块，一般生长较慢，但有时早期即发生血行转移。淋巴转移则发生较晚。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄较小，女性相对多见",
+        "symptom": [
+          "咳嗽",
+          "低烧",
+          "胸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约3-5万元",
+        "ratio": "45%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "支气管镜",
+          "痰液细胞学检查",
+          "ECT",
+          "胸部平片",
+          "p21基因"
+        ],
+        "medicine": [
+          "氟尿嘧啶氯化钠注射液",
+          "氟尿嘧啶氯化钠注射液",
+          "卡培他滨片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

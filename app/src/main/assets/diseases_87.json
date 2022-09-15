@@ -1,0 +1,920 @@
+[
+  {
+    "disease_name": "反应性关节炎",
+    "information": {
+      "introduction": "赖特综合征(Reiter's Syndrome)是以关节炎、尿道炎和结膜炎三联征为临床特征的一种特殊临床类型的反应性关节炎，常表现为突发性急性关节炎并且伴有独特的关节外皮肤粘膜症状。目前认为本病有两种形式：性传播和痢疾型。前者主要见于20~40岁年轻男性，大多数情况下是生殖器被沙眼衣原体感染。赖特综合征女性、儿童和老年人少见，他们通常在肠道细菌感染后获得痢疾型，其中主要是志贺菌属、沙门菌属、耶尔森菌属以及弯曲杆菌属。赖特综合征的发病与感染、遗传标记(HLA-B27)和免疫失调有关。滑膜的病理改变为非特异性炎症。本病多见于青年男性，国外的发病率在0.06%~1%不等，国内尚无这方面的统计数据报道。</p",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "赖特综合征",
+        "part": [
+          "关节",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "发生于18～40岁青年男性",
+        "symptom": [
+          "关节痛",
+          "疲乏",
+          "低烧",
+          "关节肿胀",
+          "发烧"
+        ],
+        "complication": [
+          "龟头炎",
+          "前列腺炎",
+          "虹膜睫状体炎",
+          "心肌炎",
+          "胸膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清免疫球蛋白A",
+          "血清免疫球蛋白G",
+          "血清免疫球蛋白M",
+          "血清C反应蛋白",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "洛索洛芬钠片",
+          "依托度酸片",
+          "骨肽片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "穿龙骨刺片(太极)",
+          "grade": "4.2",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "变应性口炎",
+    "information": {
+      "introduction": "变应性口炎是口腔粘膜变态反应性炎症。指过敏性体质的机体通过不同途径(如接触、口服或注射等)接触变应原所致。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "过敏性口炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "在小儿时期较多见，尤其是婴...",
+        "symptom": [
+          "胀痛",
+          "结膜充血",
+          "丘疹",
+          "水肿",
+          "口腔痛"
+        ],
+        "complication": [
+          "结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约100-300元",
+        "ratio": "99%",
+        "duration": "?",
+        "method": [
+          "一般疗法、药物疗法、饮食疗法"
+        ],
+        "examination": [
+          "白细胞移动抑制试验",
+          "皮肤斑贴实验",
+          "淋巴细胞转化率"
+        ],
+        "medicine": [
+          "地塞米松片",
+          "维生素C片",
+          "口炎清颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "口炎清颗粒(大神口炎清)",
+          "grade": "4.31",
+          "total": "82",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎胶囊",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "口炎颗粒",
+          "grade": "5.0",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "口炎胶囊(仁和)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "口炎片",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "口炎清胶囊",
+          "grade": "5.0",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎清颗粒(常泰)",
+          "grade": "5.0",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎清片(康德平)",
+          "grade": "5.0",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎清咀嚼片",
+          "grade": "5.0",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "口炎清含片(白云山)",
+          "grade": "5.0",
+          "total": "78",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "咽炎清片",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性铅中毒",
+    "information": {
+      "introduction": "铅对人体各组织均有毒性,中毒途径可由呼吸道吸入其蒸气或粉尘,然后呼吸道中吞噬细胞将其迅速带至血液;或经消化道吸收,进入血循环而发生中毒。中毒者一般有铅及铅化物接触史。以神经、消化、造血系统障碍为主的全身性疾。铅以离子状态被吸收后进入血循环，主要以铅盐和与血浆蛋白结合的形式最初分布于全身各组织，数周后约有95%以不溶的磷酸铅沉积在骨骼系统和毛发。而血液内的铅约有95%分布在红细胞内，主要在红细胞膜，血浆只占5%。沉积在骨组织内的磷酸铅呈稳定状态，与血液和软组织中铅维持着动态平衡。被吸收的铅主要经肾脏排出，还可经粪便、乳汁、胆汁、月经、汗腺、唾液头发、指甲等途径排出。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "职业性铅中毒",
+        "part": [
+          "颅脑",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童或特殊工作人群多见",
+        "symptom": [
+          "食欲不振",
+          "衰弱",
+          "抽搐",
+          "顽固性便秘",
+          "嗜睡"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿铅",
+          "脑脊液铅",
+          "螯合剂驱铅试验",
+          "血清铅",
+          "全血铅"
+        ],
+        "medicine": [
+          "普鲁卡因肾上腺素注射液",
+          "普鲁卡因青霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胆汁性肝硬化",
+    "information": {
+      "introduction": "任何原因引起的肝内、外胆管疾病，导致胆道阻塞，胆汁淤积，皆可发展为胆汁性肝硬化。分原发性胆汁性肝硬化和继发性胆汁性肝硬化。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "多见于中年妇女",
+        "symptom": [
+          "胆汁潴留",
+          "肝叶萎缩",
+          "肝掌",
+          "腹水",
+          "肝肿大"
+        ],
+        "complication": [
+          "肝肾综合征",
+          "原发性肝癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（8000 —— 10000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肝功能",
+          "血清直接胆红素",
+          "血脂",
+          "血清免疫球蛋白M",
+          "血清碱性磷酸酶"
+        ],
+        "medicine": [
+          "肝喜乐胶囊",
+          "复方木鸡颗粒",
+          "抗原发性胆汁性肝硬化相关自身IgG抗体检测试剂盒(酶联免疫法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肝喜乐胶囊(德元堂)",
+          "grade": "2.20",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方木鸡颗粒(皇泰吉)",
+          "grade": "3.60",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "自身免疫性疾病",
+    "information": {
+      "introduction": "自身免疫性疾病（autoimmune diseases）是指机体对自身抗原发生免疫反应而导致自身组织损害所引起的疾病。许多疾病相继被列为自身免疫性疾病，值得提出的是，自身抗体的存在与自身免疫性疾病并非两个等同的概念，自身抗体可存在于无自身免疫性疾病的正常人特别是老年人，如抗甲状腺球蛋白、甲状腺上皮细胞、胃壁细胞、细胞核DNA抗体等。有时，受损或抗原性发生变化的组织可激发自身抗体的产生，如心肌缺血时，坏死的心肌可导致抗心肌自身抗体形成，但此抗体并无致病作用，是一种继发性免疫反应。﻿",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群 ",
+        "symptom": [
+          "反复感染",
+          "淋巴结肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "风湿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "FBC玫瑰花试验",
+          "可提取核抗原自身抗体谱带分析"
+        ],
+        "medicine": [
+          "注射用胸腺五肽",
+          "胸腺五肽",
+          "胸腺肽肠溶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "传染性单核细胞增多",
+    "information": {
+      "introduction": "传染性单核细胞增多症（infectious mononucleosis）是一种急性的单核-巨噬细胞系统增生性疾病，病程常具自限性。临床上表现为不规则发热、淋巴结肿大、咽痛、周围血液单核细胞显著增多，并出现异常淋巴细胞、嗜异性凝集试验阳性，血清中可测得抗EB病毒的抗体等。在青年与成年发生的EB病毒原发性感染者，约有半数表现为传染性单核细胞增多症。非洲儿童的Burkittis淋巴瘤（BL和鼻咽癌仅发生在曾感染过EB病毒的患者，且在BL和鼻咽癌的肿瘤细胞中均带有EB病毒的DNA以及病毒决定的核抗原，故认为EB病毒可能是BL和鼻咽癌的重要致病因素。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "传染性单核细胞增多,发否病,发否氏病,急性良性成淋巴细胞增多症,急性淋巴组织增生,特克综合征",
+        "part": [
+          "咽喉",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "本病好发于青少年，男比女多...",
+        "symptom": [
+          "斑丘疹",
+          "肝肿大",
+          "肝功能异常",
+          "腭部可见小出血点",
+          "肝脾肿大"
+        ],
+        "complication": [
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "丙氨酸氨基转移酶(ALT）",
+          "骨髓象分析",
+          "嗜异性凝集试验",
+          "血清EB病毒抗体",
+          "骨髓淋巴细胞系统"
+        ],
+        "medicine": [
+          "清火栀麦胶囊",
+          "消炎片",
+          "腺苷脱氨酶测定试剂盒(黄嘌呤氧化酶法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清火栀麦胶囊(日田)",
+          "grade": "1.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎片(平康)",
+          "grade": "0.8",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "女性性高潮障碍",
+    "information": {
+      "introduction": "女性性高潮障碍属于一种独立的综合征。它与性欲障碍或性唤起困难是不同的。女性性高潮障碍系指女性虽有性兴趣和要求，性欲正常甚至较强，但在性活动时虽然受到足够强度和有效性刺激并出现正常性兴奋期反应(如生殖器肿胀和阴道充分润滑)之后，性高潮仍反复地或持续地延迟或缺乏，她们只能获得低水平的性快感，因此很少或很难达到性满足。人们目前对女性性功能障碍的认识远远赶不上对男性性功能障碍的认识。女性在激发性高潮的刺激类型或强度上存在广泛的变异，根据目前的临床研究和长期观察没有发现在特定的人格特征或心理病理状况与性高潮障碍之间的联系。按照对照研究，高潮能力与阴道大小和阴道口的位置高低无关。盆腔肌肉强度一般不影响女性性高潮能力。根据Masters-Johnson的分类，将女性性高潮障碍分为4类。①原发性性高潮障碍：系指妇女在性成熟后的任何条件下从未发现过性高潮;②继发性性高潮障碍：女性以往曾体验过性高潮，而以后又消失者;③境遇性性高潮障碍：一些女性在性交时不出现性高潮，而手淫或其他方式性刺激时，则可出现性高潮;④随意性性高潮障碍：此类妇女在不同条件下出现性高潮，但其频率很低。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "性高潮抑制",
+        "part": [
+          "心理",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "已婚女性",
+        "symptom": [
+          "盆腔充血",
+          "阴道分泌物增多",
+          "充血",
+          "性欲减退"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约800-1500",
+        "ratio": ">85%",
+        "duration": "3-6个月",
+        "method": [
+          "心理分析、诱导治疗方法"
+        ],
+        "examination": [
+          "睾酮",
+          "促黄体生成素",
+          "血清卵泡刺激素",
+          "血清促甲状腺激素",
+          "雌二醇"
+        ],
+        "medicine": [
+          "手参肾宝胶囊",
+          "雌二醇缓释贴片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "手参肾宝胶囊(龙抬头)",
+          "grade": "2.27",
+          "total": "9",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "秋燥",
+    "information": {
+      "introduction": "秋燥是由燥热病邪引起的急性外感热病。多发生于秋季，尤以秋分后至小雪前为常见。其基本征候特征为初起以咽干、鼻燥、咳嗽少痰、皮肤干燥等津伤失润。根据好发季节及临床表现，本病与西医的急性咽候炎、急性气管炎、急性支气管炎等证候表现相似，故这些疾病可以参考秋燥辨证治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "皮肤干燥",
+          "咳痰",
+          "咳嗽"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "新生儿泪囊炎",
+          "颅咽管瘤",
+          "肺热咳嗽"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "秋燥感冒颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "秋燥感冒颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "充血性心力衰竭",
+    "information": {
+      "introduction": "充血性心力衰竭(congestive heart failure，CHF)系指在有适量静脉血回流的情况下，由于心脏收缩和(或)舒张功能障碍，心排血量不足以维持组织代谢需要的一种病理状态。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性心功能不全,慢性心衰",
+        "part": [
+          "心脏",
+          "血液血管",
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "原有心血管疾病患者",
+        "symptom": [
+          "粉红色泡沫样痰",
+          "端坐呼吸",
+          "第三心音奔马律",
+          "心排血量增多",
+          "心肌营养障碍"
+        ],
+        "complication": [
+          "低钠血症",
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胸部CT",
+          "心电图",
+          "胸透",
+          "胸部平片",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "甘油氯化钠注射液",
+          "盐酸胺碘酮片",
+          "盐酸贝那普利片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "外阴痛",
+    "information": {
+      "introduction": "外阴痛是以灼痛、刺痛、触痛或刺激为特征的慢性外阴不适。虽然目前将具有这组症状者统称为外阴痛而不管其病因，但一般认为外阴痛仅指原因不明者。无明显感染或器质性病变的外阴痛称为外阴痛综合征(VPS)，包括外阴前庭炎(VV)、环状外阴炎、感觉异常性外阴痛。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性外阴不适",
+        "part": [
+          "外阴",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性",
+        "symptom": [
+          "压痛",
+          "外阴烧灼刺激感",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500—— 800元）",
+        "ratio": "90%",
+        "duration": "7天",
+        "method": [
+          "中药、西药"
+        ],
+        "examination": [
+          "聚合酶链反应技术",
+          "阴道分泌物涂片",
+          "白带常规"
+        ],
+        "medicine": [
+          "止痛化癥胶囊",
+          "妇科千金片",
+          "川百止痒洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止痛化癥胶囊(东方金宝)",
+          "grade": "2.07",
+          "total": "17",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "花红颗粒",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方沙棘籽油栓(沙利舒)",
+          "grade": "1.78",
+          "total": "42",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "竹红菌素软膏(振华制药)",
+          "grade": "1.64",
+          "total": "27",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "苦参软膏(言克欣)",
+          "grade": "0.81",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "柏洁洗剂(回音必)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卡波西肉瘤",
+    "information": {
+      "introduction": "卡波氏肉瘤(Kaposis sarcoma)又名多发性特发性出血性肉瘤(Multiple idiopathic hemorrhagic sarcoma)。是艾滋病患者最常见的恶性肿瘤。是多中心性血管性肿瘤。临床少见，好发于50岁以上的男性，亦常见于艾滋病患者。临床早期以肢体等处的有色丘疹或斑块为主要表现，逐渐发展成大的斑块或结节，可伴有明显的局部水肿和内脏损害。放射治疗敏感，可配合手术和化疗等治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "多发性特发性出血性肉瘤,卡波氏肉瘤,卡波齐肉瘤",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "艾滋病患者",
+        "symptom": [
+          "斑疹",
+          "红色或紫色，稍高起的丘疹或结节",
+          "上唇附近，鼻旁沟和眼睑的丘疹或结节",
+          "瘙痒",
+          "溃疡疼痛"
+        ],
+        "complication": [
+          "细菌协同性坏疽"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000-50000元）",
+        "ratio": "70%",
+        "duration": "1-2年",
+        "method": [
+          "放疗、化疗、免疫疗法、手术治疗"
+        ],
+        "examination": [
+          "皮肤癌检测",
+          "白细胞分类计数"
+        ],
+        "medicine": [
+          "硫酸长春碱",
+          "放线菌素D",
+          "注射用重组人干扰素α2b(假单胞菌)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "软骨瘤",
+    "information": {
+      "introduction": "软骨瘤在良性骨肿瘤中较为常见，内生（髓腔性）软骨瘤是指发生在髓腔内的软骨瘤，最为常见。骨膜下（皮质旁）软骨瘤则较少见。软骨瘤伴发多发性血管瘤者称马弗西（Maffuci）综合症。软骨瘤单发多见；多发较少见，并具有发生于一侧上、下肢或两侧上、下肢对称生长的特点，同时合并肢体发育畸形，又称内生软骨瘤病；其发生于一侧肢体者又称欧利（Ollier）病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "内生软骨瘤病,欧利（Ollier）病",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "10-50岁人群",
+        "symptom": [
+          "弥漫性骨膜增厚",
+          "骨痛",
+          "关节疼痛",
+          "前臂有旋前畸形",
+          "指(趾)肿胀"
+        ],
+        "complication": [
+          "软骨黏液样纤维瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "90%",
+        "duration": "3-5月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "关节检查",
+          "粪便钙"
+        ],
+        "medicine": [
+          "转移因子口服溶液",
+          "转移因子口服溶液",
+          "那如三味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "那如三味丸",
+          "grade": "2.14",
+          "total": "16",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "直肠阴道瘘",
+    "information": {
+      "introduction": "在女性直肠与阴道后壁邻接的长度约有9cm，因此在创伤、炎症等病变时该段直肠阴道隔膜上的任何部位均可发生直肠阴道瘘，它是妇产科临床中最常见的一种粪瘘。分类：低位直肠瘘，即修补可以从会阴部途径进行;高位直肠阴道瘘，则从经腹手术较安全。多数病例的瘘孔较小，约<2cm。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠",
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "先天性多见于婴幼儿，后天性...",
+        "symptom": [
+          "便稀时经阴道排出",
+          "肚子疼",
+          "便稀时经阴道排出",
+          "排便困难"
+        ],
+        "complication": [
+          "阴道炎",
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000-3000元",
+        "ratio": "外科手术治愈率约为60%",
+        "duration": "6-12个月，可能需要多次手术...",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "阴道触诊",
+          "阴道窥器检查"
+        ],
+        "medicine": [
+          "注射用盐酸大观霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阻塞性睡眠呼吸暂停综合征",
+    "information": {
+      "introduction": "睡眠呼吸暂停综合征是涉及多学科的一类疾病，既表现有呼吸障碍，也表现有睡眠障碍;既涉及呼吸内科、耳鼻喉科，又与心血管内科、神经精神科、内分泌科、泌尿科以及颌面外科等有着密切的关系。这是一种潜在的致死性的疾病，近年来已越来越受到国内外重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阻塞性睡眠呼吸暂停综合症",
+        "part": [
+          "颅脑",
+          "口",
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "中青年肥胖症多发",
+        "symptom": [
+          "乏力",
+          "噩梦",
+          "打呼噜",
+          "睡眠唤醒反应"
+        ],
+        "complication": [
+          "慢性鼻炎",
+          "鼻中隔偏曲",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "40%-70%(控制体重后可使70%治愈)",
+        "duration": ">120天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "多导睡眠图检查",
+          "脑电图",
+          "食管压力",
+          "心电图",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "氨茶碱",
+          "乙酰唑胺",
+          "睡眠诊断仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胸腺癌",
+    "information": {
+      "introduction": "原发性胸腺癌是指具有恶性细胞结构特征的胸腺上皮肿瘤，在概念和实践中，容易和恶性胸腺瘤和胸腺转移癌相混淆。最常见的组织类型是鳞状细胞癌和未分化癌，绝大多数患者有不同症状。治疗上以手术切除和放疗为主，但疗效和预后较差。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "纵膈"
+        ],
+        "infection": "无传染性",
+        "people": "40-60岁人群",
+        "symptom": [
+          "消瘦",
+          "胸痛",
+          "盗汗",
+          "呼吸困难",
+          "胸痛"
+        ],
+        "complication": [
+          "肾病综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000-15000元）",
+        "ratio": "?",
+        "duration": "30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "巴氏或H-E染色检查",
+          "胸部CT",
+          "血清EB病毒抗体",
+          "胸部平片"
+        ],
+        "medicine": [
+          "环孢素注射液",
+          "环孢素软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

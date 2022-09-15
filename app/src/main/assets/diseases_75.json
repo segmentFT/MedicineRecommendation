@@ -1,0 +1,1003 @@
+[
+  {
+    "disease_name": "荨麻疹和血管性水肿",
+    "information": {
+      "introduction": "荨麻疹和血管性水肿(urticaria and angioedema)又称风疹块和血管神经性水肿，二者可分别出现或同时发生;表现为皮肤非指压痕性的水肿，有时还累及上呼吸道或肠胃道粘膜。荨麻疹仅损害皮肤表层，表现为红色葡行边缘、中央苍白的团块皮疹，有时可融合为巨大风团。血管性水肿的病变累及皮肤深层(包括皮下组织)，出现容易识别的局限水肿。这些表现均可一时性迅速出现和消失。反复发作不超过6周者属急性，反应属慢性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "风疹块,血管神经性水肿",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "有过敏性体质者多见",
+        "symptom": [
+          "旅行者水肿",
+          "手掌硬性水肿",
+          "头痛",
+          "剧痒"
+        ],
+        "complication": [
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "对症治疗为主，完全治愈率约为30%",
+        "duration": "1-2年",
+        "method": [
+          "药物治疗、急救措施"
+        ],
+        "examination": [
+          "光敏感试验",
+          "过敏原检测",
+          "血清循环免疫复合物",
+          "血清补体C1q",
+          "激发试验"
+        ],
+        "medicine": [
+          "依巴斯汀片",
+          "依巴斯汀片",
+          "氯雷他定糖浆"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脐疝",
+    "information": {
+      "introduction": "由脐环处突出的疝称为脐疝。临床上分为婴儿脐疝和成人脐疝两种。前者远较后者多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脐突",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": " 婴幼儿脐疝多见，女孩多于...",
+        "symptom": [
+          "脐部有一半球形肿块",
+          "婴幼儿脐部有肿物突出",
+          "腹部不适"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "泌尿外科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "99%",
+        "duration": "7天",
+        "method": [
+          "复位固定、手术治疗"
+        ],
+        "examination": [
+          "脐检查"
+        ],
+        "medicine": [
+          "茴香橘核丸",
+          "十香暖脐膏",
+          "疝气治疗带"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "茴香橘核丸(同仁堂)",
+          "grade": "2.55",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十香暖脐膏",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿心肌炎",
+    "information": {
+      "introduction": "心肌炎(myocarditis)是心肌的局灶性或弥漫性炎性浸润伴邻近心肌细胞的坏死和(或)变性，其特征与冠状动脉病变有关的心肌缺血性损伤不同。心肌炎与多种病因及发病因素有关，感染性心肌炎包括病毒、细菌、立克次体、螺旋体、真菌及寄生虫感染，其中以病毒性心肌炎最多见。恰加斯病(Chagas disease)是克鲁斯锥虫(Trypanosoma cruzi)感染引起，发生在南美及巴西。急性期可因急性心肌炎死亡，多数呈潜隐过程，症状不明显，至慢性期形成扩张型心肌病始发现。心脏明显扩大，发生心力衰竭和心律失常，导致死亡。免疫介导疾病，化学及物理因素均可引起心肌炎。心肌炎常为全身性疾病的一部分。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿感染性心肌病",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "奔马律心音",
+          "收缩期杂音",
+          "水肿",
+          "发绀",
+          "乏力"
+        ],
+        "complication": [
+          "心源性休克",
+          "心律失常",
+          "心房扑动"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "55%",
+        "duration": "1-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "平衡法放射性核素心血管造影",
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "荣心丸",
+          "甲泼尼龙片",
+          "莪术油注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荣心丸(玉丹)",
+          "grade": "2.22",
+          "total": "33",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年肺炎",
+    "information": {
+      "introduction": "老年肺炎常缺乏明显呼吸系症状，症状多不典型，病性进展快，易发生漏诊、错诊。据文献报道，病理证实为肺炎但临床未能诊断的“漏诊率”为3.3%-61.4%;而临床诊断为肺炎但无相应病理所见的“错诊率”为10.8%-39.3%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "食欲减退",
+          "肚子疼",
+          "老人剧烈咳嗽",
+          "精神恍惚",
+          "恶心与呕吐"
+        ],
+        "complication": [
+          "心力衰竭",
+          "糖尿病",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000-3000元",
+        "ratio": "99%治愈率",
+        "duration": "2-6",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "支气管镜",
+          "WBC",
+          "痰培养",
+          "胸部平片",
+          "胸水检查"
+        ],
+        "medicine": [
+          "了哥王片",
+          "白头翁止痢片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "白头翁止痢片(灵泰)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结石性胆囊炎",
+    "information": {
+      "introduction": "系指胆囊内或胆囊颈部发生结石的疾病。其临床表现取决于结石的部位、大小、是否引起感染、梗阻以及梗阻的部位和程度。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "发病的高峰年龄为40～50 岁",
+        "symptom": [
+          "右上腹痛",
+          "反酸",
+          "嗳气",
+          "腹胀"
+        ],
+        "complication": [
+          "胆囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "82%",
+        "duration": "7天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "胆囊胆道B超",
+          "CT检查",
+          "胆囊触诊",
+          "胆囊B超",
+          "白细胞数"
+        ],
+        "medicine": [
+          "复方金钱草颗粒",
+          "金胆片",
+          "胆舒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金胆片(雷氏)",
+          "grade": "3.36",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "舒胆胶囊(白云山)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十味黑冰片丸(藏王天宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清肝利胆胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "十味蒂达胶囊(诺迪康)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "咽部异物",
+    "information": {
+      "introduction": "咽部异物是耳鼻喉科常见急症之一，易被发现和取出，如处理不当，常延误病情，发生严重并发病。较大异物或外伤较重者可致咽部损伤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "儿童多见",
+        "symptom": [
+          "舌口及咽部烧灼感",
+          "呛咳",
+          "鼻咽异物",
+          "发烧",
+          "充血"
+        ],
+        "complication": [
+          "肺炎",
+          "急性纵隔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 7000元）",
+        "ratio": "90%",
+        "duration": "2-4周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "耳鼻咽喉CT"
+        ],
+        "medicine": [
+          "利咽灵片",
+          "黄氏响声含片",
+          "金嗓利咽丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利咽灵片(同仁堂)",
+          "grade": "1.98",
+          "total": "14",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "黄氏响声含片(黄氏)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "金嗓利咽丸(碑林)",
+          "grade": "3.2",
+          "total": "9",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "金嗓利咽胶囊(碑林)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金嗓利咽颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金嗓利咽片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "贞芪利咽颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "多发性末梢神经炎",
+    "information": {
+      "introduction": "周围神经炎是指在多数情况下并非感染或炎症，又被称之为周围神经病。该病系由多种原因引起的周围神经病变(包括颅神经及脊神经)，表现为受损神经支配范围内的感觉、运动及植物神经功能异常，多发性或单一性，对称性或非对称性，是神经系统较常见的疾病。任何年龄均可发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "有重金属（砷、汞、铅）接触...",
+        "symptom": [
+          "肌束震颤",
+          "四肢湿冷",
+          "感觉过度",
+          "跨阈步态",
+          "感觉障碍"
+        ],
+        "complication": [
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "1-3月",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "肌电图",
+          "血清卵泡刺激素",
+          "尿葡萄糖",
+          "白细胞数",
+          "泪液β2-微球蛋白"
+        ],
+        "medicine": [
+          "复方维生素B12溶液",
+          "氨咖甘片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "先天性胆道闭锁",
+    "information": {
+      "introduction": "先天性胆道闭锁(congenital biliary atresia)是新生儿期一种少见的严重黄疸性疾病，是导致新生儿阻塞性黄疸并需手术治疗的疾病。先天性胆道闭锁并非少见疾病，至少占有新生儿长期阻塞性黄疸的半数病例，其发病率约为1∶8000～1∶14000个存活出生婴儿，但地区和种族有较大差异，以亚洲报道的病例为多，东方民族的发病率高4～5倍，男女之比为1∶2。　",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胆道闭锁",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "女多于男，约1．5：1",
+        "symptom": [
+          "静脉曲张",
+          "肝内淤胆",
+          "肝脾肿大",
+          "门脉高压",
+          "维生素D缺乏"
+        ],
+        "complication": [
+          "门静脉高压症",
+          "黄疸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "50%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "肝脏超声检查",
+          "血清总胆红素",
+          "血清胆汁酸",
+          "脂蛋白X（LP-X）",
+          "十二指肠引流液一般性状"
+        ],
+        "medicine": [
+          "胆石通胶囊",
+          "复方胆通片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胆石通胶囊(万年青牌)",
+          "grade": "1.97",
+          "total": "29",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方胆通片(新峰药业)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脂肪肉瘤",
+    "information": {
+      "introduction": "脂肪肉瘤是恶性软组织肉瘤中较常见的一种。多见于30～70岁患者，以50岁左右发病最多。男性多于女性。四肢特别是大腿、臀部好发，上肢、腹膜后、头、颈块，直径3～10cm多见，后腹膜巨大者直径可达20cm以上，肿瘤常为结节状，或分叶状，质软或稍硬。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "成人多见",
+        "symptom": [
+          "单发性坚实性结节",
+          "肝下垂",
+          "结节"
+        ],
+        "complication": [
+          "单发性骨软骨瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "中西医结合科",
+          "适用皮肤"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "正规三甲医院治愈率为50%",
+        "duration": "治疗周期为20天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肿瘤相关抗原",
+          "ECT",
+          "血常规",
+          "C-myc基因"
+        ],
+        "medicine": [
+          "复方环磷酰胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胁痛",
+    "information": {
+      "introduction": "胁痛是以胁肋部疼痛为主要表现的一种肝胆病证。胁，指侧胸部，为腋以下至第十二肋骨部位的统称。如《医宗金鉴·卷八十九》明确指出：“其两侧自腋而下，至肋骨之尽处，统名曰胁。”《医方考·胁痛门》又谓：“胁者，肝胆之区也。”且肝胆经脉布于两胁，故“胁”现代又指两侧下胸肋及肋缘部，肝胆胰所居之处。胁痛是肝胆疾病中常见之证，临床有许多病证都是依据胁痛来判断其为肝胆病或系与肝胆有关的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "急慢性肝炎、胆囊炎、胆结石...",
+        "symptom": [
+          "疼痛",
+          "刺痛",
+          "隐痛",
+          "胀痛",
+          "窜痛"
+        ],
+        "complication": [
+          "肝胆湿热",
+          "发作性睡病",
+          "肝炎",
+          "血吸虫病与肝胆疾病",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约10000--30000",
+        "ratio": "99%",
+        "duration": "2-5周",
+        "method": [
+          "中药治疗、西药治疗、手术治疗"
+        ],
+        "examination": [
+          "肝功能"
+        ],
+        "medicine": [
+          "元胡止痛胶囊",
+          "龙胆泻肝丸",
+          "利胆止痛片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "元胡止痛胶囊(利蒙)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(顺势)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利胆止痛片",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱胆通口服液(万年青)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清肝利胆口服液(香雪)",
+          "grade": "3.83",
+          "total": "65",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "二十五味肺病丸(奇正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二十五味肺病丸(神猴)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝丹胶囊(鼎炉)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(同仁堂)",
+          "grade": "3.35",
+          "total": "58",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "元胡止痛片",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙胆泻肝片",
+          "grade": "4.40",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(水丸)",
+          "grade": "2.47",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "寄生虫",
+    "information": {
+      "introduction": "阑尾寄生虫病引起的急性阑尾炎是常见外科急腹症，很多肠道寄生虫可寄生或进入阑尾腔内。如我国南方血吸虫流行区常见到血吸虫性阑尾炎。北方地区常见到阑尾蛔虫病，此病是肠蛔虫病的并发症之一。阿米巴肠病好发于盲肠，累及阑尾的机会较多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阑尾寄生虫病",
+        "part": [
+          "阑尾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "脐周阵发性绞痛",
+          "继发感染",
+          "右下腹压痛",
+          "指甲上起小细粒"
+        ],
+        "complication": [
+          "急性腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "99%",
+        "duration": "2-3周",
+        "method": [
+          "病因治疗"
+        ],
+        "examination": [
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "吡喹酮片",
+          "肥儿丸",
+          "寄生虫卵检测制片盒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肥儿丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七味酸藤果丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七味酸藤果丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "化虫丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "荨麻疹性血管炎",
+    "information": {
+      "introduction": "荨麻疹性血管炎(Urticarial vasculitis，UV)1973年MCDuffie首先报告，其特点是皮疹为风团，持续时间长，伴低补体血症。炎性介质损伤血管内皮细胞，因此出现血管炎变化，显示白细胞破碎性血管炎的表现。其病因不明，有报告由于碘过敏，反复寒冷刺激，以及病毒、细菌、寄生虫等过敏原引起的超敏性血管炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "30～40岁妇女",
+        "symptom": [
+          "关节疼痛",
+          "淋巴结肿大",
+          "关节肿胀",
+          "类似荨麻疹的皮肤潮红斑块"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "控制症状为主，无法彻底根治",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清总补体",
+          "血清抗dsDNA抗体",
+          "血清可提取性核抗原",
+          "抗核抗体",
+          "血沉"
+        ],
+        "medicine": [
+          "马栗种子提取物片",
+          "醋酸泼尼松片",
+          "抗C1q 抗体IgG测定试剂盒(酶免法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "妊娠期内胆汁淤积症",
+    "information": {
+      "introduction": "妊娠期肝内胆汁淤积症(intrahepatic cholestasis of pregnancy，ICP)是发生在妊娠中晚期特有的妊娠并发症，以皮肤瘙痒和胆酸高值为特征。主要危及胎儿。发病率0.8%-12%，有明显的地域和种族差异，以智利和瑞典发病率高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "妊娠性肝内胆汁郁积",
+        "part": [
+          "肝",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠中、晚期多见",
+        "symptom": [
+          "瘙痒",
+          "失眠",
+          "恶心",
+          "食欲减退",
+          "皮肤瘙痒"
+        ],
+        "complication": [
+          "妊娠高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "肝胆外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清总胆红素",
+          "胆囊B超",
+          "血清胆汁酸",
+          "孕产期检查"
+        ],
+        "medicine": [
+          "熊去氧胆酸"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "破水",
+    "information": {
+      "introduction": "胎膜在临产前破裂称胎膜早破。发生率约占分娩总数的6～12%。胎膜早破常致早产、围产儿死亡、宫内及产后感染率升高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胎膜早破",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠",
+        "symptom": [
+          "阴道出血",
+          "肚子疼",
+          "胎膜破裂",
+          "阴道分泌物增多"
+        ],
+        "complication": [
+          "早产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000—— 6000元）",
+        "ratio": "经过分泌治疗后，100%可以痊愈",
+        "duration": "3-7天。",
+        "method": [
+          "引产、剖宫产"
+        ],
+        "examination": [
+          "阴道分泌物涂片",
+          "白带常规"
+        ],
+        "medicine": [
+          "妇康丸",
+          "盐酸利托君注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇康丸(康祺)",
+          "grade": "4.5",
+          "total": "4",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "惊恐症",
+    "information": {
+      "introduction": "惊恐障碍(panic disorder)简称惊恐症，是以反复出现显著的心悸、出汗、震颤等自主神经症状，伴以强烈的濒死感或失控感，害怕产生不幸后果的惊恐发作(panic attacks)为特征的一种急性焦虑障碍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性焦虑症,惊恐性障碍,惊恐障碍",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "成年人，特别是生活压力大的...",
+        "symptom": [
+          "惊恐发作",
+          "焦虑",
+          "头痛",
+          "震颤",
+          "心悸"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑电图"
+        ],
+        "medicine": [
+          "醒脑牛黄清心片",
+          "盐酸帕罗西汀片",
+          "盐酸帕罗西汀片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "醒脑牛黄清心片",
+          "grade": "3.07",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

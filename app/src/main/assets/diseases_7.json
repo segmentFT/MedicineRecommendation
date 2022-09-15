@@ -1,0 +1,1516 @@
+[
+  {
+    "disease_name": "肠梗阻",
+    "information": {
+      "introduction": "肠梗阻(intestinal obstruction，ileus)指肠内容物在肠道中通过受阻。为常见急腹症，可因多种因素引起。起病初，梗阻肠段先有解剖和功能性改变，继则发生体液和电解质的丢失、肠壁循环障碍、坏死和继发感染，最后可致毒血症、休克、死亡。当然，如能及时诊断、积极治疗大多能逆转病情的发展，以致治愈。常见的有胆石性肠梗阻、肠石性肠梗阻、粘连性肠梗阻、小儿蛔虫性肠梗阻、小儿胃肠道异物及异物性肠梗阻、小儿动力性肠梗阻、麻痹性肠梗阻、痉挛性肠梗阻、小肠梗阻、大肠梗阻、急性肠梗阻、神经性肠梗阻、妊娠合并肠梗阻、假性肠梗阻等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "恶心与呕吐",
+          "排便障碍",
+          "停止排气",
+          "胃肠气胀"
+        ],
+        "complication": [
+          "呕吐"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "85%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "腹部透视",
+          "脂肪酶",
+          "粪便性状",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "甘油",
+          "麻仁软胶囊",
+          "食道平散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "麻仁软胶囊(手心药业)",
+          "grade": "2.2",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "食道平散(欧珂)",
+          "grade": "1.99",
+          "total": "61",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "口臭",
+    "information": {
+      "introduction": "所谓口臭(也有称“口气”的)，就是人口中散发出来的令别人厌烦、使自己尴尬的难闻的口气。它严重影响人们的社会交往和心理健康，WHO已将口臭作为一种疾病来进行报道。调查显示，中国口臭患病率为27.5%。而在西方国家，则为50%。全球约有10%~65%的人曾患有口臭。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "口气,口腔异味",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "热痰口臭",
+          "胃火口臭",
+          "虚热口臭",
+          "食积口臭",
+          "嗳气时有腐败鸡蛋的气味"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（200-2000元）",
+        "ratio": "80%",
+        "duration": "3-6个月",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "丁硼乳膏",
+          "维生素C泡腾片",
+          "西帕依固龈液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "西帕依固龈液(奇康)",
+          "grade": "4.40",
+          "total": "22",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "小儿消积止咳口服液(鲁南)",
+          "grade": "2.44",
+          "total": "48",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "复方珍珠口疮颗粒(美大康)",
+          "grade": "2.64",
+          "total": "14",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "复方一枝黄花喷雾剂(百灵鸟)",
+          "grade": "2.53",
+          "total": "91",
+          "secondary": "79"
+        },
+        {
+          "medicine_name": "养阴口香合剂(万顺堂)",
+          "grade": "2.67",
+          "total": "23",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "咽立爽口含滴丸(艾纳香)",
+          "grade": "2.78",
+          "total": "39",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "藿香清胃片(刻康)",
+          "grade": "3.64",
+          "total": "32",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "泻停封胶囊(百灵鸟)",
+          "grade": "4.2",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "通舒口爽胶囊(永孜堂)",
+          "grade": "3.80",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "齿痛消炎灵颗粒",
+          "grade": "3.94",
+          "total": "14",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "藿香清胃片(花城)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藿香清胃胶囊(刻康)",
+          "grade": "2.01",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "龙掌口含液",
+          "grade": "4.14",
+          "total": "6",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "白内障",
+    "information": {
+      "introduction": "凡是各种原因如老化、遗传、局部营养障碍、免疫与代谢异常、外伤、中毒、辐射等，都能引起晶状体代谢紊乱，导致晶状体蛋白质变性而发生混浊，称为白内障。此时光线被混浊晶状体阻扰无法投射在视网膜上，就不能看清物体。世界卫生组织从群体防盲、治盲角度出发，对晶状体发生变性和混浊，变为不透明，以至影响视力，而矫正视力在0.7或以下者，才归入白内障诊断范围。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "老年性白内障,年龄相关性白内障",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、老年人",
+        "symptom": [
+          "视力障碍",
+          "瞳孔变白",
+          "眼球调节功能减退或消失",
+          "玻璃体经瞳孔向前房凸出",
+          "眼压升高"
+        ],
+        "complication": [
+          "青光眼",
+          "黄斑囊样水肿",
+          "玻璃体积血",
+          "脉络膜脱离",
+          "葡萄膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "老年科"
+        ],
+        "cost": "三甲医院约（3000 —— 8000元）",
+        "ratio": "90%(外科手术治疗)",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "瞳孔检查",
+          "常规小瞳孔检查",
+          "晶状体检查",
+          "视力筛查仪",
+          "Farnsworth15色标试验"
+        ],
+        "medicine": [
+          "苄达赖氨酸滴眼液",
+          "拨云退翳丸",
+          "苄达赖氨酸滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "拨云退翳丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珍珠明目滴眼液(海宝)",
+          "grade": "3.42",
+          "total": "85",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "障眼明片(白云山中一)",
+          "grade": "3.76",
+          "total": "22",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "十五味萝蒂明目丸(卓玛丹)",
+          "grade": "3.12",
+          "total": "45",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复明片(碑林)",
+          "grade": "3.31",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复明胶囊(君寿)",
+          "grade": "3.33",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心脏病",
+    "information": {
+      "introduction": "心脏病(heart disease)是心脏疾病的总称，包括风湿性心脏病、先天性心脏病、限制型心脏病、慢性肺源性心脏病、高血压性心肌病、甲亢性心脏病、糖尿病心脏病、高原性心脏病、冠心病、心肌病等各种心脏病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "心动过速",
+          "胸痛",
+          "发绀",
+          "窒息",
+          "心悸"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（15000 —— 18000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "心血管MRI",
+          "CT检查",
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "氧",
+          "香丹注射液",
+          "七十味珍珠丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "香丹注射液",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益心巴迪然吉布亚颗粒(蒙王)(无糖型)",
+          "grade": "3.87",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益心巴迪然吉布亚颗粒(金爵)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益心巴迪然吉布亚颗粒(维尔欣)无糖型)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(金诃)",
+          "grade": "1.74",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "心宝丸",
+          "grade": "2.63",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "毛冬青片(新峰药业)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "滋心阴胶囊(天施康)",
+          "grade": "4.22",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结肠癌",
+    "information": {
+      "introduction": "是常见的消化道恶性肿瘤，占胃肠道肿瘤的第二位。好发部位为直肠及直肠与乙状结肠交界处，占60%。发病多在40岁以后，男女之比为2：1。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "多见于中老年人，30～69岁占...",
+        "symptom": [
+          "便秘伴剧烈腹痛",
+          "癌细胞逆行播散",
+          "便血",
+          "排便感",
+          "便血且血与粪便混合"
+        ],
+        "complication": [
+          "直肠癌",
+          "贫血",
+          "肠梗阻",
+          "肠癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（30000-50000元）",
+        "ratio": "30-50%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、放化疗"
+        ],
+        "examination": [
+          "肿瘤筛查",
+          "细菌的鉴定",
+          "血清CA199",
+          "胃肠道CT",
+          "血清组织多肽抗原"
+        ],
+        "medicine": [
+          "复方氟尿嘧啶口服溶液",
+          "去氧氟尿苷胶囊",
+          "卡培他滨片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金刺参九正合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方红根草片",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "前列腺癌",
+    "information": {
+      "introduction": "　前列腺癌在欧美是男性癌死亡的主要原因之一。发病率随年龄增长，80岁以上检查前列腺半数有癌病灶，但实际临床发病者远低于此数，前列腺癌发病有明显的地区和种族差异，据统计中国人最低，欧洲人最高，非洲和以色列居间，我国及日本等国家为前列腺癌低发地区，但无选择50岁以上男性尸检前列腺节段切片发现潜化癌病灶数与欧美相近，因此有人认为东方人癌生长比西方人缓慢，临床病例较少。另外前列腺癌与环境亦有关系。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "前列腺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年男性",
+        "symptom": [
+          "尿流中断",
+          "前列腺硬结",
+          "急性尿潴留",
+          "血尿伴排尿不畅",
+          "尿后滴沥"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科",
+          "男科"
+        ],
+        "cost": "市三甲医院约（30000-50000元）",
+        "ratio": "50%(这个通过手术治疗，5年生存率在50%左右时间。)",
+        "duration": "20--30天(一般手术治疗周期一...",
+        "method": [
+          "治愈性治疗、姑息性治疗"
+        ],
+        "examination": [
+          "泌尿系统CT",
+          "内生殖器检查",
+          "血清肿瘤基因P53抗体",
+          "MRI",
+          "前列腺、精囊腺的超声检查"
+        ],
+        "medicine": [
+          "氟他胺片",
+          "氟他胺胶囊",
+          "氟他胺片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "通迪胶囊(贵州安泰)",
+          "grade": "4.16",
+          "total": "10",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "附睾炎",
+    "information": {
+      "introduction": "附睾炎多见于中青年，按病程可分为急性附睾炎和慢性附睾炎两种。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "青年及中年男性",
+        "symptom": [
+          "睾丸疼痛",
+          "附睾肿大发硬",
+          "发烧",
+          "输精管变粗",
+          "男性小腹痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "提睾反射",
+          "血支原体抗体",
+          "阴囊超声检查"
+        ],
+        "medicine": [
+          "茴香橘核丸",
+          "二十八味槟榔丸",
+          "甲磺酸左氧氟沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "茴香橘核丸(同仁堂)",
+          "grade": "2.55",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二十八味槟榔丸(神水藏药)",
+          "grade": "2.79",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑出血",
+    "information": {
+      "introduction": "脑出血(cerebral hemorrhage)又称脑溢血，病因多样，绝大多数是高血压小动脉硬化的血管破裂引起，故有人也称高血压性脑出血。按照是否外伤因素引起的可分为外伤性脑室内出血和自发性脑室内出血。脑出血与高血压病的密切关系在于：高血压患者约有1/3的机会发生脑出血，而约95%的脑出血患者有高血压。脑出血是中老年人常见的急性脑血管病，病死率和致残率都很高，是我国脑血管病中死亡率最高的临床类型。脑出血占所有脑血管病的40%～50%。脑出血80%发生在大脑半球，20%发生于脑叶、脑干、小脑和脑室。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑溢血 ",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": " 老年人 ，常发生于50～70岁，...",
+        "symptom": [
+          "血压高",
+          "桥脑出血",
+          "脑干出血",
+          "中度昏迷"
+        ],
+        "complication": [
+          "褥疮",
+          "高血压",
+          "抑郁症",
+          "情感障碍",
+          "应激性溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（3000--20000）",
+        "ratio": "81%",
+        "duration": "21天",
+        "method": [
+          "内科保守治疗、外科手术治疗"
+        ],
+        "examination": [
+          "头颅平片",
+          "颅内压监测",
+          "脑血流测定",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "果糖二磷酸钠口服溶液",
+          "抗宫炎片",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "补肾固齿丸(九芝堂)",
+          "grade": "4.17",
+          "total": "32",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "西帕依固龈液(奇康)",
+          "grade": "4.40",
+          "total": "22",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "抗宫炎软胶囊(ATIE)",
+          "grade": "2.25",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇科止血灵(远达)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "固齿散(神农典方)",
+          "grade": "4.53",
+          "total": "8",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "低血糖",
+    "information": {
+      "introduction": "低血糖综合征(hypoglycemic syndrome)是一组由多种病因引起的综合征。血糖浓度常低于3.36mmol/L(60mg/dl)，严重而长期的低血糖症可发生广泛的神经系统损害与并发症。常见的有功能性低血糖与肝源性低血糖，其次为胰岛素瘤及其他内分泌性疾病所致的低血糖症。本病常被误诊为癔病、癫痫、精神病、脑瘤与脑炎等，经过恰当治疗后，症状可迅速好转。早期识别本病甚为重要，可达治愈目的，延误诊断与治疗会造成永久性的神经病变而不可逆转，后果不佳。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者，中老年人",
+        "symptom": [
+          "神经质性格",
+          "颤抖",
+          "眩晕欲扑",
+          "心悸",
+          "视力障碍"
+        ],
+        "complication": [
+          "痴呆"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "自我血糖监测",
+          "胰岛素低血糖兴奋GH、ACTH试验",
+          "血清胰岛素原",
+          "胰高血糖素",
+          "胰高糖素激发试验"
+        ],
+        "medicine": [
+          "黄芪颗粒",
+          "当归补血口服液",
+          "盐酸二甲双胍片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄芪颗粒(汉方)",
+          "grade": "2.86",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "糖尿乐片(普尔丁)",
+          "grade": "3.81",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(健今)",
+          "grade": "2.03",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(大峻)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐胶囊(辅仁)",
+          "grade": "3.79",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(亦通)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(恒伟)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐胶囊(汝立康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(广信)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿发烧",
+    "information": {
+      "introduction": "小儿发烧是指当小儿发热，温度在39.1～41℃左右。发热时间超过两周为长期发热。小儿正常体温常以肛温36.5～37.5℃，腋温36～37℃衡量。通常情况下，腋温比口温(舌下)低0.2～0.5℃，肛温比腋温约高0.5℃左右。若腋温超过37.4℃，且一日间体温波动超过1℃以上，可认为发热。所谓低热，指腋温为37.5℃～38℃、中度热38.1～39℃、高热39.1～40℃、超高热则为41℃以上。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿高热,小儿发热",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "低烧",
+          "高热"
+        ],
+        "complication": [
+          "营养不良",
+          "低钠血症",
+          "脱水",
+          "脑病",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（100-500元）",
+        "ratio": "85%",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗、物理治疗"
+        ],
+        "examination": [
+          "肥达氏反应",
+          "淋巴细胞数",
+          "体温",
+          "抗链球菌溶血素“O”试验",
+          "白细胞数"
+        ],
+        "medicine": [
+          "感冒清热颗粒",
+          "小儿热速清糖浆",
+          "小儿解热栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿热速清糖浆(长垣)",
+          "grade": "2.63",
+          "total": "11",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "小儿解热栓",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿解热栓",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿解热栓",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金振口服液(康缘)",
+          "grade": "4.23",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方小儿退热栓",
+          "grade": "3.06",
+          "total": "10",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "清开灵滴丸",
+          "grade": "3.62",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "羚羊角胶囊(克比奇)",
+          "grade": "3.29",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "儿童感热清丸(亚宝)",
+          "grade": "2.74",
+          "total": "9",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "猪流感",
+    "information": {
+      "introduction": "甲型H1N1流感病毒是A型流感病毒，携带有H1N1亚型猪流感病毒毒株，包含有禽流感、猪流感和人流感三种流感病毒的核糖核酸基因片断，同时拥有亚洲猪流感和非洲猪流感病毒特征。医学测试显示，目前主流抗病毒药物对这种毒株有效。美国疾控机构的照片显示甲型H1N1流感病毒呈阴性反应。2009年4月30日世界卫生组织、联合国粮农组织和世界动物卫生组织宣布，一致同意使用A(H1N1)型流感指代当时疫情，并不再使用“猪流感”一词。中国卫生部门则相继将原人感染猪流感改称为甲型H1N1流感。中国卫生部2009年4月30日发布2009年第8号公告，明确将甲型H1N1流感(原称人感染猪流感)纳入传染病防治法规定管理的乙类传染病，并采取甲类传染病的预防、控制措施。2009年开始，甲型H1N1流感在全球范围内大规模流行。2010年8月，世卫组织宣布甲型H1N1流感大流行期已经结束。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "甲型H1N1流感,甲流",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发烧",
+          "周身不适",
+          "咳嗽",
+          "咽痛",
+          "食欲异常"
+        ],
+        "complication": [
+          "肺炎",
+          "胸膜炎",
+          "支气管炎",
+          "气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "70%",
+        "duration": "1-3周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清流感病毒抗体",
+          "胸透"
+        ],
+        "medicine": [
+          "四季抗病毒合剂",
+          "甲型H1N1流感病毒裂解疫苗",
+          "小儿感冒颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "四季抗病毒合剂(海天)",
+          "grade": "3.27",
+          "total": "41",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗病毒口服液(安药)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清热解毒胶囊(银涛)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "流感茶(希尔安)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "菊蓝抗流感胶囊(九方)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "流感茶",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗病毒口服液（OTC乙类）(香雪)",
+          "grade": "4.26",
+          "total": "18",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "抗病毒口服液(999)",
+          "grade": "4.29",
+          "total": "19",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "清热解毒胶囊",
+          "grade": "3.1",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒(同仁堂)",
+          "grade": "4.30",
+          "total": "157",
+          "secondary": "65"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性肾炎",
+    "information": {
+      "introduction": "慢性肾小球肾炎(chronic glomerulonephritis)系指各种病因引起的不同病理类型的双侧肾小球弥漫性或局灶性炎症改变，临床起病隐匿，病程冗长，病情多发展缓慢的一组原发性肾小球疾病的总称，故严格说来它不是一独立性疾病。但由于临床上未能广泛开展肾活组织检查，这一组慢性肾小球肾炎综合征的临床分型对临床工作中制定治疗方案与预防病情进展和肾功能恶化有一定帮助，故仍保留慢性肾小球肾炎一节。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性肾小球肾炎,肾炎",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "青、中年男性",
+        "symptom": [
+          "蛋白尿",
+          "水肿",
+          "血压高",
+          "慢性肾功能不全"
+        ],
+        "complication": [
+          "尿路感染",
+          "肾功能不全",
+          "营养不良",
+          "慢性肾炎",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "2-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿酚红排泄试验",
+          "血清阴离子",
+          "血清化学检查",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "黄葵胶囊",
+          "复方α-酮酸片",
+          "复方肾炎片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄葵胶囊(苏中)",
+          "grade": "2.44",
+          "total": "52",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "复方肾炎片(葫芦博士)",
+          "grade": "4.03",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "强肾片",
+          "grade": "1.75",
+          "total": "24",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "滋补肝肾丸(同仁堂)",
+          "grade": "2.3",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄芪颗粒(无蔗糖)",
+          "grade": "2.17",
+          "total": "18",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄芪颗粒(汉方)",
+          "grade": "2.86",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "黄芪颗粒(好好)",
+          "grade": "3.83",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿肺炎",
+    "information": {
+      "introduction": "小儿肺炎是小儿最常见的一种呼吸道疾病，四季均易发生，3岁以内的婴幼儿在冬、春季节患肺炎较多。如治疗不彻底，易反复发作、引起多种重症并发症，影响孩子发育。小儿肺炎临床表现为发热、咳嗽、气促、呼吸困难和肺部细湿罗音，也有不发热而咳喘重者。小儿肺炎有典型症状，也有不典型的，新生儿肺炎尤其不典型。由细菌和病毒引起的肺炎最为多见。目前可通过疫苗预防小儿肺炎。常见有安尔宝(B型流感嗜血杆菌结合疫苗)、7价的肺炎球菌疫苗、23价肺炎球菌多糖疫苗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "小儿急性肺炎,小儿急性支气管肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "3岁以内的婴幼儿",
+        "symptom": [
+          "小儿咳嗽",
+          "痰鸣音",
+          "小支气管粘膜水肿",
+          "流鼻涕"
+        ],
+        "complication": [
+          "气胸",
+          "肺气肿",
+          "便秘",
+          "咯血",
+          "金黄色葡萄球菌肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "儿童体检",
+          "支原体检查",
+          "波顿格征",
+          "C反应蛋白",
+          "胸部平片"
+        ],
+        "medicine": [
+          "蛇胆川贝胶囊",
+          "贝羚胶囊",
+          "小儿肺炎散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "蛇胆川贝胶囊",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "贝羚胶囊(雷氏)",
+          "grade": "2.37",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿肺炎散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿肺炎散",
+          "grade": "4.81",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(效威)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(龙仔安)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(好呀呀)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(富兴飞鸽)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(诺得胜)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒(辰济)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麻甘颗粒",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胆囊炎",
+    "information": {
+      "introduction": "胆囊炎是细菌性感染或化学性刺激(胆汁成分改变)引起的胆囊炎性病变，为胆囊的常见病。在腹部外科中其发病率仅次于阑尾炎，本病多见于35～55岁的中年人，女性发病较男性为多，尤多见于肥胖且多次妊娠的妇女。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": " 肥胖且多次妊娠的妇女 ",
+        "symptom": [
+          "右上腹压痛",
+          "恶心",
+          "发烧",
+          "腹肌紧张",
+          "右上腹痛"
+        ],
+        "complication": [
+          "老年人胆囊炎",
+          "妊娠合并急性胆囊炎",
+          "急性胆囊炎",
+          "小儿急性胆囊炎",
+          "慢性胆囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元",
+        "ratio": "90%",
+        "duration": "14--30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "胆囊胆道B超",
+          "胆道镜",
+          "肝脏及胆囊叩诊",
+          "肝、胆、脾CT",
+          "血清异枸橼酸脱氢酶"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星胶囊",
+          "盐酸米诺环素胶囊",
+          "胆舒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鸡骨草胶囊(玉林)",
+          "grade": "4.19",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藏茵陈胶囊(蒂达)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "结石清胶囊(贵州百灵)",
+          "grade": "4.16",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "十味蒂达胶囊(诺迪康)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "胆石通胶囊(万年青牌)",
+          "grade": "1.97",
+          "total": "29",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胆宁片(上药牌)",
+          "grade": "2.48",
+          "total": "12",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "动脉硬化",
+    "information": {
+      "introduction": "动脉硬化是动脉的一种非炎症性病变，是动脉管壁增厚、变硬，失去弹性和管腔狭小的退行性和增生性病变的总称，常见的有：1、动脉粥样硬化;2、动脉中层钙化;3、小动脉硬化(arteriolosclerosis)3种。动脉粥样硬化(atherosclerosis)是动脉硬化中常见的类型，为心肌梗塞和脑梗塞的主要病因。包括主动脉粥样硬化、冠心病、脑动脉硬化、颈动脉硬化、肾动脉硬化等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "动脉粥样硬化",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "青少年时期发生，中老年时期...",
+        "symptom": [
+          "头痛",
+          "心音异常",
+          "胸痛",
+          "头晕",
+          "动脉呈多处伸长扭曲状"
+        ],
+        "complication": [
+          "高血压",
+          "心律失常",
+          "心绞痛",
+          "猝死",
+          "神经衰弱"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动脉听诊",
+          "大生化检查",
+          "血流变学检查",
+          "PaO2",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "活血通脉片",
+          "复方氨基丁酸维E胶囊",
+          "多巴丝肼片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "活血通脉片(维和)",
+          "grade": "3.32",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑络通胶囊(白云山)",
+          "grade": "3.87",
+          "total": "43",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑心清片(白云山)",
+          "grade": "3.87",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利脑心胶囊(敖东)",
+          "grade": "3.59",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银杏酮酯滴丸(傲士)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "杏灵滴丸(立迈)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "古汉养生精片(古汉)",
+          "grade": "4.36",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "镇脑宁片(镇脑宁胶囊(东宝)",
+          "grade": "3.95",
+          "total": "53",
+          "secondary": "2"
+        }
+      ]
+    }
+  }
+]

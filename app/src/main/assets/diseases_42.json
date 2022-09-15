@@ -1,0 +1,1021 @@
+[
+  {
+    "disease_name": "淋病合并症精囊炎",
+    "information": {
+      "introduction": "淋病合并症精囊炎是淋病双球菌引起精囊的化脓性感染，是男性淋病常见的并发症。一般多合并前列腺炎，附睾炎、睾丸炎、尿道球腺炎及包皮腺炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "男性",
+        "symptom": [
+          "睾丸胀痛",
+          "低烧",
+          "睾丸触痛",
+          "疼痛",
+          "精囊增大"
+        ],
+        "complication": [
+          "前列腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "性病科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "治愈率94%",
+        "duration": "治疗周期14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "尿液细菌培养",
+          "淋菌培养",
+          "淋病细菌学检测",
+          "前列腺、精囊腺的超声检查"
+        ],
+        "medicine": [
+          "托西酸舒他西林胶囊",
+          "甲苯磺酸妥舒沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "血管炎",
+    "information": {
+      "introduction": "血管炎是血管壁及血管周围有炎症细胞浸润，并伴有血管损伤，包括纤维素沉积、胶原纤维变性、内皮细胞及肌细胞坏死的炎症，又称脉管炎。致病因素直接作用于血管壁引起者为原发性血管炎，在血管炎症基础上产生一定的临床症状和体征者为血管炎疾病;由邻近组织炎症病变波及血管壁引起者为继发性血管炎，只是多种组织的病理改变之一，与血管炎疾病不同。另外，在所谓胶原血管病中，血管损害是主要的伴发病变之一，所以这类疾病属于广义的血管炎疾病。血管炎疾病不少见。血管炎病变不仅累及血管本身，还累及血管所支配的组织和脏器，有些可以致命，自应用皮质类固醇激素治疗以来，预后已大为改观。血管种类、大小和功能不同，血管炎的临床症状和体征也不同。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "乏力",
+          "肌痛",
+          "关节疼痛",
+          "紫癜",
+          "皮疹"
+        ],
+        "complication": [
+          "霜样树枝状视网膜血管炎",
+          "视网膜血管炎",
+          "过敏性肉芽肿性血管炎相关巩膜炎",
+          "过敏性血管炎",
+          "显微型多血管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血管造影",
+          "血小板计数",
+          "血浆纤维蛋白原",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "甲钴胺片",
+          "醋酸泼尼松片",
+          "醋酸泼尼松片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脉管复康片(太阳)",
+          "grade": "3.05",
+          "total": "23",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "益脉康胶囊(金花)",
+          "grade": "2.23",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益脉康片(云丰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益脉康胶囊(敖东)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益脉康片(美尔瑞)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红花注射液",
+          "grade": "2.30",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "萎缩性鼻炎",
+    "information": {
+      "introduction": "萎缩性鼻炎（atrophic rhinitis）是一种发展缓慢的鼻腔萎缩性炎症，其特征为鼻腔粘膜、骨膜和骨质发生萎缩。严重而伴有典型恶臭者，称臭鼻症（ozena）。多始于青春期，女性较男性多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "臭鼻症，鼻槁",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年女性",
+        "symptom": [
+          "鼻黏膜和鼻甲萎缩",
+          "鼻粘膜溃疡和萎缩",
+          "鼻臭症",
+          "鼻孔干疼",
+          "头痛"
+        ],
+        "complication": [
+          "分泌性中耳炎",
+          "新生儿水肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-3000元）",
+        "ratio": "60%",
+        "duration": "1个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "鼻中隔",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "鼻炎康片",
+          "鼻炎通喷雾剂",
+          "鼻腔清洗器(鼻可乐)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎康片(德众)",
+          "grade": "3.87",
+          "total": "368",
+          "secondary": "253"
+        },
+        {
+          "medicine_name": "鼻炎通喷雾剂(德众)",
+          "grade": "3.42",
+          "total": "99",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "鼻血止颗粒",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "莱姆病",
+    "information": {
+      "introduction": "莱姆病(Lyme disease)是由伯氏疏螺旋体所致的自然疫源性疾病，又称莱姆疏螺旋体病(Lyme borreliosis)。疾病初期常以慢性游走性红斑为特征。临床表现主要为皮肤、心脏、神经和关节等多系统、多脏器损害。1975年，本病成批地集中发生美国康涅狄格州Lyme镇的儿童中，因而得名。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "莱姆氏病,莱姆疏螺旋体病,赖姆疏螺旋体病",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "不同年龄的人群对本病普遍易...",
+        "symptom": [
+          "瘙痒",
+          "关节酸痛",
+          "丘疹",
+          "关节肿胀",
+          "头痛"
+        ],
+        "complication": [
+          "急性心包炎",
+          "心肌炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "体液免疫检测法"
+        ],
+        "medicine": [
+          "阿奇霉素分散片",
+          "阿奇霉素干混悬剂",
+          "注射用头孢曲松钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人骨质疏松",
+    "information": {
+      "introduction": "原发性骨质疏松症是指骨单位体积量减少，骨组织微结构退变，骨的脆性增加，以致易于发生骨折的全身性骨骼疾病。新的定义强调了骨量、骨丢失和骨结构的重要性。不仅包括了已发生骨折者的骨质疏松症，同时也包括了具有潜在骨折危险的临床前期骨质疏松症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年骨质疏松症,老年人骨质疏松症",
+        "part": [
+          "骨",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "弥漫性骨质疏松",
+          "骨痛",
+          "胸闷",
+          "维生素C缺乏",
+          "背痛"
+        ],
+        "complication": [
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "老年科"
+        ],
+        "cost": "1000-2000元",
+        "ratio": "30%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清骨碱性磷酸酶",
+          "骨与关节MRI",
+          "尿羟脯氨酸",
+          "尿钙",
+          "骨密度"
+        ],
+        "medicine": [
+          "碳酸钙D3咀嚼片(II)",
+          "骨疏康颗粒",
+          "碳酸钙D3片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨疏康颗粒(康辰)(无糖型)",
+          "grade": "3.78",
+          "total": "47",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "肾骨胶囊",
+          "grade": "3.72",
+          "total": "14",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "淋巴管炎",
+    "information": {
+      "introduction": "淋巴管炎多数是通过局部创口或溃疡感染细菌所致，也有一些患者没有明确的细菌侵入口，感染从淋巴管传播到局部的淋巴结所致。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴管淤积",
+          "感染性发热",
+          "压痛"
+        ],
+        "complication": [
+          "浅部急性淋巴结炎和淋巴管炎",
+          "急性淋巴管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血液生化六项"
+        ],
+        "medicine": [
+          "头孢地尼分散片",
+          "头孢克洛缓释片",
+          "头孢地尼胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "紧张性头痛",
+    "information": {
+      "introduction": "紧张性头痛又称为肌收缩性头痛，是最常见的一种头痛类型，一般认为其患病率高于偏头痛，约占门诊头痛患者的半数。主要为颈部和头面部肌肉持续性收缩而产生的头部压迫感、沉重感，有的病人自诉为头部有“紧箍”感。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "紧张型头痛，肌收缩性头痛，精神肌源性头痛",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性",
+        "symptom": [
+          "头沉",
+          "考试综合症",
+          "紧箍咒一样头紧",
+          "重压感、紧箍感或钳夹样头痛",
+          "情绪低落"
+        ],
+        "complication": [
+          "经行失眠",
+          "失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "针灸科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "15天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "肌电图",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": [
+          "鼻炎灵片",
+          "复方天麻片",
+          "正天丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎灵片",
+          "grade": "3.57",
+          "total": "18",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方天麻片(百灵鸟)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(秀江)",
+          "grade": "4.04",
+          "total": "10",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(同仁堂)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(广育堂)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(金扬沙)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(仁皇)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(哈药)",
+          "grade": "2.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方羊角颗粒(万腾)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方羊角颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方羊角颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方羊角颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "梨状肌综合征",
+    "information": {
+      "introduction": "本病是由于梨状肌压迫坐骨神经引起的坐骨神经痛。梨状肌起自骶骨的髂骨面，止于股骨大转子上缘。在奔跑或坐位时，梨状肌可以挤压从其下经过的坐骨神经。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "臀部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "下肢放射痛",
+          "保持睡眠障碍性失眠",
+          "腹股沟疼痛",
+          "神经痛",
+          "干性坐骨神经痛"
+        ],
+        "complication": [
+          "进行性脊肌萎缩症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-500元）",
+        "ratio": "90%",
+        "duration": "7-30天",
+        "method": [
+          "药物治疗、牵引疗法"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "关节检查",
+          "踝反射",
+          "神经系统检查",
+          "骨关节及软组织CT"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肛门瘙痒症",
+    "information": {
+      "introduction": "肛门瘙痒症（peritus ani,PA）是一种常见的局部瘙痒症。肛门部有时有轻微发痒，如瘙痒严重，经久不愈则成为瘙痒症。它是一种常见的局限性神经机能障碍性皮肤病。一般只限于肛门周围，有的可蔓延到会阴、外阴或阴囊后方。多发生在20～40岁中午、老年，20岁以下的青年较少，很少发生于儿童。男比女多见，习惯安静和不常运动的人多发生这种瘙痒症。继发性瘙痒症有明显致病原因，容易治疗；自发性或原因不明的PA不易治愈，也常复发，约占全部病人的50％。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "多发生在20～40岁中年、老年...",
+        "symptom": [
+          "肛内分泌物多",
+          "肛周皮肤潮红",
+          "肛周皮肤有湿疹",
+          "肛门会阴区潮湿不洁",
+          "脓性分泌物"
+        ],
+        "complication": [
+          "肛周湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000—— 3000元）",
+        "ratio": "99%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肝功能",
+          "便常规",
+          "尿葡萄糖"
+        ],
+        "medicine": [
+          "乌蛇止痒丸",
+          "湿毒清胶囊",
+          "湿毒清片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "湿毒清胶囊(玉林)",
+          "grade": "2.80",
+          "total": "89",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "湿毒清片(诺鑫)",
+          "grade": "2.74",
+          "total": "10",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "小儿积散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿积散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "窦性心律不齐",
+    "information": {
+      "introduction": "窦性心律失常(sinus arrhythmia)系窦房结发出的激动显著不规律，使心房和心室的节律也不规则。窦性心律失常一般无特殊症状，只有在心率过低或过速时引起心悸，眩晕甚至昏厥，体检时，可发现心跳和脉搏不规则或呈周期样改变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "窦性心律失常,迷走神经性心律失常,青年期心律失常",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脉搏脱漏",
+          "昏迷",
+          "心悸",
+          "低射血分数",
+          "心率增快"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "95%",
+        "duration": "3-5月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血液电解质",
+          "血液检查",
+          "心电图"
+        ],
+        "medicine": [
+          "阿替洛尔片",
+          "阿替洛尔片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性湿疹",
+    "information": {
+      "introduction": "慢性湿疹多因急性、亚急性湿疹反复发作演变而成，亦可开始即呈现慢性炎症。时轻时重，常反复呈急性或亚急性发作，尤以精神紧张时为甚。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "过敏体质人群",
+        "symptom": [
+          "剧痒",
+          "皮肤浸润",
+          "皮肤皲裂",
+          "皮肤干燥",
+          "丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "复方醋酸地塞米松乳膏",
+          "氟轻松维B6乳膏",
+          "盐酸多塞平乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黑豆馏油软膏(康华)",
+          "grade": "2.16",
+          "total": "16",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "羌月乳膏(健民)",
+          "grade": "4.5",
+          "total": "5",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "创灼膏",
+          "grade": "2.71",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "创灼膏(同人泰)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎癣湿药膏(铍宝)",
+          "grade": "3.25",
+          "total": "11",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性肺源性心脏病",
+    "information": {
+      "introduction": "慢性肺源性心脏病(chronic cor pulmonale)是由肺组织、肺动脉血管或胸廓的慢性病变引起肺组织结构和功能异常，产生肺血管阻力增加，肺动脉压力增高，使右心扩张、肥大，伴或不伴右心衰竭的心脏病。它可以发生于老年人，但多数是从中年迁延发展而来。老年肺心病大多是从慢性阻塞性肺疾病(chronic obstructive pulmonary disease，COPD)发展而来。它的发病率很高，尤其在吸烟人群中，且呈逐年增高的趋势。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺原性心脏病,慢性肺心病,慢性肺原性心脏病，肺心病",
+        "part": [
+          "肺",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "呼吸困难",
+          "喘息",
+          "意识模糊",
+          "咳嗽",
+          "咳痰"
+        ],
+        "complication": [
+          "心力衰竭",
+          "室性期前收缩",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-10000元）",
+        "ratio": "40-60%，多以控制症状治疗为主",
+        "duration": "终身治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "血液电解质",
+          "心电图",
+          "动脉血气分析",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "麝香保心丸",
+          "滋心阴胶囊",
+          "肺心片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "麝香保心丸",
+          "grade": "2.85",
+          "total": "125",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "滋心阴胶囊(天施康)",
+          "grade": "4.22",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肺心片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "麻风病",
+    "information": {
+      "introduction": "麻风病(Leorsy ,Lepra)是由麻风杆菌引起的一种慢性传染病。主要侵犯皮肤、粘膜和周围神经，也可侵犯深部组织和器官。本病在世界范围内流行甚广，据估计全世界现有麻风病人约一千万人左右主要分布于亚洲、非洲及拉丁美洲。临床表现为麻木性皮肤损害、神经粗大，严重者甚至肢端残废。本病在世界上流行甚广，我国则流行于广东、广西、四川、云南以及青海等省、自治区。建国后由于积极防治，本病已得到有效的控制，发病率显著下降。约有一半的麻风病人大概是同麻风病感染者密切接触而传染。麻风杆菌感染大概也能来自土壤，同犰狳接触，以及甚至同臭虫和蚊虫接触而受染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "麻风",
+        "part": [
+          "皮肤",
+          "周围神经系统"
+        ],
+        "infection": "有传染性",
+        "people": "少年，青年，儿童 ",
+        "symptom": [
+          "红斑样皮疹",
+          "发烧",
+          "斑疹",
+          "淋巴结肿大",
+          "怕冷"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000-8000元）",
+        "ratio": "40-50%",
+        "duration": "2-4年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "灭活血清反应素试验",
+          "PHA淋巴细胞转化试验",
+          "二硝基氯苯试验",
+          "康氏反应",
+          "毛果芸香碱出汗试验"
+        ],
+        "medicine": [
+          "沙利度胺片",
+          "利福喷丁胶囊",
+          "利福喷丁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十八味欧曲珍宝丸(日通)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青芒觉(甘露)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十八味党参丸(仙露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十八味党参丸(卓玛丹)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十八味党参丸(通天河)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十八味欧曲珍宝丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十八味党参丸(夫都清)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "单纯性外阴炎",
+    "information": {
+      "introduction": "单纯性外阴炎属于非特异性外阴炎，是单纯的细菌感染。常见的病原菌有葡萄球菌、乙型溶血性链球菌、大肠埃希杆菌以及变形杆菌等。因各种理化因素刺激引起：如宫颈炎、阴道炎或宫颈癌引起阴道分泌物过多，刺激外阴;经血、糖尿病病人的糖尿、尿瘘病人的尿液、粪瘘病人的粪便浸渍外阴;使用月经垫、穿化纤内裤，以及平时不注意外阴清洁等，都有可能造成细菌感染，引起外阴炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "外阴部的皮肤或粘膜发炎",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "女性外阴卫生不洁者",
+        "symptom": [
+          "白带增多",
+          "脓血性白带",
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "外阴肿胀",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "外阴湿疹",
+          "外阴炎",
+          "单纯性外阴炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(1000--3000元)",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "病因治疗、局部治疗"
+        ],
+        "examination": [
+          "肛门拭子检查法",
+          "肛门视诊",
+          "尿葡萄糖",
+          "阴道清洁度",
+          "白带常规"
+        ],
+        "medicine": [
+          "复方黄松湿巾",
+          "三维制霉素栓",
+          "一次性载液抗菌器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方黄松湿巾(源安堂)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心肌桥",
+    "information": {
+      "introduction": "冠状动脉及其分支通常行走于心脏表面的心外膜下脂肪中或心外膜深面，当一段冠脉被心肌所包绕，该段心肌称为心肌桥(myocardial bridge)，该段冠脉称为壁冠状动脉。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "壁冠状动脉,壁内冠状动脉,心肌隧道",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "心肌缺血",
+          "心电图异常",
+          "动脉粥样硬化",
+          "心肌肥厚",
+          "胸痛"
+        ],
+        "complication": [
+          "猝死",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "据不同医院，收费标准不一致，市三甲医院约3000-5000元",
+        "ratio": "50%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "冠状动脉造影",
+          "心血管造影",
+          "心肌灌注显像",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "果糖二磷酸钠口服溶液",
+          "果糖二磷酸钠口服溶液",
+          "快速交换球囊扩张导管"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

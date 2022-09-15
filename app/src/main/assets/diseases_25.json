@@ -1,0 +1,982 @@
+[
+  {
+    "disease_name": "功能性消化不良",
+    "information": {
+      "introduction": "功能性消化不良(functional dyspepsia，FD)是一组有持续或反复发作的上腹痛或不适消化不良症状，经检查排除了器质性疾病的临床症候群。根据临床表现FD可进一步分为餐后不适综合征PDS（早饱或餐后饱胀感）和上腹痛综合征EPS（疼痛或上腹部灼烧感）不同亚型。FD与嗳气症(包括吞气症和非特异性嗳气）、功能性恶心和呕吐（包括慢性特发性恶心、功能性呕吐和周期性呕吐）、反刍综合征统属于功能性胃十二指肠疾病。流行病学调查显示因消化不良症状就诊者占内科门诊总数的30%左右，占消化内科专科门诊的70%，其中，功能性消化不良占消化内科专科门诊的30%~40%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "消化不良",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腹部不适",
+          "嗳气",
+          "粪便排出过程异常",
+          "气上沖心"
+        ],
+        "complication": [
+          "呕吐",
+          "肠易激综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300—— 800元",
+        "ratio": "治愈率79%",
+        "duration": "治疗周期21天",
+        "method": [
+          "药物治疗、饮食疗法"
+        ],
+        "examination": [
+          "腹部平片",
+          "胃充盈及排空功能",
+          "胃排空测定和显像",
+          "腹部CT",
+          "粪便脂肪定量"
+        ],
+        "medicine": [
+          "枸橼酸莫沙必利分散片",
+          "西沙必利胶囊",
+          "枳术宽中胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "达立通颗粒(弘益)",
+          "grade": "2.78",
+          "total": "33",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "人参健脾丸(同仁堂)",
+          "grade": "4.55",
+          "total": "288",
+          "secondary": "283"
+        },
+        {
+          "medicine_name": "开胸顺气丸(同仁堂)",
+          "grade": "4.09",
+          "total": "23",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "前置胎盘",
+    "information": {
+      "introduction": "正常胎盘附着于子宫体部的后壁、前壁或侧壁。若胎盘附着于子宫下段，甚至胎盘下缘达到或覆盖宫颈内口处，其位置低于胎儿先露部，称为前置胎盘。前置胎盘是妊娠晚期出血的主要原因之一，是妊娠期的严重并发症，处理不当能危及母儿生命安全。其发生率中国报道为0.24%～1.57%，国外报道为1.0%。前置胎盘患者中85%～90%为经产妇，尤其是多产妇，其发生率可高达5%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群，妊娠妇女",
+        "symptom": [
+          "阴道不规则出血",
+          "阴道持续流血不停",
+          "阴道持续少量流血",
+          "阴道流血过多",
+          "阴道出血"
+        ],
+        "complication": [
+          "前置胎盘",
+          "宫颈癌",
+          "妊娠合并宫颈癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000 —— 50000元）",
+        "ratio": "80%",
+        "duration": "15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胎儿发育检查",
+          "催产素激惹试验",
+          "MRI",
+          "产科B超",
+          "血常规"
+        ],
+        "medicine": [
+          "安胎丸",
+          "保胎灵"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安胎丸(中华)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保胎灵(皇甫谧)",
+          "grade": "1.72",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胸膜炎",
+    "information": {
+      "introduction": "胸膜炎又称“肋膜炎”，是胸膜的炎症。 胸膜炎是致病因素(通常为病毒或细菌)刺激胸膜所致的胸膜炎症。胸腔内可有液体积聚(渗出性胸膜炎)或无液体积聚(干性胸膜炎)。炎症消退后，胸膜可恢复至正常，或发生两层胸膜相互粘连。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肋膜炎",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年人群",
+        "symptom": [
+          "胸痛",
+          "咳嗽",
+          "胸闷",
+          "气急",
+          "呼吸困难"
+        ],
+        "complication": [
+          "老年人胸腔积液与胸膜炎",
+          "结核性胸膜炎",
+          "小儿结核性胸膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "80--90%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "结核菌素皮内试验",
+          "昂德腊耳征",
+          "舍佩耳曼征",
+          "呼吸动度",
+          "胸透"
+        ],
+        "medicine": [
+          "利福喷丁胶囊",
+          "注射用头孢他啶",
+          "石膏二十五味散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "石膏二十五味散",
+          "grade": "2.4",
+          "total": "7",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿营养不良",
+    "information": {
+      "introduction": "营养不良是由于热量和（或）蛋白质不足而致的慢性营养缺乏症.多见于婴幼儿期.随着人民生活不断提高,营养不良发病率已显著下降。目前所见营养不良多为婴儿期喂养方法不当或疾病因素所造成而且程度多较轻。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "食欲不振",
+          "面色苍白",
+          "儿童偏食",
+          "皮肤干燥",
+          "消瘦"
+        ],
+        "complication": [
+          "鹅口疮",
+          "肠炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "营养科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100—— 500元）",
+        "ratio": "85%",
+        "duration": "30天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "白蛋白(A,Alb)",
+          "血清转铁蛋白",
+          "血浆铜蓝蛋白",
+          "血清碱性磷酸酶",
+          "血清甲状腺素结合前白蛋白"
+        ],
+        "medicine": [
+          "强身健脑片",
+          "参术儿康糖浆",
+          "腺苷钴胺片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "强身健脑片(亚健灵)",
+          "grade": "4.27",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆",
+          "grade": "3.12",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆(药都)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆(仁民)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "参术儿康糖浆(益盛)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参术儿康糖浆",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿生血糖浆(九芝堂)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "女性尖锐湿疣",
+    "information": {
+      "introduction": "女性尖锐湿疣潜伏期平均为2-3个月，病变发展无自限性。女性尖锐湿疣隐蔽性比男性强，因为尖锐湿疣好发于大小阴唇、阴蒂、阴道和子宫颈，至少20%女性患者的会阴和肛周皮肤易被波及，偶然发生于腋下、腹股沟、乳房下间隙部位及口腔内等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "中年女性",
+        "symptom": [
+          "肛门瘙痒",
+          "外阴鳞状上皮疣状增生"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "性病科"
+        ],
+        "cost": "市三甲医院约4000-5000元",
+        "ratio": "65%，本病容易复发，可能需要反复多次治疗",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "涂片",
+          "HPV检查",
+          "醋酸白试验",
+          "结核杆菌基因检测"
+        ],
+        "medicine": [
+          "鬼臼毒素酊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胆管癌",
+    "information": {
+      "introduction": "胆管癌是指原发于左右肝管汇合部至胆总管下端的肝外胆管恶性肿瘤。胆管癌可分为肝门部胆管癌或上段胆管癌、中段胆管癌和下段胆管癌3个类型。原发性胆管癌较少见，占普通尸检的0.01%～0.46%，肿瘤病人尸检的2%，胆道手术的0.3%～1.8%。在欧美胆囊癌为胆管癌的1.5～5倍，日本的资料则胆管癌多于胆囊癌。男女之比约为1.5～3.0。发病年龄多为50～70岁，但也可见于年轻人。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胆管细胞癌",
+        "part": [
+          "胆",
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄多为50～70岁，但也...",
+        "symptom": [
+          "腹部不适",
+          "肚子疼",
+          "恶心",
+          "腹水",
+          "胆囊增大"
+        ],
+        "complication": [
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肝胆外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "外科手术治愈率约为75%",
+        "duration": "?",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血清癌胚抗原",
+          "术后经T形管胆道造影",
+          "血清组织多肽抗原",
+          "HER-2基因",
+          "血浆游离皮质醇"
+        ],
+        "medicine": [
+          "经肝胆道支架系统",
+          "自膨式外周支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "营养不良",
+    "information": {
+      "introduction": "广义的营养不良(malnutrition)应包括营养不足或缺乏以及营养过剩两方面，现只对前者进行论述。营养不良常继发于一些医学和外科的原因，如慢性腹泻、短肠综合征和吸收不良性疾病。营养不良的非医学原因是贫穷食物短缺。缺乏营养知识，家长忽视科学喂养方法。在发达国家营养不良的病人通常可以通过治疗原发病、提供适当的膳食，对家长进行教育和仔细的随访而治疗。但在许多第三世界国家，营养不良是儿童死亡的主要原因。在营养不良、社会习惯、环境和急、慢性感染之间存在着复杂的交互影响，以至治疗是非常困难，并不是单单提供适当的食物即可解决。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "生长缓慢",
+          "消瘦",
+          "皮肤干燥",
+          "体型异常",
+          "唇甲色淡"
+        ],
+        "complication": [
+          "贫血",
+          "低血糖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "营养科",
+          "消化内科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "90%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "身体器官功能与营养",
+          "BMI指数",
+          "血清锌",
+          "血清钾",
+          "血清钙"
+        ],
+        "medicine": [
+          "参术儿康糖浆",
+          "右旋糖酐铁片",
+          "枯草杆菌二联活菌颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参术儿康糖浆",
+          "grade": "3.12",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脉管炎",
+    "information": {
+      "introduction": "血栓性静脉炎简称静脉炎是指静脉血管发炎，根据病变部位不同，静脉炎可分为浅静脉炎和深静脉炎。其病理变理化血管内膜增生，管腔变窄，血流缓慢。周围皮肤可呈现充血性红斑，有时伴有水肿。以后逐渐消退， 充血被色素沉着代替，红斑转变成棕褐色。少数病人可引起反应， 如发冷、发热、白细胞增高等，患者常常陈诉疼痛肿胀。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "静脉炎,血栓性静脉炎",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "呈红色条索，游走的浅静脉",
+          "浅静脉有一发红低热的索状物",
+          "局部静脉硬索状",
+          "皮下静脉呈网状怒张",
+          "毛细血管扩张"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约10000--16000元",
+        "ratio": "经过治疗有效治愈率在70%能够治愈。",
+        "duration": "一般治疗需要30-60天周期。",
+        "method": [
+          "药物治疗、局部疗法、手术疗法"
+        ],
+        "examination": [
+          "中心静脉压",
+          "电阻抗体积描记"
+        ],
+        "medicine": [
+          "肝素钠乳膏",
+          "非普拉宗片",
+          "抗栓胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗栓胶囊(亦通)",
+          "grade": "1.88",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红花注射液",
+          "grade": "2.30",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉管复康片(太阳)",
+          "grade": "3.05",
+          "total": "23",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "通塞脉片(南星)",
+          "grade": "4.09",
+          "total": "11",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "病毒性脑炎",
+    "information": {
+      "introduction": "病毒性脑炎(viral encephalitis)和病毒性脑膜炎(virus meningitis)均是指多种病毒引起的颅内急性炎症。由于病原体致病性能和宿主反应过程的差异，形成不同类型疾病。若炎症过程主要在脑膜，临床重点表现为病毒性脑膜炎。主要累及大脑实质时，则以病毒性脑炎为临床特征。大多患者具有病程自限性。病毒性脑膜炎(virus meningitis)在20世纪50年代前后多称作无菌性脑膜炎(aseptic meningitis)，这可能是由于患者有典型的脑膜刺激征而脑脊液检查采用涂片及培养方法找不到细菌和真菌，病理形态学改变又和病毒感染相似的缘故。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "病毒性脑膜炎,散发性脑炎",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发烧",
+          "头痛",
+          "恶心与呕吐",
+          "脑膜刺激征",
+          "颈项强直"
+        ],
+        "complication": [
+          "褥疮",
+          "疖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "经过抗病毒治疗后，能够有效控制治愈，一般在80%以上得以治愈。",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液细菌培养",
+          "脑脊液一般性状",
+          "脑膜刺激征",
+          "脑脊液细胞学检查"
+        ],
+        "medicine": [
+          "氟康唑胶囊",
+          "甘油氯化钠注射液",
+          "莪术油注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "酒精中毒",
+    "information": {
+      "introduction": "酒精中毒是由于一过性大量摄入酒精导致中枢神经系统先兴奋后抑制，继而使延髓血管运动中枢和呼吸中枢受到抑制，严重者可引起呼吸衰竭、呼吸麻痹而死亡。该病起病急，进展快，但若能及时救治，可挽救患者生命，减少并发症的发生。酒精依赖(alcoholic dependence)系指慢性酒精中毒者一旦停饮，可产生一系列戒断症状。实际上酒精依赖者经常处于中毒状态中。我国酒精中毒的发病率比西方国家为低，但近年来其发病率似有增高趋势，应予重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乙醇中毒，酒厥",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "青年及中年男性，喜欢喝酒的",
+        "symptom": [
+          "恶心与呕吐",
+          "谵妄",
+          "头晕",
+          "嗜睡",
+          "面色苍白"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "98%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "口形红细胞",
+          "尿肌红蛋白",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "三磷酸腺苷二钠片",
+          "果糖二磷酸钠口服溶液",
+          "多烯磷脂酰胆碱胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "疟疾",
+    "information": {
+      "introduction": "疟疾(Malaria)是疟原虫寄生于人体所引起的传染病。经疟蚊叮咬或输入带疟原虫者的血液而感染。不同的疟原虫分别引起间日疟、三日疟、恶性疟及卵圆疟。本病主要表现为周期性规律发作，全身发冷、发热、多汗，长期多次发作后，可引起贫血和脾肿大。儿童发病率高，大都于夏秋季节流行。疟疾流行于102个国家和地区，特别是在非洲、东南亚和中、南美洲的一些国家，恶性疟死亡率极高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "打摆子,瘴气",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，儿童发病率高",
+        "symptom": [
+          "发烧",
+          "乏力",
+          "头痛",
+          "口唇发绀",
+          "脾肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约（10000--20000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、中医治疗"
+        ],
+        "examination": [
+          "血吸虫间接血凝试验",
+          "疟疾间接免疫荧光试验",
+          "血清疟原虫抗体和抗原"
+        ],
+        "medicine": [
+          "藿香祛暑软胶囊",
+          "通天口服液",
+          "甲苯咪唑片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "藿香祛暑软胶囊(欧意)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "通天口服液(太极)",
+          "grade": "2.11",
+          "total": "28",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "午时茶颗粒(安药)",
+          "grade": "3.18",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "柴胡注射液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "伤寒",
+    "information": {
+      "introduction": "伤寒(typhoid fever)是由伤寒杆菌引起的急性肠道传染病，又称为肠热病(enteric fever)，英文名称：typhoid fever;肠热病;enteric fever。以持续的菌血症与毒血症，单核吞噬细胞系统的增生性反应，以回肠下段淋巴组织为主的增生、肿胀、坏死与溃疡形成为基本病理特征。典型的临床表现包括持续高热，全身中毒性症状与消化道症状、相对缓脉、玫瑰疹、肝脾肿大、白细胞减少。肠出血、肠穿孔是可能发生的最主要的严重并发症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肠热病,伤寒病,伤寒症",
+        "part": [
+          "肠",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "高热不退",
+          "缓脉",
+          "玫瑰疹",
+          "肝脾肿大",
+          "全身感染中毒症状"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约10000-30000",
+        "ratio": "80%",
+        "duration": "14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "肥达氏反应",
+          "外裴氏试验",
+          "聚合酶链式反应"
+        ],
+        "medicine": [
+          "呋喃唑酮片",
+          "土霉素片",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腱鞘囊肿",
+    "information": {
+      "introduction": "腱鞘囊肿(thecal cyst)是腕背侧最常见的一种肿块，身体其他部位的关节囊、腱鞘上也可发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "用手关节较多的人群多发，发...",
+        "symptom": [
+          "压痛",
+          "冻结肩",
+          "肌腱囊肿",
+          "肌肉萎缩",
+          "囊肿"
+        ],
+        "complication": [
+          "肿胀"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约50---200元。",
+        "ratio": "80%",
+        "duration": "1-3周",
+        "method": [
+          "外科治疗、物理治疗"
+        ],
+        "examination": [
+          "肩关节外展试验",
+          "肩外展摆动试验"
+        ],
+        "medicine": [
+          "双氯芬酸钠肠溶缓释胶囊",
+          "伤痛舒",
+          "复方倍他米松注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伤痛舒",
+          "grade": "4.0",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睾丸扭转",
+    "information": {
+      "introduction": "睾丸扭转(torsion of testis)又称精索扭转，由于剧烈运动或暴力损伤阴囊时螺旋状附着于精索上的提睾肌强烈收缩，导致扭转并引起睾丸的急性血液循环障碍。临床并不罕见，往往发生于先天性睾丸系膜过长、睾丸引带发育不良、隐睾、睾丸下降不全、附睾与睾丸连接不完全、附睾与部分精索过度活动、精索过长等情况。分鞘膜内型和鞘膜外型两种。睾丸扭转方向多由外向内。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "精索扭转",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，以婴幼儿和青少年...",
+        "symptom": [
+          "剧烈疼痛",
+          "阴囊坠胀痛",
+          "恶心",
+          "厌食",
+          "睾丸疼痛"
+        ],
+        "complication": [
+          "睾丸炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "50%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "阴囊超声检查"
+        ],
+        "medicine": [
+          "二十八味槟榔丸",
+          "黄体酮胶丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二十八味槟榔丸(神水藏药)",
+          "grade": "2.79",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺癌",
+    "information": {
+      "introduction": "肺癌发生于支气管粘膜或腺体，亦称支气管肺癌。近50年来许多国家都报道肺癌的发病率明显增高，在男性癌瘤病人中，肺癌已居首位，女性发病率也迅速增高，占女性常见恶性肿瘤的第2位或第3位。男女发病比率为3~5﹕1，发病年龄多在60-79岁。肺癌的病因至今尚不完全明确，大量资料表明，长期大量吸烟是肺癌的一个重要致病因素。多年吸烟每日40支以上者，肺鳞癌和未分化癌的发病率比不吸烟者高4～10倍。城市居民肺癌的发病率比农村高，这可能与大气污染和烟尘中含有致癌物质有关。因此应该提倡不吸烟，并加强城市环境卫生工作。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "支气管癌,支气管肺癌",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "４０岁以上男性，抽烟者",
+        "symptom": [
+          "肺部肿块",
+          "痰有恶臭味",
+          "肩背痛",
+          "咳嗽",
+          "咳痰"
+        ],
+        "complication": [
+          "慢性支气管炎",
+          "肺气肿",
+          "冠心病",
+          "肺水肿",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（50000-100000元）",
+        "ratio": "40%",
+        "duration": "1-2个月",
+        "method": [
+          "手术治疗、化学治疗"
+        ],
+        "examination": [
+          "肺部检查",
+          "支气管镜",
+          "痰培养",
+          "胸部平片",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "益肺清化膏",
+          "益肺清化颗粒",
+          "京制咳嗽痰喘丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益肺清化膏(达仁堂)",
+          "grade": "1.02",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益肺清化颗粒",
+          "grade": "2.26",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "京制咳嗽痰喘丸(同仁堂)",
+          "grade": "4.25",
+          "total": "137",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鸦胆子油软胶囊(辛喜)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "回生口服液(地奥)",
+          "grade": "3.96",
+          "total": "22",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "参一胶囊(亚泰)",
+          "grade": "2.32",
+          "total": "30",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方斑蝥胶囊(康赛迪)",
+          "grade": "3.91",
+          "total": "14",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "紫龙金片(隆顺榕)",
+          "grade": "1.31",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "威麦宁胶囊(华颐)",
+          "grade": "2.37",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通迪胶囊(贵州安泰)",
+          "grade": "4.16",
+          "total": "10",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1410 @@
+[
+  {
+    "disease_name": "早泄",
+    "information": {
+      "introduction": "早泄是最常见的男性性功能障碍，发病率是约占成年男性的14%～41%。早泄定义多种多样，一般认为早泄为总是或几乎总是发生在插入阴道以前或插入阴道的1分钟以内射精，完全或几乎完全缺乏控制射精的能力，并造成自身的不良后果，如苦恼、忧虑、挫折和/或回避性亲热。国际性医学协会（ISSM）将早泄分为原发和继发两种。由于射精神经生理及早泄的发病机制尚未完全阐明，至今仍然没有一种非常有效的治疗方法。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "泄泻",
+        "part": [
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "青年，中年男性，婚前过度手...",
+        "symptom": [
+          "器质性早泄",
+          "男子性功能障碍",
+          "心理性性功能障碍",
+          "遗精滑泄"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": ">30%",
+        "duration": ">120天",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "精液和前列腺液检查",
+          "阴茎检查",
+          "前列腺检查",
+          "性激素六项检查",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "盐酸达泊西汀片(爱廷玖)",
+          "他达拉非片 ",
+          "金水宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "五子衍宗丸(同仁堂)(水蜜丸)",
+          "grade": "2.00",
+          "total": "47",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "生力雄丸(太极)",
+          "grade": "2.14",
+          "total": "85",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "麒麟丸(麒麟牌)",
+          "grade": "3.18",
+          "total": "16",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "健阳片(神威)",
+          "grade": "2.17",
+          "total": "49",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "麒麟牌 麒麟丸(麒麟丸)",
+          "grade": "4.96",
+          "total": "15",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "锁阳固精丸(同仁堂)",
+          "grade": "2.06",
+          "total": "378",
+          "secondary": "334"
+        },
+        {
+          "medicine_name": "强肾片",
+          "grade": "1.75",
+          "total": "24",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "五子衍宗丸(太极)",
+          "grade": "2.22",
+          "total": "66",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "参鹿扶正胶囊(鲁抗)",
+          "grade": "1.46",
+          "total": "21",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "补肾丸",
+          "grade": "3.13",
+          "total": "14",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尖锐湿疣",
+    "information": {
+      "introduction": "尖锐湿疣又称生殖器疣或性病疣，是一种由人类乳头瘤病毒引起的性传播疾病。潜伏期在3个月左右，短者3周，长者8个月以上，平均为3个月，主要是性活跃人群,以20～30岁为发病高锋。发病很大程度上取决于接种的病毒数量和机体特异性免疫力。临床上表现为尖刺状，表面潮湿，故而得名。临床上可分为：男性尖锐湿疣、女性尖锐湿疣、儿童尖锐湿疣",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "尖圭湿疣,生殖器疣,性病疣，肛门生殖器疣",
+        "part": [
+          "女性生殖",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃人群",
+        "symptom": [
+          "外阴鳞状上皮疣状增生",
+          "出血性丘疹",
+          "溃疡分泌物恶臭",
+          "乳头状肿物"
+        ],
+        "complication": [
+          "梅毒",
+          "淋病",
+          "阴茎癌",
+          "外阴癌",
+          "疣"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元",
+        "ratio": "30%",
+        "duration": "30天",
+        "method": [
+          "西医药物疗法、中医药物治疗、激光治疗"
+        ],
+        "examination": [
+          "HPV检查",
+          "醋酸白试验"
+        ],
+        "medicine": [
+          "盐酸氨酮戊酸外用散",
+          "阿昔洛韦乳膏",
+          "咪喹莫特乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "疣迪搽剂(德昌祥)",
+          "grade": "2.22",
+          "total": "9",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腰椎间盘突出",
+    "information": {
+      "introduction": "腰椎间盘突出可以分为：膨出、突出、脱出三种。腰椎间盘突出症是西医的诊断，中医没有此病名。而是把该症统归于“腰痛”、“腰腿痛”这一范畴内。本病是临床上较为常见的腰部疾患之一，是骨伤科的常见病、多发病。主要是因为腰椎间盘各部分(髓核、纤维环及软骨板)，尤其是髓核，有不同程度的退行性改变后，在外界因素的作用下，椎间盘的纤维环破裂，髓核组织从破裂之处突出(或脱出)于后方或椎管内，导致相邻的组织，如脊神经根、脊髓等遭受刺激或压迫，从而产生腰部疼痛，一侧下肢或双下肢麻木、疼痛等一系列临床症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "椎间盘突出，腰间盘突出",
+        "part": [
+          "脊柱",
+          "腰部"
+        ],
+        "infection": "无传染性",
+        "people": "20-50岁男性",
+        "symptom": [
+          "椎间盘退行性变",
+          "腰脊椎疼痛",
+          "惧站立，喜依托",
+          "胸腰段及腰椎前凸消失",
+          "根性坐骨神经痛"
+        ],
+        "complication": [
+          "坐骨神经痛",
+          "椎间隙感染",
+          "血管损伤",
+          "瘫痪",
+          "肉痉"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": ">30%",
+        "duration": "1-3个月",
+        "method": [
+          "西医治疗、中医治疗"
+        ],
+        "examination": [
+          "脊柱压痛与叩击痛",
+          "胸腹部垫枕试验",
+          "脊柱检查",
+          "CT检查",
+          "椎板间隙显微内窥镜"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "骨筋丸胶囊",
+          "腰痹通胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "骨筋丸胶囊(远达)",
+          "grade": "1.75",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "腰痹通胶囊(康缘)",
+          "grade": "1.21",
+          "total": "71",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "根痛平颗粒(保尔)",
+          "grade": "2.42",
+          "total": "62",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "恒古骨伤愈合剂(克雷斯)",
+          "grade": "1.96",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹鹿通督片(羚锐)",
+          "grade": "2.18",
+          "total": "113",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈腰康胶囊",
+          "grade": "2.94",
+          "total": "32",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "当归拈痛丸(老专家)",
+          "grade": "4.14",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痔疮",
+    "information": {
+      "introduction": "痔疮是人体直肠末端粘膜下和肛管皮肤下静脉丛发生扩张和屈曲所形成的柔软静脉团。多见于经常站立者和久坐者。痔疮包括内痔、外痔、混合痔，是肛门直肠底部及肛门粘膜的静脉丛发生曲张而形成的一个或多个柔软的静脉团的一种慢性疾病。通常当排便时持续用力，造成此处静脉内压力反复升高，静脉就会肿大。妇女在妊娠期，由于盆腔静脉受压迫，妨碍血液循环常会发生痔疮，许多肥胖的人也会罹患痔疮。如果患有痔疮，肛门内肿大扭曲的静脉壁就会变得很薄，因此排便时极易破裂。内痔是长在肛门管起始处的痔，如果膨胀的静脉位于更下方，几乎是在肛管口上，这种曲张的静脉就叫外痔。外痔有时会脱出或突现于肛管口外。但这种情形只有在排便时才会发生，排便后它又会缩回原来的位置。无论内痔还是外痔，都可能发生血栓。在发生血栓时，痔中的血液凝结成块，从而引起疼痛。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痔核，痔病，痔疾 ",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "久坐不动，妊娠孕妈妈，暴饮...",
+        "symptom": [
+          "静脉曲张性外痔",
+          "痔出血",
+          "便血鲜红",
+          "排便障碍",
+          "炎性外痔"
+        ],
+        "complication": [
+          "缺铁性贫血",
+          "贫血",
+          "内痔",
+          "混合痔",
+          "外痔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元",
+        "ratio": "80%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗、饮食疗法、手术治疗"
+        ],
+        "examination": [
+          "肛门指检"
+        ],
+        "medicine": [
+          "普济痔疮栓",
+          "肛泰",
+          "云南白药痔疮膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "普济痔疮栓(鲁南)",
+          "grade": "3.84",
+          "total": "19",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "肛泰(荣昌制药)",
+          "grade": "1.99",
+          "total": "48",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "云南白药痔疮膏",
+          "grade": "2.88",
+          "total": "125",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "京万红痔疮膏(京万红)",
+          "grade": "4.05",
+          "total": "41",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "马应龙麝香痔疮膏(马应龙)",
+          "grade": "2.84",
+          "total": "375",
+          "secondary": "332"
+        },
+        {
+          "medicine_name": "麝香痔疮栓(马应龙)",
+          "grade": "3.79",
+          "total": "230",
+          "secondary": "147"
+        },
+        {
+          "medicine_name": "九华痔疮栓",
+          "grade": "3.35",
+          "total": "128",
+          "secondary": "73"
+        },
+        {
+          "medicine_name": "地榆槐角丸(同仁堂)",
+          "grade": "2.01",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肛泰栓(荣昌制药)",
+          "grade": "2.61",
+          "total": "37",
+          "secondary": "29"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳腺增生",
+    "information": {
+      "introduction": "乳腺增生是女性最常见的乳房疾病，其发病率占乳腺疾病的首位。近些年来该病发病率呈逐年上升的趋势，年龄也越来越低龄化。乳腺增生症是正常乳腺小叶生理性增生与复旧不全，乳腺正常结构出现紊乱，属于病理性增生，它是既非炎症又非肿瘤的一类病。多发于30-50岁女性，发病高峰为35-40岁。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "乳房囊性增生病,乳腺小叶增生，乳腺增生症,乳腺结构不良症,乳痛症",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": " 30-50岁女性 ",
+        "symptom": [
+          "乳腺隐痛",
+          "结节",
+          "囊肿",
+          "经期前乳房痛",
+          "腋窝痛"
+        ],
+        "complication": [
+          "乳腺癌",
+          "月经不调"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（2000 —— 8000元",
+        "ratio": "20%-30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "乳腺超声",
+          "外科检查",
+          "乳腺检查",
+          "乳房触诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "乳结泰胶囊",
+          "乳块消胶囊",
+          "消痛贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳结泰胶囊(以岭)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳块消胶囊(强健)",
+          "grade": "1.83",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消痛贴膏(奇正)",
+          "grade": "2.55",
+          "total": "156",
+          "secondary": "67"
+        },
+        {
+          "medicine_name": "丹参酮胶囊(希力)",
+          "grade": "3.83",
+          "total": "57",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "乳癖散结胶囊(宝嫩牌)",
+          "grade": "1.52",
+          "total": "63",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "红金消结胶囊(老方)",
+          "grade": "1.74",
+          "total": "33",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小金胶囊(健民)",
+          "grade": "2.54",
+          "total": "24",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "前列舒通胶囊(步长)",
+          "grade": "2.20",
+          "total": "45",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阳痿",
+    "information": {
+      "introduction": "阳痿是最常见的男子性功能障碍性疾病，简称ED。是指男性在性生活时，阴茎不能达到或维持足够勃起，未能完成满意的性生活，且病程持续三个月以上。主要表现为在性交开始阶段勃起缓慢或者难以勃起；有时虽然勃起了，但勃起的硬度不够而造成插入困难或者根本不能插入阴道。阳痿通常与心血管疾病、高脂血症、糖尿病、甲状腺功能减退、雄激素缺乏、高催乳素血症、高雌激素血症、肥胖、长期大量吸烟、酗酒、缺乏运动等相关。随着年龄的增长，阳痿发病率逐渐增多，阳痿的发病率在超过40岁以上成年男性中超过50%。目前初步分为心理性、器质性、混合性三大类。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "勃起功能障碍,勃起机能障碍,勃起无力,阳萎,勃起不足",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "心理性性功能障碍",
+          "男子性功能障碍",
+          "雄激素过少",
+          "精冷不育",
+          "脉涩或结"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "85%(一般经过有效治疗后可以缓解症状)",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "泌乳素分泌抑制试验",
+          "泌乳素兴奋试验",
+          "外生殖器检查",
+          "前列腺B超",
+          "阴茎超声检查"
+        ],
+        "medicine": [
+          "枸橼酸西地那非片",
+          "枸橼酸西地那非片",
+          "金水宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "五子衍宗丸(同仁堂)(水蜜丸)",
+          "grade": "2.00",
+          "total": "47",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "麒麟丸(麒麟牌)",
+          "grade": "3.18",
+          "total": "16",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "生力雄丸(太极)",
+          "grade": "2.14",
+          "total": "85",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "龙鹿胶囊(千子乐)",
+          "grade": "1.99",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "疏肝益阳胶囊(益佰)",
+          "grade": "4.01",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脑灵素片(琪康)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五子衍宗丸(太极)",
+          "grade": "2.22",
+          "total": "66",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "参鹿扶正胶囊(鲁抗)",
+          "grade": "1.46",
+          "total": "21",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "补肾丸",
+          "grade": "3.13",
+          "total": "14",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五子衍宗丸(浓缩丸)(太极)",
+          "grade": "3.38",
+          "total": "62",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "手参肾宝胶囊(龙抬头)",
+          "grade": "2.27",
+          "total": "9",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "冠心病",
+    "information": {
+      "introduction": "冠心病是冠状动脉性心脏病的简称，亦称缺血性心脏病。是一种由冠状动脉器质性狭窄或阻塞（即动脉粥样硬化或动力性血管痉挛），引起的心肌缺血缺氧或心肌坏死的心脏病。多发于40岁以后，在日常生活中经常可见到。临床表现突然出现胸前区憋闷疼痛，气短、大汗淋漓、面色苍白，患者被迫停止活动，轻者能够在数分钟内自行缓解并休息后逐渐恢复正常。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "冠状动脉粥样硬化性心脏病",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "劳动耐力下降",
+          "胸骨后疼痛",
+          "胸闷",
+          "劳累后心悸",
+          "阵发性夜间呼吸困难"
+        ],
+        "complication": [
+          "乳头肌功能不全",
+          "动脉栓塞",
+          "心肌梗塞",
+          "肺水肿",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（5000--30000元）",
+        "ratio": "80%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗、手术治疗、介入治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "冠状动脉造影",
+          "心肌灌注显像",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "血塞通泡腾片",
+          "血塞通分散片",
+          "复方丹参片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血塞通泡腾片",
+          "grade": "3.11",
+          "total": "119",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血塞通分散片",
+          "grade": "3.14",
+          "total": "98",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方丹参片(白云山)",
+          "grade": "4.39",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参松养心胶囊(以岭)",
+          "grade": "1.90",
+          "total": "124",
+          "secondary": "39"
+        },
+        {
+          "medicine_name": "复方丹参片(白云山)",
+          "grade": "4.40",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑心清片(白云山)",
+          "grade": "3.87",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血栓心脉宁片(圣喜)",
+          "grade": "3.84",
+          "total": "18",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乙肝",
+    "information": {
+      "introduction": "乙肝(viral hepatitis type B，又称乙型病毒性肝炎)系由乙肝病毒(HBV)引起，临床表现为：乏力、食欲减退、恶心、呕吐、厌油、肝大及肝功能异常。发展中国家发病率高，多数无症状，其中1/3出现肝损害的临床表现。据统计，全世界无症状乙肝病毒携带者(HBsAg携带者)超过2.8亿,我国约占9300万。乙肝包括下面类型：急性乙肝（急性黄疸型肝炎、急性无黄疸型肝炎）、慢性乙肝、重型乙肝、淤胆型肝炎、肝炎后肝硬化、小儿乙型肝炎病毒相关肾炎、新生儿乙型肝炎、乙型肝炎病毒性关节炎等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乙型肝炎 ",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，主要见于青少年，...",
+        "symptom": [
+          "转氨酶增高",
+          "肝肿大",
+          "乙肝表面抗原（HBsAg）阳性",
+          "乙肝e抗原（HBeAg）阳性",
+          "肝功能异常"
+        ],
+        "complication": [
+          "肝性脑病",
+          "肝硬化",
+          "腹膜炎",
+          "消化道出血",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肝病"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "0.0001%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、饮食疗法"
+        ],
+        "examination": [
+          "乙肝病毒学指标",
+          "凝血酶原时间",
+          "乙肝两对半",
+          "血清白蛋白与球蛋白比值",
+          "血清HBsAg免疫复合物"
+        ],
+        "medicine": [
+          "恩替卡韦分散片",
+          "恩替卡韦分散片",
+          "养肝片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒肝解郁胶囊(*1盒+汤臣倍健维生素B族片*1瓶)",
+          "grade": "3.18",
+          "total": "112",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "茵栀黄颗粒(鲁南)",
+          "grade": "2.04",
+          "total": "60",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安络化纤丸(森隆药业)",
+          "grade": "2.18",
+          "total": "74",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "当飞利肝宁胶囊",
+          "grade": "2.29",
+          "total": "7",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "艾滋病",
+    "information": {
+      "introduction": "艾滋病又称为获得性免疫陷综合征（AIDS），是因感染人类免疫缺陷病毒（Human Immunodeficiency Virus，HIV）后导致免疫缺陷，并发一系列机会性感染及肿瘤，严重者可导致死亡的综合征。临床上主要表现为发热、咽痛、头痛、皮疹、肌肉关节痛等，常伴全身淋巴结肿大。据中国CDC估计，截至2011年底，我国HIV携带者及艾滋病患者约78万人，全年新发感染者4.8万人，死亡2.8万人。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "获得性免疫缺陷综合征",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "不明原因发热",
+          "免疫力降低",
+          "HIV感染",
+          "反复感染",
+          "关节疼痛"
+        ],
+        "complication": [
+          "毛状白斑",
+          "鹅口疮",
+          "细菌性肺炎",
+          "弓形体病",
+          "卡氏肺囊虫肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "性病科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "0.001%(只能维持治疗，现在治愈率极低。)",
+        "duration": "3个月(常需终身治疗)",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "血清可溶性白介素-2受体",
+          "血清抗艾滋病抗体",
+          "抗心磷脂抗体（ACA）",
+          "脑脊液β2微球蛋白",
+          "产检"
+        ],
+        "medicine": [
+          "齐多夫定注射液",
+          "更昔洛韦注射液",
+          "万孚Wondfo HIV检测试纸 艾滋病毒检测试剂 1人/份 条型"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "荨麻疹",
+    "information": {
+      "introduction": "荨麻疹(Urticaria)俗称风团、风疹、风疙瘩、风疹块，是一种常见的皮肤病。荨麻疹是由于各种因素致使皮肤粘膜血管发生暂时性炎性充血与大量液体渗出而造成局部水肿性的损害，典型表现是局部或全身出现大小不等的风团，剧痒难忍，挠抓后皮疹增多，夜晚多发，持续数小时后消退。可能伴随有发烧、腹痛、腹泻或其他全身症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "风团，瘾疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "剧痒",
+          "皮肤有压痕",
+          "斑丘疹",
+          "丘疹"
+        ],
+        "complication": [
+          "麻疹",
+          "拉肚子",
+          "呕吐",
+          "血管炎",
+          "荨麻疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "98%",
+        "duration": "2-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤病的物理检查",
+          "FLA-ABS试验",
+          "皮肤试验",
+          "激发试验",
+          "血清免疫球蛋白A"
+        ],
+        "medicine": [
+          "皮敏消胶囊",
+          "乌蛇止痒丸",
+          "荨麻疹丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "荨麻疹丸(龙泰)",
+          "grade": "2.90",
+          "total": "41",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "肤痒颗粒(中山制药)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "荆肤止痒颗粒(丽珠)",
+          "grade": "3.38",
+          "total": "6",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性胃炎",
+    "information": {
+      "introduction": "慢性胃炎(chronic gestritis)系指不同病因引起的胃粘膜的慢性炎症或萎缩性病变，其实质是胃粘膜上皮遭受反复损害后，由于粘膜特异的再生能力，以致粘膜发生改建，且最终导致不可逆的固有胃腺体的萎缩，甚至消失。本病十分常见，约占接受胃镜检查病人的80～90%，男性多于女性，随年龄增长发病率逐渐增高。    慢性浅表性胃炎、萎缩性胃炎、慢性糜烂性胃炎是两种最常见的慢性胃炎。小儿慢性胃炎、老年人慢性胃炎近几年临床发病率也逐渐升高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性肠胃炎,慢性胃黏膜炎，胃络痛",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "男性多于女性 ",
+        "symptom": [
+          "食欲较差",
+          "腹胀嗳腐",
+          "胃胀"
+        ],
+        "complication": [
+          "贫血",
+          "缺铁性贫血",
+          "胃癌",
+          "休克",
+          "胃溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "85%",
+        "duration": "3-5月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "上消化道功能测定和显像",
+          "胃总酸度",
+          "胃游离盐酸",
+          "幽门螺杆菌检测",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "摩罗丹(浓缩丸)",
+          "胃康灵胶囊",
+          "枸橼酸铋钾颗粒（非处方）"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "摩罗丹(浓缩丸)(华山牌)",
+          "grade": "3.50",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胃康灵胶囊(葵花)",
+          "grade": "2.15",
+          "total": "76",
+          "secondary": "59"
+        },
+        {
+          "medicine_name": "胃乃安胶囊(白云山)",
+          "grade": "4.13",
+          "total": "112",
+          "secondary": "104"
+        },
+        {
+          "medicine_name": "溃疡散胶囊",
+          "grade": "4.23",
+          "total": "41",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "暖胃舒乐片(雪藤草)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "口腔溃疡",
+    "information": {
+      "introduction": "口腔溃疡，又称为“口疮”，是发生在口腔粘膜上的表浅性溃疡，大小可从米粒至黄豆大小、成圆形或卵圆形，溃疡面为凹、周围充血。溃疡具有周期性、复发性及自限性等特点,好发于唇、颊、舌缘等。病因及致病机制仍不明确。诱因可能是局部创伤、精神紧张、食物、药物、激素水平改变及维生素或微量元素缺乏。系统性疾病、遗传、免疫及微生物在其发生、发展中可能起重要作用。治疗主要以局部治疗为主，严重者需全身治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "口疮,飞滋,口炎疮,复发性口疮，复发性阿弗他溃疡",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口腔粘膜弥漫充血",
+          "口舌生疮",
+          "口腔痛",
+          "溃疡",
+          "容易上火"
+        ],
+        "complication": [
+          "慢性咽炎",
+          "便秘",
+          "口臭",
+          "咽炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（200-600元）",
+        "ratio": "100%(属于症状性疾病，一般均可治愈)",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "维生素"
+        ],
+        "medicine": [
+          "康复新液",
+          "丁硼乳膏",
+          "口腔溃疡含片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "口腔溃疡含片(涵舒)",
+          "grade": "3.49",
+          "total": "217",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "口腔溃疡散(同仁堂)",
+          "grade": "4.64",
+          "total": "214",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "口腔溃疡含片(迪赛蓝精灵)",
+          "grade": "3.93",
+          "total": "149",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "口腔溃疡散(瑞和)",
+          "grade": "4.57",
+          "total": "21",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "口腔溃疡散",
+          "grade": "4.56",
+          "total": "24",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "细菌性阴道炎",
+    "information": {
+      "introduction": "细菌性阴道病主要是由阴道加特纳菌引起的一种阴道炎，可通过性关系传播。细菌性阴道病是加特纳菌、厌氧菌等增多，而乳酸杆菌减少，阴道内生态平衡系统改变而引起的疾病。其中，健康妇女阴道中也有加特纳菌寄生。其他常见的阴道炎有：非特异性阴道炎、念珠菌性阴道炎、滴虫性阴道炎、霉菌性阴道炎、蛲虫性阴道炎、过敏性阴道炎、 结核性阴道炎、阴道嗜血杆菌性阴道炎 、阿米巴性阴道炎、老年性阴道炎、婴幼儿阴道炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "阴道炎,细菌性阴道病,非特异性阴道炎",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": " 女性，成年女性 ",
+        "symptom": [
+          "阴道分泌物增多",
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "阴部灼热",
+          "白带增多"
+        ],
+        "complication": [
+          "滴虫性阴道炎",
+          "盆腔炎",
+          "早产",
+          "阴道炎",
+          "宫颈炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "90%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "白带pH值",
+          "胺试验",
+          "白带检查",
+          "阴道分泌物涂片",
+          "阴道清洁度"
+        ],
+        "medicine": [
+          "保妇康栓",
+          "舒安卫生栓",
+          "硝呋太尔制霉素阴道软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "舒安卫生栓",
+          "grade": "2.12",
+          "total": "7",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾结石",
+    "information": {
+      "introduction": "肾结石(calculus of kidney)指发生于肾盏、肾盂及肾盂与输尿管连接部的结石。肾是泌尿系统形成结石的主要部位，其他任何部位的结石都可以原发于肾脏，输尿管结石几乎均来自肾脏，而且肾结石比其他任何部位结石更易直接损伤肾脏，因此早期诊断和治疗非常重要。肾结石是泌尿系统的常见病，每20个人就有1个可能患有肾结石。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾石病,肾石，肾石症",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腰部钝痛",
+          "肾盏结石",
+          "肾区叩击痛",
+          "排出结石",
+          "腰部包块"
+        ],
+        "complication": [
+          "尿路梗阻",
+          "膀胱结石",
+          "贫血",
+          "尿路感染",
+          "肾盂肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "肾内科"
+        ],
+        "cost": "根据不同医院，结石大小不同，收费标准不一致，市三甲医院约（1000 - 6000元）",
+        "ratio": "70%",
+        "duration": "30天",
+        "method": [
+          "保守治疗、药物治疗、手术治疗"
+        ],
+        "examination": [
+          "泌尿系统CT",
+          "枸橼酸盐利用试验",
+          "肾脏叩诊",
+          "肾脏B超",
+          "尿隐血"
+        ],
+        "medicine": [
+          "尿石通丸",
+          "肾石通颗粒",
+          "消石片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾石通颗粒(南开)",
+          "grade": "1.83",
+          "total": "14",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消石片(玉林)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "肾石通颗粒(九连山)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "结石清胶囊(贵州百灵)",
+          "grade": "4.16",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草颗粒(金甘)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "排石颗粒(沙溪)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方金钱草颗粒(金钱)",
+          "grade": "2.39",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊",
+          "grade": "1.61",
+          "total": "28",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痛风",
+    "information": {
+      "introduction": "痛风(gout)是一种由于嘌呤生物合成代谢增加，尿酸产生过多或因尿酸排泄不良而致血中尿酸升高，尿酸盐结晶沉积在关节滑膜、滑囊、软骨及其他组织中引起的反复发作性炎性疾病。首次发作多侵犯单关节，常见第一跖趾关节受累。表现为关节红肿灼热、触痛、功能受限。典型发作表现为：疼痛发作在24小时内达到高峰；14天内缓解；急性关节炎缓解后一般无明显后遗症状。本病以关节液和痛风石中可找到有双折光性的单水尿酸钠结晶为其特点。其临床特征为：高尿酸血症及尿酸盐结晶、沉积所致的特征性急性关节炎、痛风石、间质性肾炎，严重者见关节畸形及功能障碍，常伴尿酸性尿路结石。多见于体形肥胖的中老年男性和绝经期后妇女。随着经济发展和生活方式改变，其患病率逐渐上升。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "关节石病,尿酸盐贮积病,足痛风,历节风",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "３０岁以上男性",
+        "symptom": [
+          "第1跖趾关节疼痛和肿大",
+          "关节疼痛",
+          "关节肿胀",
+          "关节畸形",
+          "尿酸盐在关节内沉积增多"
+        ],
+        "complication": [
+          "肾衰",
+          "类风湿性关节炎",
+          "高血压",
+          "糖尿病",
+          "高尿酸血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中医科",
+          "老年科"
+        ],
+        "cost": "　市三甲医院约（1000 —— 2000元）",
+        "ratio": "60%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清尿酸",
+          "骨与关节MRI",
+          "尿酸",
+          "血钼",
+          "血尿酸"
+        ],
+        "medicine": [
+          "丙磺舒片",
+          "苯溴马隆胶囊",
+          "痛风定胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痛风定胶囊(升和)",
+          "grade": "3.30",
+          "total": "54",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "痛风舒胶囊(唐古绿康)",
+          "grade": "3.33",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "痛风舒片(绿金子)",
+          "grade": "4.45",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "雪山金罗汉止痛涂膜剂(西藏药业)",
+          "grade": "2.05",
+          "total": "36",
+          "secondary": "21"
+        }
+      ]
+    }
+  }
+]

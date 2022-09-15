@@ -1,0 +1,883 @@
+[
+  {
+    "disease_name": "肝风内动证",
+    "information": {
+      "introduction": "肝风内动证，肝脏气血阴阳平衡失调，肝失所养引起的以眩晕欲扑、抽搐、振颤等具有动摇特点一类症状的证候。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多见",
+        "symptom": [
+          "眩晕欲扑",
+          "抽搐",
+          "头痛",
+          "手足麻木"
+        ],
+        "complication": [
+          "发作性睡病",
+          "肝火眩晕",
+          "颅咽管瘤",
+          "肝血虚证",
+          "脑血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约500-1500元",
+        "ratio": "65%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "天麻素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨髓纤维化",
+    "information": {
+      "introduction": "骨髓纤维化(Myelofibrosis,MF)简称髓纤，是一种由于骨髓造血组织中胶原增生，其纤维组织严重地影响造血功能所引起的一种骨髓增生性疾病，原发性髓纤又称“骨髓硬化症”、“原因不明的髓样化生”。本病具有不同程度的骨髓纤维组织增生，以及主要发生在脾、其次在肝和淋巴结内的髓外造血，典型的临床表现为幼粒-幼红细胞性贫血，并有较多的泪滴状红细胞，骨髓穿刺常出现干抽，脾常明显肿大，并具有不同程度的骨质硬化。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄多在50～70岁之间，...",
+        "symptom": [
+          "消瘦",
+          "肝肿大",
+          "骨痛",
+          "无力",
+          "骨硬化"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "25-35%，多以对症治疗为主",
+        "duration": "终身间歇性治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "骨髓增生程度",
+          "血小板计数",
+          "骨髓象分析",
+          "WBC",
+          "骨密度"
+        ],
+        "medicine": [
+          "司坦唑醇",
+          "泼尼松",
+          "磷酸芦可替尼片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "周期性麻痹",
+    "information": {
+      "introduction": "周期性麻痹(periodic paralysis)也称为周期性瘫痪，是指反复发作性的骨骼肌弛缓性瘫痪为主要表现的一组肌病。按发作时血清钾含量的变化可分为低钾型、正钾型和高钾型三种。按病因可分为原发性和继发性两类。原发性系指发病机制尚不明了和具有遗传性者;继发性则是继发于其他疾病引起的血钾改变而致病者。周期性麻痹通常是指前者而言。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "周期性瘫痪,强直性周围性瘫痪",
+        "part": [
+          "肌肉",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "儿童早期至40岁发病居多",
+        "symptom": [
+          "四肢对称性软瘫",
+          "感觉障碍",
+          "暴饮暴食",
+          "无力",
+          "肌肉肥大"
+        ],
+        "complication": [
+          "猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60-70%",
+        "duration": "4-8周",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "转头试验",
+          "轻瘫试验",
+          "心电图",
+          "血清钾"
+        ],
+        "medicine": [
+          "复方托吡卡胺滴眼液",
+          "脑血康口服液",
+          "补达秀氯化钾缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑血康口服液(仲景)",
+          "grade": "2.77",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "喉痹",
+    "information": {
+      "introduction": "是指以因外邪侵袭,壅遏肺系，邪滞于咽,或脏腑虚损,咽喉失养,或虚火上灼所致的以咽部红肿疼痛,或干燥、异物感、咽痒不适等为主要临床表现的咽部疾病。或可伴有发热、头痛、咳嗽等症状。西医学的急、慢性咽炎及某些全身性疾病在咽部的表现可参考本篇进行辨证施治。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "喉痹病",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "青少年、中年多见",
+        "symptom": [
+          "咽部有异物感",
+          "疼痛"
+        ],
+        "complication": [
+          "喉上神经损伤",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "新生儿泪囊炎",
+          "喉返神经损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（200——2000元）",
+        "ratio": "40-50%(以控制症状为主)",
+        "duration": "6-12个月",
+        "method": [
+          "西医药物治疗、中医药物治疗"
+        ],
+        "examination": [
+          "咽鼓管荧光素试验",
+          "吞咽试验法",
+          "吞咽试验",
+          "耳、鼻、咽拭子细菌培养 "
+        ],
+        "medicine": [
+          "喉痛解毒丸",
+          "双羊喉痹通颗粒",
+          "复方金银花颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "喉痛解毒丸(中联)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "双羊喉痹通颗粒(百灵鸟)",
+          "grade": "2.98",
+          "total": "10",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(双蚁)",
+          "grade": "3.56",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清咽滴丸(松栢)",
+          "grade": "3.54",
+          "total": "32",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "桂林西瓜霜(三金)",
+          "grade": "3.76",
+          "total": "63",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(修正)",
+          "grade": "4.63",
+          "total": "12",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "莲芝消炎片(白云山)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方鱼腥草片",
+          "grade": "1.35",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "咽炎清片",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(迈迪)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(世一堂)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "芩石利咽口服液(金马)",
+          "grade": "4.97",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "莲芝消炎片(同心)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "莲芝消炎片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "皮肤恶性黑色素瘤",
+    "information": {
+      "introduction": "皮肤恶性黑色素瘤(malignant melanoma of skin，MM)，是源于表皮正常黑素细胞或原有痣细胞的一种恶性肿瘤，虽较皮肤癌少见，但恶性程度高，进展迅速，病情险恶，预后极差。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "皮肤黑素瘤;皮肤黑素肉瘤;皮肤恶性黑素瘤;皮肤黑肉瘤;皮肤黑色素肉瘤",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "恶性黑素瘤大多发生于成人，...",
+        "symptom": [
+          "黑尿",
+          "色素脱失",
+          "结节",
+          "鳞屑",
+          "丘疹"
+        ],
+        "complication": [
+          "急性淋巴结炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约30000--80000",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、化疗、放疗、物理疗法"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "重组人干扰素α1b注射液",
+          "卡莫司汀",
+          "注射用重组人干扰素α2b(假单胞菌)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "心房扑动",
+    "information": {
+      "introduction": "心房扑动(atrial flutter，AF)是指快速、规则的心房电活动。在心电图上表现为大小相等、频率快而规则(心房率一般在240～340次/min)、无等电位线的心房扑动波。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "器质性心脏病患者多发",
+        "symptom": [
+          "心悸",
+          "头晕",
+          "呼吸困难",
+          "假日心脏综合征",
+          "心悸"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "终身治疗，目前不能治愈",
+        "duration": ">120天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "血清钾"
+        ],
+        "medicine": [
+          "盐酸胺碘酮片",
+          "盐酸普萘洛尔片",
+          "盐酸胺碘酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "成人斯蒂尔病",
+    "information": {
+      "introduction": "斯蒂尔病是一种血清阴性的多关节炎，为幼年类风湿关节炎的一种。最早由斯蒂尔(1897)报道，其临床特征有长期不规则发热，伴有肝、脾、淋巴结肿大，贫血，白细胞增多，多发性大、中、小关节炎，肌肉病变等。本病在临床表现和病理上都与成人类风湿关节炎不同。其全身症状较突出，类风湿因子多为阴性，且与HLA-B27相关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "变应性或超敏感性亚败血症,成人Willer-Fanconi综合征,成人Wissler综合征,成人变应性亚败血症",
+        "part": [
+          "关节",
+          "淋巴",
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "好发年龄在16～35岁",
+        "symptom": [
+          "发烧",
+          "皮疹",
+          "关节痛",
+          "关节疼痛",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "ARDS",
+          "消化性溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "骨科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清类风湿因子",
+          "骨髓象分析",
+          "WBC",
+          "血液及骨髓细菌培养",
+          "血清C反应蛋白"
+        ],
+        "medicine": [
+          "盐酸苄达明片",
+          "风湿关节炎片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "风湿关节炎片",
+          "grade": "3.92",
+          "total": "43",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "春季性结膜炎",
+    "information": {
+      "introduction": "本病为季节性结膜炎，每逢春夏暖和季节发病，秋凉后自行缓解，翌年春夏季又发，故又称春季卡他（spring conjunctivitis）。多见于儿童或青少年（3～25岁），男性多于女性（男女之比为3：1）。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "春季卡他,流行性结膜炎",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "儿童、青少年",
+        "symptom": [
+          "流泪",
+          "瘙痒",
+          "结膜充血",
+          "双眼难以忍受的奇痒",
+          "睑结膜充血露出黄色脓块"
+        ],
+        "complication": [
+          "角膜炎",
+          "春季结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300 —— 2000元）",
+        "ratio": "95%",
+        "duration": "1-2周",
+        "method": [
+          "糖皮质激素、细胞膜稳定剂治疗"
+        ],
+        "examination": [
+          "嗜酸性粒细胞数",
+          "泪液分泌试验",
+          "结膜的检查",
+          "血清免疫球蛋白E"
+        ],
+        "medicine": [
+          "诺氟沙星滴眼液",
+          "维生素B2片",
+          "复方熊胆滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方熊胆滴眼液(三顺)",
+          "grade": "2.24",
+          "total": "48",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珍珠明目滴眼液(海宝)",
+          "grade": "3.42",
+          "total": "85",
+          "secondary": "61"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腹股沟直疝",
+    "information": {
+      "introduction": "腹股沟直疝(direct inguinal hernia)是指腹脏内脏自腹壁下动脉内侧的腹股沟三角(Hesselbach三角) 直接脱出形成的疝。腹股沟直疝好发于中老年人和体弱者，与直疝三角区的肌肉和筋膜发育不全、肌肉萎缩退化以及腹内压力升高等诸多因素有关。巨大斜疝使腹股沟管后壁强度明显减弱或缺如也可并发直疝。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人和体弱者",
+        "symptom": [
+          "下腹部包块",
+          "股三角区压痛",
+          "下腹部钝痛和酸胀感",
+          "腹股沟区可复性肿块",
+          "膀胱刺激症"
+        ],
+        "complication": [
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "市三甲医院约（3000-10000元）",
+        "ratio": "40%",
+        "duration": "30天到50天",
+        "method": [
+          "疝带保守治疗、手术治疗、中医药治疗"
+        ],
+        "examination": [
+          "膀胱造影",
+          "上消化道造影",
+          "CT检查",
+          "静脉肾盂造影",
+          "膀胱B超"
+        ],
+        "medicine": [
+          "谷丙甘氨酸胶囊",
+          "甲硫酸新斯的明注射液",
+          "疝气治疗带"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "室性期前收缩",
+    "information": {
+      "introduction": "室性早搏(或室性期前收缩)，简称室早，是临床上非常常见的心律失常，其发生人群相当广泛，包括正常健康人群和各种心脏病患者。室性早搏的临床症状有很大的变异性，从无症状，轻微心悸不适，到早搏触发恶性室性心律失常致晕厥或黑蒙，且其临床症状与预后并无平行关系。正常健康人群以及各种不同心脏病患者的室性早搏，其临床预后各不相同。因此临床医生在处理室性早搏时，必须立足于病人本身，即什么样的早搏需要处理，怎样去规范化处理，怎样客观地去评估治疗效果是十分重要的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "室性过早搏动,室性期外搏动,室性期外收缩,室性早搏",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中、老年人器质性心脏病患者...",
+        "symptom": [
+          "尺动脉或桡动脉搏动减弱和消失",
+          "心悸",
+          "心音异常",
+          "心悸",
+          "血压低"
+        ],
+        "complication": [
+          "心绞痛",
+          "心律失常",
+          "心力衰竭",
+          "心衰",
+          "老年人室性期前收缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血氧饱和度",
+          "心血管造影",
+          "动态心电图",
+          "心电图",
+          "M型超声心动图"
+        ],
+        "medicine": [
+          "参松养心胶囊",
+          "参龙宁心胶囊",
+          "盐酸阿普林定片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参松养心胶囊(以岭)",
+          "grade": "1.90",
+          "total": "124",
+          "secondary": "39"
+        },
+        {
+          "medicine_name": "参龙宁心胶囊",
+          "grade": "3.0",
+          "total": "11",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "触电",
+    "information": {
+      "introduction": "电击伤（electrical）俗称触电，通常是指人体直接触及电源或高压电经过空气或其他导电介质传递电流通过人体时引起的组织损伤和功能障碍，重者发生心跳和呼吸骤停。超过1000V（伏）的高压电还可引起灼伤。闪电损伤（雷击）属于高压电损伤范畴。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "电击伤",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童及工作人员多见",
+        "symptom": [
+          "面色苍白",
+          "心脏骤停",
+          "昏迷",
+          "紫绀",
+          "惊跳"
+        ],
+        "complication": [
+          "瘫痪",
+          "耳聋",
+          "肾衰",
+          "休克",
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "烧伤科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（1000 ——5000元）",
+        "ratio": "80%",
+        "duration": "1-2周",
+        "method": [
+          "对症治疗 支持治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肝功能",
+          "便常规",
+          "X线头影测量"
+        ],
+        "medicine": [
+          "氨酪酸片",
+          "盐酸甲氯芬酯胶囊",
+          "低频神经肌肉刺激仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "粘连性肠梗阻",
+    "information": {
+      "introduction": "粘连性肠梗阻(Adhesive Intestinal Obstruction )是指由于各种原因引起腹腔内肠粘连导致肠内容物在肠道中不能顺利通过和运行。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腹肌紧张",
+          "低烧",
+          "肚子疼",
+          "肠鸣",
+          "粪样呕吐物"
+        ],
+        "complication": [
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "95%，手术治疗为主",
+        "duration": "1-2个月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "胃肠道功能动力学检查",
+          "血液电解质",
+          "脂肪酶",
+          "胃肠道CT",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "胆汁槟榔维B1胶囊",
+          "便秘通",
+          "比沙可啶肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "便秘通(中一)",
+          "grade": "4.29",
+          "total": "186",
+          "secondary": "114"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "大肠梗阻",
+    "information": {
+      "introduction": "大肠梗阻是自回盲部到肛门部的梗阻。产生梗阻的原因甚多Michle胃结肠癌、结肠扭转、结肠憩室炎及结肠外盆腔肿瘤4种病因占结肠梗阻的95％，前两者为完全性结肠梗阻最常见的原因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "中老年多见",
+        "symptom": [
+          "肚子疼",
+          "恶心",
+          "腹膜刺激征",
+          "腹肌紧张",
+          "肠鸣"
+        ],
+        "complication": [
+          "缺血性坏死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "饮食、运动、药物、手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "血液生化六项",
+          "脂肪酶",
+          "血清脂肪酶"
+        ],
+        "medicine": [
+          "西沙必利胶囊",
+          "达立通颗粒",
+          "肝复乐胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "达立通颗粒(弘益)",
+          "grade": "2.78",
+          "total": "33",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "肝复乐胶囊(喜来乐)",
+          "grade": "3.41",
+          "total": "9",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿脑震荡",
+    "information": {
+      "introduction": "脑震荡(concussion of brain)是指伤后立即发生的短暂性、可逆的、不伴有脑组织结构可察觉损伤的脑功能丧失，虽然已将意识丧失的时间定义为“短暂的”，但确切的时间长短仍存有争议，有的学者认为意识丧失应持续几秒或几分钟，多数认为意识丧失在半小时以内。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "小儿",
+        "symptom": [
+          "逆行性遗忘",
+          "面色苍白",
+          "肌张力减低",
+          "嗜睡",
+          "意识丧失"
+        ],
+        "complication": [
+          "脑炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "脑外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "头颅平片",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "细胞色素C注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿呼吸窘迫综合征",
+    "information": {
+      "introduction": "新生儿呼吸窘迫综合征(neonatal respiratory distress syndrome，NRDS)又名肺透明膜病(hyaline miembrane disease，HMD)系指出生后不久即出现进行性呼吸困难、青紫、呼气性呻吟、吸气性三凹征和呼吸衰竭。主要见于早产儿，尤其是胎龄小于32～33周。基本特点为发育不成熟肺、肺表面活性物质缺乏而导致的进行性肺泡不张、肺液转运障碍、肺毛细血管-肺泡间高通透性渗出性病变。病理特征为肺泡壁至终末细支气管壁上附有嗜伊红透明膜。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "新生儿肺透明膜病,新生儿呼吸困难综合征",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "生后4～12小时内多见，早产儿...",
+        "symptom": [
+          "呼吸困难",
+          "新生儿发绀",
+          "面色青紫",
+          "口鼻周围发绀",
+          "急性呼吸困难"
+        ],
+        "complication": [
+          "肺动脉高压",
+          "心力衰竭",
+          "肺气肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肺部检查",
+          "羊水泡沫试验",
+          "肺和胸膜触诊",
+          "肺动脉楔压",
+          "胸部平片"
+        ],
+        "medicine": [
+          "猪肺磷脂注射液",
+          "注射用盐酸氨溴索",
+          "人血白蛋白"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

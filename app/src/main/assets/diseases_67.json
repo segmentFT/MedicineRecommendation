@@ -1,0 +1,936 @@
+[
+  {
+    "disease_name": "原发性血小板增多症",
+    "information": {
+      "introduction": "原发性血小板增多症(primary throbocythemia)是骨髓增生性疾病，其特征为出血倾向及血栓形成，是指外周血液中血小板数量超过正常血小板计数的上限400×109/L。功能也不正常，骨髓巨核细胞过度增殖。由于本病常有反复出血，故也名为出血性血小板增多症，发病率不高，多见40岁以上者。主要病理生理特点有：克隆性，反应性或继发性，家族性或遗传性。治疗仍有待解决。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "出血性血小板增多症",
+        "part": [
+          "骨髓",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "50~70岁人群",
+        "symptom": [
+          "红细胞增多",
+          "失眠",
+          "头痛",
+          "乏力",
+          "出血倾向"
+        ],
+        "complication": [
+          "静脉血栓形成",
+          "血栓形成"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "对症治疗为主，无法根治",
+        "duration": "终身间断治疗",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "出血时间",
+          "骨髓象分析",
+          "血小板聚集试验（PAgT）",
+          "凝血时间",
+          "骨髓巨核细胞数和分类"
+        ],
+        "medicine": [
+          "白消安片",
+          "重组人干扰素α2b注射液",
+          "磷[32P]酸钠盐口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病性视网膜病变",
+    "information": {
+      "introduction": "糖尿病性视网膜病变(diabetic retinopathy，DR)是糖尿病性微血管病变中最重要的表现，是一种具有特异性改变的眼底病变，是糖尿病的严重并发症之一，临床上根据是否出现视网膜新生血管为标志，将没有视网膜新生血管形成的糖尿病性视网膜病变称为非增殖性糖尿病性视网膜病变(nonproliferative diabetic retinopathy，NPDR)(或称单纯型或背景型)，而将有视网膜新生血管形成的糖尿病性视网膜病变称为增殖性糖尿病性视网膜病变(proliferative diabetic retinopathy，PDR)。 糖尿病可引起两种类型视网膜病变——增殖性和非增殖性视网膜病变。糖尿病性视网膜病变是主要致盲眼病之一。无论是否使用胰岛素治疗，都可发生糖尿病性视网膜病变。 糖尿病损害视网膜主要是由于血糖增高，小血管管壁增厚，渗透性增大，使小血管更易变形和渗漏。糖尿病视网膜病变的严重性和视力下降的程度与血糖水平控制情况以及患糖尿病时间的长短有关。患病时间长短尤为重要，一般患糖尿病至少10年后才出现糖尿病性视网膜病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "糖尿病性视网膜病",
+        "part": [
+          "胰腺",
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者",
+        "symptom": [
+          "视网膜出血",
+          "多尿",
+          "视网膜水肿",
+          "视物变形",
+          "眼底改变"
+        ],
+        "complication": [
+          "高血压",
+          "视网膜脱落"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "眼科"
+        ],
+        "cost": "市三甲医院约（10000——50000元）",
+        "ratio": "终身治疗",
+        "duration": "终身治疗",
+        "method": [
+          "一般治疗、药物治疗、中药治疗、物理治疗、手术治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "DR",
+          "眼底荧光血管造影",
+          "血清胆固醇酯"
+        ],
+        "medicine": [
+          "羟苯磺酸钙胶囊",
+          "格列喹酮片",
+          "羟苯磺酸钙胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "二尖瓣狭窄",
+    "information": {
+      "introduction": "风湿热是临床上二尖瓣狭窄(mitral stenosis)最常见病因。多次反复风湿热发作而形成慢性风湿性心脏病，其中累及二尖瓣的约占95%～98%，其中单纯二尖瓣病变占70%～80%，二尖瓣合并主动脉瓣病变占20%～30%;多与二尖瓣或主动脉瓣病变合并存在。单纯二尖瓣狭窄约占二尖瓣病变半数以上(52%)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性多见",
+        "symptom": [
+          "卵圆孔闭合不全",
+          "端坐呼吸",
+          "心尖部第1心音亢进",
+          "心脏排血受阻",
+          "呼吸困难"
+        ],
+        "complication": [
+          "心律失常",
+          "充血性心力衰竭",
+          "亚急性感染性心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000-100000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "选择性心血管造影",
+          "心电图",
+          "胸部平片",
+          "M型超声心动图",
+          "二维超声心动图"
+        ],
+        "medicine": [
+          "水杨酸钠片",
+          "乙酰水杨酸孕烯诺龙片",
+          "注射用硝普钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "低血糖症",
+    "information": {
+      "introduction": "指由多种原因引起的血糖浓度过低所致的综合症。一般以血浆血糖浓度＜2.8mmol/L，或全血葡萄糖<2.5mmol/L为低血糖。儿童低血糖诊断标准比成人值低1.11mmol/L。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "饥厥,食厥，低血糖",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者",
+        "symptom": [
+          "焦虑",
+          "单纯性晕厥",
+          "易饿",
+          "空腹低血糖",
+          "心动过速"
+        ],
+        "complication": [
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "95%",
+        "duration": "1-3天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "葡萄糖氧化酶生化分析仪法",
+          "葡萄糖氧化酶电极膜法",
+          "空腹血葡萄糖",
+          "胰岛素低血糖兴奋GH、ACTH试验",
+          "血清C肽"
+        ],
+        "medicine": [
+          "全天麻胶囊",
+          "补肾强身片",
+          "盐酸二甲双胍片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "全天麻胶囊(神奇)",
+          "grade": "3.16",
+          "total": "22",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "补肾强身片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(普尔丁)",
+          "grade": "3.81",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(健今)",
+          "grade": "2.03",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(大峻)",
+          "grade": "2.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐胶囊(汝立康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(亦通)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(恒伟)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(广信)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "糖尿乐片(百春堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病乳酸性酸中毒",
+    "information": {
+      "introduction": "糖尿病乳酸性酸中毒系不同原因引起血乳酸持续增高和PH减低(<7.35)的异常生化改变所致的临床综合症，后果严重死亡率高。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者血糖控制不稳定着...",
+        "symptom": [
+          "恶心",
+          "血压下降",
+          "糖尿",
+          "恶心与呕吐",
+          "血压低"
+        ],
+        "complication": [
+          "糖尿病性神经病",
+          "糖尿病性视网膜病变"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "内科",
+          "老年科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--30000",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、预防治疗、透析治疗"
+        ],
+        "examination": [
+          "血乳酸",
+          "阴离子间隙"
+        ],
+        "medicine": [
+          "肠内营养混悬液(SP)",
+          "碳酸氢钠片",
+          "碳酸氢钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "前庭神经炎",
+    "information": {
+      "introduction": "1909年Ruttin首次提出前庭神经炎一词，亦称流行性眩晕、流行性神经迷路炎、急性迷路炎或前庭麻痹症。该炎症仅限局于前庭系统，耳蜗和中枢系统均属正常，多罹患于20～60岁成人，病前常有上呼吸道感染史。本症可分为急慢性两种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "流行性眩晕、流行性神经迷路炎、急性迷路炎",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "多罹患于20～60岁成人",
+        "symptom": [
+          "头痛",
+          "前庭神经受损",
+          "醉汉步态",
+          "耳鸣",
+          "星迹步态"
+        ],
+        "complication": [
+          "迷路炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "纯音听力计检查法",
+          "冷热试验",
+          "前庭功能"
+        ],
+        "medicine": [
+          "利培酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "血管损伤",
+    "information": {
+      "introduction": "血管损伤(vascular injury)不仅战时常见，在和平时期由于工农业和交通事业迅速发展，以及医源性血管插管、造影等检查的增多，发生亦不少见。在身体各部位血管损伤中，以四肢血管损伤较多，其次为颈部、骨盆部、胸部和腹部。动脉损伤多于静脉。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "血管炎,上肢血管损伤",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发绀",
+          "反复出血",
+          "收缩期杂音",
+          "动脉出血",
+          "静脉出血"
+        ],
+        "complication": [
+          "破伤风",
+          "动脉瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "磁共振血管造影",
+          "血管造影",
+          "血管镜",
+          "血管彩超",
+          "踝肱指数"
+        ],
+        "medicine": [
+          "肾上腺色腙片",
+          "脑蛋白水解物口服液",
+          "胞磷胆碱钠胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肛门外伤",
+    "information": {
+      "introduction": "肛门外伤是指由于肛门部刺伤或者其他损伤所造成，肛门外伤较少见，直肠及结肠外伤无论平时、战时都较多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "青年和壮年人群",
+        "symptom": [
+          "肛门短时间阵发性钝痛",
+          "肛门剧痛",
+          "肛门反射减弱或消失",
+          "肛门疼痛",
+          "肛门外括约肌断裂"
+        ],
+        "complication": [
+          "肛瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（1000—— 3000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "肛门指检"
+        ],
+        "medicine": [
+          "甲磺酸左氧氟沙星片",
+          "盐酸左氧氟沙星片",
+          "鬼臼毒素酊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "缺血缺氧性脑病",
+    "information": {
+      "introduction": "缺血缺氧性脑病(HIE)是围产期新生儿因缺氧引起的脑部病变，主要由宫内窘迫、新生儿窒息缺氧引起，少数可发生在其他原因引起的脑损害。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "睁眼昏迷",
+          "拥抱反射消失",
+          "嗜睡",
+          "反应迟钝"
+        ],
+        "complication": [
+          "脑瘫",
+          "脑积水",
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（8000 —— 20000元）",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT",
+          "脑电图",
+          "半饱和氧分压",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "碳酸氢钠",
+          "碳酸氢钠",
+          "还原型谷胱甘肽片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阵发性室性心动过速",
+    "information": {
+      "introduction": "病理性阵发性室性心动过速(pathologic paroxysmal ventricular\ntachycardia，PPVT)通常称为阵发性室性心动过速。当发作时间少于30秒，能自行终止时，称为阵发性室性心动过速。常见于器质性心脏病，亦可见于严重电解质紊乱、药物中毒、和心脏手术过程中，极少数患者无器质性心脏病。由于此类室性心动过速多起自器质性心脏病(尤其是冠心病心肌梗死)，是一种具有潜在危险性的单形性室性心动过速。由于其心电图特点与特发性室性心动过速类似，两者常不易被鉴别，然而后者多发生在正常健康人，预后良好，因此由于完全迥异的病因，故两者的及时鉴别尤为重要。所以我们对前者冠以“病理性阵发性室性心动过速”的名称，能更好地反映其本质。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "室速,非持续性室性心动过速，病理性阵发性室性心动过速,期外收缩型室性心动过速",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "心动过速",
+          "心悸",
+          "呼吸困难",
+          "心悸",
+          "心慌"
+        ],
+        "complication": [
+          "冠心病",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "治愈率69%",
+        "duration": "治疗周期终身用药",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "心音图",
+          "心血管疾病的超声诊断",
+          "心电图",
+          "M型超声心动图",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "心肝宝胶囊",
+          "珊瑚七十味丸",
+          "盐酸胺碘酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾小球肾炎",
+    "information": {
+      "introduction": "肾小球肾炎又称肾炎。发生于双侧肾脏肾小球的变态反应性疾病。肾小球肾炎是常见的肾脏疾病，分为急性和慢性二种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肾炎",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "但以青中年为主，男性多见",
+        "symptom": [
+          "肾源性水肿",
+          "蛋白尿",
+          "管型尿",
+          "伴高血压",
+          "慢性贫血"
+        ],
+        "complication": [
+          "丙型肝炎病毒感染与肾小球肾炎",
+          "急进性肾小球肾炎",
+          "膜增生性肾小球肾炎",
+          "急性肾炎",
+          "小儿慢性肾小球肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（30000 —— 50000元）",
+        "ratio": "30%",
+        "duration": "1-6个月",
+        "method": [
+          "药物治疗、透析治疗"
+        ],
+        "examination": [
+          "肾小球功能试验",
+          "肾血流量",
+          "尿液N-乙酰-β-D-氨基葡萄糖苷酶",
+          "尿液亮氨酸氨基转肽酶",
+          "尿丙氨酸氨基肽酶"
+        ],
+        "medicine": [
+          "复方石韦颗粒",
+          "肾炎康复片",
+          "益肾化湿颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎康复片",
+          "grade": "2.16",
+          "total": "20",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "益肾康胶囊",
+          "grade": "3.88",
+          "total": "16",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肾炎灵胶囊(双效)",
+          "grade": "4.3",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾炎灵胶囊(林海)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾炎灵片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "益肾康胶囊(甚康)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊(欣圣康)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊(金汇)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊(三顺)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊",
+          "grade": "3.99",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肾康胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脚垫",
+    "information": {
+      "introduction": "胼胝(callus，callosity)又称为老茧。是皮肤长期受压迫和摩擦而引起的手足皮肤局部扁平角质增生，为机体的保护性反应，一般无明显不适，通常对身体健康和工作无影响，解除原因后可消退。中医亦称胼胝，俗称膙子，脚垫。如《诸病源候论》手足发胼候记载：“人手足忽然皮厚涩而圆短如茧者，谓之胼胝。”其病因中医认为是手足长期摩擦、压迫、气血运行不畅，肌肤失养而成。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "胼胝,膙子,老茧",
+        "part": [
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": "成年人，长时间运动行走者多...",
+        "symptom": [
+          "皮肤硬化",
+          "手掌及足趾皮肤过度角化"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "足部喷洒式载液给药器",
+          "脚垫处理工具盒",
+          "脚垫处理工具盒"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴吹",
+    "information": {
+      "introduction": "阴道经常有气排出，状如放屁，自己无法控制，严重时簌簌有声，连续不断，这就是中医所说的“阴吹”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于身体虚弱，精神抑郁...",
+        "symptom": [
+          "腹胀",
+          "气短",
+          "肝气郁结"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "颅咽管瘤",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "80%",
+        "duration": "7-10天",
+        "method": [
+          "运动疗法、中医治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "色素斑",
+    "information": {
+      "introduction": "色素斑是指皮肤黑色素颗粒分布不均匀，导致局部出现比正常肤色深的斑点、斑片。日晒过度、内分泌失调、慢性肝肠胃疾病、化妆品使用不当等，都可能是引起色素斑的诱因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "青中年多见",
+        "symptom": [
+          "妊娠斑",
+          "日晒斑",
+          "黑斑"
+        ],
+        "complication": [
+          "黄斑裂孔性视网膜脱离",
+          "恶性雀斑样痣",
+          "特发性黄斑部前膜",
+          "脑囊虫病",
+          "垂体性侏儒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "氢醌乳膏",
+          "复方醋酸甲羟孕酮胶囊",
+          "超声波洁牙机"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肠息肉",
+    "information": {
+      "introduction": "小肠腺瘤是发生于小肠黏膜上皮或肠腺体上皮的良性肿瘤，好发于十二指肠和回肠，体积小、带蒂，呈息肉样生长，是一组由纤维血管为核心覆盖黏膜和黏膜下层的息肉样突出物所构成，故又称肠息肉。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小肠腺瘤",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "嗳气",
+          "腹胀",
+          "恶心与呕吐",
+          "肚子疼",
+          "消瘦"
+        ],
+        "complication": [
+          "消化道出血",
+          "黄疸",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（10000 —— 30000元）",
+        "ratio": "20%",
+        "duration": "3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "内镜检查",
+          "免疫病理检查"
+        ],
+        "medicine": [
+          "小金丸",
+          "平消片",
+          "金嗓散结丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小金丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金嗓散结丸(碑林)",
+          "grade": "2.57",
+          "total": "27",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "甘桔冰梅片(华森)",
+          "grade": "5.0",
+          "total": "250",
+          "secondary": "247"
+        },
+        {
+          "medicine_name": "痛血康胶囊(三元)",
+          "grade": "2.4",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金嗓散结胶囊(碑林)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "乌军治胆胶囊",
+          "grade": "2.01",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

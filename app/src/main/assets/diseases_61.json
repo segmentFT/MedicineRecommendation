@@ -1,0 +1,722 @@
+[
+  {
+    "disease_name": "创伤性关节炎",
+    "information": {
+      "introduction": "创伤性关节炎又称外伤性关节炎、损伤性骨关节炎，它是由创伤引起的以关节软骨的退化变性和继发的软骨增生、骨化为主要病理变化，以关节疼痛、活动功能障碍为主要临床表现的一种疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "创伤后关节炎,损伤性骨关节炎,外伤性关节炎",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "任何年龄组均可发病，但以青...",
+        "symptom": [
+          "关节痛",
+          "肥胖",
+          "代偿性腰椎前凸",
+          "风寒湿痹",
+          "骨刺形成"
+        ],
+        "complication": [
+          "骨硬化病",
+          "骨质疏松",
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约300-900元",
+        "ratio": "85%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗、物理治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "尿镁",
+          "骨关节及软组织CT",
+          "ECT"
+        ],
+        "medicine": [
+          "硫酸氨基葡萄糖胶囊",
+          "骨肽片",
+          "趾关节系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "体癣",
+    "information": {
+      "introduction": "体癣(tinea \ncorporis)是皮肤癣菌引起的除手、足、会阴和股部以外光滑皮肤上的浅部真菌感染。中医所谓圆癣、金钱癣和笔管癣等类似本病范畴。如《诸病源候论》：“圆癣之状，作圆文隐起，四畔赤，亦痒痛是也，其里亦生虫”。又如癣候记载：“癣病之状，皮肉隐胗如钱文，渐渐增长，或圆或斜，痒痛有匡郭，如里生虫，搔之有汁”。中医认为体癣为风湿邪气，客于腠理，或因接触不洁之物而发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鼻唇沟发红皲裂",
+          "细菌感染",
+          "瘙痒",
+          "丘疹",
+          "溃疡"
+        ],
+        "complication": [
+          "头癣"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "免疫病理检查",
+          "真菌检查"
+        ],
+        "medicine": [
+          "珊瑚癣净",
+          "复方水杨酸搽剂",
+          "盐酸特比萘芬乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珊瑚癣净(神奇)",
+          "grade": "2.63",
+          "total": "97",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "洁尔阴洗液(恩威)",
+          "grade": "2.84",
+          "total": "216",
+          "secondary": "159"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人肺癌",
+    "information": {
+      "introduction": "原发于支气管-肺的癌，即原发性支气管肺癌(Primary Broncho pulmonary Carcinoma)，简称肺癌(Lung cancer)。工业生产中接触与肺癌发病有关的特殊物质有石棉，砷，铬，苯芘，煤焦油，三氯甲醚，烟草的加热产物及铀，镭等放射性物质衰变时产生的氡和氡子气，电离辐射和微波辐射等，这些因素可使肺癌的发生危险性增加3～30倍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年肺癌",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "长期吸烟者",
+        "symptom": [
+          "咳嗽",
+          "咳血痰",
+          "发烧",
+          "腋下淋巴肿大",
+          "胸膜转移"
+        ],
+        "complication": [
+          "肺不张",
+          "上腔静脉综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "本病一般发现后通过手术放化疗等技术治疗，5年生存率在30%左右。",
+        "duration": "一般手术治疗需要15-20天周期",
+        "method": [
+          "药物、化学、放射、手术治疗"
+        ],
+        "examination": [
+          "放射性核素肾扫描",
+          "支气管镜",
+          "细胞角质蛋白19片段",
+          "血清NSE"
+        ],
+        "medicine": [
+          "消癌平片",
+          "消癌平糖浆"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平片(三联)",
+          "grade": "2.66",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平糖浆(都生)",
+          "grade": "3.32",
+          "total": "48",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "耵聍栓塞",
+    "information": {
+      "introduction": "外耳道软骨部皮肤具有耵聍腺，分泌淡黄色粘稠液体，称耵聍。有的耵聍状如粘液，俗称“油耳”。正常情况下耵聍可借咀嚼、张口等下颌运动以薄片形式自行排出。若耵聍逐渐凝聚成团，阻塞外耳道，称耵聍栓塞（impacted cerumen）。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "耳鸣",
+          "听力减退",
+          "耳道堵塞",
+          "听力减退",
+          "耳痛"
+        ],
+        "complication": [
+          "耳聋"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（200 —— 1000元）",
+        "ratio": "85%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "外耳检查"
+        ],
+        "medicine": [
+          "盐酸洛美沙星滴耳液",
+          "氧氟沙星滴耳液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "虹膜睫状体炎",
+    "information": {
+      "introduction": "前葡萄膜炎（anterior uveitis）又名虹膜睫状体炎（iridocyclitis），虹膜发生炎症后常影响睫状体，故临床上单独的虹膜炎或睫状体为是很少见的。常同时发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "前葡萄膜炎",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眉弓疼痛",
+          "流泪",
+          "角膜混浊",
+          "视力障碍",
+          "自发性球内出血"
+        ],
+        "complication": [
+          "视网膜脱落",
+          "青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "70%",
+        "duration": "1个月",
+        "method": [
+          "药物治疗、结膜下注射"
+        ],
+        "examination": [
+          "瞳孔外观",
+          "瞳孔检查",
+          "常规小瞳孔检查",
+          "裂隙灯"
+        ],
+        "medicine": [
+          "醋酸可的松滴眼液",
+          "重组人干扰素α1b滴眼液",
+          "醋酸可的松眼膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腔隙性脑梗死",
+    "information": {
+      "introduction": "隙性脑梗死(lacunar infarction)是常见的脑血管疾病之一。是持续性高血压、小动脉硬化引起的一种特殊类型的脑血管病。本病常见于中老年人，男性较多，多患高血压病。本病常见于中老年人，男性较多，多患高血压病，通常在白天活动中急性发病，孤立性神经功能缺损常使临床表现明显，也可在数小时至数天内渐进发病，约20%的病例表现TIA样起病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "腔隙梗塞",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "伴有高血压的老年人多见",
+        "symptom": [
+          "颅内压增高",
+          "动脉粥样硬化",
+          "小脑性共济失调",
+          "豆纹动脉闭塞",
+          "对光反应消失"
+        ],
+        "complication": [
+          "高血压",
+          "抑郁症",
+          "情感障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "需要终身治疗，目前不能治愈",
+        "duration": "需要终身治疗",
+        "method": [
+          "病因治疗、康复治疗、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "颅脑MRI",
+          "脑脊液蛋白",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "尼莫地平",
+          "葡萄糖"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腮腺混合瘤",
+    "information": {
+      "introduction": "腮腺混合瘤或称多形性腺瘤是一种含有腮腺组织、粘液和软骨样组织的腮腺肿瘤，故称“混合瘤”。其中的粘液和软骨样组织都是由腺组织蜕变而成的。肿瘤外层是一层很薄的包膜，是由腮腺组织受压后变形所形成，并非真性包膜。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "多形性腺瘤",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "结节",
+          "耳下区的韧实肿块",
+          "麻痹",
+          "腮腺区肿大",
+          "结节"
+        ],
+        "complication": [
+          "面神经损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科",
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "2-4月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "颌面五官CT"
+        ],
+        "medicine": [
+          "注射用盐酸平阳霉素",
+          "注射用盐酸平阳霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性附睾炎",
+    "information": {
+      "introduction": "慢性附睾炎(chronic epididymitis)可由急性附睾炎(acute epididymitis)未彻底治愈而迁延，也可以无急性期，系长期轻度感染所致。部分病例继发于慢性细菌性前列腺炎，致病菌和感染途径与急性附睾炎相似。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "成年男性",
+        "symptom": [
+          "胀感",
+          "阴囊坠胀痛",
+          "阴囊下坠",
+          "结节",
+          "附睾结石"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "60-70%，本病容易反复发作",
+        "duration": "8-12周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "提睾反射",
+          "前列腺B超"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星片",
+          "注射用拉氧头孢钠",
+          "盐酸左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "发作性睡病",
+    "information": {
+      "introduction": "本病是以不可抗拒的短期睡眠发作为特点的一种疾病，是一种病因不清的综合征，其特点是伴有异常的睡眠倾向，包括白天过度嗜睡，夜间睡眠不安和病理性REM睡眠。多于儿童或青年期起病，男女发病率相似。部分病人可有脑炎或颅脑外伤史。其发病机制尚未清楚，可能与脑干网状结构上行激活系统功能降低或桥脑尾侧网状核功能亢进有关。多数病人伴有猝倒症、睡眠麻痹、睡眠幻觉等其他症状，合称为发作性睡病四联症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "发作性睡眠四联症,昏睡病,嗜眠发作",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "青年",
+        "symptom": [
+          "睡眠呼吸暂停",
+          "睡眠唤醒反应",
+          "发作性睡眠",
+          "发作性睡眠",
+          "猝倒"
+        ],
+        "complication": [
+          "继发性高血压",
+          "高血压",
+          "糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "50%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "睡眠试验",
+          "多导睡眠图检查",
+          "肌电图",
+          "多导睡眠图"
+        ],
+        "medicine": [
+          "盐酸氯米帕明",
+          "盐酸氯米帕明"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人尿路感染",
+    "information": {
+      "introduction": "无论是女性还是男性，进入老年期后，患尿路感染的机会均会增加。据统计，70岁以上尿路感染发病率高达33.3%，80岁以上的老人可高达50%。老年人一旦患有尿路感染，往往缠绵不去，不易治愈，严重者还可引起肾功能衰竭、尿毒症等严重后果。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年泌尿系感染",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多发",
+        "symptom": [
+          "尿频",
+          "尿急",
+          "高热",
+          "寒战",
+          "背痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "肾内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "尿沉渣",
+          "尿细菌培养"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿溶血病",
+    "information": {
+      "introduction": "新生儿溶血病主要是指母婴血型不合引起的同族免疫性溶血病。以ABO和Rh血型系统母婴不合引起溶血者为多见，其他如MNS、Kell、Duffy、Kidd等血型系统不合引起的溶血病极为少见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "母婴血型不合性溶血病，同族免疫性溶血病，先天性新生儿重症黄疸",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "角弓反张",
+          "母婴ABO血型不合",
+          "皮肤瘀斑",
+          "肝脾肿大",
+          "生理性黄疸"
+        ],
+        "complication": [
+          "黄疸",
+          "新生儿胆红素脑病",
+          "溶血性贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "20%",
+        "duration": "7天",
+        "method": [
+          "要是治疗"
+        ],
+        "examination": [
+          "热放散试验",
+          "不规则抗体筛选",
+          "有核红细胞",
+          "血红蛋白",
+          "出血时间"
+        ],
+        "medicine": [
+          "葡萄糖",
+          "维生素E",
+          "抗人球蛋白检测卡"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "恐艾症",
+    "information": {
+      "introduction": "艾滋病恐惧症是一种与艾滋病有关的神经症，临床表现出与艾滋相似的神经症状，这是由于近几年来艾滋病毒感染人数增加，导致的一种心理过分紧张。一般出现在有高危性行为后或是对艾滋病预防知识缺乏了解或是一知半解的的人群。2011年4月更是出现了所谓的\"阴性艾滋病\"。经过卫生部最新的调查消息，所谓\"阴滋病\"不过是恐艾症的一种症状表现，并无相关不明病毒的发现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "艾滋病恐惧症,阴性艾滋病",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "大多有过高度危险的婚前或婚...",
+        "symptom": [
+          "强迫性重复",
+          "性上瘾",
+          "强迫性神经官能症",
+          "强迫性联想",
+          "强迫恐怖症"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "男性慢性淋病",
+    "information": {
+      "introduction": "男性急性淋病无治疗或是治疗不彻底，症状持续2个月以上称为男性慢性淋病或是慢性淋菌性尿道炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "男性慢性淋菌性尿道炎",
+        "part": [
+          "盆腔",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "中老年群体",
+        "symptom": [
+          "刺痛",
+          "瘙痒",
+          "压痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "涂片",
+          "淋菌培养",
+          "药敏试验"
+        ],
+        "medicine": [
+          "盐酸米诺环素胶囊",
+          "盐酸米诺环素胶囊",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "隐匿阴茎",
+    "information": {
+      "introduction": "隐匿阴茎是一种常见的先天发育异常和畸形性疾病。阴茎隐匿者，其阴茎体缩藏于体内，凸出外面的只有尖尖的小包皮。如果用手将阴茎皮肤向内挤压，阴茎体就会显露出来，但手稍一放开，阴茎体又回缩了。因此，有人把它叫做埋藏式阴茎。隐匿阴茎尽管其外形酷似包皮过长，然而它们却是两种完全不同的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "隐蔽型阴茎",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "肥胖儿童",
+        "symptom": [
+          "男子性功能障碍",
+          "阴茎短",
+          "阴茎短"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "5-6月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "阴茎检查",
+          "阴茎超声检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "口腔粘膜病",
+    "information": {
+      "introduction": "口腔粘膜病是指除肿瘤以外，发生在口腔粘膜和软组织的疾病。口腔粘膜病病种较多，患病率较低，病损多种多样，病因复杂，有些病与全身因素关系密切,在诊治过程中要有整体观念。口腔某一部位粘膜的正常色泽、外形、完整性与功能等发生改变的疾病。病变种类繁多，可以组合成复杂多样的损害。有些全身性疾病也在口腔粘膜上有所表现，而有些口腔表征可作为全身疾病诊断的依据或线索。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于幼儿及青少年",
+        "symptom": [
+          "声音嘶哑",
+          "口腔痛"
+        ],
+        "complication": [
+          "口腔溃疡"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "98%治愈",
+        "duration": "2-4周",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "中年男性体检"
+        ],
+        "medicine": [
+          "碘甘油",
+          "人类免疫缺陷病毒抗体口腔粘膜渗出液诊断试剂(胶体金法)Oral Fluid Anti-human　Immunodeficiency　Virus　(HIV1+2)  Antibody　diagnostic　Kit　(Colloidal?"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

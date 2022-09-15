@@ -1,0 +1,867 @@
+[
+  {
+    "disease_name": "真性红细胞增多症",
+    "information": {
+      "introduction": "真性红细胞增多症(简称真红)是一种克隆性以红细胞增多为主伴有白细胞、血小板增多的慢性骨髓增生性疾病，总血容量绝对增多，血液粘稠，临床表现皮肤红紫、头昏、头晕、头痛、高血压、肝脾肿大，严重患者可出现血管、神经并发症出血、梗塞等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "骨髓",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "出血倾向",
+          "鼻衄",
+          "红细胞增多",
+          "复视",
+          "红细胞增多"
+        ],
+        "complication": [
+          "心肌梗塞",
+          "血栓性静脉炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "85%",
+        "duration": "1-3个月",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "红细胞检查",
+          "红细胞压积(HCT)",
+          "RBC",
+          "嗜碱性粒细胞计数"
+        ],
+        "medicine": [
+          "心脑欣片",
+          "高三尖杉酯碱氯化钠注射液",
+          "磷[32P]酸钠盐口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "心脑欣片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方黄黛片(天康)",
+          "grade": "3.79",
+          "total": "8",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血吸虫病",
+    "information": {
+      "introduction": " 血吸虫病是由血吸虫成虫寄生于人体所引起的地方性疾病，主要流行于亚、非、拉美的73个国家，患病人数约2亿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "腹部",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "消瘦",
+          "胸痛",
+          "痰中带血丝",
+          "胃肠道症状",
+          "发烧"
+        ],
+        "complication": [
+          "急性弥漫性腹膜炎",
+          "肠梗阻",
+          "结肠癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（300-500元）",
+        "ratio": "90%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血吸虫皮内试验",
+          "血吸虫间接血凝试验",
+          "血吸虫酶联免疫吸附试验",
+          "血吸虫胶乳凝集试验",
+          "血吸虫斑点酶联免疫吸附试验"
+        ],
+        "medicine": [
+          "吡喹酮片",
+          "吡喹酮片",
+          "血吸虫抗体(IgG)检测试剂盒(胶体染料法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方紫参颗粒",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胆碱能性荨麻疹",
+    "information": {
+      "introduction": "胆碱能性荨麻疹又称小丘疹状荨麻疹或全身性热性荨麻疹。多见于23～28岁青年，病程经数年后渐趋好转。约占荨麻疹的5%～7%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小丘疹状荨麻疹，全身性热性荨麻疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "剧痒",
+          "红晕",
+          "流涎",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "皮内试验",
+          "皮肤划痕试验"
+        ],
+        "medicine": [
+          "盐酸苯海拉明",
+          "盐酸苯海拉明",
+          "盐酸苯海拉明"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "颈动脉硬化",
+    "information": {
+      "introduction": "颈动脉包括颈总动脉及分支，即颈内动脉和颈外动脉。颈动脉硬化导致的颈动脉狭窄是缺血性脑血管病的一个重要危险因素，由于大多数颈动脉硬化没有临床症状，所以常常被忽视。一部分病人有临床症状，包括一过性或持续性单眼失明、一过性脑缺血发作。所谓一过性即短暂性、一时性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部"
+        ],
+        "infection": "无传染性",
+        "people": "老人发病率大过年轻人。",
+        "symptom": [
+          "单眼突然出现一过性黑蒙",
+          "一过性脑缺血",
+          "一过性意识蒙眬",
+          "间歇性头晕"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "血管外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "颈动脉彩超",
+          "颈部MRI",
+          "颈椎CT",
+          "血脂",
+          "血流变学检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "情感障碍",
+    "information": {
+      "introduction": "又称情感障碍(affective disorders)和心境障碍(mood disorders)。既往称为情感性精神病(affective psychoses)。它是一组以情感显著而持续地高涨或低落为主要临床特征的精神障碍，常伴有相应的思维和行为改变。情感障碍的表现具有很大的变异，较轻的可以是对某种负性生活事件的反应，重的则可成为一种严重的复发性甚至慢性致残性障碍。病情重者可出现幻觉、妄想等精神病性症状。常反复发作，多数可缓解，少数残留症状或转为慢性。这类精神障碍首次发病年龄多在16～30岁之间。临床上可分为抑郁发作、躁狂发作、双相障碍和持续性心境障碍4个类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "心境障碍，情感性精神障碍 ",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "幻觉",
+          "谵妄",
+          "幻听",
+          "易激惹",
+          "分裂型人格障碍"
+        ],
+        "complication": [
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "神经系统检查"
+        ],
+        "medicine": [
+          "盐酸丙米嗪片",
+          "盐酸丙米嗪片",
+          "奥氮平片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "盆腔淤血综合征",
+    "information": {
+      "introduction": "盆腔淤血综合征是由于慢性盆腔静脉血液流出不畅、盆腔静脉充盈、淤血所引起的一种独特疾病。其临床特点为“三痛两多一少”，即盆腔坠痛、低位腰痛、性交痛，月经多、白带多，妇科检查阳性体征少。临床发现，本症严重程度与疼痛性质呈正相关。开腹手术可见盆腔静脉增粗、迂回、曲张或成团。最常见于25～40岁妇女，极少在绝经前期，从未见于绝经后。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性盆腔被动性淤血综合症，盆腔淤血，卵巢静脉综合征",
+        "part": [
+          "盆腔"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "低位腰痛",
+          "肚子疼",
+          "下腹痛",
+          "产后小腹坠痛",
+          "瘀血性痛经"
+        ],
+        "complication": [
+          "血尿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "15-30天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "盆腔充气造影",
+          "体位变换试验",
+          "盆腔和阴道B超",
+          "盆腔CT",
+          "妇科B超"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "注射用头孢哌酮钠舒巴坦钠(2:1)",
+          "花红片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "花红片(花红)",
+          "grade": "2.81",
+          "total": "63",
+          "secondary": "28"
+        },
+        {
+          "medicine_name": "调经活血片(中理)",
+          "grade": "2.66",
+          "total": "5",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "混合痔",
+    "information": {
+      "introduction": "混合痔，也称里外痔。混合痔以发生于肛门同一方位齿线上下，静脉曲张形成团块，内外相连、无明显分界为主要表现的痔病类疾病。 混合痔是直肠上下静脉丛共同曲张的静脉团块。痔内、外静脉丛曲张、扩大，相互沟通吻合，括约肌间沟消失，使内痔部分和外痔部分形成一整体者称为混合痔。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "里外痔",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "便血",
+          "痔块脱垂",
+          "肛门疼痛",
+          "肛门瘙痒"
+        ],
+        "complication": [
+          "外痔",
+          "内痔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "90%",
+        "duration": "2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肛门指检"
+        ],
+        "medicine": [
+          "金玄痔科熏洗散",
+          "马应龙麝香痔疮膏",
+          "肛泰"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金玄痔科熏洗散(马应龙)",
+          "grade": "4.05",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "马应龙麝香痔疮膏(马应龙)",
+          "grade": "2.84",
+          "total": "375",
+          "secondary": "332"
+        },
+        {
+          "medicine_name": "肛泰(荣昌制药)",
+          "grade": "1.99",
+          "total": "48",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "云南白药痔疮膏",
+          "grade": "2.88",
+          "total": "125",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "京万红痔疮膏(京万红)",
+          "grade": "4.05",
+          "total": "41",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "普济痔疮栓(鲁南)",
+          "grade": "3.84",
+          "total": "19",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "痔疮栓",
+          "grade": "3.72",
+          "total": "68",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肛泰栓(荣昌制药)",
+          "grade": "2.61",
+          "total": "37",
+          "secondary": "29"
+        },
+        {
+          "medicine_name": "化痔栓(敬修堂)",
+          "grade": "2.24",
+          "total": "22",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "肛泰软膏(荣昌)",
+          "grade": "3.62",
+          "total": "10",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "痔疮片(玉兰)",
+          "grade": "3.99",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消痔灵注射液",
+          "grade": "2.28",
+          "total": "37",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "痔速宁片(闽海)",
+          "grade": "4.91",
+          "total": "6",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "妄想症",
+    "information": {
+      "introduction": "妄想是思维变态的一种主要表现。妄想是一种在病理基础上产生的歪曲的信念，病态的推理和判断。它虽不符合患者所受的教育程度，但病人对此坚信不疑，无法说服，也不能以亲身体验和经历加以纠正。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "妄想性障碍 ",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "迫害妄想",
+          "机械地重复周围人的言语或行为",
+          "偏执性妄想",
+          "自恋"
+        ],
+        "complication": [
+          "精神分裂症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "1--6个月",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "盐酸氯丙嗪片",
+          "盐酸氯丙嗪片",
+          "奋乃静片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "主动脉夹层",
+    "information": {
+      "introduction": "主动脉夹层(aortic dissection) 即主动脉动脉壁夹层形成，过去曾称为主动脉夹层动脉瘤(dissection aortic aneurysm)。系指由各种原因造成的主动脉壁内膜破裂，血液通过内膜的破口进入主动脉壁中层而形成血肿，导致血管壁分层，剥离的内膜片分隔形成“双腔主动脉”。但Coady报道有8%～15%的病例并无内膜撕裂，这可能是由于主动脉壁中层出血所致，又称为壁间血肿(intramural hematoma)。主动脉腔内的并非主动脉壁的扩张，有别于主动脉瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "主动脉夹层分离，壁间血肿,主动脉夹层动脉瘤",
+        "part": [
+          "胸部",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "周身出汗",
+          "四肢血压脉搏不对称",
+          "恶心与呕吐",
+          "胸痛",
+          "剧烈疼痛"
+        ],
+        "complication": [
+          "肾衰",
+          "血管损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "外科手术治愈率约为50-60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "心电图",
+          "胸部平片",
+          "二维超声心动图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "酒石酸美托洛尔片",
+          "酒石酸美托洛尔胶囊",
+          "术中支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性乙肝",
+    "information": {
+      "introduction": "慢性乙型肝炎为乙肝常见的类型。乙肝的特点为起病较缓，以亚临床型及慢性型较常见。急性无黄疸型HBsAg持续阳性者易慢性化。慢性肝炎病程常超过半年，可隐匿发病，常在体检时发现。症状多种多样，反复发作或迁延不愈。急性乙型肝炎转变为慢性肝炎者估计有5%～10%。急性乙型肝炎的慢性化主要取决于初次感染的年龄、免疫状态及病毒水平。婴幼儿期感染易发展为慢性，应用免疫抑制剂和细胞毒药物的病人、血透的慢性肾衰竭病人，常缺乏明显的急性期表现，病情迁延。病毒复制标志(HBeAg、HBV DNA)的血清水平很高的病人，较易发展为慢性肝炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性乙肝",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "食欲缺乏",
+          "乏力",
+          "肝病容",
+          "肝掌",
+          "恶心"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝炎",
+          "消化内科",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "乙型肝炎表面抗原",
+          "乙型肝炎表面抗体",
+          "乙型肝炎e抗原",
+          "血清乙型肝炎e抗体",
+          "丙氨酸氨基转移酶(ALT）"
+        ],
+        "medicine": [
+          "拉米夫定片",
+          "阿德福韦酯胶囊",
+          "苦参素软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "草仙乙肝胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "SAS",
+    "information": {
+      "introduction": "如果睡眠时口咽、鼻咽部无气流通过的时间长达十秒以上，即可称为打鼾(医学术语为鼾症、打呼噜、睡眠呼吸暂停综合症)，目前大多数人认为这是司空见惯的，而不以为然，还有人把打呼噜看成睡得香的表现。其实打呼噜是健康的大敌，由于打呼噜使睡眠呼吸反复暂停，造成大脑、血液严重缺氧，形成低血氧症，而诱发高血压、脑心病、心率失常、心肌梗死、心绞痛。夜间呼吸暂停时间超过120秒容易在凌晨发生猝死。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼾症,睡眠呼吸紊乱,睡眠呼吸暂停综合症",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "一般为成年人",
+        "symptom": [
+          "嗜睡",
+          "睡眠呼吸暂停",
+          "睡眠节律紊乱",
+          "打呼噜",
+          "头痛"
+        ],
+        "complication": [
+          "肺动脉高压",
+          "高血压",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "手术治愈率约60%",
+        "duration": "3-6个月",
+        "method": [
+          "运动、药物治疗"
+        ],
+        "examination": [
+          "睡眠试验",
+          "多导睡眠图检查",
+          "动脉血气分析",
+          "胸部平片",
+          "多导睡眠图"
+        ],
+        "medicine": [
+          "红草止鼾胶囊",
+          "SAS-01踝关节固定带",
+          "SAS-02踝关节固定支具"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "红草止鼾胶囊(康恩贝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红草止鼾颗粒",
+          "grade": "1.40",
+          "total": "7",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经炎",
+    "information": {
+      "introduction": "神经炎是指神经或神经群发炎衰退或变质，其症状随病因而有所不同，一般症状是疼痛、触痛、刺痛，受感染的神经痒痛和丧失知觉，感染部分红肿以及严重的痉挛。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "疼痛",
+          "刺痛",
+          "植物神经功能障碍",
+          "感觉障碍",
+          "感觉过敏"
+        ],
+        "complication": [
+          "进行性肥厚性间质性神经炎",
+          "遗传性运动失调性多发性神经炎",
+          "股外侧皮神经炎",
+          "球后视神经炎",
+          "前庭神经炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "40%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "花托试验",
+          "维生素",
+          "肌电图"
+        ],
+        "medicine": [
+          "维生素B1片",
+          "氨咖甘片",
+          "腰痛宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "腰息痛胶囊(瑞盈)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "沉香十七味丸(阜药)",
+          "grade": "4.15",
+          "total": "86",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "畸胎瘤",
+    "information": {
+      "introduction": "畸胎瘤是来源于有多向分化潜能的生殖细胞的肿瘤，往往含有三个胚层的多种多样组织成分，排列结构错乱。根据其外观又可分为囊性及实性两种：根据其组织分化成熟程度不同，又可分为良性畸胎瘤和恶性畸胎瘤二类。本瘤最常发生于卵巢和睾丸。偶可见于纵隔、骶尾部、腹膜、松果体等部位。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "疼痛",
+          "感觉障碍",
+          "腰背部有皮毛窦",
+          "咽喉部充血",
+          "咽喉干燥充血"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约3000-----5000元",
+        "ratio": "经过手术治疗后98%可以痊愈",
+        "duration": "一般周期在2-3周",
+        "method": [
+          "手术治疗、西药治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI",
+          "β1-妊娠特异蛋白"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "汗疱症",
+    "information": {
+      "introduction": "汗疱症(dyshidrosis)又称为出汗不良，为一种手掌、足跖部的水疱性疾病。本病与中医田螺疱相类似，如“医宗金鉴、外科心法”记载，“初生形如豆粒，黄疱闷胀，硬痛不能着地，连生数疱，皮厚难以自破。”有人称本病为于足蚓者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "出汗不良，出汗障碍，汗疱疹 ",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于青少年",
+        "symptom": [
+          "鳞屑",
+          "脓疱",
+          "脾胃湿热",
+          "汗出如油",
+          "绝汗"
+        ],
+        "complication": [
+          "脱屑性红皮病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "棘层细胞松解征",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "除湿止痒洗液",
+          "甲硝唑凝胶",
+          "地奈德乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "多毛症",
+    "information": {
+      "introduction": "多毛症(hypertrichosis)一般系指女性体毛生长过多，分布异常，是血循环中雄激素主要包括睾酮、双氢睾酮、雄烯二酮、脱氢表雄酮和硫酸脱氢表雄酮等生成增多。临床上可出现女性性征毛发生长过盛，分布呈男性化倾向。主要表现颜面、耳前、口周围、胸前、乳头周围、腋窝、背部、下腹部、阴毛多而密，向脐部呈菱形分布，以及下肢及大腿前部，常伴月经不调，性冷淡等。女性多毛常被认为是有某种男性化疾病存在，并有心理压力来寻求诊治。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "高雄激素血症,毛发过多",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "汗毛过多",
+          "卵巢性多毛",
+          "高雄激素血症",
+          "皮肤油腻",
+          "妊娠时出现的多毛"
+        ],
+        "complication": [
+          "库欣综合征",
+          "多囊卵巢综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（800 —— 8000元）",
+        "ratio": "70%",
+        "duration": "10天",
+        "method": [
+          "病因治疗、局部物理疗法、.药物治疗"
+        ],
+        "examination": [
+          "睾酮",
+          "血浆17-羟孕酮",
+          "毛发",
+          "促黄体生成素",
+          "血清卵泡刺激素"
+        ],
+        "medicine": [
+          "丙硫氧嘧啶片",
+          "对氨基水杨酸钙片",
+          "醋酸环丙孕酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

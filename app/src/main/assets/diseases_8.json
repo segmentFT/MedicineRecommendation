@@ -1,0 +1,1275 @@
+[
+  {
+    "disease_name": "鼻炎",
+    "information": {
+      "introduction": "鼻炎(Rhinitis)指的是鼻腔粘膜和粘膜下组织的炎症。表现为充血或者水肿，患者经常会出现鼻塞，流清水涕，鼻痒，喉部不适，咳嗽等症状。临床的各种鼻炎：急性鼻炎、慢性鼻炎（慢性单纯性鼻炎、慢性肥厚性鼻炎、慢性干燥性鼻炎）、过敏性鼻炎（季节性鼻炎、常年性鼻炎）、干燥性鼻炎、萎缩性鼻炎、干酪性鼻炎、药物性鼻炎、血管运动性鼻炎、嗜酸细胞增多性非变态反应性鼻炎、过强反射性鼻炎等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "流鼻涕",
+          "鼻塞",
+          "嗅觉丧失",
+          "头痛",
+          "鼻痒"
+        ],
+        "complication": [
+          "小儿过敏性鼻炎",
+          "慢性鼻炎",
+          "常年性鼻炎",
+          "血管运动性鼻炎",
+          "嗜酸细胞增多性非变态反应性鼻炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "90%(急性鼻炎治愈率90%，慢性鼻炎治愈率20-40%)",
+        "duration": "1--2周(急性鼻炎1-2周，慢性需1...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前鼻镜",
+          "鼻腔检查",
+          "健康体检",
+          "鼻部检查",
+          "鼻内激发试验"
+        ],
+        "medicine": [
+          "鼻炎康片",
+          "康乐鼻炎片",
+          "鼻炎康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎康片(德众)",
+          "grade": "3.87",
+          "total": "368",
+          "secondary": "253"
+        },
+        {
+          "medicine_name": "康乐鼻炎片",
+          "grade": "3.42",
+          "total": "43",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻炎康片",
+          "grade": "3.53",
+          "total": "290",
+          "secondary": "253"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "辛芳鼻炎胶囊(立效)",
+          "grade": "3.44",
+          "total": "35",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鼻咽癌",
+    "information": {
+      "introduction": "发生于鼻咽粘膜的恶性肿瘤。中国的广东、广西、福建、湖南等地为多发区，男多于女。发病年龄大多为中年人，亦有青少年患病者。病因与种族易感性(黄种人较白种人患病多)、遗传因素及EB病毒感染等有关。鼻咽癌是一种侵入性很强的肿瘤，早期侵犯深部结构。鼻咽部因扩散的方式不同而引发不同的症候群：上行型(A型)扩展、下行型(D型)转移、上下行型(AD型)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "石上疽",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "中年人群",
+        "symptom": [
+          "耳内闭塞感",
+          "鼻内似有擤不出的鼻涕",
+          "张口呼吸",
+          "咽部异物感",
+          "鼻咽腔狭窄"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（3000-10000元）",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "放射治疗、手术治疗"
+        ],
+        "examination": [
+          "全身显像",
+          "颅底片",
+          "鼻咽部MRI",
+          "正电子发射计算机断层扫描",
+          "血清EB病毒抗体"
+        ],
+        "medicine": [
+          "平消胶囊",
+          "鼻咽灵片",
+          "转移因子口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻咽灵片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增生平片(友好)",
+          "grade": "3.16",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻咽清毒颗粒(奇星)",
+          "grade": "2.44",
+          "total": "17",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "天芝草胶囊(欣康艾)",
+          "grade": "4.75",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "鼻咽灵片(白云山中一)",
+          "grade": "3.73",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻咽清毒颗粒",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "青光眼",
+    "information": {
+      "introduction": "青光眼是指眼内压间断或持续升高的一种眼病。持续的高眼压可以给眼球各部分组织和视功能带来损害，如不及时治疗，视野可以全部丧失而至失明。青光眼是导致人类失明的三大致盲眼病之一，总人群发病率为1%，45岁以后为2%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "绿风内障",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "高眼压",
+          "眼压突然迅速升高",
+          "眼胀",
+          "眼痛",
+          "视力障碍"
+        ],
+        "complication": [
+          "慢性闭角型青光眼",
+          "便秘",
+          "急性闭角型青光眼",
+          "拉肚子",
+          "呕吐"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约500--5000元",
+        "ratio": "60%",
+        "duration": "1-3年",
+        "method": [
+          "西医药物治疗、西医手术治疗、中医治疗"
+        ],
+        "examination": [
+          "前房的一般检查",
+          "瞳孔检查",
+          "眼球突出度",
+          "眼压计测量法",
+          "视野检查"
+        ],
+        "medicine": [
+          "硝酸毛果芸香碱滴眼液",
+          "拉坦前列素滴眼液",
+          "马来酸噻吗洛尔滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复明片(碑林)",
+          "grade": "3.31",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复明胶囊(君寿)",
+          "grade": "3.33",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血塞通注射液",
+          "grade": "4.30",
+          "total": "46",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睾丸炎",
+    "information": {
+      "introduction": "睾丸炎是怎么引起的?大多数病毒性睾丸炎，都是由腮腺炎病毒引起的，睾丸炎主要的致病菌主要有大肠杆菌、变形杆菌、葡萄球菌及绿脓肝菌等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "附睾-睾丸炎",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "男性，青壮年男性具多",
+        "symptom": [
+          "睾丸胀痛",
+          "阴茎和阴囊水肿",
+          "睾丸疼痛",
+          "提睾反射减弱或消失",
+          "睾丸触痛"
+        ],
+        "complication": [
+          "血尿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "99.4%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "男性生殖系X线检查",
+          "解脲脲原体",
+          "阴囊超声检查",
+          "雌酮"
+        ],
+        "medicine": [
+          "卡铂注射液",
+          "头孢泊肟酯片",
+          "前列康舒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "前列安栓",
+          "grade": "1.60",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸",
+          "grade": "2.02",
+          "total": "34",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味菥蓂胶囊(央宗)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "十三味菥蓂胶囊(严碧消)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸(林迪)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "前列解毒胶囊(科迪)",
+          "grade": "2.13",
+          "total": "15",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸(卓玛丹)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸(十三味菥冥丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阴虱病",
+    "information": {
+      "introduction": " 阴虱是虱病的一种，是虱子引起的皮肤病，可通过性接触传染，常为夫妇共患，而以女性为多见。世界各地均有发生，近年来流行于美国和西欧。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "虱病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "瘙痒",
+          "细菌感染",
+          "丘疹",
+          "斑疹",
+          "血痂"
+        ],
+        "complication": [
+          "毛囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "90%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "虱检查"
+        ],
+        "medicine": [
+          "林旦乳膏",
+          "林旦乳膏",
+          "林旦乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "风湿性关节炎",
+    "information": {
+      "introduction": "风湿性关节炎属变态反应性疾病，是风湿热的主要表现之一。多以急性发热及关节疼痛起病，典型表现是轻度或中度发热，游走性多关节炎，受累关节多为膝、踝、肩、肘、腕等大关节，常见由一个关节转移至另一个关节，病变局部呈现红、肿、灼热、剧痛，部分病人也有几个关节同时发病，不典型的病人仅有关节疼痛而无其他炎症表现，急性炎症一般于2-4周消退，不留后遗症，但常反复发作。若风湿活动影响心脏，则可发生心肌炎，甚至遗留心脏瓣膜病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "关节炎",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "除了儿童。其他人群的都有可...",
+        "symptom": [
+          "关节疼痛",
+          "关节肿胀",
+          "弯曲不利",
+          "腰骶疼痛",
+          "臀部酸痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "骨科"
+        ],
+        "cost": "市三甲医院约3000--8000",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、物理治疗、推拿治疗、手术治疗"
+        ],
+        "examination": [
+          "血清补体C1q",
+          "抗链球菌溶血素“O”试验",
+          "血清C反应蛋白",
+          "关节腔液检查",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "活络油",
+          "十味乳香胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "雷公藤多苷片(千金协力)",
+          "grade": "4.23",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方玄驹胶囊(施强)",
+          "grade": "1.19",
+          "total": "142",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "益肾蠲痹丸(东方草)",
+          "grade": "1.67",
+          "total": "11",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "尪痹片(好护士)",
+          "grade": "2.66",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "正清风痛宁缓释片",
+          "grade": "4.22",
+          "total": "8",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "流感",
+    "information": {
+      "introduction": "流行性感冒(infuenza.简称流感)是由流感病毒引起的急性呼吸道传染病，也是一种传染性强、传播速度快的疾病。病原体为甲、乙、丙三型流行性感冒病毒，通过飞沫传播，通常有如下典型症状：突然快速而至的高热、乏力、全身肌肉酸痛和轻度呼吸道症状，病程短，有自限性，中年人和伴有慢性呼吸道疾病或心脏病患者易并发肺炎。流感在流行病学上最显著特点为：突然爆发，迅速蔓延，波及面广，具有一定的季节性(我国北方流行 一般均发生在冬季，而南方多发生在夏季和冬季)。最近流行的B型流感是流感的一种类型，相对其他两种毒株，变异不大，流行的可能性较低。B型流感往年大多在五、六月春夏交替期间流行，症状也不明显，今年入冬后爆发流行，是较为特殊的现象。11月-12月监控显示，广东的流感中89%是B型流感。 B型流感有两支病毒株，过去常见的是维多利亚株，也是今年世界卫生组织建议施打的疫苗病毒株，但目前出现的B型流感却是较少的山形株，疫苗保护力有限才引发。学生应注意个人卫生，勤洗手，开窗通风，一旦发现发烧、咳嗽、全身酸痛等流感症状，要及时到医院治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "流行性感冒",
+        "part": [
+          "鼻",
+          "咽喉"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，儿童",
+        "symptom": [
+          "怕冷",
+          "头痛",
+          "浑身酸痛",
+          "咽喉疼痛",
+          "发烧"
+        ],
+        "complication": [
+          "便秘",
+          "黄疸",
+          "心律失常",
+          "鼻窦炎",
+          "细菌性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "治愈率96%",
+        "duration": "治疗周期14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血凝抑制试验"
+        ],
+        "medicine": [
+          "阿比多尔片",
+          "连花清瘟胶囊",
+          "感冒清热颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "连花清瘟胶囊(以岭)",
+          "grade": "2.11",
+          "total": "168",
+          "secondary": "115"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "感冒灵胶囊",
+          "grade": "2.99",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "感冒清热软胶囊(欧意)",
+          "grade": "2.75",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "感冒清片",
+          "grade": "4.42",
+          "total": "46",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘口服液(葵花)",
+          "grade": "2.89",
+          "total": "250",
+          "secondary": "206"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "焦虑症",
+    "information": {
+      "introduction": "焦虑症（anxiety neurosis）是一种以焦虑情绪为主的神经症，以广泛和持续性焦虑或反复发作的惊恐不安为主要特征，常伴有自主神经紊乱、肌肉紧张与运动性不安，临床一般分为广泛性焦虑障碍（generalized anxiety disorder，GAD）与惊恐障碍（panic disorder）两种主要形式。而在美国的DSM-5诊断与分类标准中“焦虑障碍”包含的内容更加广泛，包括社交焦虑障碍（社交恐惧）、惊恐发作、广泛焦虑障碍、广场恐惧等障碍、分离性焦虑障碍和选择性缄默症等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "焦虑性神经症，焦虑障碍",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "35岁以前的女性",
+        "symptom": [
+          "焦虑",
+          "坐立不安",
+          "失眠",
+          "严重情绪障碍",
+          "抑郁"
+        ],
+        "complication": [
+          "抑郁症",
+          "神经衰弱",
+          "睡眠障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "神经内科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "70%",
+        "duration": "1个月",
+        "method": [
+          "药物治疗、心理疗法"
+        ],
+        "examination": "?",
+        "medicine": [
+          "普瑞巴林胶囊",
+          "盐酸度洛西汀肠溶胶囊",
+          "盐酸丁螺环酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "九味镇心颗粒(玖卫)",
+          "grade": "3.98",
+          "total": "105",
+          "secondary": "10"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脱发",
+    "information": {
+      "introduction": "脱发是头发脱落的现象。有生理性及病理性之分。生理性脱发指头发正常的脱落。病理性脱发是指头发异常或过度的脱落。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "掉头发，秃头，鬼剃头",
+        "part": [
+          "头部",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，大多是中老年人，...",
+        "symptom": [
+          "永久性秃发",
+          "毛发脱落",
+          "病理性脱发",
+          "肿瘤性脱发",
+          "梳头或洗头时头发脱落增加"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "内分泌科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500-5000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "毛发矿物质",
+          "毛发"
+        ],
+        "medicine": [
+          "养血生发胶囊",
+          "固肾生发丸",
+          "米诺地尔搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "养血生发胶囊(敬修堂)",
+          "grade": "2.46",
+          "total": "78",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "固肾生发丸(白云山)",
+          "grade": "2.43",
+          "total": "57",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "生力雄丸(太极)",
+          "grade": "2.14",
+          "total": "85",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "除脂生发片(发茂森)",
+          "grade": "3.92",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "除脂生发片(祺笑)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养血生发胶囊(宏仁堂)",
+          "grade": "2.43",
+          "total": "34",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "天麻首乌片(国华)",
+          "grade": "3.33",
+          "total": "151",
+          "secondary": "107"
+        },
+        {
+          "medicine_name": "斑秃丸(敬修堂)",
+          "grade": "3.06",
+          "total": "101",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "甜梦胶囊",
+          "grade": "3.03",
+          "total": "37",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "活力苏口服液(华神)",
+          "grade": "3.31",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "养血生发胶囊(德众)",
+          "grade": "3.93",
+          "total": "14",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫内膜癌",
+    "information": {
+      "introduction": "    起源于子宫内膜腺体的恶性肿瘤，又称子宫体癌，绝大多数为腺癌。为女性生殖器三大恶性肿瘤之一，在我国子宫内膜癌远低于子宫颈癌，但在一些西方发达国家，本病高于子宫颈癌，位于妇科恶性肿瘤的首位。高发年龄为58~61岁，约占女性癌症总数的7%，占生殖道恶性肿瘤20%~30%，近年发病率有上升趋势，与宫颈癌比较，已趋于接近甚至超过。与长期持续的雌激素刺激 ，肥胖，高血压，糖尿病，不孕或不育及绝经等体质因素及遗传因素有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "子宫体癌,子宫癌",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": " 围绝经期和绝经后女性 ",
+        "symptom": [
+          "阴道出血",
+          "阴道分泌物增多",
+          "下腹疼痛",
+          "下腹胀痛",
+          "下腹部包块"
+        ],
+        "complication": [
+          "子宫肌瘤",
+          "多囊卵巢综合征",
+          "功血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "40%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "生殖系统肿瘤检查项目",
+          "子宫颈涂片测试",
+          "子宫内膜活检",
+          "子宫输卵管造影",
+          "p53基因"
+        ],
+        "medicine": [
+          "金鸡颗粒",
+          "金鸡片",
+          "醋酸甲地孕酮分散片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "金鸡片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "丹莪妇康煎膏(丹莪)",
+          "grade": "2.79",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "散结镇痛胶囊(康缘)",
+          "grade": "2.14",
+          "total": "51",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "金鸡颗粒(金鸡)",
+          "grade": "3.13",
+          "total": "45",
+          "secondary": "45"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "毛囊炎",
+    "information": {
+      "introduction": "毛囊炎(folliculitis)是指葡萄球菌侵入毛囊部位所发生的化脓性炎症。中医学根据其发病部位及形状有不同的命名，如大珠疮、发际疮、羊胡子疮、蝼蛄疖、蝼蛄患、蟮拱头等。本病好发于头部、项部、臀部、肛周或身体其他部位，且有复发倾向，常多处发生，性质顽固，迁延难愈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "疖",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多见于成人",
+        "symptom": [
+          "毛囊性呈鳞片状角化",
+          "丘疹",
+          "脓疱",
+          "毛囊角栓",
+          "上半身热刺激性多汗"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中西医结合科"
+        ],
+        "cost": "市三甲医院约（300—— 800元）",
+        "ratio": "63%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "莫匹罗星软膏",
+          "克林霉素甲硝唑搽剂",
+          "复方片仔癀软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾积水",
+    "information": {
+      "introduction": "由于尿液从肾脏排出受阻、蓄积，造成尿液潴留而引起肾内压升高，以致肾盂肾盏逐渐扩张，肾实质萎缩与破坏，，统称为肾积水。肾盂积水是由于尿路阻塞而引起的肾盂肾盏扩大伴有肾组织萎缩。尿路任何部位的管道狭窄或阻塞以及神经肌肉的正常功能紊乱，尿液通过即可出现障碍，造成尿流梗阻，梗阻以上部位因尿液排出不畅而压力逐渐增高，管腔扩大，最终导致肾脏积水，扩张，肾实质变薄、肾功能减退，若双侧梗阻，则出现尿毒症后果严重。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肾盂积水",
+          "腹部肿块",
+          "少尿",
+          "恶心与呕吐",
+          "肾部积水现象"
+        ],
+        "complication": [
+          "高血压",
+          "肾积脓",
+          "肾结石"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "7--21天",
+        "method": [
+          "西医药物治疗、中医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肾图",
+          "尿路平片",
+          "全身骨骼疾病排查"
+        ],
+        "medicine": [
+          "八正合剂",
+          "谷丙甘氨酸胶囊",
+          "热淋清颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "八正合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "烫疮油",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "烫疮油",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "烫疮油",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊",
+          "grade": "1.61",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "烧烫宁喷雾剂(20ml)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方紫草气雾剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老鹳草软膏(芙宝)",
+          "grade": "2.0",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊(银诺克)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老鹳草软膏(天龙)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金甲排石胶囊(天赐堂)",
+          "grade": "0.10",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "净石灵胶囊(龙泰)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "婴幼儿腹泻",
+    "information": {
+      "introduction": "在未明确病因前，大便性状改变与大便次数比平时增多，统称为腹泻病(diarrheal disease)。腹泻病是多病因、多因素引起的一组疾病，是儿童时期发病率最高的疾病之一，是世界性公共卫生问题，全球大约每年至少10亿人次发生腹泻，根据世界卫生组织调查，每天大约1万人死于腹泻。在我国，腹泻病同样是儿童的常见病，平均每年每个儿童年发病3.5次，其死亡率为0.51%。因此，对小儿腹泻病的防治十分重要。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "初生儿腹泻",
+        "part": [
+          "胃",
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "粪便量多",
+          "发烧",
+          "黄绿稀溏",
+          "电解质紊乱"
+        ],
+        "complication": [
+          "急性心力衰竭",
+          "心肌炎",
+          "肾衰",
+          "贫血",
+          "鹅口疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "?",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "营养不良、多种维生素缺乏、鹅口疮"
+        ],
+        "examination": [
+          "便常规",
+          "呼气试验",
+          "胰腺外分泌功能试验",
+          "粪便淀粉颗粒",
+          "纤维结肠镜"
+        ],
+        "medicine": [
+          "肠炎宁颗粒2克",
+          "止痢宁片",
+          "消旋卡多曲颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肠炎宁颗粒2克(葫芦娃)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止痢宁片",
+          "grade": "3.06",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "四磨汤口服液(汉森)",
+          "grade": "3.60",
+          "total": "108",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "珠芽蓼止泻颗粒(广泰)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "十二指肠溃疡",
+    "information": {
+      "introduction": "十二指肠溃疡(duodenal ulcer，DU)是常见的慢性疾病之一，是由于多种因素引起的十二指肠黏膜层和肌层的缺损。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": " 男性发病率明显高于女性，...",
+        "symptom": [
+          "上腹部疼痛",
+          "反酸",
+          "烧心",
+          "溃疡疼痛",
+          "嗳气"
+        ],
+        "complication": [
+          "消化道出血",
+          "肺炎",
+          "消化性溃疡",
+          "上消化道出血",
+          "脱水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80-90%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "14C呼气试验",
+          "碳13尿素呼气试验",
+          "尿素酶试验",
+          "内镜检查",
+          "幽门螺杆菌检测"
+        ],
+        "medicine": [
+          "盐酸雷尼替丁胶囊",
+          "复方石菖蒲碱式碳酸铋片",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "胃乃安胶囊(白云山)",
+          "grade": "4.13",
+          "total": "112",
+          "secondary": "104"
+        },
+        {
+          "medicine_name": "金胃泰胶囊(老方)",
+          "grade": "3.06",
+          "total": "25",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性胰腺炎",
+    "information": {
+      "introduction": "急性胰腺炎(acute pancreatitis，AP)是比较常见的一种急腹症，其发病率占急腹症的第3～5位。其中80%以上的病人病情较轻，即急性水肿性胰腺炎，可经非手术治愈，基本上是一种内科病。10%左右的病人属于重症胰腺炎，即急性出血性坏死性胰腺炎，胰腺的炎症已非可逆性或自限性，常须手术治疗，应视为外科病。由于对急性胰腺炎的认识较前深入，诊断技术和治疗方法更有了较大的发展，已成为外科医生很感兴趣的问题，同时因病死率仍居高不下，达30%～60%，且易发生各种严重合并症，对医生是一个严峻的挑战。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胰腺炎，胰瘅",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，发生于妊娠的任何...",
+        "symptom": [
+          "胰源性腹痛",
+          "突发性右上腹绞痛",
+          "恶心与呕吐",
+          "急腹症",
+          "上腹部压痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "脂肪酶",
+          "血清淀粉酶同工酶",
+          "血清脂肪酶",
+          "血清抗胰腺腺泡抗体",
+          "血清胰癌胚抗原"
+        ],
+        "medicine": [
+          "清胰利胆颗粒",
+          "醋酸奥曲肽注射液",
+          "注射用乌司他丁"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清胰利胆颗粒(林海)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒(银诺克)",
+          "grade": "2.63",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒",
+          "grade": "2.69",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清胰利胆丸(林海)",
+          "grade": "3.45",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆炎合剂(颐之舒)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒(巨焱消)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

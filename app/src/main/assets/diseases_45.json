@@ -1,0 +1,1173 @@
+[
+  {
+    "disease_name": "慢性咳嗽",
+    "information": {
+      "introduction": "慢性咳嗽一般是指超过3周的咳嗽。也有学者认为咳嗽8周才可称为慢性咳嗽。引起慢性咳嗽的六大病因为：鼻后滴漏综合症、咳嗽变异性哮喘、胃食道反流、嗜酸粒细胞性支气管炎、慢性咽喉炎、心因性咳嗽。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "咳嗽",
+          "干咳",
+          "小儿干咳"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "气道过敏试验",
+          "肺功能",
+          "嗜酸性粒细胞数",
+          "支气管舒张试验",
+          "血清免疫球蛋白E"
+        ],
+        "medicine": [
+          "羚羊清肺颗粒",
+          "祖卡木颗粒",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "羚羊清肺颗粒(同仁堂)",
+          "grade": "4.2",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "祖卡木颗粒(西帕)",
+          "grade": "2.50",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "咽炎片(999)",
+          "grade": "4.12",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "止咳宝片(特一)",
+          "grade": "3.74",
+          "total": "398",
+          "secondary": "380"
+        },
+        {
+          "medicine_name": "虫草清肺胶囊(同济堂)",
+          "grade": "3.50",
+          "total": "79",
+          "secondary": "69"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "咳特灵片(一力)",
+          "grade": "3.33",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "咳特灵胶囊(修正)",
+          "grade": "1.12",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "急支糖浆",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "17"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "喉炎",
+    "information": {
+      "introduction": "喉炎是指喉部粘膜的一般性病菌感染所引起的慢性炎症。因病变程度的不同，可分为慢性单纯性喉炎、肥厚性喉炎和萎缩性喉炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "小儿",
+        "symptom": [
+          "声音嘶哑",
+          "声音变低",
+          "粘膜充血",
+          "水肿",
+          "粘膜萎缩"
+        ],
+        "complication": [
+          "急性喉炎",
+          "小儿急性喉炎",
+          "慢性喉炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "呼吸内科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（100-300元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "耳鼻咽喉CT"
+        ],
+        "medicine": [
+          "喉炎丸",
+          "牛黄解毒片",
+          "清热消炎宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "喉炎丸(九芝堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "牛黄解毒片(薄膜衣片)",
+          "grade": "1.95",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "金嗓散结丸(碑林)",
+          "grade": "2.57",
+          "total": "27",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "食道平散(欧珂)",
+          "grade": "1.99",
+          "total": "61",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "开喉剑喷雾剂(儿童型)(三力制药)",
+          "grade": "4.27",
+          "total": "47",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "百蕊片",
+          "grade": "2.34",
+          "total": "22",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "复方草珊瑚含片(江中)",
+          "grade": "3.5",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "金嗓开音丸(碑林)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "众生丸(众生)",
+          "grade": "3.75",
+          "total": "129",
+          "secondary": "90"
+        },
+        {
+          "medicine_name": "复方草珊瑚含片(江中)",
+          "grade": "4.44",
+          "total": "188",
+          "secondary": "156"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "二尖瓣关闭不全",
+    "information": {
+      "introduction": "风湿性心脏病二尖瓣闭锁不全是由于反复风湿性炎症后所遗留的二尖瓣瓣膜损害，使瓣膜发生僵硬、变形、瓣缘卷缩，瓣口连接处发生融合及缩短，同时伴腱索、乳头肌的缩短、融合或断裂，造成二尖瓣的闭合不全，从而引起血流动力学的一系列改变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "下肢浮肿",
+          "端坐呼吸",
+          "乏力",
+          "心脏结构异常",
+          "劳力性呼吸困难"
+        ],
+        "complication": [
+          "急性心力衰竭",
+          "心力衰竭",
+          "感染性心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "平衡法放射性核素心血管造影",
+          "心电图",
+          "M型超声心动图",
+          "二维超声心动图",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "卡托普利片",
+          "螺内酯片",
+          "注射用硝普钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "产后抑郁症",
+    "information": {
+      "introduction": "产褥期抑郁症是指产妇在分娩后出现抑郁症状，是产褥期精神综合征中最常见的一种类型。易激惹、恐怖、焦虑、沮丧和对自身及婴儿健康过度担忧，常失去生活自理及照料婴儿的能力，有时还会陷入错乱或嗜睡状态。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "产后精神抑郁,产褥期抑郁症",
+        "part": [
+          "心理",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "多于产后2周发病，于产后4～6...",
+        "symptom": [
+          "产后极端行为",
+          "焦虑",
+          "思虑伤脾",
+          "产后无乳汁分泌",
+          "沮丧"
+        ],
+        "complication": [
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000---2000元",
+        "ratio": "70-80%",
+        "duration": "1-3个月",
+        "method": [
+          "心理疏导、药物治疗"
+        ],
+        "examination": [
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "安乐片",
+          "安乐片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安乐片(迪冉)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安乐片(琦云)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睡眠障碍",
+    "information": {
+      "introduction": "睡眠障碍(somnipathy)系指睡眠-觉醒过程中表现出来的各种功能障碍。睡眠质量下降是人们常见的主诉，成年人群中长期睡眠障碍者可多至15%。广义的睡眠障碍应该包括各种原因导致的失眠、过度嗜睡、睡眠呼吸障碍以及睡眠行为异常，后者包括睡眠行走、睡眠惊恐、不宁腿综合征等。本章着重讨论失眠、睡眠呼吸暂停综合征、发作性睡病以及发作性嗜睡强食综合征。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "睡觉流口水",
+          "保持睡眠障碍性失眠",
+          "梦游",
+          "紧张性疲劳",
+          "失眠"
+        ],
+        "complication": [
+          "失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "心理、行为、物理、药物治疗"
+        ],
+        "examination": [
+          "多导睡眠图检查",
+          "多导睡眠图"
+        ],
+        "medicine": [
+          "五味子糖浆",
+          "安神宝颗粒",
+          "戊酸雌二醇片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五味子糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安神宝颗粒",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "房室传导阻滞",
+    "information": {
+      "introduction": "房室传导阻滞是指窦房结发出冲动：在从心房传到心室的过程中，由于生理性或病理性的原因，在房室连接区受到部分或完全，暂时或永久性的阻滞。根据阻滞程度不同，可分为3度：第一度为房室间传导时间延长，但心房冲动全部能传到心室；第二度为部分冲动不能传至心室；第三度则全部冲动均不能传至心室，故又称为完全性房室传导阻滞。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "心动过缓",
+          "头昏",
+          "频发房性早搏",
+          "疲劳",
+          "头晕"
+        ],
+        "complication": [
+          "猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "盐酸普萘洛尔片",
+          "盐酸妥卡尼片",
+          "宁心宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "宁心宝胶囊(良济)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心宝胶囊",
+          "grade": "2.08",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(宇宙)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(逍遥津)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(益盛)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(活欣宝)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(神华维康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(木鱼石)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(瑞欣)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(九洋)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(利君)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宁心宝胶囊(倍刻)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高血压肾病",
+    "information": {
+      "introduction": "系原发性高血压引起的良性小动脉肾硬化（又称高血压肾小动脉硬化）和恶性小动脉肾硬化，并伴有相应临床表现的疾病。年龄多在40～50 岁以上，高血压病史5～10年以上，早期仅有夜尿增多，继之出现蛋白尿，个别病例可因毛细血管破裂而发生短暂性肉眼血尿，但不伴明显腰痛，常合并动脉硬化性视网膜病变，左心室肥厚，冠心病，心力衰竭，脑动脉硬化和(或)脑血管意外史。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "高血压肾损害",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "高血压患者",
+        "symptom": [
+          "尿常规异常",
+          "蛋白尿",
+          "夜尿增多",
+          "左心室肥厚",
+          "夜尿增多"
+        ],
+        "complication": [
+          "心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿浓缩与稀释功能试验",
+          "尿β2微球蛋白",
+          "血尿酸"
+        ],
+        "medicine": [
+          "金匮肾气丸",
+          "山楂精降脂片",
+          "厄贝沙坦片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金匮肾气丸(同仁堂)",
+          "grade": "1.35",
+          "total": "15",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "山楂精降脂片(三元)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肾宝糖浆(江西民济)",
+          "grade": "2.38",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "降压避风片(隆顺榕)",
+          "grade": "2.55",
+          "total": "14",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "紫癜性肾炎",
+    "information": {
+      "introduction": "紫癜性肾炎（anaphylatic purpura nephritis）是指过敏性紫癜引起的肾脏损害，其病因可为细菌、病毒及寄生虫等感染所引起的变态反应，或为某些药物、食物等过敏，或为植物花粉、虫咬、寒冷刺激等引起。临床表现除有皮肤紫癜、关节肿痛、腹痛、便血外，主要为血尿和蛋白尿，多发生于皮肤紫癜后一个月内，有的或可以同时并见皮肤紫癜、腹痛，有的仅是无症状性的尿异常。如果蛋白丢失过多，亦可出现肾病综合征的表现，如果血尿、蛋白尿长期持续存在，亦可伴有肾功能减退，最后导致慢性肾功能衰竭。过敏性紫癜导致肾受累的比例为20%～100%，男性患者多于女性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "过敏紫癜性肾炎",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "青少年",
+        "symptom": [
+          "皮肤紫癜",
+          "全身持续性水肿",
+          "蛋白尿",
+          "皮肤紫癜",
+          "关节肿痛"
+        ],
+        "complication": [
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "80%",
+        "duration": "2-3月",
+        "method": [
+          "西医治疗、中医中药治疗"
+        ],
+        "examination": [
+          "尿红细胞位相",
+          "尿常规",
+          "尿红细胞",
+          "尿沉渣白细胞"
+        ],
+        "medicine": [
+          "呋塞米注射液",
+          "醋酸泼尼松片",
+          "硫唑嘌呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "热伤风",
+    "information": {
+      "introduction": " 热伤风指的是夏天的普通感冒。感冒分为普通感冒和流行性感冒两种，热伤风就是一种夏天的普通感冒。     主要是头痛、流鼻涕，有时候稍微有一点发烧。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "流黄鼻涕",
+          "足趾发凉怕冷，呈苍白色或紫红色",
+          "头痛",
+          "四肢酸痛无力",
+          "高热不退"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "小儿嗜血性流行性感冒杆菌脑膜炎",
+          "破伤风",
+          "发作性睡病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（50-100元）",
+        "ratio": "90%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "透表回春丸",
+          "透表回春丸",
+          "伤风停胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "透表回春丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "透表回春丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "伤风停胶囊(云丰)",
+          "grade": "2.62",
+          "total": "38",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "伤风感冒茶(伤风感冒冲剂)(伤风感冒冲剂(花红)",
+          "grade": "1.5",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "斧标驱风油(斧标)",
+          "grade": "4.53",
+          "total": "158",
+          "secondary": "134"
+        },
+        {
+          "medicine_name": "风油精(白云山)",
+          "grade": "4.12",
+          "total": "67",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊(葵花)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "风油精(水仙)",
+          "grade": "4.84",
+          "total": "96",
+          "secondary": "81"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊(富华)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银翘伤风胶囊",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伤风停片(聚仁堂)",
+          "grade": "2.41",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伤风感冒颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "产褥感染",
+    "information": {
+      "introduction": "产褥感染，在产褥期中，由于生殖器官感染而引起的炎症。致病细菌可能在产前、产时或前后从外界侵入，也可能早就存在于产妇体内。但是产褥感染发生与否，主要决定于产妇局部和全身的防御能力。凡产有有贫血、营养不良、妊娠高血压综合征或其他疾病;产时营养和水份补充不够、产程延长、产时产后失血过多的产妇，由于全身抵抗力削弱，容易得产褥感染。还有胎膜早破、产前出血、产道裂伤、胎盘滞留的产妇，由于生殖道局部变化有利于细菌的入侵及孽生，也易发生产褥感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "产妇",
+        "symptom": [
+          "产后恶露不净有臭味",
+          "产褥期恶露",
+          "腹部压痛",
+          "脓性分泌物",
+          "伤口感染"
+        ],
+        "complication": [
+          "盆腔腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "85%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "宫颈分泌物培养",
+          "阴道分泌物涂片",
+          "三合诊",
+          "阴道病原体"
+        ],
+        "medicine": [
+          "阿奇霉素片",
+          "氧氟沙星片",
+          "保妇康栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "新生化颗粒(安邦)",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糜烂型脚气",
+    "information": {
+      "introduction": "糜烂型脚气是脚气的一种类型。好发于第三与第四，第四与第五趾间的在脚部真菌感染。浸渍发白或起小水疱，有奇痒，易继发感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脚趾脚气",
+        "part": [
+          "足部"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脚臭",
+          "足底脱皮",
+          "真菌感染",
+          "剧痒",
+          "瘙痒"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "夏季感冒",
+    "information": {
+      "introduction": "暑湿季节感受到风寒之邪或风热之邪诱发的感冒，称之为暑湿感冒。多发生在夏季。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "暑湿感冒",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，小孩多数",
+        "symptom": [
+          "怕冷",
+          "口淡无味",
+          "发烧",
+          "头痛",
+          "头胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "暑湿感冒颗粒",
+          "暑湿感冒颗粒",
+          "藿香正气滴丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "暑湿感冒颗粒(益方珠)",
+          "grade": "4.29",
+          "total": "37",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "暑湿感冒颗粒(修正)",
+          "grade": "4.29",
+          "total": "37",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "藿香正气滴丸(天士力)",
+          "grade": "4.06",
+          "total": "73",
+          "secondary": "67"
+        },
+        {
+          "medicine_name": "保济丸(王老吉)",
+          "grade": "4.01",
+          "total": "85",
+          "secondary": "60"
+        },
+        {
+          "medicine_name": "藿香正气软胶囊(神威)",
+          "grade": "3.46",
+          "total": "15",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "藿香正气口服液(太极)",
+          "grade": "3.39",
+          "total": "81",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "藿香正气丸(浓缩丸)(藿香正气丸)",
+          "grade": "2.25",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藿香正气丸(浓缩丸)(藿香正气丸(佛慈)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藿香正气片(同仁堂)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藿香正气颗粒(太极)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藿香正气合剂(金太子)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香苏正胃丸(同仁堂)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒灵颗粒",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经性厌食症",
+    "information": {
+      "introduction": "神经性厌食症又名精神性厌食症，属精神性的进食障碍、以故意节食致体重减轻为特征。多发生于青少年期(约85%发病于13至20岁之间)，而女性的患病率较男性高约十倍，患病期可长达几个月至数年不等。部份人士儘管节食前属超重，但至正常体重时仍不停节食;另部份人士因职业需要而维持体重，例如歌星、演员、模特儿和运动员等，他们有较高的罹患率。厌食症亦多来自较富裕的家庭，患者的其他家庭成员会较易出现类似的病徵。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "精神性厌食症，厌食症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "青少年。女性多数",
+        "symptom": [
+          "情绪性厌食",
+          "夏季厌食症",
+          "消瘦",
+          "利尿",
+          "血压低"
+        ],
+        "complication": [
+          "低血压",
+          "便秘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "90%",
+        "duration": "1-3个月",
+        "method": [
+          "心理治疗 药物治疗"
+        ],
+        "examination": [
+          "雌激素",
+          "BMI指数",
+          "低密度脂蛋白胆固醇(LDL-C)",
+          "血清低密度脂蛋白胆固醇"
+        ],
+        "medicine": [
+          "四磨汤口服液",
+          "醒脾养儿颗粒",
+          "肠内营养乳剂(TP)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "四磨汤口服液(汉森)",
+          "grade": "3.60",
+          "total": "108",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "化积口服液(鹿迪)",
+          "grade": "3.75",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "SARS",
+    "information": {
+      "introduction": "传染性非典型肺炎（严重急性呼吸综合症，SARS）是由SARS冠状病毒（SARS-CoV）引起的一种具有明显传染性、可累及多个脏器系统的特殊肺炎，世界卫生组织（WHO）将其命名为严重急性呼吸综合症（severe acute respiratory syndrome,SARS）。临床上以发热、乏力、头痛、肌肉关节酸痛等全身症状和干咳、胸闷、乏力、头痛、肌肉关节酸痛等全身症状和干咳、胸闷、呼吸困难等呼吸道症状为主要表现，部分病例可有腹泻等消化道症状；胸部X线检查可见肺部炎性浸润影、实验室检查外周血白细胞计数正常或降低、抗菌药物治疗无效是其重要特征。重症病例表现明显的呼吸困难，并可迅速发展成为急性呼吸窘迫综合征（acute respiratory distress syndrome,ARDS）。截至2003年8月7日，全球累计发病例数为8422例，依据报告病例计算的平均病死率达到了9.3%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "非典型肺炎,严重急性呼吸综合征,严重急性呼吸道症候群，非典，传染性非典型肺炎",
+        "part": [
+          "肺",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "持续性发热",
+          "呼吸困难",
+          "干咳",
+          "怕冷",
+          "高热"
+        ],
+        "complication": [
+          "弥散性血管内凝血",
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "呼吸内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肺炎支原体寒冷凝集试验",
+          "T淋巴细胞亚群",
+          "胸部CT",
+          "胸部平片",
+          "血清免疫球蛋白G"
+        ],
+        "medicine": [
+          "小儿热速清糖浆",
+          "盐酸乙胺丁醇片",
+          "盐酸氟桂利嗪胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿热速清糖浆(长垣)",
+          "grade": "2.63",
+          "total": "11",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "支原体尿路感染",
+    "information": {
+      "introduction": "泌尿及生殖道支原体感染称为支原体尿路感染。支原体(Mycoplasma)是一群介于细菌与病毒之间、目前所知能独立生活的最小微生物。近来，生殖器支原体(M.genitalium，MG)的致病性引起了重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "支原体泌尿道感染",
+        "part": [
+          "肾",
+          "尿道",
+          "子宫"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿液氨水味",
+          "尿道口有白膜形成",
+          "尿频",
+          "尿道刺痒",
+          "膀胱刺激症"
+        ],
+        "complication": [
+          "前列腺炎",
+          "附睾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "90%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿液细菌培养",
+          "支原体检查",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "利福平",
+          "氧氟沙星",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="选择你的性别: "
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"/>
+
+        <RadioGroup
+            android:id="@+id/select_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="24dp"
+            android:layout_marginTop="10dp">
+
+            <RadioButton
+                android:id="@+id/male"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="男"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/female"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginRight="10dp"
+                android:text="女"
+                android:textSize="16sp" />
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="400dp"
+        android:layout_height="6dp"
+        android:layout_marginTop="4dp"
+        android:background="#7EA155"
+        android:layout_marginLeft="4dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="选择你的年龄范围: "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:layout_width="210dp"
+            android:layout_height="190dp"
+            android:scrollbars="vertical"
+            android:layout_marginLeft="20dp"
+            android:fadeScrollbars="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/selectAgeRange"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/lessThanOneMonth"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="一个月内"
+                        android:textSize="16sp"
+                        android:textAlignment="center"
+                        android:layout_marginTop="10dp"/>
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <RadioButton
+                        android:id="@+id/twoToElevenMonth"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2至11个月"
+                        android:textSize="16sp"
+                        android:textAlignment="center" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/oneToTwelveAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="1至12岁"
+                        android:textAlignment="center"
+                        android:textSize="16sp" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"/>
+
+                    <RadioButton
+                        android:id="@+id/thirteenToEighteenAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="13至18岁"
+                        android:textSize="16sp"
+                        android:textAlignment="center" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/nineteenToTwentyNineAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="19至29岁"
+                        android:textSize="16sp"
+                        android:textAlignment="center" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/thirtyToThirtyNineAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="30至39岁"
+                        android:textSize="16sp"
+                        android:textAlignment="center" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/fortyToFortyNineAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="40至49岁"
+                        android:textAlignment="center"
+                        android:textSize="16sp" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/fiftyToSixtyFourAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="50至64岁"
+                        android:textAlignment="center"
+                        android:textSize="16sp" />
+
+                    <View
+                        android:layout_width="190dp"
+                        android:layout_height="4dp"
+                        android:background="#ED86C53D"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp" />
+
+                    <RadioButton
+                        android:id="@+id/moreThanSixtyFiveAge"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="65岁以上"
+                        android:textAlignment="center"
+                        android:textSize="16sp" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="400dp"
+        android:layout_height="6dp"
+        android:background="#7EA155"
+        android:layout_marginLeft="4dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择你的职业:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/occupationSelectedList"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="14dp"
+        android:background="#3CB6DC8A"/>
+
+    <Button
+        android:id="@+id/selectOtherOccupationButton"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:background="@drawable/button_background1"
+        android:text="你的职业不在这个列表中"
+        android:textSize="14sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"/>
+
+    <View
+        android:layout_width="400dp"
+        android:layout_height="6dp"
+        android:background="#7EA155"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="10dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/selected_information"
+            android:layout_width="260dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="10dp"
+            android:background="#0D82D31C"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="填写的个人信息: "
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/selected_information1"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:background="#65C9ECA2"
+                    android:text="选择的性别: "
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/selected_information2"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/selected_information1"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="15dp"
+                    android:background="#65C9ECA2"
+                    android:text="选择的年龄范围: "
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/selected_information3"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/selected_information2"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="15dp"
+                    android:background="#65C9ECA2"
+                    android:text="选择的职业:"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/selected_gender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@id/selected_information1"
+                    android:background="#54578325"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="未选择"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/selected_age_range"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/selected_gender"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_toRightOf="@id/selected_information2"
+                    android:background="#54578325"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="未选择"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/selected_occupation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/selected_age_range"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_toRightOf="@+id/selected_information3"
+                    android:background="#54578325"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="未选择"
+                    android:textSize="16sp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/split_line1"
+            android:layout_width="6dp"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/selected_information"
+            android:background="#7EA155"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="8dp" />
+
+        <Button
+            android:id="@+id/confirmSelection"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginTop="140dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toRightOf="@+id/split_line1"
+            android:background="@drawable/button_background1"
+            android:text="确认信息" />
+
+    </RelativeLayout>
+
+</LinearLayout>

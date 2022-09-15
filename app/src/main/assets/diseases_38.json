@@ -1,0 +1,1089 @@
+[
+  {
+    "disease_name": "阿米巴性阴道炎",
+    "information": {
+      "introduction": "阿米巴性阴道炎(amebic vaginitis)多由阿米巴病原体随大便排出后直接感染外阴或阴道。阿米巴病原体直接侵犯阴道者较少，但如全身情况差或阴道黏膜上皮细胞有损伤时阿米巴滋养体可侵入损伤部位引起炎症。原虫侵入阴道黏膜后依靠其伪足及其分泌的组织溶解酶造成黏膜坏死，形成溃疡。机体抵抗力低的患者病变还可侵犯至外阴、子宫颈及子宫内膜发生炎症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "有传染性",
+        "people": "女性",
+        "symptom": [
+          "阴道分泌物增多",
+          "会阴痒",
+          "溃疡",
+          "阴道脓性分泌物",
+          "阴道血性分泌物"
+        ],
+        "complication": [
+          "休克",
+          "腹膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约100-200元",
+        "ratio": "98%",
+        "duration": "?",
+        "method": [
+          "饮食疗法、一般疗法、物理疗法、药物疗法"
+        ],
+        "examination": [
+          "阴道活检",
+          "白带常规",
+          "阴道病原体",
+          "阿米巴原虫抗原",
+          "血清阿米巴原虫抗体"
+        ],
+        "medicine": [
+          "甲硝唑氯化钠注射液",
+          "甲硝唑片",
+          "消糜栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "红核妇洁洗液(附冲洗器)",
+          "grade": "2.33",
+          "total": "61",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "苦参凝胶(坤立舒)",
+          "grade": "1.83",
+          "total": "41",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "治糜康栓(金马)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膀胱肿瘤",
+    "information": {
+      "introduction": "膀胱肿瘤是泌尿系最常见肿瘤，也是全身比较常见的肿瘤之一，大部分发生在三角区、两侧壁及颈部。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "尿血",
+          "水肿",
+          "尿频",
+          "消耗性体重下降",
+          "尿潴留"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（10000-30000元）",
+        "ratio": "外科手术治愈率约为75%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "脏器声学造影",
+          "膀胱造影",
+          "尿路平片",
+          "膀胱触诊",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "注射用磷酸氟达拉滨",
+          "注射用磷酸氟达拉滨",
+          "注射用盐酸吉西他滨"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性淋巴结炎",
+    "information": {
+      "introduction": "常继发于其它感染病灶，多发生于颈部、颌下、腋窝及腹股沟。致病菌多为金葡菌及链球菌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴结穿刺有草黄色清亮液体",
+          "淋巴结肿大",
+          "腋部肿块",
+          "皮肤发红",
+          "淋巴结肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "95%",
+        "duration": "7天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "局部淋巴显象",
+          "WBC",
+          "白细胞数"
+        ],
+        "medicine": [
+          "消肿片(36片/盒)",
+          "清热散结片",
+          "清热散结片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消肿片(36片/盒)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(鹅城)",
+          "grade": "1.54",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(普正)",
+          "grade": "3.03",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "2.99",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(司贝尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(柴宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(丁教授)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(巨虹)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(德昌祥)",
+          "grade": "0.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "加味西黄丸",
+          "grade": "4.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(明善堂)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年期抑郁症",
+    "information": {
+      "introduction": "老年期抑郁症(senile melancholia)严格地说是指首次发病于60岁以后，以持久的抑郁心境为主要临床表现的一种精神障碍。心境障碍不能归于躯体疾病或脑器质性疾病。抑郁是一种负性、不愉快的情绪体验，以情感低落、哭泣、悲伤、失望、活动能力减退，以及思维认知功能的迟缓为主要特征。一般病程较长，具有缓解和复发倾向，部分病人预后不良，可发展为难治性抑郁。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "季节性情绪抑郁",
+          "老人性格孤僻",
+          "退离休综合症",
+          "被害妄想",
+          "焦虑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "叶酸",
+          "血清T3T4抗体",
+          "心电图",
+          "胸部平片"
+        ],
+        "medicine": [
+          "逍遥丸",
+          "宁心益智胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "逍遥丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宁心益智胶囊(东方龙)",
+          "grade": "4.48",
+          "total": "64",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "消化道出血",
+    "information": {
+      "introduction": "消化道出血是临床常见严重的症候。消化道是指从食管到肛门的管道，包括胃、十二指肠、空肠、回肠、盲肠、结肠及直肠。上消化道出血部位指屈氏韧带以上的食管、胃、十二指肠、上段空肠以及胰管和胆管的出血。屈氏韧带以下的肠道出血称为下消化道出血。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": " 呕血与黑粪",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "下消化道出血多见于老年患者",
+        "symptom": [
+          "粪便黑色并带有血液",
+          "呕血",
+          "肚子疼",
+          "肠管出血",
+          "便血"
+        ],
+        "complication": [
+          "贫血",
+          "失血性休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "及时就医进行系统治疗一般在78-95%治愈率",
+        "duration": "一般7-10天治愈。",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "寄生虫血液检查",
+          "上消化道X线钡餐",
+          "内镜检查",
+          "直肠指检"
+        ],
+        "medicine": [
+          "肾上腺色腙片",
+          "裸花紫珠胶囊",
+          "裸花紫珠片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "裸花紫珠胶囊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "裸花紫珠片(九芝堂)",
+          "grade": "1.66",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "裸花紫珠胶囊",
+          "grade": "1.93",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "裸花紫珠分散片(泰神素)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "裸花紫珠分散片(万朗)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "裸花紫珠胶囊(白马)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "裸花紫珠胶囊(银涛)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "髌骨软化症",
+    "information": {
+      "introduction": "髌骨软化症（CP），又称髌骨软骨软化症、髌骨软骨炎，是膝关节常见病，好发于青壮年，在运动员和体育爱好者中尤其多见，女性发病率较男性高。其主要病理变化是软骨的退行性改变，包括软骨肿胀、碎裂、脱落，最后股骨髁的对应部位也发生同样病变，发展为髌股关节骨性关节炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "髌骨软骨软化症,髌骨软骨炎",
+        "part": [
+          "膝部",
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于青壮年",
+        "symptom": [
+          "髌骨疼痛",
+          "膝关节疼痛",
+          "软骨内骨化",
+          "髌骨劳损",
+          "髌下疼痛"
+        ],
+        "complication": [
+          "半月板损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约40000--60000元",
+        "ratio": "85%",
+        "duration": "?",
+        "method": [
+          "手术治疗、西药治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "半蹲试验",
+          "浮髌试验"
+        ],
+        "medicine": [
+          "活血止痛胶囊",
+          "活血止痛胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "活血止痛胶囊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "活血止痛胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "休克",
+    "information": {
+      "introduction": "休克(shock)是指在各种强烈致病因素作用下，机体循环功能急剧减退，组织器官微循环灌流严重不足，以至重要生命器官机能、代谢严重障碍的全身危重病理过程，是临床各科严重疾病中常见的并发症。休克的共同特征是有效循环量不足，组织和细胞的血液灌注虽经代偿仍受到严重的限制，从而引起全身组织和脏器的血液灌注不良，导致组织缺氧、微循环瘀滞、脏器功能障碍和细胞的代谢功能异常等一系列病理生理改变。休克的发病规律一般是从代偿性低血压(组织灌注减少)发展到微循环衰竭，最后导致细胞膜的损伤和细胞死亡。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人，老年人比较多",
+        "symptom": [
+          "血压下降",
+          "面色苍白",
+          "皮肤湿冷",
+          "脉搏细弱甚至不能清楚触及",
+          "少尿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科"
+        ],
+        "cost": "市三甲医院约5000-10000元",
+        "ratio": "80%",
+        "duration": "1-3天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血压测量",
+          "心排血量",
+          "氨基酸",
+          "心电图"
+        ],
+        "medicine": [
+          "盐酸纳洛酮舌下片",
+          "醋酸可的松片",
+          "抗休克仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参附注射液",
+          "grade": "2.51",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参麦注射液",
+          "grade": "2.99",
+          "total": "38",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "癫痫",
+    "information": {
+      "introduction": "癫痫即俗称的“羊角风”或“羊癫风”，是多种原因引起脑部神经元群阵发性异常放电所致的发作性运动、感觉、意识、精神、植物神经功能异常的一种疾病。据中国最新流行病学资料显示，国内癫痫的总体患病率为7.0‰，年发病率为28.8/ 10 万，1年内有发作的活动性癫痫患病率为4.6‰。根据临床发作类型分为：癫痫的全身强直-阵挛发作、癫痫的失神发作、癫痫的单纯部分性发作、癫痫的复杂部分性发作、癫痫的植物神经性发作。不同类型的癫痫：原发性癫痫、继发性癫痫、症状性癫痫综合征、特发性癫痫综合征、癫痫伴发的精神障碍、癫痫持续状态、外伤性癫痫、难治性癫痫、额叶癫痫、颞叶癫痫、顶叶癫痫、枕叶癫痫、原发性阅读癫痫 。不同人群的癫痫：妊娠合并癫痫、早期婴儿型癫痫性脑病、小儿癫痫、老年性癫痫。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "羊癫疯，羊角风 ",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "四肢抽搐",
+          "反复高热",
+          "昏睡",
+          "一过性昏厥"
+        ],
+        "complication": [
+          "肾衰",
+          "急性早幼粒细胞白血病",
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "?",
+        "duration": ">120天(需要终身治疗)",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "头颅平片",
+          "贝美格诱发试验",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "奥卡西平片",
+          "托吡酯片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二十五味珊瑚丸(天知)",
+          "grade": "3.63",
+          "total": "57",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(甘露)",
+          "grade": "2.32",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二十五味珊瑚丸(金珠雅砻)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "癫痫宁片(云昆)",
+          "grade": "4.36",
+          "total": "84",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "癫痫平片(威光)",
+          "grade": "3.42",
+          "total": "89",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "癫痫康胶囊",
+          "grade": "3.78",
+          "total": "61",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性疲劳综合症",
+    "information": {
+      "introduction": "慢性疲劳综合征(CFS)是指临床上出现的一种无法通过卧床休息而缓解的、长时间的全身疲乏无力现象。慢性疲劳综合症又称雅痞症、慢性伯基特淋巴瘤病毒(EBV)、慢性类单核白血球增多症等等。慢性疲劳综合征是长期存在的严重疲劳而无实际的肌肉软弱也无被证实的心理或身体方面的原因。以前，医学界对这种疲乏无力症状认识不足，常将其误诊为神经衰弱、更年期综合征、内分泌失调、神经官能症等，延误了治疗时机。慢性疲劳的隐蔽性在于让你感觉只熬了几夜就觉得很累。如果人体经常处于这种疲劳状态，身体的感知系统就会对疲劳信号的敏感度降低，等到患上某种疾病，身体再通过疲劳信号来提醒你时，往往很难引起注意，以致错过最佳的治疗时机。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "雅痞症，慢性伯基特淋巴瘤病毒(EBV)，慢性类单核白血球增多症",
+        "part": [
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "疲劳",
+          "食欲减退",
+          "精神萎靡",
+          "易激惹",
+          "情绪起伏大"
+        ],
+        "complication": [
+          "神经衰弱",
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "体检保健科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "75%",
+        "duration": "1-2年",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "疲劳自测测试"
+        ],
+        "medicine": [
+          "逍遥颗粒",
+          "寿星补汁",
+          "养肝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "逍遥颗粒(太极)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "寿星补汁(蟠桃)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳房湿疹",
+    "information": {
+      "introduction": "乳房湿疹(breast eczema)是发生在乳头及乳晕处皮肤的一种非特异性过敏性炎症。男女均可发病，但以哺乳期妇女多见。大多数为双侧病变，部分病人为单侧。皮疹为多形性，常有皲裂、瘙痒，易复发。有时可与身体其他部位皮肤损害同时伴发。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "乳房",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "年青妇女，特别是哺乳期妇女",
+        "symptom": [
+          "剧烈疼痛",
+          "乳汁淤积",
+          "皮肤浸润",
+          "丘疹",
+          "瘙痒"
+        ],
+        "complication": [
+          "湿疹样癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "治愈率87%",
+        "duration": "治疗周期15天",
+        "method": [
+          "传统物理、药物治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": [
+          "维生素B6软膏",
+          "七参连湿疹膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "漏斗胸",
+    "information": {
+      "introduction": "漏斗胸是一种先天性并常常是家族性的疾病。男性较女性多见，有报道男女之比为4∶1，属伴性显性遗传。主要表现为小儿前胸正中部位的胸骨、肋软骨及部分肋骨向背侧凹陷畸形，形成漏斗状，绝大多数漏斗胸的胸骨从第2或第3肋软骨水平开始向背侧，到剑突上为最低点，形成船样或漏斗样畸形，带使胸腔内的脏器受到压迫甚而移位，并导致小儿心肺发育及功能受到严重影响。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胸壁内凹，漏斗状胸",
+        "part": [
+          "胸部",
+          "其他骨"
+        ],
+        "infection": "无传染性",
+        "people": "男性较女性多见，男女之比为...",
+        "symptom": [
+          "心悸",
+          "胸廓异常",
+          "胸廓塌陷畸形",
+          "胸痛",
+          "胸腹部畸形"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（8000-15000元）",
+        "ratio": "50%",
+        "duration": "1-3月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "胸围、吸气胸围",
+          "胸部B超 ",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "参芪五味子糖浆",
+          "骨痛灵酊",
+          "漏斗胸矫形系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参芪五味子糖浆(中族)",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "骨痛灵酊",
+          "grade": "1.85",
+          "total": "12",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝性脑病",
+    "information": {
+      "introduction": "肝性脑病(hepatic encephalopathy，HE)又称肝性昏迷，是严重肝病引起的、以代谢紊乱为基础的中枢神经系统功能失调的综合病征，其主要临床表现是意识障碍、行为失常和昏迷。有急性与慢性脑病之分。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肝脑变性综合征,肝昏迷,门体脑病，肝性昏迷",
+        "part": [
+          "颅脑",
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "肝病患者",
+        "symptom": [
+          "肝功能衰竭",
+          "无力",
+          "感觉障碍",
+          "昏迷",
+          "嗜睡"
+        ],
+        "complication": [
+          "暴发性肝衰竭",
+          "消化道出血",
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000-80000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "颅脑MRI",
+          "颅脑CT",
+          "脑电图",
+          "心电图"
+        ],
+        "medicine": [
+          "拉克替醇散",
+          "乙酰谷酰胺注射液",
+          "多巴丝肼片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(同仁堂)",
+          "grade": "2.24",
+          "total": "84",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "声带息肉",
+    "information": {
+      "introduction": "声带息肉是指发生于一侧声带的前中部边缘的灰白色，表面光滑的息肉样组织，多为一侧单发或多发，有蒂或广基，常呈灰白色半透明样，或为红色小突起，有蒂者常随呼吸上下移动，大者可阻塞声门发生呼吸困难，影响发音。位置多位于声带前中三分之一交界处，一般小儿出现声带小结可以暂不要处理，成人出现小结或者息肉一般要通过手术才能治疗。手术后应常规禁声并可以做雾化治疗，同时注意发音方法及避免过度发声，以防复发。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鸭公喉",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "气息异常",
+          "嗓音粗",
+          "失音",
+          "呼吸困难",
+          "喉头增大"
+        ],
+        "complication": [
+          "感冒",
+          "慢性喉炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "五官科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "75%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "内镜检查"
+        ],
+        "medicine": [
+          "清咽片",
+          "清咽片",
+          "金嗓散结丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清咽片(鼎克)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清咽片(仁源堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金嗓散结丸(碑林)",
+          "grade": "2.57",
+          "total": "27",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "甘桔冰梅片(华森)",
+          "grade": "5.0",
+          "total": "250",
+          "secondary": "247"
+        },
+        {
+          "medicine_name": "金嗓散结胶囊(碑林)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "喉舒宁胶囊(晨牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "喉舒宁胶囊(均康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "喉舒宁胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金嗓散结片",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "金嗓散结颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "头皮屑",
+    "information": {
+      "introduction": "头皮糠疹(capitis pityriasis)又称头皮单纯糠疹(pityriasis simplex capitis)，俗称头皮屑(dandruff)。头皮有小的薄片状鳞屑脱落。可干燥或稍带油性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "干性糠疹,头皮单纯糠疹,头皮糠疹",
+        "part": [
+          "头部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鳞屑",
+          "糙皮病样皮疹",
+          "头皮屑多",
+          "头皮痒"
+        ],
+        "complication": [
+          "灰指甲",
+          "脓毒症和菌血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤涂片显微镜检查",
+          "头皮检查"
+        ],
+        "medicine": [
+          "养血生发胶囊",
+          "硫软膏",
+          "酮康唑洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "养血生发胶囊(敬修堂)",
+          "grade": "2.46",
+          "total": "78",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳头溢液",
+    "information": {
+      "introduction": "乳头溢液(nipple discharge)是乳腺疾病的常见症状，乳头溢液在乳腺疾病的发生率仅次于乳腺肿块和乳腺疼痛。可分为生理性溢液及病理性溢液。生理性溢液是指妊娠和哺乳期的泌乳现象，口服避孕药或镇静药引起的双侧乳头溢液及绝经后妇女单侧或双侧少量溢液等。病理性溢液是指非生理情况下，与妊娠、哺乳无关的一侧或双侧来自一个或多个导管的自然溢液，间断性、持续性从数月到数年者。乳头溢液主要是指病理性溢液。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "女性朋友，特别是刚产妇",
+        "symptom": [
+          "继发性闭经",
+          "月经稀少",
+          "外阴萎缩",
+          "盆腔肿块",
+          "溢乳"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "乳腺外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "乳腺超声",
+          "乳头溢液检查",
+          "乳腺导管造影",
+          "近红外线乳腺扫描",
+          "乳房穿刺针活检"
+        ],
+        "medicine": [
+          "散结乳癖膏",
+          "乳癖消片",
+          "十味香鹿胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "散结乳癖膏(散结乳癖贴膏(粉红丝秀)",
+          "grade": "2.92",
+          "total": "22",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "乳癖消片(红药)",
+          "grade": "2.24",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十味香鹿胶囊",
+          "grade": "4.68",
+          "total": "50",
+          "secondary": "22"
+        }
+      ]
+    }
+  }
+]

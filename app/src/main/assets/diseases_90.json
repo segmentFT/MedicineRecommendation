@@ -1,0 +1,946 @@
+[
+  {
+    "disease_name": "心血虚",
+    "information": {
+      "introduction": "心血虚，病证名。多由失血，过度劳神，或血的生化之源不足所致。症见心悸，心烦，易惊，失眠，健忘，眩晕，面色苍白，唇舌色淡，脉细弱等，治宜补血安神。血为阴，故亦作心阴虚。若兼见心烦口干、手足心热，潮热，盗汗，舌红少津、脉细数，乃心阳虚。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "多见于久病体虚，脾运不健或...",
+        "symptom": [
+          "脉濡弱",
+          "虚烦失眠",
+          "健忘",
+          "面色苍白",
+          "口干"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "眩晕",
+          "发作性睡病",
+          "致死性家族性失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（2000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "鸡血藤颗粒",
+          "气血双补丸",
+          "人参归脾丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鸡血藤颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "气血双补丸",
+          "grade": "1.42",
+          "total": "95",
+          "secondary": "36"
+        },
+        {
+          "medicine_name": "人参归脾丸(同仁堂)",
+          "grade": "4.6",
+          "total": "11",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人支气管哮喘",
+    "information": {
+      "introduction": "支气管哮喘(简称哮喘)是一种以嗜酸性粒细胞、肥大细胞反应为主的气道慢性炎症。对易感者此类炎症可引起不同程度的广泛的可逆性气道阻塞症状。临床表现为反复发作性喘息、呼吸困难、胸闷或咳嗽。可经治疗或自行恢复，其气道具有对刺激物的高反应性。以上对哮喘的定义是基于近年对年轻人哮喘病理生理学研究的结论，至于老年人哮喘的发生机制，尤其是气道炎症是否和年轻人哮喘一样则尚缺乏资料证明。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年支气管哮喘",
+        "part": [
+          "肺",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "胸闷",
+          "干咳",
+          "端坐呼吸",
+          "打喷嚏",
+          "心率增快"
+        ],
+        "complication": [
+          "支气管扩张",
+          "慢性支气管炎",
+          "纵隔气肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "40%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "肺功能",
+          "痰液的一般性状",
+          "一秒用力呼气量",
+          "动脉血气分析",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "至灵胶囊",
+          "曲尼司特胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "至灵胶囊",
+          "grade": "2.52",
+          "total": "37",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "未分化结缔组织病",
+    "information": {
+      "introduction": "近年来，未分化结缔组织病(undifferentiated connective tissue disease，UCTD)已逐渐被人们所认识。本病具有某些结缔组织病的临床表现，但又不符合任何一种特定疾病的诊断标准。它可能属于某一种弥漫性结缔组织病的早期阶段或顿挫型，在部分患者也可能是一种独立的疾病。到目前为止，未发现UCTD有特征性的临床表现和特异性的实验室指标。UCTD的诊断主要依靠临床表现，本病是否为另一种结缔组织病仍需学术界的进一步研究。\r\nUCTD的概念最早由LeRoy等在1980年提出。但是，直至1989年以后，相关的临床研究才逐渐增多。文献上的名称仍不统一，有人称之为隐匿性狼疮、不全型或顿挫型狼疮、早期未分化结缔组织病和未分化结缔组织综合征等。各研究者推荐的诊断标准也不完全一致。近十几年来，国外对本病的临床特征、实验室异常及其转归进行了较多的研究。国内亦有不少UCTD的病例，但系统的研究报道尚少。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "不全型或顿挫型狼疮,未分化结缔组织综合征,隐匿性狼疮,早期未分化结缔组织病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄多在18～67岁之间，...",
+        "symptom": [
+          "淋巴结肿大",
+          "血压高",
+          "肌痛",
+          "水肿",
+          "蛋白尿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "对症治疗为主，无法根治",
+        "duration": "终身间歇性治疗",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "醋酸地塞米松片",
+          "哈西奈德溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "男性假两性畸形",
+    "information": {
+      "introduction": "假两性畸形是遗传性别，性腺性别和表型性别的不均一性，即性腺性别与遗传性别一致，而生殖导管和尿生殖窦的发育却具有异性的成分或兼有两性的特征，以遗传性别和性腺性别为基础，假两性畸形又可再分为女性假两性畸形和男假两性畸形。男假两性畸形的基本特点是核型为46，XY，如果能发现性腺，肯定是睾丸，但外阴男性化不全，模棱两可，或是完全女性化，由于在胎儿时正常男性化的过程非常复杂，男假两性畸形有许多种类型。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "睾丸女性化综合征,男性假两性畸形,男性假两性同体",
+        "part": [
+          "男性生殖",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "男性化",
+          "乳房肥大",
+          "阴茎短",
+          "阴茎短",
+          "乳房肥大"
+        ],
+        "complication": [
+          "隐睾"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "男科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "10%",
+        "duration": "14--30天",
+        "method": [
+          "中医药物治疗、西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "睾丸活检",
+          "睾酮",
+          "促黄体生成素",
+          "血清卵泡刺激素",
+          "雌二醇"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性附件炎",
+    "information": {
+      "introduction": "急性附件炎为输卵管炎、卵巢炎两者同时发炎。在急性盆腔炎中输卵管炎最为常见。卵巢毗邻输卵管，当输卵管炎症继续扩展，常引起卵巢炎。卵巢炎很少单独发生，仅流行性腮腺炎病毒对卵巢有特殊亲和力，可经血行播散，使卵巢单独感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性输卵管-卵巢炎",
+        "part": [
+          "卵巢",
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "生育年龄的妇女",
+        "symptom": [
+          "发烧",
+          "肚子疼",
+          "弛张热",
+          "恶寒",
+          "乏力"
+        ],
+        "complication": [
+          "不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（2000 —— 10000元）",
+        "ratio": "99%",
+        "duration": "15天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "子宫及附件检查",
+          "盆腔和阴道B超",
+          "血沉",
+          "盆腔CT",
+          "白细胞数"
+        ],
+        "medicine": [
+          "金鸡颗粒",
+          "金鸡片",
+          "妇乐颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "金鸡片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.81",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(杨济生)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇乐颗粒(苗泰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(康缘)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(信邦)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇乐颗粒(晁氏)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金刚藤软胶囊(京丰)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糙皮病",
+    "information": {
+      "introduction": "烟酸缺乏(nicohric acid deficiency)又名尼克酸缺乏病、癞皮病、粗皮病或陪拉格病(pellagra)，因人体缺乏尼克酸而引起，主要临床表现为皮疹、消化系统及神经系统症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "烟酸缺乏,粗皮病,癞皮病,尼克酸缺乏病,陪拉格病,烟酸缺乏病,烟酸缺乏症,陪粒格,糖皮病,意大利癞病,玉米红斑病,玉蜀黍疹",
+        "part": [
+          "皮肤",
+          "颅脑",
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "瘙痒",
+          "注意力不集中",
+          "水肿",
+          "舌炎"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "营养科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "60%",
+        "duration": "2-4个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "色氨酸",
+          "烟酸",
+          "胃基础胃酸分泌量",
+          "心电图"
+        ],
+        "medicine": [
+          "复合维生素B注射液",
+          "烟酸片",
+          "积雪苷霜软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "积雪苷霜软膏(现代)",
+          "grade": "2.20",
+          "total": "37",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "积雪苷霜软膏(芙原)",
+          "grade": "2.27",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "积雪苷片(SHYNDEC)",
+          "grade": "2.29",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "薄芝片(浙南)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "传染性红斑",
+    "information": {
+      "introduction": "传染性红斑(Erythemainfectiosum)常在儿童中集体发生，有些学者认为本病是一种病毒性传染病，但未分离出病毒。也可能是一种肠道病毒。多在春秋季节发病，可能通过呼吸道传染，在家庭、幼儿园、学校中造成流行。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "第五病，第五种病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "好发于2～10岁儿童，春夏季节...",
+        "symptom": [
+          "耳后红斑",
+          "急性病容",
+          "斑丘疹",
+          "鳞屑",
+          "面部蝶形红斑"
+        ],
+        "complication": [
+          "流产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "根据不同的医院，收费标准不一致，市三甲医院约（1500-5000元）",
+        "ratio": "98%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "血小板计数",
+          "结核杆菌基因检测"
+        ],
+        "medicine": [
+          "扶正化瘀胶囊",
+          "升血小板胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "扶正化瘀胶囊",
+          "grade": "4.32",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "升血小板胶囊(郝其军)",
+          "grade": "2.06",
+          "total": "15",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "黄体功能不全性不孕",
+    "information": {
+      "introduction": "      黄体功能不全性不孕是指由于黄体发育不良或过早退化，孕酮分泌不足，或子宫内膜对孕酮反应性降低而引起的分泌期子宫内膜发育迟缓或停滞，或基质和腺体发育不同步而影响孕卵着床而导致的不孕症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期妇女多见",
+        "symptom": [
+          "女性不孕",
+          "黄素化囊肿"
+        ],
+        "complication": [
+          "黄体破裂",
+          "不孕症",
+          "黄体囊肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "65%-75%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、饮食调理"
+        ],
+        "examination": [
+          "不孕的基础体温",
+          "不孕不育检查",
+          "子宫内膜活检",
+          "性激素六项检查",
+          "精液检查"
+        ],
+        "medicine": [
+          "注射用绒促性素",
+          "注射用绒促性素",
+          "注射用绒促性素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "干呕",
+    "information": {
+      "introduction": "干呕的基本征候特征为欲吐而呕，无物(或仅呕出少量涎沫)而有声。多由胃失和降，气逆上冲引起的。临床应分寒热虚实辨治，而以和胃降逆为要。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "口苦",
+          "腹胀",
+          "腹满",
+          "肚子疼",
+          "口渴引饮"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "副鼻窦炎",
+          "发作性睡病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "90%",
+        "duration": "20-30天",
+        "method": [
+          "饮食、药物、中医治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "阴虚胃痛颗粒",
+          "阴虚胃痛胶囊",
+          "桂枝颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "阴虚胃痛颗粒",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "阴虚胃痛胶囊",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "桂枝颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝合剂",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "阴虚胃痛片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金朴消积颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "表虚感冒颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "表虚感冒胶囊",
+          "grade": "4.11",
+          "total": "9",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵泡囊肿",
+    "information": {
+      "introduction": "正常生理情况下，卵泡发育为成熟卵泡时，平均直径不超过1.5cm。若在生长发育过程中，卵泡发生闭锁或不破裂，致卵泡液积聚，形成卵泡扩张，直径在1.5～2.5cm，称囊状卵泡，大于2.5cm称卵泡囊肿。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "孤立性卵泡囊肿,滤泡囊肿,毛囊囊肿",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期妇女多见",
+        "symptom": [
+          "绝经后出血",
+          "子宫内膜增生性病变",
+          "阴道出血",
+          "老年妇女乳房增大",
+          "绝经后出血"
+        ],
+        "complication": [
+          "老年人急腹症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "70-80%",
+        "duration": "2-8周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "肿瘤标志物",
+          "雌激素",
+          "尿促卵泡成熟素",
+          "血清卵泡刺激素",
+          "雌二醇"
+        ],
+        "medicine": [
+          "慈航片",
+          "消结安口服液",
+          "雌二醇(E2)诊断试剂盒(化学发光法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "慈航片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消结安口服液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "包虫病",
+    "information": {
+      "introduction": "包虫病或称棘球蚴病（echinococciosis），是人感染棘球绦虫的幼虫（棘球蚴）所致的慢性寄生虫病。近年来流行病学调查表明，称之地方性寄生虫病；在流行区带有职业性损害的特点，被列为某些人群的职业病；从全球范围讲，包虫病为少数民族或宗教部落所特有的一种常见病和多发病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "棘球蚴病",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "畜牧业人群多见",
+        "symptom": [
+          "头痛",
+          "肝区痛",
+          "胸痛",
+          "疼痛",
+          "消瘦"
+        ],
+        "complication": [
+          "黄疸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "60%",
+        "duration": "2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "皮内试验",
+          "包虫病补体结合试验",
+          "嗜酸性粒细胞数",
+          "胸部平片"
+        ],
+        "medicine": [
+          "阿苯达唑片",
+          "阿苯达唑片",
+          "阿苯达唑片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "宿醉",
+    "information": {
+      "introduction": "宿醉，是指喝酒过量，造成第二天早上头痛、胃部不适等症状。这是因为大量饮酒后，肝细胞无法将有害物质乙醛全部处理，而造成急性中毒征状。宿醉时，肝脏会屯积脂肪，胃肠易患酒精性急性胃炎，自律神经平衡失调引起心跳加速，血液中水分与电解质平衡失调等，影响遍及全身。最好能用「睡觉休息」来解决，充足休息可助你快些复原。喝酒后来个热水浴可以促进血液循环，帮助新陈代谢，使酒精随汗水一起排出。不过有高血压、心脏血管疾病患者，酒后沐浴要小心中风，宜先稍作休息。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "头部",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "男性中青年多见",
+        "symptom": [
+          "复杂性醉酒",
+          "喝酒后胃疼",
+          "喝酒后呕吐",
+          "头痛",
+          "心动过速"
+        ],
+        "complication": [
+          "发作性睡病",
+          "颅内低压性头痛",
+          "颅咽管瘤",
+          "紧张性头痛",
+          "偏头痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约(500--1000元)",
+        "ratio": "85%",
+        "duration": "1-2个月",
+        "method": [
+          "食疗、药物治疗"
+        ],
+        "examination": [
+          "血压测量",
+          "尿液镜检法"
+        ],
+        "medicine": [
+          "迪沙牌海甲胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "静脉曲张综合征",
+    "information": {
+      "introduction": "静脉曲张综合征(veneous varicose syndrome)包括静脉曲张、静脉功能不全或淤积性皮炎和小腿静脉曲张性溃疡等一组疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "静脉曲张综合症",
+        "part": [
+          "皮肤",
+          "血液血管",
+          "小腿"
+        ],
+        "infection": "无传染性",
+        "people": "多见40岁以上中年男性及长久...",
+        "symptom": [
+          "增生性骨膜炎",
+          "静脉曲张",
+          "静脉曲张性溃疡",
+          "剧痛",
+          "下肢浅静脉曲张"
+        ],
+        "complication": [
+          "血栓性浅静脉炎",
+          "溃疡病出血",
+          "慢性湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约8000--15000",
+        "ratio": "60--80%",
+        "duration": "7--21天",
+        "method": [
+          "药物治疗、局部治疗、物理治疗、手术治疗"
+        ],
+        "examination": [
+          "血液黏度",
+          "血液检查"
+        ],
+        "medicine": [
+          "曲克芦丁颗粒",
+          "七叶皂苷钠片",
+          "迈之灵片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "唇病",
+    "information": {
+      "introduction": "唇病包括糜烂型唇炎(erosive cheilitis)、干燥脱屑型唇炎又名单纯性唇炎或剥脱性唇炎(exfoliative cheilitis)、腺型唇炎 (glandular cheilitis)、肉芽肿性唇炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "唇炎,糜烂型唇炎,干燥脱屑型唇,腺型唇炎,肉芽肿性唇炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "干燥脱屑型唇炎好发于青春期...",
+        "symptom": [
+          "鳞屑",
+          "鳞状上皮",
+          "唇红干燥",
+          "盘状红斑",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "肉芽肿性唇炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "根据不同的医院，收费标准不一致，市三甲医院约（300-2500元）",
+        "ratio": "97%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查"
+        ],
+        "medicine": [
+          "健民咽喉片",
+          "口炎清颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健民咽喉片(咽喉片(健民)",
+          "grade": "4.28",
+          "total": "37",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肱骨干骨折",
+    "information": {
+      "introduction": "肱骨干骨折(fracture of humeral shaft)系指肱骨外科颈以下1～2cm至肱骨髁上2cm之间的骨折，占全身骨折的1.31%。多发于骨干的中部，其次为下部，上部最少。中下1/3骨折易合并桡神经损伤，下1/3骨折易发生骨不连。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "上肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "多见于青壮年",
+        "symptom": [
+          "创伤",
+          "肩胛带和上肢疼痛",
+          "单纯骨折",
+          "上肢半屈状",
+          "臂痛"
+        ],
+        "complication": [
+          "桡神经损伤",
+          "肱骨大结节骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "4周--13周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "一般摄片检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "盐酸曲马多缓释片",
+          "交锁髓内钉系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

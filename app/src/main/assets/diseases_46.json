@@ -1,0 +1,1147 @@
+[
+  {
+    "disease_name": "盆腔炎",
+    "information": {
+      "introduction": "女性盆腔生殖器官及其周围的结缔组织、盆腔腹膜发生炎症时，称为盆腔炎，包括急性盆腔炎、慢性盆腔炎、盆腔腹膜炎、附件炎（急性附件炎、慢性附件炎、输卵管炎、卵巢炎)、子宫炎(急性子宫内膜炎、慢性子宫内膜炎、急性宫颈炎、慢性宫颈炎)、盆腔结缔组织炎等。可一处或几处同时发病，是妇女常见病之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "盆腔脓肿",
+        "part": [
+          "盆腔",
+          "卵巢",
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "下腹疼痛",
+          "腰骶部酸痛",
+          "发烧",
+          "白带增多"
+        ],
+        "complication": [
+          "月经不调",
+          "痛经",
+          "腹膜炎",
+          "休克",
+          "盆腔脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "85%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "盆腔充气造影",
+          "妇科炎症检查",
+          "双合诊",
+          "白带常规",
+          "妇科B超"
+        ],
+        "medicine": [
+          "妇科千金片",
+          "金鸡胶囊",
+          "康妇炎胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "金鸡颗粒(六棉牌)",
+          "grade": "4.07",
+          "total": "68",
+          "secondary": "66"
+        },
+        {
+          "medicine_name": "宫炎康颗粒(民济)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎康颗粒(希尔安)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹黄祛瘀胶囊(久金)",
+          "grade": "2.90",
+          "total": "12",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "丹鳖胶囊(潘高寿)",
+          "grade": "2.20",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇可靖胶囊(乐天)",
+          "grade": "2.36",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎平片(罗浮山国药)",
+          "grade": "3.34",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "椿乳凝胶(千金)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "宫炎平胶囊(南山)",
+          "grade": "2.62",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿呕吐",
+    "information": {
+      "introduction": "呕吐是小儿时期常见的症状之一，如得不到及时正确的治疗则会影响患儿营养物质的摄入，严重者则引起脱水和电解质紊乱。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "吐酸",
+          "食欲不振",
+          "急腹症",
+          "腹肌紧张",
+          "新生儿腹胀"
+        ],
+        "complication": [
+          "吸入性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100——500 元）",
+        "ratio": "75%",
+        "duration": "5-30天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "复方鸡内金片",
+          "藿香正气胶囊",
+          "儿泻停颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方鸡内金片(景忠山)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藿香正气胶囊(远健)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "儿泻停颗粒(神鹿)",
+          "grade": "3.28",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿至宝丸(同仁堂)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "八宝惊风散(伍豪)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "枳术宽中胶囊(双人牌)",
+          "grade": "4.01",
+          "total": "12",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人低血糖症",
+    "information": {
+      "introduction": "老年低血糖症(senile hypoglycaemia)指各种原因引起血浆葡萄糖浓度过低，使交感神经和肾上腺髓质兴奋及大脑功能障碍的一组症候群。一般认为血糖低于2.8mmol/L(50mg/dl)时出现症状。老年人易发生低血糖性脑功能障碍。低血糖分为空腹低血糖和餐后低血糖(即反应性低血糖)，前者多为病理性，后者多为功能性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "进食困难、有胰岛素瘤、糖尿...",
+        "symptom": [
+          "糖尿",
+          "颤抖",
+          "头痛",
+          "皮肤苍白",
+          "心动过速"
+        ],
+        "complication": [
+          "脑梗死",
+          "脑萎缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "老年科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "85-95%(合理使用胰岛素即可避免本病发生)",
+        "duration": "1-3个月",
+        "method": [
+          "补充糖水、原发病治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "血清胰岛素原",
+          "胰高血糖素",
+          "血清C肽",
+          "葡萄糖耐量试验"
+        ],
+        "medicine": [
+          "葡萄糖注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴茎硬结症",
+    "information": {
+      "introduction": "阴茎纤维性海绵体炎(下称Peyronie病)为阴茎海绵体与白膜间的纤维化病变，在阴茎海绵体上出现单个或数个病损斑块。Francois de La Peyronie 1743年在他的论文中描述了纤维性阴茎海绵体炎特征，并因此被命名为Peyronie病。Peyronie病也被称为阴茎非自然硬结、阴茎纤维瘤病和阴茎硬结症等。本病的特点是阴茎海绵体白膜的损害，在勃起过程中，阴茎向受损侧弯曲，可能与阴茎多次轻度损伤有关，但确切病因不明。病变位于阴茎海绵体和白膜间的蜂窝结缔组织，显微镜下初期可见结缔组织层的血管周围有淋巴细胞和浆细胞浸润，继而在阴茎海绵体膈附近形成以胶原纤维为主的斑块。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "中老年男性多见",
+        "symptom": [
+          "阴茎异常勃起",
+          "阴茎硬结",
+          "痛性阴茎勃起",
+          "痛性阴茎勃起",
+          "阴茎异常勃起"
+        ],
+        "complication": [
+          "阴茎异常勃起",
+          "性功能异常伴发的精神障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院包括手术费用约（30000 —— 60000元）",
+        "ratio": "30%",
+        "duration": "10-30天",
+        "method": [
+          "中医药物治疗、西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "阴茎海绵体造影",
+          "阴茎检查",
+          "阴茎超声检查"
+        ],
+        "medicine": [
+          "维生素E软胶囊",
+          "吸收性明胶海绵"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人慢性支气管炎",
+    "information": {
+      "introduction": "慢性支气管炎(chronic bronchitis)是由于感染或非感染因素引起的气管-支气管黏膜及其周围组织的慢性非特异性炎症。其病理特点是支气管黏液腺增生、黏液分泌增加。临床上表现为连续2年以上，每年持续3个月以上的咳嗽、咳痰或气喘等症状。本病起病隐袭，早期症状轻微，多在冬季发作，春暖后缓解;后期症状加重并常年存在。病程迁延反复，常可并发肺气肿和肺源性心脏病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年慢性支气管炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "吸烟史老年患者",
+        "symptom": [
+          "呼吸音粗糙",
+          "呼吸音低",
+          "喘息",
+          "哮鸣音",
+          "水肿"
+        ],
+        "complication": [
+          "支气管肺炎",
+          "支气管扩张"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "治愈率81%",
+        "duration": "治疗周期14天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "呼气试验",
+          "支气管镜",
+          "胸部疾病体征检查",
+          "胸透",
+          "白细胞分类计数"
+        ],
+        "medicine": [
+          "金贝痰咳清颗粒",
+          "支气管炎片",
+          "止嗽化痰丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金贝痰咳清颗粒(世一堂)",
+          "grade": "3.78",
+          "total": "26",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "3.99",
+          "total": "114",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止嗽化痰丸(德昌祥)",
+          "grade": "2.4",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止嗽咳喘宁糖浆(同仁堂)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止嗽化痰胶囊(灵泰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "止嗽咳喘宁糖浆(汉方)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘胶囊(恒拓)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘片(鸿博)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘片(君寿堂)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘胶囊(同仁堂)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘片(神通)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "老年咳喘片(天银)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年性耳聋",
+    "information": {
+      "introduction": "老年性耳聋是指随着年龄增长逐渐发生的进行性听力减弱，重者可致全聋的一种老年性疾病。通常情况下65～75岁的老年人中，发病率可高达60%左右。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "老年人群",
+        "symptom": [
+          "听力减退",
+          "耳鸣",
+          "嗜睡",
+          "音调韵律的异常",
+          "耳蜗性耳聋"
+        ],
+        "complication": [
+          "耳聋"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000—— 5000元）",
+        "ratio": "20-30%(多位神经性耳聋，根治机会较小)",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗、助听器、耳蜗植入器、听觉和言语训练"
+        ],
+        "examination": [
+          "语言检查法",
+          "听力检查",
+          "耳鼻咽喉CT",
+          "电测听",
+          "前庭功能"
+        ],
+        "medicine": [
+          "羧甲司坦口服溶液",
+          "活力苏口服液",
+          "维参锌胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "活力苏口服液(华神)",
+          "grade": "3.31",
+          "total": "18",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿癫痫",
+    "information": {
+      "introduction": "癫痫(epilepsy)是由多种病因引起的慢性脑部疾患，以脑部神经元过度放电所致的突然、反复和短暂的中枢神经系统功能失常为特征。小儿癫痫从病因、临床表现、诊断、治疗及预后与成人有所不同，众多的癫痫综合征很多是小儿所特有的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "小儿癫痫症,小儿羊痫疯",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "四肢抽搐",
+          "反复高热",
+          "昏睡",
+          "一过性昏厥"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（8000--15000元）",
+        "ratio": "70-80%",
+        "duration": "2-3年",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "神经系统免疫学检验",
+          "颅脑MRI",
+          "血液生化六项",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "丙戊酰胺片",
+          "丙戊酸镁片",
+          "托吡酯片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痫愈胶囊(致康)",
+          "grade": "3.74",
+          "total": "13",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "九龙化风丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珊瑚七十味丸(神水藏药)",
+          "grade": "1.74",
+          "total": "35",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "九龙化风丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "髌骨骨折",
+    "information": {
+      "introduction": "髌骨是膝关节的重要组成部分，是人体中最大的籽骨。在伸膝活动中，髌骨通过杠杆作用能使股四头肌力量提高约30%，尤其在伸直膝关节的最后10°～15°时，髌骨的作用更显重要。髌骨骨折后如处理不当，将会严重影响膝关节的活动，甚至造成终生残疾。由于髌骨切除后可导致永久性的膝关节功能受限，伸膝力量减弱，并可引起股四头肌萎缩。因此，髌骨骨折后应尽量保存髌骨的完整，不主张进行髌骨切除。髌骨与股骨内外髁的前方形成髌股关节，髌骨骨折后应尽量恢复关节面的平整，以减少创伤性髌股关节炎的发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "膝盖损断",
+        "part": [
+          "膝部"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，一般在20～50岁之...",
+        "symptom": [
+          "皮下血肿",
+          "髌骨疼痛",
+          "膝关节肿胀积血",
+          "髌下疼痛",
+          "膝关节疼痛"
+        ],
+        "complication": [
+          "脂肪栓塞综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "3-4个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "刮髌试验",
+          "拇指指甲滑动试验",
+          "一般摄片检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "正骨水",
+          "髌骨骨折安装器械包"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脾虚泄泻",
+    "information": {
+      "introduction": "脾虚泄泻是由脾气虚，或病后过服寒凉，或饮食失节，或劳倦伤脾引起的。脾虚泄泻的基本征候特征为身弱怯冷，面色萎黄，手足皆冷，四肢倦怠，不思饮食，时时泻薄。其脉多虚濡或沉缓。治以温运健脾为主，选用理中汤、附子理中丸、参苓白术散、四君子汤等方。参见脾泄、泄泻等条。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脾虚",
+          "脘痞腹胀",
+          "腹满便溏",
+          "尿赤",
+          "泛恶欲吐"
+        ],
+        "complication": [
+          "副鼻窦炎",
+          "颅咽管瘤",
+          "新生儿泪囊炎",
+          "发作性睡病",
+          "寒湿泄泻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "80%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "参倍固肠胶囊",
+          "香苏正胃丸",
+          "补脾益肠丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参倍固肠胶囊(易激健)",
+          "grade": "4.75",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香苏正胃丸(同仁堂)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补脾益肠丸",
+          "grade": "3.41",
+          "total": "119",
+          "secondary": "87"
+        },
+        {
+          "medicine_name": "固本益肠片(新乐)",
+          "grade": "3.83",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "补脾益肠丸(陈李济)",
+          "grade": "4.08",
+          "total": "90",
+          "secondary": "87"
+        },
+        {
+          "medicine_name": "肥儿散(圣鑫)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散(美东)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散(邮船)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香砂六君丸(同仁堂)",
+          "grade": "4.71",
+          "total": "41",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "补中益气丸",
+          "grade": "2.25",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肥儿散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腹股沟斜疝",
+    "information": {
+      "introduction": "疝囊经过腹壁下动脉外侧的腹股沟管深环突出，向内、向下、向前斜行经过腹股沟管再穿出腹股沟浅环，并可进入阴囊，称为腹股沟斜疝，约占腹股沟疝的90%，是最常见的腹外疝。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "疝气",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "儿童和青中年男性",
+        "symptom": [
+          "腹股沟疼痛",
+          "牵涉痛",
+          "腹壁切口处有肿物突出",
+          "下腹胀痛",
+          "腹胀"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "一般经过手术治疗后，一般95%可以治愈",
+        "duration": "治疗周期一般在2-3周",
+        "method": [
+          "中医药物治疗、西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "透光试验",
+          "肛门视诊",
+          "腹股沟外环冲击试验"
+        ],
+        "medicine": [
+          "茴香橘核丸",
+          "茴香橘核丸",
+          "疝气治疗带"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "茴香橘核丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "茴香橘核丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "视神经萎缩",
+    "information": {
+      "introduction": "视神经萎缩(optic atrophy)不是一种单独的疾病，它是视神经各种病变及其髓鞘或视网膜神经节细胞及其轴突等的损害，致使神经纤维丧失、神经胶质增生的最终结局，为病理学通用的名词。一般发生于视网膜至外侧膝状体之间的神经节细胞轴突变性。由于神经纤维的蜕变及萎缩，病人多有视功能的减退、视野的缩小。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "视力常呈雾状模糊感",
+          "视力障碍",
+          "鼻旁窦发育不良",
+          "视力障碍",
+          "视野缩小"
+        ],
+        "complication": [
+          "原发性视网膜脱离"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "40%",
+        "duration": "2-4个月",
+        "method": [
+          "药物、激光、手术治疗、中医理疗"
+        ],
+        "examination": [
+          "血液生化六项",
+          "脑脊液一般性状",
+          "视野检查"
+        ],
+        "medicine": [
+          "肌苷注射液",
+          "注射用甲泼尼龙琥珀酸钠",
+          "肌苷"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "特发性血小板减少性紫癜",
+    "information": {
+      "introduction": "特发性血小板减少性紫癜(idiopathic thrombocytopenic purpura，ITP)是小儿最常见的出血性疾病，其特点是自发性出血，血小板减少，出血时间延长和血块收缩不良。本病是一种与免疫反应相关的出血性疾病。根据患者的病程在6个月以内或是6个月以上可将本病划分为急性型和慢性型，两型在发病年龄、病因和发病机制及预后方面都有所不同。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "免疫性血小板减少性紫癜，自身免疫性血小板减少性紫癜 ",
+        "part": [
+          "血液血管",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "血小板寿命缩短",
+          "瘀斑",
+          "骨髓巨核细胞成熟障碍",
+          "大便黑色",
+          "脾大"
+        ],
+        "complication": [
+          "缺铁性贫血",
+          "月经量多",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血小板寿命",
+          "红细胞检查",
+          "出血时间",
+          "凝血时间"
+        ],
+        "medicine": [
+          "环孢素",
+          "环孢素",
+          "冻干静注人免疫球蛋白(pH4)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血康口服液",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "血康口服液",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "前庭大腺炎",
+    "information": {
+      "introduction": "前庭大腺炎(bartholinitis)是前庭大腺的炎症。前庭大腺位于两侧大阴唇下1/3深部，其直径约为0.5-1.0cm，它们的出口腺管长约1.5-2.0cm，腺体开口处位于小阴唇内侧近处女膜处。在性交的刺激下，分泌出粘液，以资滑润。由于解剖位置的特殊性，病原体易侵入引起前庭大腺炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "巴多林腺炎 ",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "成年女性",
+        "symptom": [
+          "外阴损伤",
+          "外阴下坠感",
+          "外阴肿胀",
+          "外阴萎缩",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "直肠子宫内膜异位症",
+          "直肠阴道瘘",
+          "直肠脱垂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-3000元）",
+        "ratio": "治愈率93%",
+        "duration": "治疗周期10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "阴道分泌物涂片",
+          "阴道妇科常规检查",
+          "外阴部妇科常规检查",
+          "直接涂片检查"
+        ],
+        "medicine": [
+          "抗妇炎胶囊",
+          "抗宫炎片",
+          "头孢地尼分散片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗妇炎胶囊(远程)",
+          "grade": "1.56",
+          "total": "42",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脚气病",
+    "information": {
+      "introduction": "脚气病即维生素B1缺乏病，维生素B1即硫胺素（Thiamine）是硫胺素焦磷酸盐（TPP）的前体。TPP是三羧酸循环中丙酮酸与α-酮戊二酸脱羧反应的重要辅酶，也是红细胞酮醇基转移酶的辅酶。此外，对脑细胞活性与神经冲动传导亦有一定关系。一旦缺乏，可引起一系列神经系统与循环系统症状，称之为脚气病（Beriberi）。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "维生素B1缺乏病,硫胺素缺乏病",
+        "part": [
+          "足部",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脚臭",
+          "趾垂症",
+          "食欲减退",
+          "心脏扩大",
+          "干性脚气"
+        ],
+        "complication": [
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "95%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血乳酸",
+          "血液丙酮酸",
+          "维生素B1",
+          "心电图"
+        ],
+        "medicine": [
+          "三维B片",
+          "复合维生素B片",
+          "复合维生素B片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "运动神经元病",
+    "information": {
+      "introduction": "肌萎缩侧索硬化(amyotrophic lateral sclerosis，ALS)在早先时期与运动神经元疾病具有完全等同的含义，特指先有下运动神经元损害，之后又有上运动神经元损害的一个独立的疾病。但后来发现还有另外两种变异情况，即病程中始终只累及上运动神经元或下运动神经元，前者称为原发性侧索硬化，后者称为脊髓性肌萎缩。到目前为止有些文献仍沿用运动神经元病来专指肌萎缩侧索硬化。多数学者习惯根据上、下运动神经元受累的不同组合，将运动神经元病分为肌萎缩侧索硬化、原发性侧索硬化和脊髓性肌萎缩三种类型。近年的研究提示肌萎缩侧索硬化与多种相关疾病有共同的病理基础，这些疾病包括原发性侧索硬化、ALS -痴呆、ALS-相关性额叶痴呆、进行性脊髓性肌萎缩、多系统萎缩和lewy小体病。病理检查发现这些疾病同样含有泛素阳性包涵体和透明团块包涵体，只是损伤了不同的解剖部位而出现各种各样的临床组合。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "男性人群",
+        "symptom": [
+          "肌束震颤",
+          "肌肉跳动",
+          "运动性兴奋或抑制",
+          "呛咳",
+          "肌张力过高"
+        ],
+        "complication": [
+          "肌萎缩侧索硬化症",
+          "痴呆",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%-70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "颅脑MRI",
+          "颈部MRI",
+          "肌电图",
+          "血常规"
+        ],
+        "medicine": [
+          "痹祺胶囊",
+          "七十味珍珠丸",
+          "利鲁唑片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痹祺胶囊(痹祺)",
+          "grade": "3.33",
+          "total": "60",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(金诃)",
+          "grade": "1.74",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "如意珍宝丸(金诃)",
+          "grade": "2.11",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益髓颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

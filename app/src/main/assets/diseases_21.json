@@ -1,0 +1,1187 @@
+[
+  {
+    "disease_name": "急性乳腺炎",
+    "information": {
+      "introduction": "急性乳腺炎(acute mastitis)是乳腺的急性化脓性感染，是乳腺管内和周围结缔组织炎症，常在短期内形成脓肿，多由金葡球菌或链球菌沿淋巴管入侵所致。多发生于产后哺乳期的妇女，尤其是初产妇更为多见。病菌一般从乳头破口或皲裂处侵入，也可直接侵入引起感染。有文献报道急性乳腺炎初产妇患病占50%，初产妇与经产妇之比为2.4∶1。哺乳期的任何时间均可发生，但以产后3～4周最为常见，故又称产褥期乳腺炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性乳房炎，乳痈，产褥期乳腺炎",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "初产妇",
+        "symptom": [
+          "泌乳障碍",
+          "乳汁淤积",
+          "输乳管阻塞",
+          "乳汁分泌减少",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "菌血症",
+          "急性化脓性乳腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 ——10000元）",
+        "ratio": "治%E",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "乳房摄片",
+          "乳房自检",
+          "乳房穿刺针活检",
+          "乳房触诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "了哥王片",
+          "蒲公英颗粒",
+          "炎立消胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蒲公英颗粒(心诚)",
+          "grade": "4.77",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎立消胶囊(敖东)",
+          "grade": "2.65",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎立消胶囊(修正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(旺安)",
+          "grade": "3.8",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七味新消丸",
+          "grade": "3.99",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎可宁片(抗骨增生片)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(海外)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(太极)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎立消胶囊",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(澎健)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎可宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁胶囊(云南白药)",
+          "grade": "4.33",
+          "total": "10",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "炎可宁片(豪克)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(施锐)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性盆腔炎",
+    "information": {
+      "introduction": "慢性盆腔炎(chronic pelvic inflammatory disease)是指女性内生殖器及其周围结缔组织、盆腔腹膜的慢性炎症。常为急性盆腔炎未彻底治疗，在患者体质较差的情况下，急性盆腔炎的病程可迁延及反复发作，造成慢性盆腔炎;但是亦可无急性盆腔炎症病史过程，如沙眼衣原体感染所致输卵管炎。慢性盆腔炎病情较顽固，可导致月经紊乱、白带增多、腰腹疼痛及不孕等，如已形成慢性附件炎，则可触及肿块。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "盆腔",
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "妇女人群",
+        "symptom": [
+          "腰骶部酸痛",
+          "下腹坠胀",
+          "下腹疼痛"
+        ],
+        "complication": [
+          "慢性盆腔疼痛",
+          "腹膜炎",
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约10000--30000元",
+        "ratio": "85%",
+        "duration": "1-3个月",
+        "method": [
+          "西药治疗、中药治疗、针灸治疗、物理治疗"
+        ],
+        "examination": [
+          "盆腔充气造影",
+          "阴道镜",
+          "盆腔和阴道B超",
+          "盆腔CT",
+          "子宫输卵管造影"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "止痛化癥胶囊",
+          "妇科千金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止痛化癥胶囊(东方金宝)",
+          "grade": "2.07",
+          "total": "17",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "宫炎康颗粒(民济)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎康颗粒(希尔安)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹黄祛瘀胶囊(久金)",
+          "grade": "2.90",
+          "total": "12",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "妇可靖胶囊(乐天)",
+          "grade": "2.36",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎平片(罗浮山国药)",
+          "grade": "3.34",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "宫炎平胶囊(南山)",
+          "grade": "2.62",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "妇炎康片(鑫字牌)",
+          "grade": "2.74",
+          "total": "123",
+          "secondary": "99"
+        },
+        {
+          "medicine_name": "妇炎康胶囊(桂西)",
+          "grade": "1.09",
+          "total": "19",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "花红片(花红)",
+          "grade": "2.81",
+          "total": "63",
+          "secondary": "28"
+        },
+        {
+          "medicine_name": "妇科千金胶囊(千金)",
+          "grade": "4.00",
+          "total": "222",
+          "secondary": "214"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝胆湿热",
+    "information": {
+      "introduction": "肝胆湿热证为湿热内蕴肝胆功能失常所致的病证。常因感受湿热之邪或脾虚水湿内生，日久化热，或长期过食甘肥厚味生湿助热，影响肝胆功能所致。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肝",
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肝积水",
+          "纳差",
+          "恶心与呕吐",
+          "腹胀",
+          "大便溏泄"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "副鼻窦炎",
+          "脑血管瘤",
+          "奔豚气",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "甲种胎儿球蛋白试验"
+        ],
+        "medicine": [
+          "地榆槐角丸",
+          "龙胆泻肝丸",
+          "胆石通胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "地榆槐角丸(水蜜丸)",
+          "grade": "3.28",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(同仁堂)",
+          "grade": "3.35",
+          "total": "58",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "胆石通胶囊(万年青牌)",
+          "grade": "1.97",
+          "total": "29",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清肝利胆口服液(香雪)",
+          "grade": "3.83",
+          "total": "65",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "鸡骨草胶囊(玉林)",
+          "grade": "4.19",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "结石清胶囊(贵州百灵)",
+          "grade": "4.16",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利胆止痛片",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "龙胆泻肝丸(水丸)",
+          "grade": "2.47",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱胆通口服液(万年青)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱草颗粒(金甘)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方鸡骨草胶囊(玉林)",
+          "grade": "5.0",
+          "total": "4",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结肠息肉",
+    "information": {
+      "introduction": "是一类从粘膜表面突出到结肠肠腔内的隆起状的病变，在未确定病理性质前均称为结肠息肉，按病理可分为：腺瘤样息肉(包括乳头状腺瘤)最常见，炎性息肉，肠粘膜受长期炎症刺激增生的结果，错构瘤型息肉，其他，如粘膜肥厚增生形成增生性息肉，淋巴组织增生，类癌等疾患。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "里急后重",
+          "腹胀",
+          "黏液便",
+          "排气障碍"
+        ],
+        "complication": [
+          "结肠炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "治愈率100%",
+        "duration": "手术治疗周期5天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肠镜",
+          "直肠镜",
+          "乙状结肠镜检查",
+          "纤维结肠镜",
+          "直肠指检"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "前庭大腺囊肿",
+    "information": {
+      "introduction": "前庭大腺囊肿为前庭大腺管开口部阻塞、腺体持续分泌而形成的潴留性、炎性囊肿。分娩时阴道和会阴外侧损伤时发生的较为严重的瘢痕组织阻塞腺管口、缝合侧切的会阴时损伤了前庭大腺管致使分泌物不能排除而积聚于腺腔以及在急性炎症、脓肿消退后，脓液逐渐吸收转为清液等多种因素均可形成囊肿。前庭大腺囊肿可继发感染形成脓肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "前庭大腺炎,巴氏腺囊肿,巴索林囊肿",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "阴囊肿大",
+          "阴囊肿胀",
+          "外阴下坠感",
+          "外阴肿胀",
+          "囊肿"
+        ],
+        "complication": [
+          "外阴肿瘤",
+          "外阴表皮样囊肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "95%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "妇科的保健体检",
+          "宫颈妇科常规检查",
+          "外阴部妇科常规检查",
+          "妇科常规检查",
+          "妇科B超"
+        ],
+        "medicine": [
+          "止痛化癥胶囊",
+          "抗妇炎胶囊",
+          "宫炎康颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止痛化癥胶囊(东方金宝)",
+          "grade": "2.07",
+          "total": "17",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗妇炎胶囊(远程)",
+          "grade": "1.56",
+          "total": "42",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "宫炎康颗粒",
+          "grade": "3.65",
+          "total": "70",
+          "secondary": "69"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "川崎病",
+    "information": {
+      "introduction": "川崎病(Kawasaki diseaes)又称皮肤粘膜淋巴结综合症(muco-cuta-meous lymph node syndrome，MCLS)，是一种以全身血管炎变为主要病变的小儿急性发热性出疹性疾病。1967年日本川崎富作医生首次报道。由于本病可发生严重心血管病变，所以引起人们的重视。近年发病增多，1990年北京儿童医院风湿性疾病住院病例中，川崎病67例，风湿热27例;外省市11所医院相同的资料中，川崎病为风湿的2倍。显然川崎病已取代风湿热为我国小儿后天性心脏病的主要病因之一。目前认为川崎病是一种免疫介导的血管炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "皮肤粘膜淋巴结综合征",
+        "part": [
+          "皮肤",
+          "淋巴",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": " 婴幼儿 ",
+        "symptom": [
+          "发烧",
+          "皮疹",
+          "结膜充血",
+          "颈部淋巴结肿大",
+          "持续性发热"
+        ],
+        "complication": [
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂",
+          "盆腔炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "心血管内科",
+          "风湿科"
+        ],
+        "cost": "市三甲医院约20000--60000元",
+        "ratio": "90%",
+        "duration": "4周",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "血清免疫球蛋白（Ig）",
+          "C反应蛋白"
+        ],
+        "medicine": [
+          "七叶皂苷钠片",
+          "通络开痹片",
+          "阿司匹林缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "通络开痹片(上岗)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "单纯疱疹",
+    "information": {
+      "introduction": "单纯疱疹是一种传染性皮肤病，由单纯疱疹病毒(herpes simplex virus，HSV)感染所致。单纯疱疹的临床特征为皮肤黏膜成簇出现单房性的小水疱，主要发生于面部或生殖器等局部，易于复发;病原体是一种病毒，多发生在上唇或面部，症状是局部先发痒，然后出现水泡状的隆起，内含透明的液体，有微痛，一两周后结痂自愈。HSV可导致宫内感染，胎儿出生时可呈各种形式的先天畸形或发育障碍，是所谓的“TORCH”综合征的常见病因之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "单纯性疱疹，热疮 ",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口唇疱疹",
+          "溃疡",
+          "下唇微痒增大如蚕茧硬结",
+          "淋巴结肿大",
+          "疱疹"
+        ],
+        "complication": [
+          "角膜炎",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000—— 5000元）",
+        "ratio": "60%",
+        "duration": "一个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清化学检查",
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "产科B超",
+          "单纯疱疹病毒"
+        ],
+        "medicine": [
+          "酞丁安乳膏",
+          "酞丁安搽剂",
+          "复方片仔癀软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "多发性骨髓瘤",
+    "information": {
+      "introduction": "骨髓瘤(又称浆细胞瘤)是起源于骨髓中浆细胞的恶性肿瘤，是一种较常见的恶性肿瘤。有单发性和多发性之分，以后者多见。多发性骨髓瘤又称细胞骨髓瘤(Multiple myeloma,简称MM)，是由具有合成和分泌免疫球蛋白的浆细胞发生恶变，大量单克隆的恶性浆细胞增生引起易累及软组织，晚期可有广泛性转移，但少有肺转移。较多见于脊，占脊柱原发肿瘤的10%，以腰椎部多见。好发年龄多在40岁以上男性与女性之比约2∶1。多发于40岁以上男性，好发部位依次为脊椎、肋骨、颅骨、胸骨等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "骨髓瘤，赫珀特病，赫珀特氏病，浆细胞骨髓瘤",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "骨痛",
+          "出血倾向",
+          "反复感染",
+          "肾损害",
+          "肝脾肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "骨科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "30%",
+        "duration": "1个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "肾功能",
+          "CT检查",
+          "脊椎平片",
+          "血液生化六项"
+        ],
+        "medicine": [
+          "乌苯美司胶囊",
+          "注射用重组人干扰素α2a(酵母)",
+          "乌苯美司胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "丹毒",
+    "information": {
+      "introduction": "丹毒(erysipelas)俗称“流火”，是由A族B型链球菌引起的皮肤及皮下组织的一种急性炎症，常表现为境界清楚的局限性红肿热痛，好发于颜面及下肢，可有头痛、发热等全身症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": " 流火病",
+        "part": [
+          "皮肤",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人",
+        "symptom": [
+          "丹毒样外观",
+          "皮肤弥漫性红肿",
+          "泛发性红色斑块",
+          "水疱或大疱损害",
+          "高热寒战"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学"
+        ],
+        "medicine": [
+          "鱼石脂软膏",
+          "青霉素V钾片",
+          "头孢地尼分散片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "一期梅毒",
+    "information": {
+      "introduction": "梅毒是由梅毒螺旋体感染引起的一种慢性全身性性传播疾病。主要通过性交传染。本病表现极为复杂，几乎可侵犯全身各器官，造成多器官的损害。    一期梅毒主要表现为感染部位的溃疡或硬下疳。硬下疳出现一周后，附近淋巴结肿大，为无痛性淋巴结炎。硬下疳如不治疗，经3-4周可以自愈。经有效治疗后可迅速愈合，遗留浅在性萎缩瘢痕。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "硬下疳",
+        "part": [
+          "女性生殖",
+          "男性生殖"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴结肿大",
+          "硬下疳",
+          "硬下疳",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "瘫痪",
+          "主动脉瓣关闭不全",
+          "心肌梗塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "85%",
+        "duration": "3-6个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "基因诊断技术检测梅毒螺旋体",
+          "梅毒血清试验",
+          "不加热血清反应素实验",
+          "梅毒螺旋体抗原血清试验",
+          "血清梅毒螺旋体抗体"
+        ],
+        "medicine": [
+          "红霉素肠溶胶囊",
+          "盐酸米诺环素胶囊",
+          "大败毒胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大败毒胶囊",
+          "grade": "4.60",
+          "total": "15",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "丙肝",
+    "information": {
+      "introduction": "丙型病毒性肝炎(viral hepatitis type C，HC简称丙型肝炎)，系丙型肝炎病毒(HCV)感染所引起的疾病，主要经血源性传播是通过输血或血制品、血透析、单采血浆还输血球、肾移植、静脉注射毒品、性传播、母婴传播等传染引起的。临床表现有发热、消化道症状及肝功能异常等。与乙型肝炎类似，但较轻。多数病例呈亚临床型，慢性化程度较为严重，也可导致暴发性肝衰竭。多见于与其他病毒合并感染者。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "丙型病毒性肝炎,丙型肝炎",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肝脏病变弥漫",
+          "肝被膜紧张",
+          "肝大而硬",
+          "硬化",
+          "尿黄似浓茶"
+        ],
+        "complication": [
+          "肝硬化"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肝炎"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "丙肝的治愈率非常高,只要正规治疗可以达到98%以上。",
+        "duration": "三个月左右",
+        "method": [
+          "口服小分子直接抗病毒药物"
+        ],
+        "examination": [
+          "丙肝RNA",
+          "血清丙肝IgA抗体",
+          "血清丙肝抗体免疫球蛋白G",
+          "血清丙肝抗体免疫球蛋白M",
+          "丙氨酸氨基转移酶(ALT）"
+        ],
+        "medicine": [
+          "注射用重组人干扰素α2a(酵母)",
+          "注射用重组人干扰素α2a(酵母)",
+          "甘草酸二铵肠溶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "至灵胶囊",
+          "grade": "2.52",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "五酯片(方略)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "健肝灵胶囊",
+          "grade": "4.99",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "护肝宁胶囊(卞宁)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肝必复软胶囊",
+          "grade": "3.99",
+          "total": "8",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "甲状腺炎",
+    "information": {
+      "introduction": "甲状腺是人体最大的内分泌腺体，位于甲状软骨下紧贴在气管第三，四软骨环前面，由两侧叶和峡部组成，平均重量成大约20-25g，女性略大略重。甲状腺后面有甲状旁腺4枚及喉返神经。血液供应有上下左右四条动脉，所以甲状腺血供较丰富，腺体受颈交感神经节的交感神经和迷走神经支配，甲状腺的主要功能是合成甲状腺激素，调节机体代谢，一般人每日食物中约有100-200μg 无机碘化合物，经胃肠道吸收入血循环，迅速为甲状腺摄取浓缩，腺体中贮碘约为全身的1/5。碘化物进入细胞后，经过氧化酶的作用，产生活性碘迅速与胶质腔中的甲状腺球蛋白分子上的酪氨酸基结合，形成一碘酪氨酸(MIT)和二碘酪氨酸(DIT)，碘化酪氨酸通过氧化酶的作用，使MIT和DIT偶联结合成甲状腺素(T4)，MID和DIT偶联结合成三碘甲状腺原氨酸(T3)，贮存于胶质腔内，合成的甲状腺素(T4)和三碘甲状腺原氨酸(T3)分泌至血液循环后，主要与血浆中甲状腺素结合球蛋白(TBG)结合，以利转运和调节血中甲状腺素的浓度。甲状腺素(T4)在外周组织经脱碘分别形成生物活性较强的T3和无生物活性的rT3。脱下的碘可被重新利用。所以,在甲状腺功能亢进时,血 T4、T3及rT3均增高,而在甲状腺功能减退时,则三者均低于正常值。甲状腺素分泌量由垂体细胞分泌和TSH通过腺苷酸环化酶-cAMP系统调节。而TSH则由下丘脑分泌的TRH控制，从而形成下丘脑—垂体—甲状腺轴,调节甲状腺功能。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "女性多见",
+        "symptom": [
+          "性欲减退",
+          "剧痛",
+          "疼痛",
+          "甲状腺肿大",
+          "甲状腺机能亢进"
+        ],
+        "complication": [
+          "急性甲状腺炎",
+          "无痛性甲状腺炎",
+          "慢性纤维性甲状腺炎",
+          "急性化脓性甲状腺炎",
+          "急性放射性甲状腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "80%",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清抗甲状腺球蛋白抗体",
+          "血清甲状腺球蛋白",
+          "血清促甲状腺激素",
+          "甲状腺吸碘试验",
+          "血清抗甲状腺微粒体抗体"
+        ],
+        "medicine": [
+          "左甲状腺素钠片",
+          "左甲状腺素钠片",
+          "硫唑嘌呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "新生儿肺炎",
+    "information": {
+      "introduction": "新生儿肺炎(pneumonia of newborn)是新生儿期感染性疾病中最常见的疾病，发病率高、死亡率也较高。以弥漫性肺部病变及不典型的临床表现为其特点。大多数新生儿肺炎是生后感染引起的，称晚发型肺炎，主要是家庭中与新生儿密切接触的成员感冒或呼吸道感染后通过飞沫传播给新生儿的;少数是在宫内或分娩过程中感染的。如果不及时治疗会引起呼吸窘迫、甚至窒息，严重者会因为缺氧引起大脑损伤，留下永久的后遗症(如癫痫)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "小儿肺炎,新生儿吸入性肺炎和感染性肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "新生儿气促",
+          "鼻翼扇动",
+          "喘息",
+          "呼吸困难",
+          "肺部啰音"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（6000 —— 10000元）",
+        "ratio": "70%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗及支持疗法"
+        ],
+        "examination": [
+          "WBC",
+          "耳、鼻、咽拭子细菌培养 ",
+          "痰培养",
+          "胸部平片",
+          "血清免疫球蛋白M"
+        ],
+        "medicine": [
+          "头孢氨苄甲氧苄啶胶囊",
+          "了哥王片",
+          "红霉素"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "了哥王片(新峰药业)",
+          "grade": "2.44",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性荨麻疹",
+    "information": {
+      "introduction": "慢性荨麻疹发病约占荨麻疹的2/3。风团反复发生，时多时少，常经年累月不愈，可达2个月以上。在经过中时轻时重，如晨起或临睡前加重，有的无一定规律，全身症状一般较轻，大多数患者找不到病因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "人工荨麻疹",
+          "剧痒",
+          "周身不适",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "皮肤斑贴实验",
+          "皮肤划痕试验"
+        ],
+        "medicine": [
+          "皮敏消胶囊",
+          "荨麻疹丸",
+          "氯雷他定糖浆"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "皮敏消胶囊(天使)",
+          "grade": "4.31",
+          "total": "19",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "荨麻疹丸(世纪鑫威)",
+          "grade": "3.64",
+          "total": "35",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性胆囊炎",
+    "information": {
+      "introduction": "急性胆囊炎是胆囊管梗阻和细菌感染引起的炎症。约95%以上的病人有胆囊结石，称结石性胆囊炎；5%的病人胆囊无结石，称非结石性胆囊炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胆囊炎，胆瘅",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发烧",
+          "肚子疼",
+          "腹胀",
+          "胆囊触痛征"
+        ],
+        "complication": [
+          "胆汁性腹膜炎",
+          "低钠血症",
+          "营养不良",
+          "拉肚子",
+          "胆道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝胆外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000 —— 50000元）",
+        "ratio": "90%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "胆道造影",
+          "静脉胆道造影",
+          "CT检查",
+          "腹壁紧张度",
+          "尿淀粉酶"
+        ],
+        "medicine": [
+          "利胆排石片",
+          "消炎利胆片",
+          "消炎利胆片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "利胆排石片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "功劳去火片(玉兰)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消炎利胆片(白云山)",
+          "grade": "3.32",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆炎合剂(颐之舒)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片",
+          "grade": "2.73",
+          "total": "38",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝丹胶囊(鼎炉)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆炎合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆炎合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(广健)",
+          "grade": "2.66",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

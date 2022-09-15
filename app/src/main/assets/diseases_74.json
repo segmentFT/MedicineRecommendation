@@ -1,0 +1,966 @@
+[
+  {
+    "disease_name": "菌血症",
+    "information": {
+      "introduction": "菌血症是指外界的细菌经由体表的入口或是感染的入口进入血液系统后，在人体血液内繁殖并随血流在全身播散，后果是很严重的。一般来说，导尿管或者是体表的手术造口容易导致发生菌血症。出现菌血症的患者往往发生急性的多个器官的转移性感染，并出现各种急性感染症状。一旦怀疑，应立即采血检验，一旦确诊应立即针对感染菌治疗，争分夺秒。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "有感染、免疫力差的人多见",
+        "symptom": [
+          "肚子疼",
+          "胃肠道症状",
+          "脓肿",
+          "恶心",
+          "寒战"
+        ],
+        "complication": [
+          "腹膜炎",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 20000元）",
+        "ratio": "经过抗生素治疗后一般在96%以上可以治愈",
+        "duration": "治疗周期一般在2-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "脉搏",
+          "血液及骨髓标本的细菌学检验",
+          "耳、鼻、咽拭子细菌培养 ",
+          "血液及骨髓细菌培养",
+          "宫腔细菌培养"
+        ],
+        "medicine": [
+          "盐酸环丙沙星片",
+          "注射用头孢他啶",
+          "复方门冬维甘滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "固齿散(神农典方)",
+          "grade": "4.53",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年人肺气肿",
+    "information": {
+      "introduction": "肺气肿(emphysema)系终末细支气管远端部分(包括呼吸性细支气管、肺泡管、肺泡囊及肺泡)过度膨胀，并伴有气腔壁的破坏。1987年美国胸科学会(ATS)对肺气肿的定义作了修订：“终末细支气管远端部分有不可逆性扩张伴有肺泡壁的破坏，但没有明显的纤维化”。肺气肿的基本特征性是换气部分的肺组织过度充气和气流阻塞，所以称之为“阻塞性肺气肿”(obstructive pulmonary emphysema)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年肺气肿",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "老年人群",
+        "symptom": [
+          "呼气音延长",
+          "气急",
+          "胸闷",
+          "胸闷憋气",
+          "劳动后气急"
+        ],
+        "complication": [
+          "胃溃疡",
+          "肺栓塞",
+          "慢性肺源性心脏病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺量计",
+          "肺功能",
+          "胸部CT",
+          "动脉血气分析",
+          "胸透"
+        ],
+        "medicine": [
+          "肺力咳胶囊",
+          "十五味龙胆花丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肺力咳胶囊(健兴)",
+          "grade": "2.65",
+          "total": "10",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "网瘾",
+    "information": {
+      "introduction": "网络成瘾(Internet addiction，IA)是指由神经内分泌紊乱引起的，以精神症状、躯体症状、心理障碍及人格改变为主要临床表现，导致社会功能活动受损的一组症候群。根据其临床特点、严重程度及预后把其分为网络成瘾症(Internet addiction disorder,IAD)和网络成瘾综合征(Internet addictive syndrome,IADS)两大类。现代心理学家为青少年“网络成瘾症”确定了诊断标准：上网已成为生命活动中的必需部分，并由此产生心理、生理依赖性。强令终止上网便会出现戒断症状，如网瘾者感到空虚、无聊、烦躁、抑郁，或出现暴力倾向。在今日中国，网瘾已经严重危害社会，影响面广，破坏性强，是几乎所有所谓“网瘾问题少年”的罪魁祸首；其次，不良网络游戏和毒品有着让人上瘾不能自拔的机制，而且严重破坏人们的身体和心灵的健康。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "互联网成瘾综合症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "青少年多见",
+        "symptom": [
+          "烦躁不安",
+          "失眠",
+          "焦虑",
+          "情绪低落",
+          "颤抖"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "60%",
+        "duration": "1-3年",
+        "method": [
+          "厌恶疗法、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "硫酸奈替米星注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴囊炎",
+    "information": {
+      "introduction": "阴囊炎常因阴囊损伤、尿外渗、糖尿病等病理因素而引起。致病菌常为金黄色葡萄球菌、铜绿假单胞菌（绿脓杆菌）、厌气链球菌。阴囊炎有三种类型1、红斑型对称分布于阴囊二侧，约3×4cm大小，边缘鲜明的红斑，覆以灰色或棕褐色薄痂，表面粗糙。将痂剥去后，露出微红的皮肤，无显著浸润。损害扩大时可在阴茎根处融合。 2、丘疹型开始在阴囊一侧有几个散在的黄豆大小的丘疹，显著高出皮肤，扁平形，上覆棕褐色薄痂，以后增多扩大，密集对称分布于阴囊缝两侧，约3×4cm，融合成片，多时在阴囊根处融合。阴茎冠状沟处有不规则，显著高出皮面的灰黑色厚痂，阴茎上有灰色鳞屑。在耻骨部和腹股沟部有散发毛囊炎或脓疮。 3、白色丘疹银屑型此型少见，但非常典型，在阴囊前一大片由瓜子大小扁平丘疹融合而成，带银白色，抓之有银白色鳞屑脱落。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴囊"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病及体力劳动者多见",
+        "symptom": [
+          "阴囊红肿",
+          "阴囊瘙痒"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（300—— 800元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脓液培养",
+          "阴囊显象"
+        ],
+        "medicine": [
+          "维生素B2片",
+          "维生素B2片",
+          "维生素B2片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性糜烂性胃炎",
+    "information": {
+      "introduction": "急性胃粘膜病变是以胃粘膜发生不同程度糜烂、浅溃疡和出血为特征的病变，以急性粘膜糜烂病变为主者称急性糜烂性胃炎；以粘膜出血改变为主可称为急性出血性胃炎，发生于应激状态，以多发性溃疡为主者可称为应激性溃疡。本病是上消化道出血的常见病因之一，约占20－30％。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性糜烂出血性胃炎，急性胃黏膜病变，出血糜烂性胃炎，出血性胃炎，急性胃溃疡，应激性溃疡 ",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "服用非甾体类消炎镇痛药，酗...",
+        "symptom": [
+          "剧痛",
+          "恶心",
+          "胃肠道症状",
+          "反复呕血",
+          "上腹部疼痛"
+        ],
+        "complication": [
+          "失血性休克",
+          "溃疡病大出血",
+          "腹膜炎",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "90%",
+        "duration": "3-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "食道X线钡餐",
+          "纤维胃镜",
+          "CT检查",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "替普瑞酮",
+          "奥美拉唑肠溶胶囊",
+          "枸橼酸铋钾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三九胃泰胶囊(三九999)",
+          "grade": "1.98",
+          "total": "69",
+          "secondary": "60"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "银屑病关节炎",
+    "information": {
+      "introduction": "银屑病性关节炎(psoriasis arthritsi，PA)又名关节病型银屑病(arthropathic psoriasis)，是一种与银屑病相关的炎性关节病。本病病程迁延，易复发，晚期形成关节强直，导致残废。银屑病在关节炎患者中较为常见，比普通人群多2～3倍，而关节炎在银屑病患者中也较普遍。Leczinsky在10年调查中发现，银屑病中关节炎的发生率为6.8%，大大超过非银屑病人群中关节炎的发生率。女性比男性更易罹患。据Nobol报道，PA约占银屑病病人的1%。由于本病和Reiter综合证、强直性脊椎炎均与HLA-B27有关，且类风湿因子阴性，临床表现又有相似之处，因此被归入血清阴性脊椎关节病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "关节病型银屑病 ",
+        "part": [
+          "关节",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "该病可发生于任何年龄，高峰...",
+        "symptom": [
+          "指(趾)甲点状凹陷",
+          "晨僵",
+          "关节强硬",
+          "关节肿胀",
+          "点状出血"
+        ],
+        "complication": [
+          "风湿性心脏病",
+          "溃疡性结肠炎",
+          "肾炎",
+          "毛囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "20%",
+        "duration": "30天",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血常规"
+        ],
+        "medicine": [
+          "萘丁美酮胶囊",
+          "伤湿止痛膏",
+          "甲泼尼龙片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伤湿止痛膏(羚锐)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子宫恶性肿瘤",
+    "information": {
+      "introduction": "子宫恶性肿瘤可发生在子宫颈、子宫体和子宫内膜。子宫颈癌是妇科最常见的恶性肿瘤之一。是指发生在子宫阴道部及宫颈管的恶性肿瘤。宫颈癌的转移，可向邻近组织和器官直接蔓延，向下至阴道穹窿及阴道壁，向上可侵犯子宫体，向两侧可侵犯盆腔组织，向前可侵犯膀胱，向后可侵犯直肠。也可通过淋巴管转移至宫颈旁、髂内、髂外、腹股沟淋巴结，晚期甚至可转移到锁骨上及全身其他淋巴结。血行转移比较少见，常见的转移部位是肺、肝及骨。当宫颈癌的症状出现三个月后就诊者已有2/3为癌症晚期。子宫体癌因多起源于子宫内膜腺体，故又称为子宫内膜腺癌。多见于绝经后妇女，发病高峰年龄为55～60岁。发病率仅次于子宫颈癌。镜下可分为腺癌、腺角化癌、鳞腺癌、透明细胞癌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "多见于50～60岁的妇女，常在...",
+        "symptom": [
+          "阴道出血",
+          "阴道分泌物增多",
+          "下腹疼痛",
+          "下腹胀痛",
+          "下腹部包块"
+        ],
+        "complication": [
+          "青少年及小儿子宫颈癌",
+          "绝经后子宫内膜癌",
+          "绝经后子宫颈癌",
+          "子宫恶性中胚叶混合瘤",
+          "子宫内膜间质肉瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "子宫与附件肿块",
+          "阴道镜",
+          "积液β2-微球蛋白",
+          "血清α1-酸性糖蛋白"
+        ],
+        "medicine": [
+          "去甲斑蝥酸钠注射液",
+          "甘磷酰芥片",
+          "复方醋酸甲羟孕酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "口腔白斑",
+    "information": {
+      "introduction": "口腔黏膜白斑(Oral leukoplakia)是最普通和最重要的口腔角化异常，为特发性、持续性白斑，需与组织病理学结合诊断。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "口腔黏膜白斑,口白斑病,口腔白斑症,舌鱼鳞病,吸烟者白斑",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上男性",
+        "symptom": [
+          "口腔念珠菌感染",
+          "白色念珠菌感染",
+          "舌两侧边缘毛状白斑",
+          "舌口及咽部烧灼感",
+          "口及咽部烧灼感"
+        ],
+        "complication": [
+          "脓毒症和菌血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "30-50%，少部分可恶变",
+        "duration": "3-6个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜",
+          "真菌组织病理学",
+          "中年男性体检"
+        ],
+        "medicine": [
+          "双花百合片",
+          "蜂胶口腔膜",
+          "三维樟柳碱膜"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "双花百合片",
+          "grade": "2.35",
+          "total": "23",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿毛细支气管炎",
+    "information": {
+      "introduction": "急性毛细支气管炎(bronchiolitis)是一种婴幼儿较常见的以毛细支气管为主的下呼吸道急性感染，仅见于2岁以下婴幼儿，多数是1～6个月的小婴儿，发病与该年龄支气管的解剖学特点有关。因微小的管腔易由黏性分泌物、水肿及肌收缩而发生梗阻，并可引致肺气肿或肺不张。其临床症状如肺炎，且喘憋更著，以明显的喘咳和缺氧症状为特征。临床上较难发现未累及肺泡与肺泡间壁的纯粹毛细支气管炎，故国内认为是一种特殊类型的肺炎，实际上它与肺炎还是有区别的。本症可流行发病，有人称之为喘憋性肺炎。国内各地曾称之为：流行性毛细支气管炎(广西)、流行性喘憋型肺炎(浙江)、小儿喘憋性肺炎(上海)、流行性气喘病(广东)、流行性哮喘性肺炎(江西)等。至于在我国暴发流行的流行性喘憋性肺炎则另作叙述。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "仅见于2岁以下婴幼儿，多数...",
+        "symptom": [
+          "三凹征",
+          "干啰音",
+          "干咳",
+          "发绀",
+          "咳嗽"
+        ],
+        "complication": [
+          "代谢性酸中毒",
+          "心力衰竭",
+          "脱水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "鼻咽部活组织检查",
+          "动脉血气分析",
+          "胸部平片"
+        ],
+        "medicine": [
+          "异丙嗪胆汁片",
+          "异丙嗪胆汁片",
+          "医用中心雾化治疗系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "卵巢巧克力囊肿破裂",
+    "information": {
+      "introduction": "盆腔子宫内膜异位症极易累及卵巢，异位的子宫内膜在卵巢组织中周期性出血使卵巢不断增大而形成巧克力囊肿。此囊肿常为双侧性，卵巢巧克力囊肿因多种因素而发生自发或在外力影响下的破裂，破裂可反复发生。破裂后陈旧性血液溢入腹腔，引起剧烈腹痛，恶心呕吐等，常须急诊处理。囊肿破裂多发生于经前期及月经期，卵巢巧克力囊肿破裂已属于妇科领域中一种新型急腹症，以往对它认识不足，常被忽视，现对其认识逐渐加深，故已引起重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "卵巢子宫内膜异位囊肿破裂",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "中青年女性，卵巢巧克力囊肿...",
+        "symptom": [
+          "阴道不规则出血",
+          "盆腔坠痛",
+          "恶心",
+          "反复出血",
+          "肚子疼"
+        ],
+        "complication": [
+          "出血性疾病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "手术治愈率约80%",
+        "duration": "伴有贫血者需2-3个月",
+        "method": [
+          "手术治疗、西药治疗"
+        ],
+        "examination": [
+          "MRI",
+          "血清抗子宫内膜抗体"
+        ],
+        "medicine": [
+          "新生化颗粒",
+          "胞磷胆碱钠葡萄糖注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "新生化颗粒(安邦)",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高血压性脑出血",
+    "information": {
+      "introduction": "高血压脑出血是指因长期的高血压和脑动脉硬化使脑内小动脉因发生病理性的改变而破裂出血。在各种非损伤性脑出血的病因中，高血压占60%左右，它是高血压病中最严重的并发症之一，多见于50—60岁的病人，男性发病率稍高于女性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于50～70岁，男性略多...",
+        "symptom": [
+          "情绪性高血压",
+          "伴高血压",
+          "小脑出血",
+          "丘脑出血",
+          "剧烈头痛"
+        ],
+        "complication": [
+          "偏瘫型偏头痛",
+          "瘫痪",
+          "脑出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000 —— 50000元）",
+        "ratio": "30%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "脑血流测定",
+          "颅脑CT",
+          "脑脊液神经肽"
+        ],
+        "medicine": [
+          "复方三嗪芦丁片",
+          "芦丁片",
+          "脑血康胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑血康胶囊(昊福)",
+          "grade": "2.52",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康滴丸",
+          "grade": "2.33",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康口服液(仲景)",
+          "grade": "2.77",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脑血康口服液(绿洲)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脑血康片(脑血康)",
+          "grade": "2.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑血康片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "纤维瘤",
+    "information": {
+      "introduction": "﻿纤维瘤（fibroma）是来源于纤维结缔组织的良性肿瘤，因纤维瘤内含成分不同而有不同种类，因纤维结缔组织在人体内分布极广，构成各器官的间隙，所以纤维瘤可以发生于体内任何部位。其中以皮肤和皮下组织最为常见，肌膜、骨膜、鼻咽腔及他处粘膜组织以及其它器官如乳腺、卵巢、肾脏等均可发生。大小不等，生长缓慢。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄多在30～50岁，儿童...",
+        "symptom": [
+          "皮肤出现硬块",
+          "色素沉着",
+          "反复出血",
+          "听力减退",
+          "颅神经麻痹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "90%(肿瘤切除术)",
+        "duration": "7-14天(手术切除)",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "消乳散结胶囊",
+          "乳癖清片",
+          "乳癖清胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消乳散结胶囊(步长)",
+          "grade": "2.37",
+          "total": "22",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "乳癖清片(葆能康)",
+          "grade": "3.63",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳癖清胶囊(善美)",
+          "grade": "2.01",
+          "total": "7",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "细菌性肺炎",
+    "information": {
+      "introduction": "细菌性肺炎（bacterial pneumonia）占成人各类病原体肺炎的80％。进入抗生素时代以来，细菌性肺炎的预后一度显著改善，但自60年代以后病死率居高不降。目前细菌性肺炎出现一些新特点，包括病原谱变迁，特别是医院内肺炎G-杆菌比率显著上升，肺炎链球菌虽然在社区获得性肺炎病原体中仍占主导地位，但临床表现多趋于不典型。细菌耐药率增高，所谓“难治性”肺炎屡见不鲜，尤其在儿童、老年人和免疫抑制患者中病死率极高。提高病原学诊断水平，合理应用抗生素，避免耐药菌出现，以及改善支持治疗是肺炎临床处理方面迫切需要强调和解决的问题。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肺感,下呼吸道感染，肺热症",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "儿童及老年人多发",
+        "symptom": [
+          "干咳",
+          "柠檬色痰",
+          "高热",
+          "呼吸困难",
+          "铁锈色痰"
+        ],
+        "complication": [
+          "心律失常",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "治愈率97%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胸部CT",
+          "胸透",
+          "胸部磁共振",
+          "痰液细菌涂片",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "氧氟沙星",
+          "氧氟沙星",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "炎可宁片(旺安)",
+          "grade": "3.8",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "白头翁止痢片(灵泰)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎可宁片(抗骨增生片)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(海外)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁片(太极)",
+          "grade": "4.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎可宁片(澎健)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "炎可宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "炎可宁胶囊(云南白药)",
+          "grade": "4.33",
+          "total": "10",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "炎可宁片(豪克)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年男性性功能障碍",
+    "information": {
+      "introduction": "人在进入老年期以后，性器官及其功能也像体内其他器官一样逐渐衰退。然而男性生育能力虽然下降，但没有明显的终止界限，90岁以上老人仍可不断产生精子。老年人的性生理反应虽然减弱，但并非意味着进入老年后，人的性功能必然丧失。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "男性生殖",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "中老年男性",
+        "symptom": [
+          "性欲减退",
+          "性欲减退",
+          "心理性性功能障碍",
+          "男子性功能障碍"
+        ],
+        "complication": [
+          "性功能异常伴发的精神障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（2000 —— 3000元）",
+        "ratio": "60-80%",
+        "duration": "3-6个月",
+        "method": [
+          "中西医药物治疗"
+        ],
+        "examination": [
+          "阴茎夜间勃起试验",
+          "阴茎海绵体造影",
+          "阴茎海绵体血管活性物质注射",
+          "阴茎检查",
+          "性别观察"
+        ],
+        "medicine": [
+          "肾宝糖浆",
+          "知柏地黄丸",
+          "壮阳春胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肾宝糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "知柏地黄丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "老年便秘",
+    "information": {
+      "introduction": "老年人便秘(senile constipation)是指排便次数减少，同时排便困难，粪便干结。正常人每天排便1～2次或2～3天排便1次，便秘患者每周排便少于2次，并且排便费力，粪质硬结、量少。便秘是老年人常见的症状，约1/3的老年人出现便秘，严重影响老年人的生活质量。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多见",
+        "symptom": [
+          "排便困难",
+          "粪便硬结如羊粪状",
+          "粪便量少",
+          "老人便秘",
+          "腹胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约（500 —— 800元）",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "大便血液",
+          "大便粘液",
+          "粪便性状",
+          "粪便量",
+          "直肠指检"
+        ],
+        "medicine": [
+          "麻仁软胶囊",
+          "清肠通便胶囊",
+          "苁蓉通便口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "麻仁软胶囊(手心药业)",
+          "grade": "2.2",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "苁蓉通便口服液(天水岐黄)",
+          "grade": "4.72",
+          "total": "16",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "通便灵胶囊(同仁堂)",
+          "grade": "3.42",
+          "total": "89",
+          "secondary": "84"
+        },
+        {
+          "medicine_name": "通便灵胶囊(海外)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "四磨汤口服液(汉森)",
+          "grade": "3.60",
+          "total": "108",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "通便灵胶囊(玉川)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通便灵胶囊(极地玉叶)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "便通胶囊",
+          "grade": "4.34",
+          "total": "17",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "通便灵胶囊(洲洋)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通便灵胶囊(正鑫)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通便灵胶囊(利蒙)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通便灵胶囊(人福医药)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:background="#DCB5ED77">
+
+    <TextView
+        android:id="@+id/displaySelectionName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TEST"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center_vertical|center_horizontal" />
+
+</LinearLayout>

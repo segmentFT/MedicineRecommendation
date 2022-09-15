@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/displaySelectionsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择发病的具体部位: "
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#DCFFFFFF"
+        android:layout_margin="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="#CE7CCF20" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/generalSelectionList"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="#70C3E899" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="20dp"
+        android:background="#817CCC20" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/specificSelectionList"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:background="#70C3E899"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/noMessageText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请选择大致的发病部位"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="160dp"
+        android:visibility="visible" />
+
+</LinearLayout>

@@ -1,0 +1,743 @@
+[
+  {
+    "disease_name": "胎儿宫内窘迫",
+    "information": {
+      "introduction": "胎儿窘迫胎儿在宫内有缺氧征象危及胎儿健康和生命者，称为胎儿窘迫。胎儿窘迫是一种综合症状，是当前剖宫产的主要适应征之一。胎儿窘迫主要发生在临产过程，也可发生在妊娠后期。发生在临产过程者，可以是发生在妊娠后期的延续和加重。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "胎儿窘迫",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "孕妇",
+        "symptom": [
+          "胎儿宫内窒息",
+          "胎动过频",
+          "胎动改变",
+          "紫绀和血缺氧",
+          "胎心率改变"
+        ],
+        "complication": [
+          "难产"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "85-90%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胎盘分级",
+          "胎盘生乳素",
+          "胎盘成熟度",
+          "介入性宫内取材检查",
+          "胎儿发育检查"
+        ],
+        "medicine": [
+          "孕妇金花片",
+          "孕康口服液",
+          "盐酸利托君"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "孕妇金花片(赛诺维)",
+          "grade": "2.95",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "孕康口服液(回音必)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "拖延症",
+    "information": {
+      "introduction": "拖延症，英文Procrastination。取意“将之前的事情放置明天”。拖延症总是表现在各种小事上，但日积月累，特别影响个人发展。拖延现象现已成为管理学家和心理学家研究的一个重要课题。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "青年人多见",
+        "symptom": [
+          "顽固性失眠",
+          "继发性失眠",
+          "情绪性失眠",
+          "紧张性失眠",
+          "入睡障碍性失眠"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "维生素B12缺乏所致贫血",
+    "information": {
+      "introduction": "维生素B12缺乏所致贫血是指由于各种原因造成机体内维生素B12缺乏所导致的贫血。维生素B12缺乏性贫血常用的代名词是恶性贫血，经典的恶性贫血指内因子分泌丧失导致B12缺乏所引起的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "维生素B12缺乏者多见",
+        "symptom": [
+          "嗜睡",
+          "反应迟钝",
+          "无力",
+          "颤抖",
+          "心脏扩大"
+        ],
+        "complication": [
+          "贫血",
+          "神经官能症",
+          "口角炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "维生素B12",
+          "叶酸",
+          "血液检查",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "维生素B12",
+          "维生素B12",
+          "腺苷钴胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "淋病后综合征",
+    "information": {
+      "introduction": "指淋病治疗后实验室检查阴性而仍有某些症状或体征者。可能是出现其他病菌的感染或是淋病导致的泌尿系统的损伤，也有的是由于沉重的心理负担导致的一种心理障碍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "尿道",
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "性活跃人群多见",
+        "symptom": [
+          "性欲减退",
+          "腰背酸痛",
+          "失眠",
+          "下腹坠痛",
+          "阴囊下坠"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "心理咨询"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "淋球菌免疫学检测"
+        ],
+        "medicine": [
+          "古汉养生精片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "古汉养生精片(古汉)",
+          "grade": "4.36",
+          "total": "10",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "青春期功血",
+    "information": {
+      "introduction": "功能失调性子宫出血病简称功能性子宫出血或功血，由神经内分泌失调引起，而不是由妊娠、子宫内膜肿瘤、感染或血液病等引起。常发生于青春期，均为无排卵型功能性子宫出血，亦称青春期功能性子宫出血。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "功能失调性子宫出血病",
+        "part": [
+          "子宫",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "多发生在13岁到18岁的女性身",
+        "symptom": [
+          "子宫出血",
+          "下腹坠胀",
+          "贫血貌",
+          "乳房胀痛"
+        ],
+        "complication": [
+          "出血性疾病",
+          "功血",
+          "青春期功能失调性子宫出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（8000-11000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "宫颈粘液检查",
+          "阴道出血量",
+          "盆腔和阴道B超",
+          "血常规",
+          "子宫颈黏液检查"
+        ],
+        "medicine": [
+          "阿那曲唑片",
+          "炔雌醇片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "左束支传导阻滞",
+    "information": {
+      "introduction": "左束支传导阻滞的发病率为1%。束支阻滞的发病率随年龄增加而上升。在一项对855例男性患者随访30年的前瞻性研究中，50岁的左束支阻滞的发病率为0.4%，75岁为2.3%，80岁为5.7%。与缺血性心脏病、心肌梗死或心血管死亡无明显关系。研究提示，束支阻滞与年龄非常相关，是能影响心肌缓慢进展的退行性疾病的一个标志。但是，左束支阻滞可能与明显而严重的心脏病有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "束支阻滞",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "患有器质性心脏病者多见",
+        "symptom": [
+          "左心室肥厚",
+          "心音异常",
+          "传导阻滞"
+        ],
+        "complication": [
+          "左束支中隔支传导阻滞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "病因治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "盐酸普鲁卡因胺片",
+          "植入式心律转复除颤器",
+          "植入式心律转复除颤器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "小儿急性胃炎",
+    "information": {
+      "introduction": "急性胃炎(acute gastritis)是指由各种外在和内在因素引起的急性广泛性或局限性的胃黏膜炎性病变，若合并有肠道炎症时称为急性胃肠炎。临床可分为单纯性、糜烂性、腐蚀性和化脓性，儿童中以单纯性与糜烂性多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿",
+        "symptom": [
+          "腹部不适",
+          "嗳气",
+          "恶心与呕吐",
+          "腹胀",
+          "腹胀"
+        ],
+        "complication": [
+          "休克",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "消化内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "无痛胃镜",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "氨苄西林胶囊",
+          "氨苄西林氯唑西林钠胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阿斯综合征",
+    "information": {
+      "introduction": "阿-斯综合征(Adams-Stokes syndrome)即心源性晕厥，是由于心排出量急剧减少，致急性脑缺血所引起的晕厥及(或)抽搐。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阿-斯综合症,心源性昏厥,心源性晕厥,亚-斯二氏综合征",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "多见于器质性心脏病患者",
+        "symptom": [
+          "面色苍白",
+          "头晕",
+          "四肢麻木",
+          "嗜睡",
+          "意识丧失"
+        ],
+        "complication": [
+          "吸入性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动态心电图",
+          "心电图",
+          "二维超声心动图",
+          "多普勒超声心动图",
+          "经食管超声心动图"
+        ],
+        "medicine": [
+          "双价肾综合征出血热灭活疫苗(沙鼠肾细胞)",
+          "注射用甲泼尼龙琥珀酸钠",
+          "唐氏综合征产前筛查试剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "太田痣",
+    "information": {
+      "introduction": "眼颧部褐蓝痣于1938年由太田医生首先报告，故又名“太田痣，是遗传或某些胎内原因所引起的皮肤黑素细胞分化异常，致面部三叉神经(主要是第1、2分支)分布区皮肤，并常波及巩膜等组织的色素性病变。临床上以眼周围及面部皮肤褐青色斑块或斑片为特征，故又称眼上腭褐青色痣、眼真皮黑素细胞增多症。色斑不能自行消退，激光是目前治疗太田痣较好的方法。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "眼上腭部褐青色痣 ",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "婴儿期，青春期多发",
+        "symptom": [
+          "鲜红斑痣",
+          "结节",
+          "脸上黑斑",
+          "浅褐色色素斑",
+          "网状色素沉着斑"
+        ],
+        "complication": [
+          "青光眼",
+          "白内障",
+          "恶性黑色素瘤",
+          "蓝痣",
+          "血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "外科",
+          "皮肤性病"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "60%",
+        "duration": "1个月",
+        "method": [
+          "激光治疗"
+        ],
+        "examination": [
+          "眼科检查",
+          "皮损",
+          "免疫病理检查",
+          "皮肤涂片显微镜检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "溴丙胺太林片",
+          "溴丙胺太林片",
+          "翠绿宝石固体激光手术设备"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "环状糜烂性龟头炎",
+    "information": {
+      "introduction": "环状糜烂性龟头炎是常见的包皮龟头炎的一种，主要在龟头和包皮上，可见红斑，逐渐扩大，呈环状，可形成浅表性溃疡面。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "阴茎疼痛",
+          "龟头瘙痒",
+          "阴茎龟头橡皮肿"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "阴茎检查"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "葡萄膜炎",
+    "information": {
+      "introduction": "葡萄膜炎指的是虹膜、睫状体、脉络膜的炎症;虹膜和睫状体的血液供给同为虹膜大环，故二者经常同时发炎，而总称为虹膜睫状体炎。如果脉络膜也同时发炎，则称为葡萄膜炎。葡萄膜炎是一种多发于青壮年的眼病，种类繁多，病因相当复杂，治疗不当可导致失明，在致盲眼病中占有重要地位，已引起世界范围内的重视。由于其发病及复发机制尚不完全清楚，故其预防无从着手，治疗效果也很不理想。因此，寻求合理而有效的治疗药物，已成为眼科领域里一个亟待解决的问题。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "多发于青壮年",
+        "symptom": [
+          "眼痛",
+          "畏光及流泪",
+          "视力障碍",
+          "睫状充血",
+          "视网膜水肿"
+        ],
+        "complication": [
+          "中间葡萄膜炎",
+          "幼年型慢性关节炎及其伴发的葡萄膜炎",
+          "银屑病关节炎及其伴发的葡萄膜炎",
+          "糖尿病伴发的葡萄膜炎",
+          "结节性多动脉炎伴发的葡萄膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "65%",
+        "duration": "10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼底荧光血管造影",
+          "眼底镜检查法"
+        ],
+        "medicine": [
+          "泛昔洛韦片",
+          "双氯芬酸钠滴眼液",
+          "双氯芬酸钠滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脊柱裂",
+    "information": {
+      "introduction": "脊柱裂是指由于先天性的椎管闭合不全，在脊柱的背或腹侧形成裂口，可伴或不伴有脊膜、神经成分突出的畸形。临床上此种畸形十分多见，在普查人口中占5%～29%.其中多发于第1和第2骶椎与第5腰椎处。其发生原因主要是胚胎期成软骨中心或成骨中心发育障碍，以致双侧椎弓在后部不相融合而形成宽窄不一的裂隙。单纯骨性裂隙者称为隐性脊柱裂，最为多见;如同时伴有脊膜或脊髓膨出，则为显性脊柱裂，占1‰～2‰，后者在治疗上相当困难，且多属神经外科范畴。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "柱裂",
+        "part": [
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿、儿童",
+        "symptom": [
+          "脊髓内胶质增生",
+          "节段性分离性感觉障碍",
+          "椎间隙变化",
+          "窦道相",
+          "骶骨发育不良"
+        ],
+        "complication": [
+          "脑积水",
+          "瘫痪"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000-80000元）",
+        "ratio": "75%",
+        "duration": "1-3年",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "脊柱压痛与叩击痛",
+          "脊柱检查",
+          "脊柱椎体平扫",
+          "脊柱MRI"
+        ],
+        "medicine": [
+          "叶酸片",
+          "保泰松片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "广泛性焦虑障碍",
+    "information": {
+      "introduction": "广泛性焦虑障碍(generalized anxiety disorder)，简称广泛焦虑症，是以持续的显著紧张不安，伴有自主神经功能兴奋和过分警觉为特征的一种慢性焦虑障碍。广泛性焦虑障碍(GAD)患者常具有特征性的外貌，如面肌扭曲、眉头紧锁、姿势紧张，并且坐立不安，甚至有颤抖，皮肤苍白，手心、脚心以及腋窝汗水淋漓。值得注意的是，患者虽容易哭泣，但为广泛焦虑状态的反映，并非提示抑郁。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "泛化性焦虑症,广泛焦虑障碍,广泛焦虑症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "此障碍通常开始于儿童或青少...",
+        "symptom": [
+          "焦虑",
+          "紧张",
+          "坐立不安",
+          "心悸",
+          "易激惹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "心理咨询"
+        ],
+        "cost": "市三甲医院约（2000 —— 6000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、心理治疗"
+        ],
+        "examination": [
+          "脑血流测定",
+          "脑血流图",
+          "脑电图",
+          "脑电图棘波",
+          "脑电图尖波"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "盐酸度洛西汀肠溶胶囊",
+          "枸橼酸坦度螺酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "九味镇心颗粒(玖卫)",
+          "grade": "3.98",
+          "total": "105",
+          "secondary": "10"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛管癌",
+    "information": {
+      "introduction": "肛管位于大肠的末段，上界为齿线，下界为肛缘，长3～4cm。男性肛管前面紧贴尿道和前列腺，女性则为子宫和阴道;后面为尾骨，周围有内、外括约肌围绕。肛管癌真正病因尚未明了，但有研究表明它是多因素作用下多基因失控所致，以往注意到长期慢性刺激如肛瘘、湿疣和免疫性疾患(如Crohn病)与肛管癌发生有关。近年来发现人乳头状病毒(HPV)与它有密切关系，特别是HPV-16，50%～80%的肛管癌细胞中有HPV-16。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "盆腔"
+        ],
+        "infection": "无传染性",
+        "people": "中老年，女性多见",
+        "symptom": [
+          "肛门疼痛",
+          "肛门瘙痒",
+          "里急后重",
+          "排便不尽感",
+          "肛管息肉"
+        ],
+        "complication": [
+          "大便失禁",
+          "血尿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "肛门指检"
+        ],
+        "medicine": [
+          "康艾注射液",
+          "注射用雷替曲塞"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康艾注射液",
+          "grade": "4.76",
+          "total": "20",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝火上炎证",
+    "information": {
+      "introduction": "肝火上炎证,是肝经气火上逆，肝失条达所表现的证候。肝火上炎证，一般以肝胆经循行部位的头、目、耳、胁表现的实火炽盛为特征。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "胁肋灼痛",
+          "目赤",
+          "头痛",
+          "头晕",
+          "胀痛"
+        ],
+        "complication": [
+          "肝热病",
+          "肝风内动证",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 1000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "牛黄清火丸",
+          "柏艾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "牛黄清火丸(同仁堂)",
+          "grade": "4.77",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "柏艾胶囊(信邦)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "disease_name": "真菌过敏症",
+    "information": {
+      "introduction": "真菌的孢子和菌丝经各种途径进入人体后，都有可能引起过敏反应。具特异体质(特异反应性)的患者(如哮喘、过敏性鼻炎、遗传过敏性皮炎等患者)，更易发生真菌过敏症。由于职业等原因，长期接触或经常暴露于含有大量特殊过敏原环境的正常人中，亦可能发生变态反应。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "长期接触或经常暴露于含有大...",
+        "symptom": [
+          "疱疹",
+          "瘙痒",
+          "过敏性皮炎",
+          "真菌感染",
+          "瘙痒"
+        ],
+        "complication": [
+          "湿疹",
+          "接触性皮炎",
+          "荨麻疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "风湿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "过敏原检测"
+        ],
+        "medicine": [
+          "百癣夏塔热片",
+          "氯雷他定片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "周围神经病损",
+    "information": {
+      "introduction": "周围神经病损分为神经痛和神经疾患两大类。常见的周围神经病损有：三叉神经痛、特发性面神经炎、多发性神经炎(末梢神经炎)、急性感染性多发性神经根神经炎、臂丛神经损伤、尺神经损伤、桡神经损伤、正中神经损伤、胫神经损伤、腓总神经损伤、股外侧皮神经炎、坐骨神经痛、肋间神经痛等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肌肉萎缩",
+          "感觉障碍",
+          "感觉过敏",
+          "痉挛性的肌张力增高",
+          "感觉障碍"
+        ],
+        "complication": [
+          "先天性膀胱颈挛缩"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血液生化六项",
+          "肌电图"
+        ],
+        "medicine": [
+          "普瑞巴林胶囊",
+          "甲钴胺片",
+          "甲钴胺片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "急性乙肝",
+    "information": {
+      "introduction": "我国HBV感染者为数众多，临床乙型肝炎病人要确定其为急性或慢性需作全面分析。少数急性病例病程迁延转为慢性，或发展为肝硬化甚至肝癌;重者病情进展迅猛可发展为重型肝炎;另一些感染者则成为无症状的病毒携带者。目前乙型肝炎虽是我国最重要的肝炎，但在急性病毒性肝炎中，急性乙型肝炎已远较甲型肝炎和戊型肝炎为少，临床初步诊断的急性乙型肝炎，大部分是慢性无症状HBV携带者(AsC)的急性活动。因此急性乙型肝炎已不很多见。包括：急性黄疸型肝炎和急性无黄疸型肝炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性乙型病毒性肝炎",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "中年多发",
+        "symptom": [
+          "厌食",
+          "肝功能受损",
+          "发烧",
+          "怕冷",
+          "厌食"
+        ],
+        "complication": [
+          "肝肾综合征",
+          "肝性脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝炎",
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "健康体检",
+          "肝功能",
+          "血清r-谷氨酰基转移酶",
+          "血氨",
+          "丙氨酸氨基转移酶(ALT）"
+        ],
+        "medicine": [
+          "甘草甜素片",
+          "苦参素片",
+          "肝必复软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "甘草甜素片",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肝必复软胶囊(佳泰)",
+          "grade": "2.94",
+          "total": "33",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "护肝宁片(摩美得)",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颅内动脉瘤",
+    "information": {
+      "introduction": "颅内动脉瘤是指脑动脉内腔的局限性异常扩大造成动脉壁的一种瘤状突出。颅内动脉瘤多因脑动脉管壁局部的先天性缺陷和腔内压力增高的基础上引起囊性膨出，是造成蛛网膜下腔出血的首位病因。过去人们称之为先天性脑动脉瘤，事实上先天性脑动脉瘤占脑动脉瘤的70%～80%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑内动脉瘤,先天性脑动脉瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "多数好发于40至60岁中老年女",
+        "symptom": [
+          "乏力",
+          "脑血管动静脉畸形",
+          "颅骨增生",
+          "头胀",
+          "眼面痛"
+        ],
+        "complication": [
+          "蛛网膜下腔出血",
+          "脑蛛网膜下腔出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000 —— 50000元）",
+        "ratio": "70-80%(外科手术治疗)",
+        "duration": "3个月",
+        "method": [
+          "手术治疗、动脉栓塞治疗"
+        ],
+        "examination": [
+          "脑血管造影",
+          "颅脑MRI",
+          "CT检查",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "氨甲环酸片",
+          "钆喷酸葡胺注射液",
+          "氨甲环酸"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肥厚型梗阻性心肌病",
+    "information": {
+      "introduction": "肥厚型梗阻性心肌病曾被称为主动脉瓣下肌性梗阻。Davies于1952年报道一家9位兄弟姐妹中5人得此病，其中3例发生猝死。1958年Teare描述心室间隔高度肥厚，其厚度远远超过左心室游离壁。且心肌细胞粗而短，排列杂乱，细胞间侧向连接丰富称为非对称性心室间隔肥厚。1960年后被认为是原发性心肌病的一种类型，在各类心肌病中约占20%，因而称为特发性梗阻性心肌病、特发性肥厚性主动脉瓣下狭窄或肥厚型梗阻性心肌病。本病约30%的病例有家族史，可能具有遗传因素。发病时间可从婴幼儿到60多岁，但最常见的是在10～30岁之间，提示可能是先天性畸形，亦可能为后天获得。1960年起Goodwin，Kelly，Morrow，Brockenbrough，Braunwald，Wigle等先后对本病开展外科手术治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "主动脉瓣下肌性梗阻，特发性梗阻性心肌病，特发性肥厚性主动脉瓣下狭窄",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "症状大多开始于30岁以前",
+        "symptom": [
+          "水冲脉",
+          "劳动后气急",
+          "收缩期杂音",
+          "内脏梗阻",
+          "心脏结构异常"
+        ],
+        "complication": [
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "40%",
+        "duration": "1-2个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "选择性心血管造影",
+          "冠状动脉造影",
+          "心血管造影",
+          "心电图",
+          "胸部平片"
+        ],
+        "medicine": [
+          "酒石酸美托洛尔片",
+          "酒石酸美托洛尔缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "踝部骨折",
+    "information": {
+      "introduction": "踝关节和足部的骨折、脱位是骨科常见的损伤，踝关节的关节面比髋、膝关节的关节面小，担负但的重量与活动却很大，故易发生损伤。占全身骨折的3.83％。多见于青少年。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群（以青壮年运动员为...",
+        "symptom": [
+          "踝关节疼痛",
+          "踝关节肿胀",
+          "踝部及足背水肿",
+          "内踝下区域疼痛肿胀",
+          "踝关节屈曲挛缩畸形"
+        ],
+        "complication": [
+          "创伤性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "80%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "CT检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "独一味胶囊",
+          "盐酸曲马多胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "独一味胶囊(独一味)",
+          "grade": "2.2",
+          "total": "24",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "进行性脊肌萎缩症",
+    "information": {
+      "introduction": "进行性脊肌萎缩症发病年龄稍早与ALS，多在30岁左右，男性多见，运动神经元变性仅限于脊髓前角细胞，表现肌无力、肌萎缩和肌束震颤等下运动神经元受损症状体征，隐袭起病，首发症状常为一手或双手小肌肉萎缩、无力，逐渐累及前臂、上臂及肩胛带肌肉，也有从下肢萎缩开始者，但少见，远端萎缩明显，肌张力及腱反射减低，无感觉障碍，括约肌功能不受累，累及延髓出现延髓麻痹者存活时间段，常死于肺感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "脊柱",
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "婴儿及儿童多见",
+        "symptom": [
+          "肌肉萎缩",
+          "肌束震颤",
+          "手肌肉萎缩",
+          "肩胛带肌肉萎缩",
+          "肌张力减低"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "小儿腓骨肌萎缩症",
+          "新生儿泪囊炎",
+          "小儿哮喘性肌萎缩综合征",
+          "平山病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "30%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肌肉活检",
+          "副神经检查",
+          "肱三头肌反射",
+          "趾长伸肌肌力试验"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "虚寒咳嗽",
+    "information": {
+      "introduction": "虚寒咳嗽是因外感六淫，脏腑内伤，影响于肺所致有声有痰之证。见《素问·五脏生成篇》。《素问病机气宜保命集》：“咳谓无痰而有声，肺气伤而不清也;嗽是无声而有痰，脾湿动而为痰也。咳嗽谓有痰而有声，盖因伤于肺气动于脾湿，咳而为嗽也。”",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "身体虚弱者多发",
+        "symptom": [
+          "咳嗽",
+          "微脉",
+          "湿咳",
+          "咳痰",
+          "鼻塞"
+        ],
+        "complication": [
+          "肾咳",
+          "慢性咳嗽",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "痰热咳嗽"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "75%",
+        "duration": "1-2个月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "羚羊清肺颗粒",
+          "祖卡木颗粒",
+          "参贝咳喘丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "羚羊清肺颗粒(同仁堂)",
+          "grade": "4.2",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "祖卡木颗粒(西帕)",
+          "grade": "2.50",
+          "total": "12",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参贝咳喘丸(浓缩丸)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "平喘益气颗粒(三吉)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "舌白斑",
+    "information": {
+      "introduction": "白斑（leukoplakia）是舌粘膜上的白色斑块，按其恶变倾向分为良性的白色角化症和恶变前期病变的白斑。发生的原因是：白色角化症多由外来因素引起，外来因素主要为局部机构性、化学性、物理性以及炎性改变等刺激。恶变前期白斑多由内在个体素质所致，内在个体素质每个人各异，在同样条件下有人易患癌症，这种内在素质与遗传、免疫抑制、免疫功能低下及营养如维生素A、E缺乏有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "舌菌,舌疳",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "一般好发于40岁以上者",
+        "symptom": [
+          "镜面舌",
+          "舌两侧边缘毛状白斑",
+          "舌淡体胖",
+          "舌根部脓肿",
+          "炎性细胞浸润"
+        ],
+        "complication": [
+          "舌癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(5000--10000元)",
+        "ratio": "85%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗、物理治疗、手术治疗"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "维生素A软胶囊",
+          "盐酸氯丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "原发性痛经",
+    "information": {
+      "introduction": "原发性痛经(primary dysmenorrhoea)即功能性痛经。痛经(dysmenorrhea)是指月经期疼痛，常呈痉挛性，集中在下腹部，其他症状包括头痛、乏力、头晕、恶心、呕吐、腹泻、腰腿痛。是年轻女性十分常见的病症。原发性痛经不伴有明显的盆腔器质性疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "功能性痛经,自发性痛经",
+        "part": [
+          "子宫",
+          "腰部"
+        ],
+        "infection": "无传染性",
+        "people": "青年女性",
+        "symptom": [
+          "月经期间腰疼",
+          "乏力",
+          "肚子疼",
+          "经期头痛",
+          "月经期间腰疼"
+        ],
+        "complication": [
+          "焦虑症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（200—— 1000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "雌激素试验",
+          "盆腔和阴道B超",
+          "血清卵泡刺激素",
+          "白带常规",
+          "子宫输卵管造影"
+        ],
+        "medicine": [
+          "妇炎净胶囊",
+          "痛经宝颗粒",
+          "当归芍药胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇炎净胶囊(中华)",
+          "grade": "2.05",
+          "total": "13",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "痛经宝颗粒(月月舒)",
+          "grade": "1.88",
+          "total": "76",
+          "secondary": "37"
+        },
+        {
+          "medicine_name": "当归芍药胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腺样囊性癌",
+    "information": {
+      "introduction": "腺样囊性癌(adenoid cystic carcinoma)又称圆柱瘤(cylindroma)或圆柱瘤型腺癌(adeno-carcinoma of cylindroma type)，是泪腺恶性上皮性肿瘤中最常见的，也是恶性度最高的，在泪腺上皮性肿瘤发生率中仅次于多形性腺瘤而居第2位。因其隐匿性高，侵袭性强,发现时即已较晚，同时又因与口、鼻、眼及颅底毗邻，可引起周围多器官病损，易沿神经侵袭,预后常常不好。现代治疗方法的不断改进，现已发现综合治疗有良好前景。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "圆柱瘤,圆柱瘤型腺癌，囊性腺样癌",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "40～60岁女性稍多",
+        "symptom": [
+          "腮腺肿胀",
+          "头痛",
+          "眉弓疼痛",
+          "颞骨隆起",
+          "腮腺无痛性肿块"
+        ],
+        "complication": [
+          "面瘫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "56%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "眼及眶区CT",
+          "MRI",
+          "血清组织多肽抗原",
+          "多药耐药基因"
+        ],
+        "medicine": [
+          "氟尿嘧啶注射液",
+          "氟尿嘧啶乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "葡萄糖-6-磷酸脱氢酶缺乏症",
+    "information": {
+      "introduction": "红细胞葡萄糖-6-磷酸脱氢酶(G-6-PD)缺乏所致的溶血性贫血，是一组异质性疾病。是红细胞酶缺乏所致溶血中最常见的一种。本病系X连锁不完全显性遗传。G-6-PD活性测定是确诊本病的主要手段。目前对该病尚无根治方法。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "蚕豆黄",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿及青少年多见",
+        "symptom": [
+          "头痛",
+          "头晕",
+          "少尿",
+          "疲乏",
+          "低氧血症"
+        ],
+        "complication": [
+          "黄疸",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "葡萄糖-6-磷酸脱氢酶",
+          "不稳定血红蛋白",
+          "心电图",
+          "胸部平片"
+        ],
+        "medicine": [
+          "维生素E软胶囊",
+          "红细胞葡萄糖—6—磷酸脱氢酶(G6PD)活性筛查试剂盒(纯化学反应荧光法)",
+          "LEO-8100型荧光斑点检测仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "间质性肾炎",
+    "information": {
+      "introduction": "　  间质性肾炎又称小管间质性肾炎，是主要影响肾间质（包括肾小管、血管和间质）疾患的总称，不包括可引起继发性肾小管-间质损害的疾患，如肾小球肾炎等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "中老年多见",
+        "symptom": [
+          "免疫性肾炎",
+          "小管间质性肾炎",
+          "夜尿增多",
+          "面部蝶形红斑",
+          "多尿"
+        ],
+        "complication": [
+          "肾小管性酸中毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肾脏B超",
+          "放射性核素肾图"
+        ],
+        "medicine": [
+          "泌淋清胶囊",
+          "三金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "泌淋清胶囊(贵州百灵)",
+          "grade": "2.40",
+          "total": "42",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经性皮炎",
+    "information": {
+      "introduction": "神经性皮炎又名慢性单纯性苔藓(lichen simplex chronicus)，是一种局限性皮肤神经功能障碍性皮肤病，又叫慢性单纯苔藓。和中医所谓的牛皮癣、摄领疮相似。是以阵发性瘙痒和皮肤苔藓化为特征的慢性皮肤炎症。病因尚不明确，一般认为与长期搔抓、摩擦和神经精神因素及某些外在刺激因素有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性单纯苔藓",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，老人、儿童少见。",
+        "symptom": [
+          "丘疹",
+          "瘙痒",
+          "肛周皮肤有湿疹",
+          "鳞屑",
+          "四肢苔藓样变"
+        ],
+        "complication": [
+          "毛囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "?",
+        "duration": ">120天(终身间歇性治疗)",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮肤试验"
+        ],
+        "medicine": [
+          "冰黄肤乐软膏",
+          "复方醋酸氟轻松酊",
+          "地奈德乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝五胆药墨",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黑豆馏油软膏(康华)",
+          "grade": "2.16",
+          "total": "16",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "中性粒细胞减少症",
+    "information": {
+      "introduction": "中性粒细胞减少症(neutrophilic granuloaytopenia)是外周血中性粒细胞绝对值计数(白细胞总数×中性粒细胞百分比)，<10岁的儿童低于1.5×109/L，10～14岁儿童低于1.8×109/L，成人低于2.0×109/L。当粒细胞严重减少，低于0.5×109/L时，称粒细胞缺乏症(agranulocytosis)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "嗜中性白细胞减少症,嗜中性白血球减少症",
+        "part": [
+          "血液血管",
+          "骨髓"
+        ],
+        "infection": "无传染性",
+        "people": "先天性或后天获得性，先天性...",
+        "symptom": [
+          "乏力",
+          "白细胞减少",
+          "真菌感染",
+          "粒细胞减少",
+          "粒细胞减少"
+        ],
+        "complication": [
+          "粒细胞缺乏症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约10000--40000",
+        "ratio": "30%",
+        "duration": "3-6个月",
+        "method": [
+          "病因治疗、药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "骨髓象分析",
+          "血液及骨髓细菌培养"
+        ],
+        "medicine": [
+          "重组人粒细胞刺激因子注射液",
+          "重组人粒细胞刺激因子注射液",
+          "伊曲康唑口服液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

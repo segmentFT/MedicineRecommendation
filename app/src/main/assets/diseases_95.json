@@ -1,0 +1,930 @@
+[
+  {
+    "disease_name": "变性",
+    "information": {
+      "introduction": "变性是细胞或细胞间质的一系列形态学改变并伴有结构和功能的变化(功能下降)，表现为细胞内或细胞间质中出现非生理性物质或生理性物质过度堆集。但我们通常生活中接触到的变性则多为第三种意思：即易性，通过外科手术方式使人的生殖器官发生改变，切除男性生殖器官移植女性生殖器官或是切除女性生殖器官移植男性生殖器官。通常想变性(易性)的人群往往患有易性病。易性病(transexuals)是性身份严重颠倒性疾病，患者通常在3岁时萌发，青春期心理逆变，持续地感受到自身生物学性别与心理性别之间的矛盾或不协调，深信自己是另一性别的人，强烈地要求改变自身的性解剖结构，为此要求作易性手术以达到信念，在易性要求得不到满足时，常因内心冲突而极度痛苦，甚至导致自残、自戕。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "易性病",
+        "part": [
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "通常在3岁时萌发，青春期心...",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "盐酸乙哌立松片",
+          "小牛血去蛋白提取物眼用凝胶",
+          "七叶洋地黄双苷滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痛风定片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿食积",
+    "information": {
+      "introduction": "小儿食积是由于喂养不当，暴饮暴食，过多的喂给生冷油腻之食物，损伤脾胃，使脾胃运化功能失职，不能正常的腐熟水谷，停滞不化，胃气不降，反而上逆而引起食物积滞出现呕吐或泄泻的一种病症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "儿童人群",
+        "symptom": [
+          "食欲不振",
+          "烦躁不安",
+          "苔黄腻",
+          "疲乏"
+        ],
+        "complication": [
+          "发作性睡病",
+          "脑血管瘤",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "小儿腹胀"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "97%",
+        "duration": "15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "王氏保赤丸",
+          "小儿消积止咳口服液",
+          "小儿麦枣咀嚼片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "王氏保赤丸(南通)",
+          "grade": "1.31",
+          "total": "67",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿消积止咳口服液(鲁南)",
+          "grade": "2.44",
+          "total": "48",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "小儿麦枣咀嚼片(小儿麦枣片(葵花牌)",
+          "grade": "2.59",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "六神曲",
+          "grade": "4.42",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "六神曲",
+          "grade": "4.42",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "健儿药丸(信心)",
+          "grade": "2.02",
+          "total": "28",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "小儿复方鸡内金散",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿麦枣咀嚼片(小儿麦枣片(辰济)",
+          "grade": "3.80",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿麦枣咀嚼片(福和)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿麦枣咀嚼片(小儿麦枣片(哈泰华)",
+          "grade": "3.80",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿麦枣咀嚼片(盘龙)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿复方鸡内金散(健身)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿复方鸡内金散",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿复方鸡内金散(优贝滋)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿复方鸡内金散(万人)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血管运动性鼻炎",
+    "information": {
+      "introduction": "血管运动性鼻炎（vasomotor rhinitis）是神经内分泌对鼻粘膜血管、腺体功能调节失衡而引起的一种高反应性鼻病。本病病理机制错综复杂，许多环节仍不甚清楚，故给临床确切诊断和有效治疗带来一定困难。发病无显著性别差异，儿童很少有血管运动性鼻炎发生。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "鼻",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "内分泌因素常见于青春期、月...",
+        "symptom": [
+          "粘膜充血",
+          "头昏",
+          "息肉",
+          "鼻塞",
+          "变应性鼻炎"
+        ],
+        "complication": [
+          "鼻息肉"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "治愈率84%",
+        "duration": "治疗周期15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "前鼻镜",
+          "鼻部放射线检查"
+        ],
+        "medicine": [
+          "鼻舒适片",
+          "滴通鼻炎水",
+          "布地奈德鼻喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻舒适片(鹅城)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "滴通鼻炎水(星神)",
+          "grade": "3.72",
+          "total": "16",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肩-手综合征",
+    "information": {
+      "introduction": "肩-手综合征（shoulder-hand syndrome）由Morehead和Keen于1864年首先报告。通常发病与上肢创伤有关。但也有上肢并无创伤史者，这些病人可伴有心脏病、类风湿性关节炎或脑损伤、精神性疾患等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肩部",
+          "手部"
+        ],
+        "infection": "无传染性",
+        "people": "中风，心梗，颈椎病，上肢外...",
+        "symptom": [
+          "肩关节活动受限",
+          "手酸",
+          "肩关节痛",
+          "肌肉萎缩",
+          "营养障碍"
+        ],
+        "complication": [
+          "类风湿性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000—— 10000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、中医治疗、康复治疗、星状神经阻滞"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "举一手试验"
+        ],
+        "medicine": [
+          "根痛平胶囊",
+          "骨通贴膏",
+          "双氯芬酸二乙胺凝胶"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "根痛平胶囊(济仁)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨通贴膏(天和)",
+          "grade": "3.95",
+          "total": "153",
+          "secondary": "140"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脾破裂",
+    "information": {
+      "introduction": "脾脏是一个血供丰富而质脆的实质性器官。它被与其包膜相连的诸韧带固定在左上腹的后方，尽管有下胸壁、腹壁和膈肌的保护，但外伤暴力很容易使其破裂引起内出血。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年群体",
+        "symptom": [
+          "腹腔出血",
+          "腹痛伴休克",
+          "肚子疼",
+          "腹部压痛",
+          "腹肌紧张"
+        ],
+        "complication": [
+          "失血性休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000-80000元）",
+        "ratio": "50%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "脾显象",
+          "腹部CT",
+          "CT检查",
+          "腹腔灌洗试验"
+        ],
+        "medicine": [
+          "愈裂贴膏",
+          "马破伤风免疫球蛋白(F(ab')2)",
+          "左炔诺孕酮肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "熊胆痔疮膏(中联)",
+          "grade": "4.48",
+          "total": "45",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "熊胆痔疮膏(后天健)",
+          "grade": "4.0",
+          "total": "11",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痴呆",
+    "information": {
+      "introduction": "痴呆(dementia)是指在意识清醒状态下，出现的已获得的职业和社会活动技能减退和障碍，认知功能下降，记忆力减退和丧失，视空间技能损害，定向力、计算力、判断力等丧失，并相继出现人格、情感和行为改变等障碍，且呈进行性加重过程。皮克病(Pick disease)的病因也不清楚，可能是一种多基因异常的显性遗传病。皮克病的病理与阿尔茨海默病完全不同，以局限性皮质萎缩为主，并可发现皮克细胞和皮克小体。本病始于中年的进行性痴呆，为早期缓慢出现的性格改变及社会性衰退，导致智力、记忆和语言功能的衰退，晚期可表现为淡漠、欣快，偶有锥体外系症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "老年群体",
+        "symptom": [
+          "空间感知障碍",
+          "认知功能障碍",
+          "近事遗忘现象",
+          "记忆力障碍",
+          "记忆力障碍"
+        ],
+        "complication": [
+          "抑郁症",
+          "尿路感染"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗、非药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "颅脑MRI",
+          "脑血流显像",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "石杉碱甲片",
+          "复方活脑舒胶囊",
+          "奥拉西坦胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方活脑舒胶囊(长龙)",
+          "grade": "2.94",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "健脑胶囊(远程)",
+          "grade": "2.91",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "宁心益智胶囊(东方龙)",
+          "grade": "4.48",
+          "total": "64",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "特发性肺纤维化",
+    "information": {
+      "introduction": "特发性肺纤维化(idiopathic pulmonary fibrosis，IPF)是一种不明原因的肺间质炎症性疾病，原因不明的肺泡纤维化和弥漫性肺间质纤维化均为其同义词。典型的IPF，主要表现为干咳、进行性呼吸困难，经数月或数年逐渐恶化，多在出现症状3～8年内进展至终末期呼吸衰竭或死亡。主要病理特点为肺间质和肺泡腔内纤维化和炎细胞浸润混合存在。尽管该病的发病机制还没有完全阐明，就其临床特征和病理足以说明这是一种特征性的疾病。IPF的治疗尚缺乏客观的、决定性的预后因素或治疗反应，皮质激素(以下简称激素)或免疫抑制剂、细胞毒药物仍是其主要的治疗药物，但不足30%的病人有治疗反应，且可表现毒副反应。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "IPF,特发性肺纤维变性",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "见于各年龄组，而作出诊断常...",
+        "symptom": [
+          "端坐呼吸",
+          "劳力性呼吸困难",
+          "干咳",
+          "干咳",
+          "咳痰"
+        ],
+        "complication": [
+          "心脏病",
+          "肺癌",
+          "气胸"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肺功能",
+          "呼气流速",
+          "胸部CT",
+          "胸透",
+          "胸部平片"
+        ],
+        "medicine": [
+          "复方环磷酰胺片",
+          "二十五味肺病丸",
+          "磷酸芦可替尼片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "二十五味肺病丸(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "真菌性尿路感染",
+    "information": {
+      "introduction": "在人类引起侵袭性感染的真菌一直被分为原发性致病菌和机会性致病菌。原发感染发生在看来健康或有细胞介导免疫缺陷的患者;机会感染发生在由各种原因所致的吞噬功能障碍的患者，包括代谢不良、慢性消耗性疾病、激素或免疫抑制剂治疗。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "真菌性泌尿道感染",
+        "part": [
+          "肾",
+          "输尿管",
+          "膀胱"
+        ],
+        "infection": "有传染性",
+        "people": "有霉菌性阴道炎、免疫力低下...",
+        "symptom": [
+          "尿液混浊",
+          "尿急",
+          "尿频",
+          "菌尿",
+          "脓尿"
+        ],
+        "complication": [
+          "膀胱炎",
+          "结肠瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "70-80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿细菌培养"
+        ],
+        "medicine": [
+          "碳酸氢钠",
+          "氟胞嘧啶",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "隐翅虫皮炎",
+    "information": {
+      "introduction": "隐翅虫(paederus)是一种甲虫属昆虫纲，鞘翅目，隐翅虫科。分布于世界各地，常栖息于草木或石下，以8～9月间活动最甚，昼伏夜出，在灯下飞行。虫体内毒液污染皮肤，即可引起急性皮炎，疼痛剧烈，重者可出现全身反应。皮损为红斑、脓疱，呈条状、点状及片状，以条状(一条或多条)或不规则排列小脓疱，极似皮肤被竹签刺伤后继发感染所致的形态。根据临床表现及重要特点可以诊断。可用达里波液，0.05%依沙吖啶(利凡诺)冷湿敷治疗。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脓疱",
+          "发烧",
+          "丘疹",
+          "头痛",
+          "头昏"
+        ],
+        "complication": [
+          "恶寒发热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "70%",
+        "duration": "10--30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "涂片",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "倍他米松新霉素乳膏",
+          "曲咪新乳膏",
+          "乳酸依沙吖啶溶液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "外阴白斑病",
+    "information": {
+      "introduction": "外阴黏膜白斑指外阴黏膜上的角化性白色斑片或板块，不易擦掉。目前趋向于认为外阴部位的良性角化性病变称为白色角化病(leukokeratosis)或称为单纯性白斑病，将外阴部位的间变性病损称为外阴白斑病或称为癌前期白斑病。本病癌变率不高，4%～6%可能癌变，绝大多数为良性非癌前期病变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "女阴白斑病,女阴粘膜白斑,外阴黏膜白斑,外阴黏膜白斑病,无异形性改变的女阴营养障碍",
+        "part": [
+          "外阴",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上中年或停经期后妇女",
+        "symptom": [
+          "瘙痒",
+          "水肿",
+          "黏膜稍苍白"
+        ],
+        "complication": [
+          "外阴癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约3000-5000元",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗加物理治疗"
+        ],
+        "examination": [
+          "白带常规"
+        ],
+        "medicine": [
+          "妇科千金片",
+          "苦胆草片",
+          "妇科止带片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "苦胆草片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇科止带片(大峻)",
+          "grade": "3.33",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "输卵管妊娠",
+    "information": {
+      "introduction": "卵子在输卵管壶腹部受精，受精卵因某些原因在输卵管被阻，而在输卵管的某一部分着床、发育，发生输卵管妊娠。典型病例具有急性腹痛，短期闭经及不规则点滴阴道流血，且多有原发或继发不孕史。以壶腹部妊娠为最多，占50～70%;其次为峡部，占30～40%;伞部、间质部最少见，占1～2%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "异位妊娠,宫外孕",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期女性",
+        "symptom": [
+          "急性腹痛",
+          "下腹坠痛",
+          "阴道出血",
+          "停经",
+          "恶心"
+        ],
+        "complication": [
+          "腹膜后间隙出血",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "治愈率91%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "血红蛋白",
+          "血压测量",
+          "阴道妇科常规检查",
+          "腹部外形触诊"
+        ],
+        "medicine": [
+          "米索前列醇片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脑瘫",
+    "information": {
+      "introduction": "脑性瘫痪(cerebral palsy)也称婴儿脑性瘫痪(infantile cerebral palsy)，是先天性运动功能障碍及姿势异常临床综合征，我国脑性瘫痪专题座谈会(1988)提出脑性瘫痪的定义是：婴儿出生前到出生后1个月内发育期非进行性脑损害综合征，主要表现为中枢性运动障碍及姿势异常。其他原因导致的短暂性运动障碍、脑进行性疾病及脊髓病变等，不属本病的范围。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "大脑性瘫痪，脑性瘫痪，婴儿脑性瘫痪",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "烦躁不安",
+          "疲乏",
+          "久病亏损",
+          "反应迟钝",
+          "体重增加"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "3%",
+        "duration": "1-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "红细胞血清总胆红素",
+          "血液生化六项",
+          "血液电解质"
+        ],
+        "medicine": [
+          "二维三七桂利嗪胶囊",
+          "巴氯芬片",
+          "散风活络丸(浓缩丸)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "散风活络丸(浓缩丸)(散风活络丸(同仁堂)",
+          "grade": "2.57",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "灯盏细辛软胶囊",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性白血病",
+    "information": {
+      "introduction": "慢性白血病分为慢性髓细胞性白血病和慢性淋巴细胞白血病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人居多",
+        "symptom": [
+          "乏力",
+          "四肢酸痛无力",
+          "邪恋正虚",
+          "四肢乏力"
+        ],
+        "complication": [
+          "成人型慢性粒细胞白血病",
+          "幼年型慢性粒细胞白血病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清血管紧张素I转化酶活性",
+          "白细胞数",
+          "白细胞分类计数",
+          "铜蓝蛋白",
+          "血浆结合球蛋白半定量"
+        ],
+        "medicine": [
+          "硫唑嘌呤片",
+          "注射用重组人干扰素α2a",
+          "甲磺酸伊马替尼片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "绝经期乳腺癌",
+    "information": {
+      "introduction": "乳腺癌对所有年龄的妇女都是一个严重威胁。绝经后严重的肥胖及中心性脂肪堆积的妇女乳腺癌的发病率明显增加，在围绝经期后服用雌激素可增加乳腺癌的发病机会，高水平的催乳素亦会增加乳腺癌发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "乳房",
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "绝经期女性",
+        "symptom": [
+          "疼痛",
+          "水肿",
+          "乳头发炎",
+          "乳腺内无痛单发的硬肿块"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "35%(外科手术治疗)",
+        "duration": "3-6个月",
+        "method": [
+          "手术治疗、西药治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "乳腺肿瘤标记（CA 15-3）",
+          "乳腺超声",
+          "肿瘤标志物",
+          "乳房摄片"
+        ],
+        "medicine": [
+          "去氧氟尿苷胶囊",
+          "氯氧喹胶囊",
+          "卡培他滨片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "边缘性龈炎",
+    "information": {
+      "introduction": "慢性龈缘炎又称边缘性龈炎(marginal gingivitis)、单纯性龈炎(simple gingivitis)，病损主要位于游离龈和龈乳头，是牙龈病中最为常见者。本病遍及世界各地区、各种族，几乎每个人不同程度和范围在其一生中均可发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性龈缘炎,单纯性龈炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "每个人在其一生中都在不同程...",
+        "symptom": [
+          "牙龈肿胀",
+          "牙龈痛",
+          "牙龈出血",
+          "齿龈肿胀",
+          "齿龈炎"
+        ],
+        "complication": [
+          "心脏病",
+          "肺炎",
+          "糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（200 —— 1000元）",
+        "ratio": "96%",
+        "duration": "1-3月",
+        "method": [
+          "药物治疗、定期口腔检查"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "碘甘油",
+          "万通炎康片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "万通炎康片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

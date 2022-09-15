@@ -1,0 +1,1049 @@
+[
+  {
+    "disease_name": "支原体感染",
+    "information": {
+      "introduction": "支原体（mycoplasma）是细胞外生存的最小微生物。是一类缺乏细胞壁的原核细胞型微生物，大小一般在0.3-0.5um之间，呈高度多形性，有球形、杆形、丝状、分枝状等多种形态。它不同于细胞，也不同于病毒。种类繁多、分布广泛、造成的危害相当大，涉及人、动物、植物及昆虫等多个领域，给人类健康和科研工作带来不利影响。从人体分离的16种支原体中，5种对人有致病性，即肺炎支原体（M.pneumoniae）、解脲支原体（Ureaplasma urealyticum）、人型支原体（M.homins）、生殖支原体（M.genitalium）及发酵支原体（M.fermentans）。脲解支原体属（ureaplasma）含脲解支原体等体、脲解支原体及人型支原体等对人有致病性。肺炎支原体是呼吸道感染、肺炎的主要原因。脲解支原体、人型支原体则引起泌尿生殖道感染。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "孕妇、性生活活跃的年轻人、...",
+        "symptom": [
+          "白带增多",
+          "充血",
+          "尿痛",
+          "尿道刺痒",
+          "尿道口有白膜形成"
+        ],
+        "complication": [
+          "盆腔炎",
+          "心肌炎",
+          "贫血",
+          "溶血性贫血",
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "95%(经过消炎治疗一般95%以上都能有效治疗。)",
+        "duration": "2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "支原体检查",
+          "直接涂片检查",
+          "胸透",
+          "血支原体抗体"
+        ],
+        "medicine": [
+          "盐酸左氧氟沙星胶囊",
+          "盐酸左氧氟沙星胶囊",
+          "复方甲硝唑阴道栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "外阴炎",
+    "information": {
+      "introduction": "正常情况下，阴道分泌物呈酸性(宫颈管内粘液则呈碱性)，因而能抑制致病菌的活动、繁殖和上行，炎症一般不易出现。当阴道分泌物酸碱度发生改变，或有特殊病原体侵入时，即可引起炎症反应。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "细菌性外阴炎",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "各年龄段女性，大多是十岁以...",
+        "symptom": [
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "会阴溃疡",
+          "外阴皮肤肿胀",
+          "外阴烧灼刺激感"
+        ],
+        "complication": [
+          "外阴溃疡",
+          "环状外阴炎",
+          "霉菌性外阴炎",
+          "外阴炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "100%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "妇科炎症检查",
+          "阴道妇科常规检查",
+          "宫颈妇科常规检查",
+          "外阴部妇科常规检查",
+          "妇科常规检查"
+        ],
+        "medicine": [
+          "复方黄松洗液",
+          "甲硝唑氯化钠注射液",
+          "硝呋太尔胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方黄松洗液(肤阴洁)",
+          "grade": "3.72",
+          "total": "95",
+          "secondary": "84"
+        },
+        {
+          "medicine_name": "椿乳凝胶(千金)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "妇炎清洗剂(思壮)",
+          "grade": "4.33",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方黄松湿巾(源安堂)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "利夫康洗剂(利夫康乐)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "康妇凝胶(健兴)",
+          "grade": "3.10",
+          "total": "25",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "竹红菌素软膏(振华制药)",
+          "grade": "1.64",
+          "total": "27",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胆囊息肉",
+    "information": {
+      "introduction": "胆囊息肉(polyp of gallbladder)，是指胆囊壁向囊腔内呈息肉样隆起的一类病变。又称为胆囊息肉样病变(polypoid lesion of gallbladder,PLG)。胆囊息肉样病变可分为良性或恶性病变，但以非肿瘤性病变为多，一般认为直径15mm以上的胆囊息肉样病变几乎全是恶性肿瘤性病变，故胆囊息肉样病变近几年来倍加重视。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胆囊息肉样病变,胆囊隆起性病变",
+        "part": [
+          "胆"
+        ],
+        "infection": "无传染性",
+        "people": "23-55周岁，男性多于女性",
+        "symptom": [
+          "右上腹痛",
+          "胆绞痛",
+          "恶心与呕吐",
+          "食欲下降",
+          "息肉样损害"
+        ],
+        "complication": [
+          "胆囊癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "95%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "胆囊胆道B超",
+          "胆固醇酯",
+          "静脉胆囊、胆道造影",
+          "口服胆囊造影",
+          "胆囊B超"
+        ],
+        "medicine": [
+          "乌军治胆胶囊",
+          "胆道镜",
+          "结扎血管夹"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌军治胆胶囊",
+          "grade": "2.01",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "拉肚子",
+    "information": {
+      "introduction": "正常人一般每日排便一次，个别人每日排便2～3次或每2～3日一次，粪便的性状正常，每日排出粪便的平均重量为150～200g，含水分为60%～75%。腹泻(diarrhea)是一种常见症状，是指排便次数明显超过平日习惯的频率，粪质稀薄，水分增加，每日排便量超过200g，或含未消化食物或脓血、粘液。腹泻常伴有排便急迫感、肛门不适、失禁等症状。腹泻分急性和慢性两类。急性腹泻发病急剧，病程在2～3周之内。慢性腹泻指病程在两个月以上或间歇期在2～4周内的复发性腹泻。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "腹泻,泻肚子",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，经常乱吃东西的人...",
+        "symptom": [
+          "水样便",
+          "脂肪泻",
+          "爆发性水泻",
+          "稀便"
+        ],
+        "complication": [
+          "心肌炎",
+          "猝死",
+          "病毒性心肌炎",
+          "胃病",
+          "心绞痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "98%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗、饮食治疗"
+        ],
+        "examination": [
+          "胶囊内视镜",
+          "伦代试验",
+          "蛋白质、氨基酸分解产物试验",
+          "血清铜",
+          "平均红细胞血红蛋白浓度"
+        ],
+        "medicine": [
+          "参倍固肠胶囊",
+          "止泻灵片",
+          "枯草杆菌二联活菌颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参倍固肠胶囊(易激健)",
+          "grade": "4.75",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "止泻灵片",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "固本益肠片(新乐)",
+          "grade": "3.83",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "儿泻停颗粒(神鹿)",
+          "grade": "3.28",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "肉蔻四神丸(同仁堂)",
+          "grade": "2.37",
+          "total": "22",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "醒脾养儿颗粒(健兴)",
+          "grade": "2.68",
+          "total": "59",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "固肠止泻丸(阿房宫)",
+          "grade": "2.26",
+          "total": "65",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "秋泻灵合剂(龙发)",
+          "grade": "1.84",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肝硬化",
+    "information": {
+      "introduction": "肝硬化是临床常见的慢性进行性肝病，由一种或多种病因长期或反复作用形成的弥漫性肝损害。临床上早期由于肝脏功能代偿较强，可无明显症状；后期则有多系统受累，以肝功能损害和门脉高压为主要表现，并常出现消化道出血、肝性脑病、继发感染、癌变等严重并发症。肝硬化在我国以20～50岁的男性多见，青壮年的发病多与病毒性肝炎(乙型、丙型)及某些寄生虫感染有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "20～50岁的男性",
+        "symptom": [
+          "疲乏",
+          "食欲不振",
+          "门脉高压",
+          "呕血",
+          "大便黑色"
+        ],
+        "complication": [
+          "肝性脑病",
+          "腹膜炎",
+          "黄疸",
+          "肺炎",
+          "原发性肝癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗、饮食疗法、手术治疗"
+        ],
+        "examination": [
+          "大生化检查",
+          "血浆凝血因子Ⅱ活性",
+          "胸腹水常规检查",
+          "肝压痛",
+          "肝脏及胆囊叩诊"
+        ],
+        "medicine": [
+          "肝喜乐胶囊",
+          "复方木鸡颗粒",
+          "养肝片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肝喜乐胶囊(德元堂)",
+          "grade": "2.20",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方木鸡颗粒(皇泰吉)",
+          "grade": "3.60",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肝爽颗粒(步长)",
+          "grade": "1.45",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "云芝菌胶囊(神华维康)",
+          "grade": "2.2",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肝复康丸(本草纲目牌)",
+          "grade": "2.2",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "和络舒肝片(甘乙康)",
+          "grade": "3.14",
+          "total": "8",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胰腺炎",
+    "information": {
+      "introduction": "胰腺炎(pancreatitis)是胰腺因胰蛋白酶的自身消化作用而引起的疾病。常见的有：急性胆源性胰腺炎、蛔虫性急性胰腺炎、胆源性急性胰腺炎、急性出血坏死型胰腺炎等急性胰腺炎，自身免疫性胰腺炎、胆源性慢性胰腺炎等慢性胰腺炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胰瘅",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": " 所有人群 ",
+        "symptom": [
+          "肚子疼",
+          "上腹部疼痛",
+          "上腹及腰背部有“束带感”",
+          "右上腹持续性剧痛并向右肩部放射",
+          "恶心与呕吐"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "95%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "二氧化碳结合力",
+          "腹部MRI",
+          "腹部CT",
+          "纤维肠镜",
+          "胰脏触诊"
+        ],
+        "medicine": [
+          "清胰利胆颗粒",
+          "胰酶肠溶胶囊",
+          "注射用乌司他丁"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清胰利胆颗粒(林海)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒(银诺克)",
+          "grade": "2.63",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒",
+          "grade": "2.69",
+          "total": "22",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "茵山莲颗粒(国康)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆舒胶囊(疼飞)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胰胆炎合剂(颐之舒)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清胰利胆丸(林海)",
+          "grade": "3.45",
+          "total": "13",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "过敏性紫癜",
+    "information": {
+      "introduction": "过敏性紫癜(Allergic Purpura)又称出血性毛细血管中毒症或Henoch-Schnlein综合征。是常见的毛细血管变态反应性疾病，主要病理基础为广泛的毛细血管炎，以皮肤紫癜、消化道粘膜出血、关节肿胀疼痛和肾炎等症状为主要临床表现，少数患者还伴有血管神经性水肿。部分病人再次接触过敏原可反复发作。肾脏受累的程度及转归是决定预后的重要因素。过敏性紫癜可发生于任何年龄，以儿童及青少年为多见，尤以学龄前及学龄期儿童发病者多，一岁以内婴儿少见，男性多于女性(约1.4～2.1)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "亨诺-许兰综合征,葡萄疫,血风疮",
+        "part": [
+          "皮肤",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童及青少年",
+        "symptom": [
+          "紫癜",
+          "关节肿胀",
+          "关节疼痛",
+          "皮肤出血点",
+          "全身性血管损害"
+        ],
+        "complication": [
+          "哮喘",
+          "血尿",
+          "肾病综合征",
+          "高血压",
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "束臂试验",
+          "腹部皮肤检查",
+          "血常规"
+        ],
+        "medicine": [
+          "转移因子胶囊",
+          "肾上腺色腙片",
+          "转移因子胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴道炎",
+    "information": {
+      "introduction": "阴道炎是女性生殖道感染最常见的疾病, 是不同疾病引起的多种阴道黏膜炎性疾病的总称，每个年龄阶段都可发病，易反复发作。常见阴道炎包括滴虫性阴道炎、 外阴阴道假丝酵母菌病、细菌性阴道病、需氧菌性阴道炎、萎缩性阴道炎、婴幼儿性阴道炎等。临床上以白带的性状发生改变以及外阴瘙痒灼痛为主要临床特点，可有性交痛、尿痛、尿急等症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "育龄期女性",
+        "symptom": [
+          "排尿时外阴灼热、瘙痒或疼痛",
+          "白带增多",
+          "尿急",
+          "尿痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "医院不同，收费标准也不尽一致，三级甲等医院约100-10000元",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "局部用药、全身用药、男女双方同时治疗"
+        ],
+        "examination": [
+          "阴道触诊",
+          "阴道分泌物涂片",
+          "阴道妇科常规检查"
+        ],
+        "medicine": [
+          "消糜栓",
+          "制霉素阴道栓",
+          "妇科千金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "红核妇洁洗液(附冲洗器)",
+          "grade": "2.33",
+          "total": "61",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "保妇康栓(海南碧凯药业)",
+          "grade": "1.97",
+          "total": "319",
+          "secondary": "80"
+        },
+        {
+          "medicine_name": "康妇炎胶囊(步长)",
+          "grade": "2.02",
+          "total": "435",
+          "secondary": "192"
+        },
+        {
+          "medicine_name": "苦参凝胶(坤立舒)",
+          "grade": "1.83",
+          "total": "41",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "治糜康栓(金马)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "甲状腺癌",
+    "information": {
+      "introduction": "甲状腺癌 (thyroid carcinoma)是最常见的甲状腺恶性肿瘤，是来源于甲状腺上皮细胞的恶性肿瘤，绝大部分甲状腺癌起源于滤泡上皮细胞，按病理类型可分为乳头状癌(60%)、滤泡状腺癌(20%)，但预后较好;滤泡状腺癌肿瘤生长较快，属中度恶性，易经血运转移;未分化癌预后很差，平均存活时间3～6个月。甲状腺癌中以乳头状癌在临床上较为多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "恶性甲状腺肿，石瘿",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "甲状腺结节",
+          "无痛性硬实结节",
+          "颌下淋巴结肿大压痛",
+          "肺部转移",
+          "骨转移"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "甲状腺放射性核素显像",
+          "血清甲状腺球蛋白",
+          "外科检查",
+          "血清降钙素",
+          "MRI"
+        ],
+        "medicine": [
+          "博尔宁胶囊",
+          "平消片",
+          "左甲状腺素钠片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五海丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "多囊卵巢综合征",
+    "information": {
+      "introduction": "多囊卵巢综合征是一种卵巢增大并含有很多充满液体的小囊，雄激素水平增高、不能排卵的内分泌疾病。最显著的特征是无排卵。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "硬化性囊性卵巢综合征，Rokitansky瘤",
+        "part": [
+          "卵巢",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "女性，肥胖女性",
+        "symptom": [
+          "月经稀少",
+          "女性不孕",
+          "肥胖",
+          "卵巢性多毛",
+          "卵巢性闭经"
+        ],
+        "complication": [
+          "外阴肿瘤",
+          "卵巢肿瘤",
+          "心血管和血栓栓塞综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（2000—— 5000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（促排卵治疗治愈率约80-90%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "卵巢肿瘤标记",
+          "雌激素",
+          "HCG",
+          "性激素六项检查",
+          "地塞米松抑制试验"
+        ],
+        "medicine": [
+          "调经促孕丸",
+          "益母草颗粒",
+          "炔雌醇环丙孕酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "调经促孕丸(同仁堂)",
+          "grade": "2.60",
+          "total": "223",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "益母草颗粒(桂林葛仙翁)",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "龟头炎",
+    "information": {
+      "introduction": "龟头炎(balanitis)指龟头黏膜的炎症，而包皮炎指包皮及其黏膜面的炎症。临床上，两者常同时存在，统称为龟头包皮炎(balanoposthitis)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "龟头黏膜炎,阴茎头炎",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": " 青壮年 ",
+        "symptom": [
+          "尿道口有红斑和水肿",
+          "龟头瘙痒",
+          "阴茎表浅性溃疡",
+          "阴茎和阴囊水肿",
+          "阴茎龟头橡皮肿"
+        ],
+        "complication": [
+          "前列腺炎",
+          "老年男性性功能障碍",
+          "睾丸炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "90%",
+        "duration": "10天",
+        "method": [
+          "药物治疗（请阅读龟头炎的药物治疗）"
+        ],
+        "examination": [
+          "皮损",
+          "真菌检查",
+          "浆细胞"
+        ],
+        "medicine": [
+          "磷霉素氨丁三醇散",
+          "一次性载液抗菌器",
+          "皮肤抗菌喷剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "早孕反应",
+    "information": {
+      "introduction": "在妊娠早期(停经六周左右)，孕妇体内绒毛膜促性腺激素(HCG)增多，胃酸分泌减少及胃排空时间延长，导致头晕、乏力、食欲不振、喜酸食物或厌恶油腻、恶心、晨起呕吐等一系列反应，统称为早孕反应。这些症状一般不需特殊处理，妊娠12周后随着体内HCG水平的下降，症状多自然消失，食欲恢复正常。但要提醒孕妇的是，并非所有的呕吐都是早孕反应。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "妊娠剧吐,妊娠反应， 惡阻",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠早期孕妇",
+        "symptom": [
+          "恶心与呕吐",
+          "尿频",
+          "食欲异常",
+          "尿妊娠试验阳性",
+          "早孕反应重"
+        ],
+        "complication": [
+          "食管穿孔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "市三甲医院约（50-100元）",
+        "ratio": "95%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿酮体试验",
+          "尿早早孕试验",
+          "产科B超",
+          "尿HCG",
+          "尿酮体"
+        ],
+        "medicine": [
+          "叶酸片",
+          "嗣育保胎丸",
+          "β-人绒毛膜促性腺激素(β-hCG)诊断试剂盒(化学发光法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "嗣育保胎丸(同仁堂)",
+          "grade": "3.86",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高血压",
+    "information": {
+      "introduction": "高血压是以体循环动脉压升高为主要临床表现的心血管综合征，在未用抗高血压药的情况下，非同日3次测量，收缩压≥140mmHg和(或)舒张压≥90mmHg，可诊断为高血压。高血压是最常见的慢性病，也是心脑血管病最主要的危险因素，其脑卒中、心肌梗死、心力衰竭及慢性肾脏病等主要并发症，不仅致残、致死率高。高血压病一般指的是原发性高血压。原发性高血压占高血压的90%以上。高血压病的原因目前还不是很明确，每个个体的原因和发病机制不尽相同，个体差异性较大。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "高血压病，风眩",
+        "part": [
+          "血液血管",
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人，平时钠盐的摄入量...",
+        "symptom": [
+          "血压高",
+          "头痛",
+          "头胀",
+          "头晕",
+          "心悸"
+        ],
+        "complication": [
+          "视网膜病变",
+          "主动脉瓣关闭不全",
+          "高血压危象",
+          "动脉瘤",
+          "主动脉夹层"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约200-5000元",
+        "ratio": "0.0001%(终身性疾病)",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、饮食疗法"
+        ],
+        "examination": [
+          "检眼镜检查法",
+          "舒张压",
+          "伯尔格试验",
+          "寒冷性升压试验",
+          "高钠试验"
+        ],
+        "medicine": [
+          "松龄血脉康胶囊",
+          "奥美沙坦酯片",
+          "奥利司他胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "松龄血脉康胶囊",
+          "grade": "2.50",
+          "total": "81",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "高血压速降丸(同仁堂)",
+          "grade": "4.33",
+          "total": "46",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "新生儿黄疸",
+    "information": {
+      "introduction": "新生儿黄疸是指新生儿期(自胎儿娩出脐带结扎至生后28天)，由于胆红素在体内积聚而导致血中胆红素水平升高而出现皮肤、黏膜及巩膜黄染为特征的病症，本病分为生理性黄疸和病理性黄疸。足月儿生理性黄疸在出生后2～3天出现，4～5天达到高峰，5～7天消退，最迟不超过两周;早产儿持续时间较长，除有轻微食欲不振外，一般无其他临床症状。若生后24小时即出现黄疸，2～3周仍不退，甚至继续加深加重，或消退后复现，或生后2周后才开始出现黄疸，均为病理性黄疸。足月儿血清总胆红素超过205.2μmol/L(12mg/dl)，早产儿超过256.5μmol/L(15mg/dl)称为高胆红素血症，为病理性黄疸。足月儿间接胆红素超过307.8μmol/L(18mg/dl)，则引起胆红素脑病(核黄疸)的几率较高，损害中枢神经系统，易遗留后遗症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "新生儿生理性黄疸，胎黄",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "刚出生的婴儿",
+        "symptom": [
+          "生理性黄疸",
+          "巩膜黄染",
+          "婴儿脸色发黄",
+          "新生儿母乳喂养后出现黄疸"
+        ],
+        "complication": [
+          "黄疸",
+          "新生儿黄疸",
+          "胎毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "产科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "99%",
+        "duration": "14天",
+        "method": [
+          "药物治疗、蓝光照射"
+        ],
+        "examination": [
+          "肝功能",
+          "婴幼儿健康检查",
+          "尿二胆",
+          "儿童五官科检查",
+          "血清总胆红素"
+        ],
+        "medicine": [
+          "当飞利肝宁胶囊",
+          "九味獐牙菜丸",
+          "维生素K1"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "当飞利肝宁胶囊",
+          "grade": "2.29",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "九味獐牙菜丸",
+          "grade": "3.61",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利肝隆颗粒(元和)",
+          "grade": "3.95",
+          "total": "20",
+          "secondary": "18"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "麦粒肿",
+    "information": {
+      "introduction": "最靠近眼球边缘的皮肤就是“眼睑”，因为发炎反应或是病菌感染而引起睫毛及眼睑边缘处的发炎称为“眼睑炎”，是最常引起外眼部刺激的原因之一。病人在眼睑上可感受到灼热、刺激及痒感，有的病人甚至有眼睑周围溃疡、睫毛掉落的现象。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "针眼,眼睑炎，睑腺炎",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "青年人",
+        "symptom": [
+          "眼屎多",
+          "眼睑脓肿",
+          "睑结膜充血露出黄色脓块",
+          "眼睛发红",
+          "眼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-2000元）",
+        "ratio": "98%",
+        "duration": "3-7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "复方磺胺甲噁唑钠滴眼液",
+          "头孢克洛干混悬剂",
+          "盐酸金霉素眼膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

@@ -1,0 +1,958 @@
+[
+  {
+    "disease_name": "根尖周病",
+    "information": {
+      "introduction": "根尖周病包括急性和慢性根尖周炎。 根尖周病是指局限于根尖部的牙周组织，包括牙骨质、牙周膜和牙槽骨的炎症。从病理上又分浆液性和化脓性根尖周炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性根尖周炎,急性根尖周炎,牙根尖周炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "牙龈肿胀",
+          "颌下淋巴结肿大压痛",
+          "牙龈痛",
+          "牙有伸长感及触痛",
+          "颌下淋巴结肿大压痛"
+        ],
+        "complication": [
+          "骨髓炎",
+          "海绵窦血栓"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "治愈率98%",
+        "duration": "治疗周期5天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "甲硝唑芬布芬胶囊",
+          "糠甾醇片",
+          "奥硝唑氯化钠注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "跟骨骨折",
+    "information": {
+      "introduction": "以足跟部剧烈疼痛，肿胀和瘀斑明显，足跟不能着地行走，跟骨压痛为主要表现的跟骨骨折。本病成年人较多发生，常由高处坠下或挤压致伤。经常伴有脊椎骨折，骨盆骨折，头、胸、腹伤，初诊时切勿遗误。跟骨为松质骨，血循供应比较丰富，骨不连者甚少见。但如骨折线进入关节面或复位不良，后遗创伤性关节炎及跟骨负重时疼痛者很常见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "成年人较多见",
+        "symptom": [
+          "扭伤",
+          "足部肿胀压痛",
+          "残株型骨折",
+          "脚外侧疼",
+          "足跟淤血"
+        ],
+        "complication": [
+          "血管损伤",
+          "肿胀"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "?",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "关节检查",
+          "一般摄片检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "独一味胶囊",
+          "骨康胶囊",
+          "直型接骨板"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "独一味胶囊(独一味)",
+          "grade": "2.2",
+          "total": "24",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性脊髓炎",
+    "information": {
+      "introduction": "急性脊髓炎是非特异性炎症引起脊髓白质脱髓鞘病变或坏死，导致急性横贯性脊髓损害，也称为急性横贯性脊髓炎，以病损水平以下肢体瘫痪、传导束性感觉障碍和尿便障碍为临床特征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性横贯性脊髓炎",
+        "part": [
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "可见于任何年龄，但以青壮年...",
+        "symptom": [
+          "脊髓休克",
+          "无力",
+          "腱反射亢进",
+          "腱反射消失",
+          "运动功能障碍"
+        ],
+        "complication": [
+          "褥疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000050000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "本病无特效治疗，主要包括减轻脊髓损害、防治并发症及促进功能恢复。"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "脑脊液的化学检查",
+          "肌电图",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "布洛芬乳膏",
+          "醋氯芬酸片",
+          "注射用盐酸克林霉素"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴茎折断",
+    "information": {
+      "introduction": "阴茎折断是指阴茎在勃起状态下，外在暴力招致阴茎海绵体的白膜破裂而言。阴茎海绵体白膜正常厚度约2mm，阴茎勃起时，血管窦充血，内压增加，白膜变薄仅为0.2～0.25mm，极易发生破裂。破口常为横行，一般不超过海绵体周径的1/2，多数位于远1/3处。这种损伤较为少见，因为具有难言之隐，故而不少病例未被报道。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "阴茎海绵体破裂",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "男性",
+        "symptom": [
+          "剧痛",
+          "瘀斑",
+          "阴茎损伤",
+          "阴茎损伤",
+          "阴茎疼痛"
+        ],
+        "complication": [
+          "尿道损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "男科",
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约(5000-10000元)",
+        "ratio": "治愈率99%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "阴茎海绵体造影",
+          "阴茎超声检查"
+        ],
+        "medicine": [
+          "阿莫西林克拉维酸钾干混悬剂",
+          "阿莫西林胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "衣原体感染症",
+    "information": {
+      "introduction": "衣原体是是一种在人体内长期生存并又广泛传播的病原体，属条件致病菌。它在一定条件下能引起子宫颈感染、早产、流产及尿道感染等多种疾病，尤其是在与淋球菌等其他病原体合并感染时更加重疾病的发展及引起其它并发症，在无症状子宫颈和男、女性泌尿系统常有沙眼衣原体的存在，其检出率不一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "眼",
+          "盆腔",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿频",
+          "尿急",
+          "尿流中断",
+          "尿痛",
+          "脓性分泌物"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "95%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "聚合酶链反应技术",
+          "衣原体检查法",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "注射用阿奇霉素",
+          "吉他霉素片",
+          "盐酸米诺环素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "钩虫病",
+    "information": {
+      "introduction": "钩虫病(ancylostomiasis)是由于十二指肠钩口线虫或美洲钩口线虫(一并简称钩虫)寄生于小肠内所引起的疾病。当人体接触钩虫的传染期幼虫(丝状蚴)时，幼虫即钻入皮肤而引起感染发病。临床上以贫血，营养不良，胃肠功能失调为主要表现，重者可致发育障碍及心功能不全。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "钩虫感染,钩口线虫病,懒黄病",
+        "part": [
+          "肠"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "腹部不适",
+          "乏力",
+          "点状出血",
+          "痰检或可找到丝状蚴"
+        ],
+        "complication": [
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 2000元）",
+        "ratio": "30-50%",
+        "duration": "10-20天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "改良加藤法",
+          "大便白细胞",
+          "粪便寄生虫",
+          "抗原皮内试验"
+        ],
+        "medicine": [
+          "伊维菌素片",
+          "阿苯达唑片",
+          "三苯双脒肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肉瘤",
+    "information": {
+      "introduction": "来源于间叶组织(包括结缔组织和肌肉)的恶性肿瘤称为“肉瘤”。多发生于皮肤、皮下、骨膜及长骨两端。如纤维肉瘤生长迅速，肿瘤晚期常有坏死、出血、切面灰红色、质均匀细如生鱼肉状。骨肉瘤以青年人为多，好发于四肢长骨之两端，尤以股骨下端、胫骨上端及肱骨上端最多见。骨肉瘤发展迅速，病程短，开始在皮质内生长，可逐渐向骨髓腔发展，有时向外突破骨膜，侵入周围软组织，易引起病理性骨折。常见的还有平滑肌瘤、淋巴肉瘤、滑膜肉瘤等。早期即可发生血行转移。肉瘤属于恶性肿瘤病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "成年人多常见",
+        "symptom": [
+          "低烧",
+          "低热消疲",
+          "关节疼痛",
+          "肢体疼痛",
+          "结节"
+        ],
+        "complication": [
+          "髌股关节疼痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "35%",
+        "duration": "1-2个月",
+        "method": [
+          "化疗、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "平消胶囊",
+          "复方环磷酰胺片",
+          "甲氨蝶呤片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腺性膀胱炎",
+    "information": {
+      "introduction": "腺性膀胱炎(glandular cystitis)是一种较罕见的膀胱黏膜上皮增生性病变。病因不明，多数学者认为是由于残余胚胎的发展和膀胱黏膜上皮化生所致。临床症状复杂，有发展成膀胱腺癌的可能，亦可与腺癌并存，因此越来越引起临床医学的重视。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿频",
+          "尿痛",
+          "间歇性尿蛋白",
+          "黏液尿"
+        ],
+        "complication": [
+          "尿路感染",
+          "肾积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（2000-5000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿液细菌学检查",
+          "腹腔脏器的叩诊",
+          "膀胱镜"
+        ],
+        "medicine": [
+          "复方石韦胶囊",
+          "阿莫西林双氯西林钠胶囊",
+          "银花泌炎灵片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方石韦胶囊(新石伟)",
+          "grade": "4.23",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银花泌炎灵片(华丹)",
+          "grade": "3.06",
+          "total": "39",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "妇炎康软胶囊",
+          "grade": "1.90",
+          "total": "29",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "十三味菥蓂丸",
+          "grade": "2.02",
+          "total": "34",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇炎康丸(蝴蝶迷)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "五淋化石丸(三鹤药业)",
+          "grade": "1.97",
+          "total": "14",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "结石通片(恒诚制药)",
+          "grade": "2.59",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑胶质瘤",
+    "information": {
+      "introduction": "脑胶质瘤(脑胶质细胞瘤)约占颅内肿瘤的46%，在1996年第三届(悉尼)国际肿瘤控制大会总结的资料中统计，脑胶质瘤的发病率为3～10/10万，占全身恶性肿瘤的1%～3%，手术加放化疗的平均生存期仅为8～11个月。脑肿瘤中胶质细胞瘤发病率最高，综合发病年龄高峰在30-40岁，或10-20岁。大脑半球发生的胶质瘤约占全部胶质瘤的51.4%，以星形细胞瘤为最多，其次是胶质细胞瘤和少枝胶质细胞瘤，脑室系统也是胶质瘤较多的发生部位，占胶质瘤总数的23 .9%，主要为管膜瘤，髓母细胞瘤，星形细胞瘤，小脑胶质瘤占胶质瘤总数的13%，主要为星形细胞瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脑胶质癌,脑胶质细胞瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "儿童及青少年好发，特别是5~9...",
+        "symptom": [
+          "深部性头痛",
+          "反应迟钝",
+          "脑干出血",
+          "脑干病变",
+          "导水管周围受损"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（30000 —— 80000元",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "CT造影扫描"
+        ],
+        "medicine": [
+          "替莫唑胺胶囊",
+          "卡莫司汀注射液",
+          "卡莫司汀注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾虚",
+    "information": {
+      "introduction": "肾虚指肾脏精气阴阳不足。肾虚的种类有很多，其中最常见的是肾阴虚、肾阳虚。 肾虚的症状：肾阳虚的症状为腰酸、四肢发冷、畏寒，甚至还有水肿，为“寒”的症状，性功能不好也会导致肾阳虚;肾阴虚的症状为“热”，主要有腰酸、燥热、盗汗、虚汗、头晕、耳鸣等。现代科学证明，当人发生肾虚时，无论肾阴虚还是肾阳虚，都会导致人的免疫能力的降低，有更多的证据表明，肾虚发生时，肾脏的免疫能力降低，而肾脏的微循环系统亦会发生阻塞，肾络呈现不通。所以对于肾虚的治疗应防治结合。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群尤其是40岁以上的...",
+        "symptom": [
+          "尿频",
+          "性欲减退",
+          "腰酸背痛",
+          "腰酸"
+        ],
+        "complication": [
+          "肾虚眩晕",
+          "肾虚腰痛",
+          "肾虚耳鸣",
+          "肾精亏虚"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能"
+        ],
+        "medicine": [
+          "人参固本口服液",
+          "八子补肾胶囊",
+          "四子填精胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "人参固本口服液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金水宝胶囊(济民可信)",
+          "grade": "2.37",
+          "total": "138",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "五子衍宗丸(同仁堂)(水蜜丸)",
+          "grade": "2.00",
+          "total": "47",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补肾固齿丸(九芝堂)",
+          "grade": "4.17",
+          "total": "32",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "骨疏康胶囊(康辰)",
+          "grade": "3.9",
+          "total": "13",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "龟龄集(远)",
+          "grade": "3.32",
+          "total": "15",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "穿龙骨刺片(太极)",
+          "grade": "4.2",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "苁蓉益肾颗粒(兰太)",
+          "grade": "1.07",
+          "total": "21",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方玄驹胶囊(施强)",
+          "grade": "1.19",
+          "total": "142",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "舒筋健腰丸(陈李济)",
+          "grade": "1.67",
+          "total": "153",
+          "secondary": "86"
+        },
+        {
+          "medicine_name": "麒麟丸(麒麟牌)",
+          "grade": "3.18",
+          "total": "16",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "输卵管性不孕",
+    "information": {
+      "introduction": "     受孕是个很复杂的过程。它要求精卵相合形成受精卵，最后着床于宫腔。除了要有正常的精子、卵子和适当的子宫内环境外，使精子、卵子能够相遇并顺利运送到宫腔也是受孕经过中一个重要的环节。这个任务是由输卵管来完成的。输卵管不仅是连接卵巢和子宫的渠道，而且还具有排卵、贮卵、输精、提供精卵结合的场所、输送孕卵至宫控以便及时到达官腔内膜之功能。如果输卵管有炎症，导致输卵管堵塞，精子不能通过与卵子相遇造成的不孕，则称为输卵管性不孕。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "育龄妇女多见",
+        "symptom": [
+          "继发性不孕",
+          "下腹痛",
+          "低位腰痛"
+        ],
+        "complication": [
+          "盆腔炎症性不孕症",
+          "发作性睡病",
+          "不孕症",
+          "新生儿泪囊炎",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "中医科"
+        ],
+        "cost": "500-1000元",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "输卵管通畅检查",
+          "生育镜",
+          "不孕不育检查",
+          "子宫输卵管造影"
+        ],
+        "medicine": [
+          "注射用盐酸克林霉素",
+          "奥硝唑氯化钠注射液",
+          "盐酸多西环素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿道下裂",
+    "information": {
+      "introduction": "尿道异位开口于尿道腹侧，称为尿道下裂(hypospadias)。尿道下裂开口可发生于由会阴部至阴茎头间的任何部位。尿道外口的远端、尿道与周围组织发育不全，形成纤维索牵扯阴茎，使阴茎弯向腹侧。先天性阴茎下弯者并不全有尿道下裂，但尿道下裂都有不同程度的阴茎下弯。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "男性人群",
+        "symptom": [
+          "男性小便刺痛",
+          "持续性疼痛",
+          "泌尿道破裂",
+          "阴茎短",
+          "巨阴症"
+        ],
+        "complication": [
+          "隐睾",
+          "腹股沟斜疝",
+          "前列腺囊肿",
+          "尿路梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "外科治愈率约40-60%",
+        "duration": "1-2年，需多次手术。",
+        "method": [
+          "泌淋清、尿感宁颗粒、复方金钱草颗粒"
+        ],
+        "examination": [
+          "静脉尿路造影",
+          "膀胱造影",
+          "尿路平片",
+          "阴茎超声检查"
+        ],
+        "medicine": [
+          "甘氨酸冲洗液",
+          "尿 道 导 管",
+          "小儿泌尿外科器械包"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "心虚",
+    "information": {
+      "introduction": "心气虚指由发汗、泻下太过，或劳心过度，心气耗损或年老脏气日衰、病后体虚所致。表现为心悸，气短(活动时加剧)，自汗，胸闷不舒或痛，面色苍白，体倦乏力，舌质淡，舌体胖嫩，苔白，脉虚等。治宜益气养血为主。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "心气虚,心悸,怔仲,心肌病,贫血",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "心悸",
+          "胸闷",
+          "气短",
+          "虚烦",
+          "失眠"
+        ],
+        "complication": [
+          "心阴虚",
+          "心阳虚",
+          "心血虚",
+          "脑血管瘤",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "98%",
+        "duration": "15-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "十全大补酒",
+          "通心络胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十全大补酒",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "通心络胶囊(以岭)",
+          "grade": "2.76",
+          "total": "209",
+          "secondary": "9"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "维生素B2缺乏病",
+    "information": {
+      "introduction": "维生素B2又名核黄素(riboflavin)，在体内以游离核黄素、黄素单核苷酸(flavin mononucleotide，FMN)和黄素腺嘌呤二核苷酸(flavin adenine dinucleotide，FAD)3种形式存在于组织中。维生素B2缺乏症在临床上主要表现为皮肤黏膜受损的改变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "核黄素缺乏病,维生素B2缺乏症,核黄素缺乏症",
+        "part": [
+          "眼",
+          "口",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "口角生疮",
+          "唇干裂",
+          "阴囊瘙痒",
+          "角膜混浊",
+          "畏光"
+        ],
+        "complication": [
+          "自然流产",
+          "贫血",
+          "湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "营养科",
+          "皮肤科",
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 5000元）",
+        "ratio": "85%",
+        "duration": "3-6个月",
+        "method": [
+          "饮食、药物治疗"
+        ],
+        "examination": [
+          "红细胞谷胱甘肽还原酶",
+          "维生素B2",
+          "皮损",
+          "免疫病理检查"
+        ],
+        "medicine": [
+          "口服五维葡萄糖",
+          "维生素B2片",
+          "维生素B2片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "中风",
+    "information": {
+      "introduction": "脑中风是由脑部血液循环障碍，导致以局部神经功能缺失为特征的一组疾病。包括颅内和颅外动脉、静脉及静脉窦的疾病，但以动脉疾病为多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "脑卒中，卒中",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人、男性多见",
+        "symptom": [
+          "偏瘫",
+          "感觉障碍",
+          "偏盲",
+          "恶心与呕吐",
+          "头痛"
+        ],
+        "complication": [
+          "脑出血",
+          "脑疝",
+          "褥疮",
+          "意识障碍",
+          "营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "血管外科"
+        ],
+        "cost": "市三甲医院约10000--40000元",
+        "ratio": "50%",
+        "duration": "?",
+        "method": [
+          "西药治疗、中药治疗、针灸治疗"
+        ],
+        "examination": [
+          "CT造影扫描",
+          "CT检查",
+          "脑脊液动力学试验",
+          "脑脊液的化学检查",
+          "脑电图"
+        ],
+        "medicine": [
+          "血塞通泡腾片",
+          "血塞通分散片",
+          "血塞通片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "血塞通泡腾片",
+          "grade": "3.11",
+          "total": "119",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血塞通分散片",
+          "grade": "3.14",
+          "total": "98",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "中风回春胶囊",
+          "grade": "4.71",
+          "total": "116",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龟龙中风丸",
+          "grade": "4.43",
+          "total": "60",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(同仁堂)",
+          "grade": "2.24",
+          "total": "84",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "脉血康胶囊(多泰)",
+          "grade": "1.98",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "同仁牛黄清心丸(同仁堂)",
+          "grade": "3.26",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑络通胶囊(白云山)",
+          "grade": "3.87",
+          "total": "43",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

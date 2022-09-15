@@ -1,0 +1,1160 @@
+[
+  {
+    "disease_name": "咽峡炎",
+    "information": {
+      "introduction": "是常见的咽喉疾病。如果你的扁桃体增大很多，多半是因为溶血性链球菌作用的缘故。扁桃体炎多半是病毒引起(例如流感)，很少是真菌引起的。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "多见于3～10岁儿童",
+        "symptom": [
+          "咽喉疼痛",
+          "舌苔黄",
+          "高热",
+          "恶寒",
+          "头痛"
+        ],
+        "complication": [
+          "疱疹性咽峡炎",
+          "粒性白细胞缺乏性咽峡炎",
+          "奋森咽峡炎",
+          "白血病性咽峡炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "呼吸内科",
+          "儿科"
+        ],
+        "cost": "市三甲医院约（100 —— 300元）",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "鼻咽部活组织检查",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "头孢氨苄胶囊",
+          "利巴韦林气雾剂",
+          "清喉咽合剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清喉咽合剂(和治)",
+          "grade": "2.16",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清喉咽合剂(999)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂(珠江)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂(升和)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清喉咽合剂(太极)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂(顺势)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂(龙发)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂(太极)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清喉咽合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清喉咽合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清喉咽合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "丝虫病",
+    "information": {
+      "introduction": "丝虫病是指丝虫(由吸血节肢动物传播的一类寄生性线虫)寄生在脊椎动物终宿主的淋巴系统、皮下组织、腹腔、胸腔等处所引起的疾病。两种丝虫引起丝虫病的临床表现很相似，急性期为反复发作的淋巴管炎、淋巴结炎和发热，慢性期为淋巴水肿和象皮肿，严重危害流行区居民的健康和经济发展。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "流火,大脚风",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "以20—50岁间感染率与发病率...",
+        "symptom": [
+          "发炎",
+          "关节酸痛",
+          "肉芽肿",
+          "淋巴结肿大",
+          "局部淋巴结肿大"
+        ],
+        "complication": [
+          "淋巴管炎",
+          "淋巴结炎",
+          "淋巴水肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约3000-5000元",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿中寄生虫检查",
+          "皮内试验",
+          "WBC",
+          "补体结合试验",
+          "脂肪尿和乳糜尿检查"
+        ],
+        "medicine": [
+          "伊维菌素咀嚼片",
+          "伊维菌素片",
+          "甲硝唑"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "孢子丝菌病",
+    "information": {
+      "introduction": "孢子丝菌病是由腐生性真菌申克孢子丝菌所引起的皮肤、皮下组织及其附近淋巴管的慢性感染，偶可播散致全身，引起系统损害。申克孢子丝菌存在于玫瑰,伏牛花和水苔及其他林地覆盖物中.园艺师,园丁,农业工人和原木工人最常受感染。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "侧孢病霉",
+        "part": [
+          "皮肤",
+          "淋巴"
+        ],
+        "infection": "有传染性",
+        "people": "农民或野外作业的工人",
+        "symptom": [
+          "红斑鳞屑",
+          "皮下囊肿",
+          "丘疹",
+          "关节肿胀",
+          "结痂"
+        ],
+        "complication": [
+          "乳腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "75%-85%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "孢子丝菌凝集试验",
+          "真菌检查",
+          "浆细胞"
+        ],
+        "medicine": [
+          "伊曲康唑胶囊",
+          "氟康唑片",
+          "盐酸伊曲康唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "子宫性不孕",
+    "information": {
+      "introduction": "子宫在生殖生理和生殖内分泌功能中起着最重要作用。主要表现有以下几个方面：1、月经功能;2、储存和输送精子;3、精子获能;4、孕卵着床;5、胎儿发育;6、分娩;7、卵巢激素靶器官。因而，子宫的生长发育如何，均与月经和生殖功能密切相关。造成子宫异常性不孕的原因很多，主要子宫发育异常和子宫病变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "先天性无子宫",
+          "子宫痉挛性狭窄环",
+          "单角或双角子宫",
+          "始基子宫",
+          "子宫性闭经"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康"
+        ],
+        "cost": "市三甲医院约（1000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "介入性宫内取材检查",
+          "子宫大小",
+          "子宫疾病自检",
+          "子宫及附件检查",
+          "子宫内膜活检"
+        ],
+        "medicine": [
+          "地屈孕酮片",
+          "注射用绒促性素",
+          "ZPZ系列亿方妇科治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄  虫丸",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄庶虫丸",
+          "grade": "3.73",
+          "total": "12",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胸痹",
+    "information": {
+      "introduction": "胸痹心痛是由于正气亏虚，饮食、情志、寒邪等所引起的以痰浊、瘀血、气滞、寒凝痹阻心脉，以膻中或左胸部发作性憋闷、疼痛为主要临表现的一种病证。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "饮食油腻及施救中年人多见",
+        "symptom": [
+          "疼痛",
+          "胸闷",
+          "胸部隐痛",
+          "压榨样绞痛",
+          "心悸"
+        ],
+        "complication": [
+          "胸骨骨髓炎",
+          "结胸证",
+          "气腹痛",
+          "脑囊虫病",
+          "垂体性侏儒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "75-85%",
+        "duration": "6-8周",
+        "method": [
+          "药物治疗、"
+        ],
+        "examination": "?",
+        "medicine": [
+          "速效救心丸",
+          "复方丹参片",
+          "血塞通片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "速效救心丸(松栢)",
+          "grade": "2.60",
+          "total": "137",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方丹参片(大恒)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方丹参片(白云山)",
+          "grade": "4.40",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "利脑心胶囊(敖东)",
+          "grade": "3.59",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血栓心脉宁片(圣喜)",
+          "grade": "3.84",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "冠心康片(麒麟牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑心清片(白云山)",
+          "grade": "3.87",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银杏酮酯滴丸(傲士)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "杏灵滴丸(立迈)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心灵丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "振源胶囊(益盛)",
+          "grade": "2.52",
+          "total": "44",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "血塞通滴丸(双富牌)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿道综合征",
+    "information": {
+      "introduction": "女性尿道综合征是指有尿频，尿急、尿痛等症状，但膀胱和尿道检查无明显器质性病变的一组非特异性症候群，多见于已婚的中青年女性。常由于尿道外口解剖异常(如小阴唇融合、尿道处女膜融合，处女膜伞等)、尿道远端梗阻、泌尿系感染以及局部化学性，机械性刺激等因素所引起。患者尿道口组织的病理改变均为慢性炎症反应，多数患者尿培养可能阳性，46%为大肠埃希菌，18%为衣原体，厌氧菌培养可增加阳性发现，32%患者病因不确切。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "尿道综合症,无菌性尿频-排尿不适综合征,症状性无菌尿",
+        "part": [
+          "尿道",
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于中青年女性",
+        "symptom": [
+          "尿痛",
+          "排尿不畅",
+          "泌尿生殖窦",
+          "水肿",
+          "下腹痛"
+        ],
+        "complication": [
+          "尿道狭窄",
+          "子宫内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "70%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "膀胱触诊",
+          "尿液病原体",
+          "尿细菌培养"
+        ],
+        "medicine": [
+          "复方莪术油栓（OTC）",
+          "妇炎净片",
+          "盐酸黄酮哌酯片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇炎净片(金爵)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "甲状腺囊肿",
+    "information": {
+      "introduction": "         甲状腺囊肿是指在甲状腺中发现含有液体的囊状物，甲状腺囊肿通常没有症状，除非囊肿很大或囊肿内有出血的现象，这时可能造成一些压迫的症状，如疼痛、吞咽困难、呼吸困难、声音沙哑等。一般而言，甲状腺囊肿很少会有恶性细胞，通常只需观察，看是否有变大的趋势即可。  ",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "疼痛",
+          "吞咽困难",
+          "呼吸困难",
+          "声音嘶哑",
+          "心悸"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（2000 —— 3000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "血清抗甲状腺过氧化物酶自身抗体",
+          "游离甲状腺指数",
+          "全身体检",
+          "气管移位检查",
+          "血清甘油三酯检测"
+        ],
+        "medicine": [
+          "一次性使用活检针",
+          "一次性使用活检针"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "老年人骨关节炎",
+    "information": {
+      "introduction": "骨关节炎(Osteoarthritis，OA)曾称为增生性关节炎，退化性关节炎，骨关节病等。它是一种以软骨退性和(或)关节边缘骨质增生为特点的老人多发的滑膜关节病，临床表现为关节痛，僵和功能障碍，通常认为是非炎症性关节病，实际上久病关节也可出现滑膜炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "骨关节病，退行性关节炎，老年性关节炎，肥大性关节炎等",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多见",
+        "symptom": [
+          "椎间盘脱出",
+          "创伤",
+          "背痛",
+          "结节",
+          "关节疼痛"
+        ],
+        "complication": [
+          "骨膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "老年科"
+        ],
+        "cost": "市三甲医院约5000-20000元",
+        "ratio": "35%，临床上多以控制症状治疗为主",
+        "duration": "?",
+        "method": [
+          "抗风湿治疗，以药物治疗为主"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "人体各关节功能活动范围",
+          "血清抗Sa抗体",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "硫酸氨基葡萄糖胶囊",
+          "骨肽片",
+          "尼美舒利分散片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗骨增生胶囊(康缘)",
+          "grade": "3.81",
+          "total": "14",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痰热咳嗽",
+    "information": {
+      "introduction": " 为邪犯气道、肺失宣肃而致痰热蕴肺证患者,若表邪未解可兼见表症。临 床表现为咳嗽、痰 黄稠、咯吐不爽,鼻塞流浊涕,咽痛声哑,舌质红,苔薄黄或腻,脉滑数;西医诊断为支气 管炎,多有受凉感染或接触史,肺部听诊可闻及干、湿性罗音。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胸部"
+        ],
+        "infection": "无传染性",
+        "people": "受凉感染或接触史着多发",
+        "symptom": [
+          "咳嗽",
+          "胸闷",
+          "口干",
+          "口苦"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "颅咽管瘤",
+          "发作性睡病",
+          "脑血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "克咳片",
+          "清肺十八味丸",
+          "熊胆川贝口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "克咳片",
+          "grade": "2.99",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "清肺十八味丸(阜药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "熊胆川贝口服液(一品红)",
+          "grade": "4.64",
+          "total": "95",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "京制咳嗽痰喘丸(同仁堂)",
+          "grade": "4.25",
+          "total": "137",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚黄宝儿丸(敬修堂)",
+          "grade": "2.36",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(济民可信)",
+          "grade": "3.90",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "祛痰灵口服液(鹊牌)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(汇仁)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(天施康)",
+          "grade": "3.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(南昌济生)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(金禹欣)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方鲜竹沥液(强壮)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三蛇胆川贝糖浆(金太子)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三蛇胆川贝糖浆(中族)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三蛇胆川贝糖浆",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "埃博拉出血热",
+    "information": {
+      "introduction": "埃博拉病毒病是由纤丝病毒科(filoviridae)的埃博拉病毒(Ebola virus，EBOV)所引起的一种急性出血性传染病。埃博拉病毒(EBOV)是引起人类和灵长类动物发生埃博拉出血热(EBHF)的烈性病毒，由此引起的出血热是当今世界上最致命的病毒性出血热，已造成10次具有规模的暴发流行。主要通过患者的血液和排泄物传播，临床主要表现为急性起病，发热，肌痛，出血，皮疹和肝肾功能损害。易感和高危人群: 人群普遍易感，无论其年龄和性别。高危人群包括埃博拉出血热病人、感染动物密切接触的人员如医务人员、检验人员、在埃博拉流行现场的工作人员等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "埃博拉病毒病,埃博拉病毒性疾病",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发烧",
+          "肌痛",
+          "皮疹",
+          "关节痛",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肝功能",
+          "自身免疫抗体检测",
+          "血清免疫球蛋白G"
+        ],
+        "medicine": [
+          "转移因子口服溶液",
+          "曲克芦丁片",
+          "埃博拉病毒(扎伊尔型)核酸检测试剂盒(PCR-荧光探针法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "人流后妇科病",
+    "information": {
+      "introduction": "人流后妇科病是指进行人工流产术者没有严格遵守操作规程，没有合格的医疗设备或是流产者本身有相应的妇科炎症感染，抵抗力低下或是术后护理不好，人流后导致的一些妇科的疾病，人流后常见的妇科病有盆腔炎、子宫内膜异位、宫颈炎、附件炎等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "女性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "育龄女性多见",
+        "symptom": [
+          "腹肌紧张",
+          "肠鸣音消失",
+          "高热寒战",
+          "头痛",
+          "食欲不振"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "涂片",
+          "阴道窥器检查",
+          "药敏试验",
+          "阴道镜",
+          "盆腔和阴道B超"
+        ],
+        "medicine": [
+          "场效应治疗仪",
+          "银离子妇科医用垫",
+          "玄极治疗仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肿胀",
+    "information": {
+      "introduction": " 肿胀是指肌肉﹑皮肤或黏膜等组织由于发炎或淤血充血而体积增大。《医宗金鉴.杂病心法要诀.肿胀总括》谓肿胀有脉胀﹐有肤胀。亦用以形容身体虚胖。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": "?",
+        "complication": [
+          "生殖道肿瘤皮肤转移",
+          "神经内分泌肿瘤皮肤转移",
+          "副鼻窦炎",
+          "发作性睡病",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "心血管内科",
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "25%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "双蚁祛湿通络胶囊",
+          "尼美舒利颗粒",
+          "肛泰"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肛泰(荣昌制药)",
+          "grade": "1.99",
+          "total": "48",
+          "secondary": "34"
+        },
+        {
+          "medicine_name": "金嗓散结丸(碑林)",
+          "grade": "2.57",
+          "total": "27",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "复方玄驹胶囊(施强)",
+          "grade": "1.19",
+          "total": "142",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "通络开痹片(上岗)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "普济痔疮栓(鲁南)",
+          "grade": "3.84",
+          "total": "19",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "骨质宁搽剂(摩美得)",
+          "grade": "3.42",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "正清风痛宁缓释片",
+          "grade": "4.22",
+          "total": "8",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "雪山金罗汉止痛涂膜剂(西藏药业)",
+          "grade": "2.05",
+          "total": "36",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "肛泰栓(荣昌制药)",
+          "grade": "2.61",
+          "total": "37",
+          "secondary": "29"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "痉挛性斜颈",
+    "information": {
+      "introduction": "痉挛性斜颈是一种累及颈部区域的局限性肌张力障碍，表现为颈肌阵发性的不自主收缩，引起头向一侧扭转或阵性倾斜。它是一种锥体外系运动障碍，是一种独立的器质性疾病。然而精神因素如焦虑、反应性抑郁症等对此病的症状轻重起着一定的调整作用，情绪的冲动甚至是此病加速发展的一个因素。临床上诊断和治疗要通过细致的临床观察和肌电图检查进行区分。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颈部"
+        ],
+        "infection": "无传染性",
+        "people": "发病的高峰年龄为50～60岁。",
+        "symptom": [
+          "颈背部肌肉痉挛",
+          "头部偏向一侧做扭转运动",
+          "椎动脉迂曲痉挛",
+          "阵挛",
+          "震颤"
+        ],
+        "complication": [
+          "肌张力障碍",
+          "痉挛性斜颈",
+          "抑郁症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "5--10天",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "尿常规",
+          "脊柱触诊",
+          "颈椎CT",
+          "肌电图"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "虚劳",
+    "information": {
+      "introduction": "虚劳又称虚损，是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。虚劳是气血津液病证中涉及脏腑及表现证候最多的一种病证，临床较为常见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "虚损",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "心悸",
+          "元气虚弱",
+          "气血不足",
+          "阴阳气血失衡",
+          "气短"
+        ],
+        "complication": [
+          "阴虚发热",
+          "肺气虚",
+          "阳虚发热",
+          "虚寒泄泻",
+          "心阳虚"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "80%",
+        "duration": "10天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "血液生化六项",
+          "心电图"
+        ],
+        "medicine": [
+          "河车大造丸",
+          "鹿角胶",
+          "阿胶补血膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "河车大造丸(同仁堂)",
+          "grade": "4.95",
+          "total": "82",
+          "secondary": "81"
+        },
+        {
+          "medicine_name": "鹿角胶",
+          "grade": "3.07",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "阿胶补血膏(东阿阿胶)4瓶装)",
+          "grade": "1.89",
+          "total": "24",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "固本延龄丸(百年丹)",
+          "grade": "2.23",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "蛤蚧定喘胶囊(三金)",
+          "grade": "4.04",
+          "total": "119",
+          "secondary": "114"
+        },
+        {
+          "medicine_name": "河车大造丸",
+          "grade": "4.48",
+          "total": "85",
+          "secondary": "81"
+        },
+        {
+          "medicine_name": "人参固本丸(同仁堂)(大蜜丸)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "川贝末胶囊(博英)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "山东阿胶膏(福胶)",
+          "grade": "4.88",
+          "total": "316",
+          "secondary": "315"
+        },
+        {
+          "medicine_name": "紫河车胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "紫河车胶囊(三力制药)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "七味葡萄散(蒙王)",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "枸杞药酒(敖东)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鹿角胶颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "枸杞药酒(益盛)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "继发性高血压",
+    "information": {
+      "introduction": "继发性高血压是指由某些确定的疾病或病因引起的血压升高，血压升高仅是这些疾病的一个临床表现。约占所有高血压的5%。高血压确诊前须排除“继发性高血压”，不可乱用降压药。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "心肾疾病患者最多见",
+        "symptom": [
+          "顽固性高血压",
+          "伴高血压",
+          "情绪性高血压",
+          "颈性高血压",
+          "去首高血压"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "血尿酸",
+          "脑血流图",
+          "血清钙",
+          "血清甘油三酯"
+        ],
+        "medicine": [
+          "复方气管炎胶囊",
+          "外用应急软膏",
+          "盐酸咪达普利片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方气管炎胶囊(秦丹)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "外用应急软膏(KYS)",
+          "grade": "1.12",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "强力定眩片",
+          "grade": "1.91",
+          "total": "25",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "菊明降压丸(同仁堂)",
+          "grade": "2.89",
+          "total": "66",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "莱葛颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

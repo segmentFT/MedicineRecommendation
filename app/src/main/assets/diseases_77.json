@@ -1,0 +1,1107 @@
+[
+  {
+    "disease_name": "淋巴结炎",
+    "information": {
+      "introduction": "淋巴结炎，是细菌沿淋巴管侵人淋巴结所致。但并不是每个人遇到细菌感染就会发生淋巴结炎，只有在人体抵抗力下降时，才容易发生本病。长期的营养不良，贫血及其他慢性疾病使抵抗力明显下降时，感染细菌后易发生淋巴结炎。引发本病的细菌常为金黄色葡萄球菌和溶血性链球菌。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "长期营养不良,贫血及抵抗力...",
+        "symptom": [
+          "淋巴结肿大",
+          "颌下淋巴结肿大压痛",
+          "腋下淋巴肿大",
+          "腹股沟淋巴结肿大",
+          "耳前淋巴结肿大"
+        ],
+        "complication": [
+          "慢性淋巴结炎",
+          "急性淋巴结炎",
+          "腹膜后淋巴结炎",
+          "小儿急性肠系膜淋巴结炎",
+          "浅部急性淋巴结炎和淋巴管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "普外科"
+        ],
+        "cost": "市三甲医院约3000--8000元",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "西药治疗、中药治疗、局部治疗、手术治疗"
+        ],
+        "examination": [
+          "涂片",
+          "头颅平片",
+          "局部淋巴显象",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "开喉剑喷雾剂",
+          "口炎清颗粒",
+          "清热散结片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "开喉剑喷雾剂(三力)",
+          "grade": "3.20",
+          "total": "52",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肺止咳胶囊(飞云岭)",
+          "grade": "4.8",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(鹅城)",
+          "grade": "1.54",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "2.99",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(普正)",
+          "grade": "3.03",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(司贝尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(丁教授)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(柴宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "加味西黄丸",
+          "grade": "4.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(巨虹)",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "下背部痛",
+    "information": {
+      "introduction": "下背部痛是指下部腰椎、腰骶区或骶髂区感觉到的疼痛。常伴有坐骨神经痛，疼痛向一侧或两侧臀部或下肢的坐骨神经分布区放射。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腰部"
+        ],
+        "infection": "无传染性",
+        "people": "发病率有随年龄上升的趋势，...",
+        "symptom": [
+          "肌痛",
+          "肌肉压痛",
+          "焦虑",
+          "紧张",
+          "剧烈疼痛"
+        ],
+        "complication": [
+          "腰椎间盘突出",
+          "坐骨神经痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科",
+          "外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "四肢的骨和关节平片",
+          "X线碘油造影",
+          "腰背部检查",
+          "CT检查",
+          "肌电图"
+        ],
+        "medicine": [
+          "麝香壮骨膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "麝香壮骨膏(力强牌)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "有机磷农药中毒",
+    "information": {
+      "introduction": "有机磷农药（organophosphorus pesticide）种类很多，根据其毒性强弱分为高毒、中毒、低毒三类。我国目前常用有机磷农药的大鼠口服半数致死量（mg/kg）分别如下：对硫磷（1605）为3.5～15mg；内吸磷（1059）为4～10mg；甲拌磷（3911）为2.1～3.7mg；乙拌磷为4mg；硫特普为5mg；磷胺为7.5mg（以上属高毒类）。敌敌畏为50～110mg；甲基对硫磷（甲基1065）为14～42mg；甲基内吸磷（甲基1059，4044）为80～130mg（以上属中毒类）。敌百虫为450～500mg；乐果为230～450mg；马拉硫磷（4049，马拉松）为1800mg；二溴磷为430mg；杀螟松（杀螟硫磷）为250mg（以上属低毒类）。高毒类有机磷农药少量接触即可中毒，低毒类大量进入体内亦可发生危害。人体对有机磷的中毒量、致死量差异很大。由消化道进入较一般浓度的呼吸道吸入或皮肤吸收中毒症状重、发病急；但如吸入大量或浓度过高的有机磷农药，可在5分钟内发病，迅速致死。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "主要发生于农药厂生产的包装...",
+        "symptom": [
+          "毒蕈碱样症状",
+          "肌肉跳动",
+          "全身紧束感",
+          "呼吸困难",
+          "头晕"
+        ],
+        "complication": [
+          "肺水肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 50000元）",
+        "ratio": "70%",
+        "duration": "1-3天",
+        "method": [
+          "洗胃、胆碱能神经抑制剂、胆碱酯酶复活剂"
+        ],
+        "examination": [
+          "血清胆碱酯酶 "
+        ],
+        "medicine": [
+          "盐酸消旋山莨菪碱氯化钠注射液",
+          "硫酸阿托品片",
+          "氢溴酸樟柳碱注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "先天性肾上腺皮质增生症",
+    "information": {
+      "introduction": "先天性肾上腺皮质增生症(congenital adrenal cortical hyperplasia，CAH)是由于肾上腺皮质激素生物合成酶系中某种或数种酶的先天性缺陷，使皮质醇等激素水平改变所致的一组疾病。常呈常染色体隐性遗传。临床上以21-羟化酶缺陷症为最常见，占90%以上，其发病率约为1/4500新生儿，其中约75%为失盐型，其次为11β-羟化酶缺陷症，约占5%～8%，其发病率约为1/5000～7000新生儿。其他类型均为罕见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肾上腺性变态综合征",
+        "part": [
+          "肾上腺"
+        ],
+        "infection": "无传染性",
+        "people": "儿童多见",
+        "symptom": [
+          "高睾酮血症",
+          "双侧肾上腺皮质增生",
+          "青春期后无精液",
+          "盐类皮质激素分泌过多",
+          "21-羟化酶缺陷症"
+        ],
+        "complication": [
+          "尿道下裂",
+          "隐睾"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "膀胱造影",
+          "促肾上腺皮质激素兴奋试验",
+          "血浆17-羟孕酮",
+          "血清促肾上腺皮质激素",
+          "尿黄体酮"
+        ],
+        "medicine": [
+          "醋酸氢化可的松片",
+          "氢化可的松片",
+          "氢化可的松片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "大骨节病",
+    "information": {
+      "introduction": "卡斯钦-贝克病(Kaschin-Beck disease)即大骨节病，是一种地方性软骨骨关节畸形病，是以软骨坏死为主的变形性骨关节病。多发生于儿童和少年，主要侵犯儿童和青少年的骨骼与关节系统，导致软骨内成骨障碍、管状骨变短和继发的变形性关节病。致管状长骨发育障碍，关节增粗、疼痛、肌肉松弛、萎缩和运动障碍。患者以身材矮小、短指、关节畸形、步态异常(呈典型跛行、鸭步)等为特征。本病尚有矮人病、算盘子病等之称。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "算盘珠病,Kaschin-Beck病",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "以儿童和青少年多发",
+        "symptom": [
+          "髋内翻",
+          "骨密度增加",
+          "膝内翻",
+          "弓状指",
+          "骨端增大"
+        ],
+        "complication": [
+          "骨关节炎",
+          "锥体外系疾病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "10%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗、中医治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "CT检查",
+          "血清硒",
+          "MRI",
+          "血常规"
+        ],
+        "medicine": [
+          "骨刺消痛液",
+          "骨仙片",
+          "抗骨增生片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨仙片(白云山中一)",
+          "grade": "3.69",
+          "total": "21",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "抗骨增生片(新峰药业)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蠲痹抗生丸(利君)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藤黄健骨片(方盛)",
+          "grade": "2.88",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "藤黄健骨丸",
+          "grade": "1.89",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗骨增生片",
+          "grade": "2.17",
+          "total": "14",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗骨增生片(大峻)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨筋丸胶囊(老专家)",
+          "grade": "4.33",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "藤黄健骨丸(益馨康)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗骨增生片(同济堂)",
+          "grade": "3.64",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗骨增生片(立效)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藤黄健骨胶囊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "藤黄健骨丸(老君炉)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿道癌",
+    "information": {
+      "introduction": "尿道癌属于尿道上皮肿瘤，临床上比较少见。大约50%的尿道癌继发于膀胱，输尿管或肾盂移行上皮癌。原发尿道癌比较少见，主要发生在女性。男性尿道癌大多数系40岁以上，女性尿道癌多见于中老年人。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "男性尿道癌大多数系40岁以上...",
+        "symptom": [
+          "尿道内口呈漏斗样改变",
+          "尿道弥漫性浸润",
+          "尿道结节",
+          "尿道流血",
+          "消瘦"
+        ],
+        "complication": [
+          "尿道结核"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（30000 —— 80000元）",
+        "ratio": "20%",
+        "duration": "?",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "阴道尿道瘘显象",
+          "肿瘤筛查",
+          "尿道分泌物检查"
+        ],
+        "medicine": [
+          "去氧氟尿苷胶囊",
+          "去氧氟尿苷胶囊",
+          "注射用盐酸表柔比星"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胃肠道间质瘤",
+    "information": {
+      "introduction": "胃肠道间质瘤(Gastrointestinal Stromal Tumors，GISTs)是一类起源于胃肠道间叶组织的肿瘤，占消化道间叶肿瘤的大部分。间质瘤作为一个较新的概念，应该涵盖了以前所谓的“胃肠道平滑肌瘤”或“胃肠道平滑肌肉瘤”。但作为间叶组织发生的肿瘤，胃肠道平滑肌瘤或肉瘤的概念并未被排除，只不过在目前的临床病理诊断中，这类肿瘤只占胃肠道间叶源性肿瘤的少部分。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "GIST",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "多发于中老年患者",
+        "symptom": [
+          "吞咽障碍",
+          "胃肠道出血",
+          "吞咽困难",
+          "肠穿孔",
+          "吞咽痛"
+        ],
+        "complication": [
+          "结直肠损伤",
+          "肠系膜肿瘤",
+          "网膜肿瘤",
+          "小肠肿瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "外科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "手术治愈率约为60-70%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "气钡双对比造影",
+          "CT检查",
+          "胃钡餐造影",
+          "食管造影",
+          "胃肠道疾病的超声检查"
+        ],
+        "medicine": [
+          "甲磺酸伊马替尼胶囊",
+          "甲磺酸伊马替尼胶囊",
+          "苹果酸舒尼替尼胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "精神障碍",
+    "information": {
+      "introduction": "精神障碍指的是大脑机能活动发生紊乱，导致认知、情感、行为和意志等精神活动不同程度障碍的总称。常见的有情感性精神障碍、脑器质性精神障碍等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "多见于遗传疾病",
+        "symptom": [
+          "精神恍惚",
+          "偏执性妄想",
+          "幻觉",
+          "内容难以听清的自言自语",
+          "单纯醉酒"
+        ],
+        "complication": [
+          "颅内肿瘤伴发的精神障碍",
+          "医用药物中毒所致的精神障碍",
+          "农药中毒所致的精神障碍",
+          "工业中毒所致的精神障碍",
+          "其他类精神活性物质依赖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "奋乃静片",
+          "氟哌啶醇片",
+          "奋乃静片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾脏损伤",
+    "information": {
+      "introduction": "肾脏位置较深在，且有脂肪囊和周围组织结构的保护，受伤机会较少。肾脏损伤多由火器伤、刺伤以及局部直接或间接暴力所致。依创伤的程度分为挫伤、撕裂伤、碎裂伤和肾蒂伤4种类型。 肾脏损伤约占所有泌尿生殖道损伤的65%左右。原因有钝性损伤(80%)，贯通伤(战争期间及高犯罪地区增加)，以及医源性损伤(由于手术，体外震波碎石或肾活检).并发症包括出血不止，尿外渗，脓肿形成和高血压。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肾损伤",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "外伤引起多见",
+        "symptom": [
+          "创伤",
+          "近曲小管受累",
+          "尿外渗",
+          "尿外渗",
+          "红细胞压积偏高"
+        ],
+        "complication": [
+          "失血性休克",
+          "肾结石"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "内科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "外科手术治愈率约为60-80%",
+        "duration": "1-2个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "肾血管造影",
+          "肾脏CT",
+          "静脉肾盂造影",
+          "肾脏B超"
+        ],
+        "medicine": [
+          "葡萄糖氯化钠注射液",
+          "荷叶丸",
+          "百令胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荷叶丸(同仁堂)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸(藏王天宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸",
+          "grade": "4.88",
+          "total": "39",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸",
+          "grade": "4.80",
+          "total": "20",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳管内乳头状瘤",
+    "information": {
+      "introduction": "本病也与雌激素过度刺激造成局限性乳头状生长有关。可分为单发性（乳管内乳头状瘤）和多发性（乳管内乳头状瘤）两种。可见于任何年龄的成年女性，但以40～50岁发病者最多见，男性少见。单发性者癌变率约为6%。乳管内乳头状瘤病常为多发性，发生于乳腺边缘部位的中、小导管或末梢导管没，可累及多个乳腺小叶的不同导管，其生物学特性倾向于癌变，癌变率高达30%～40%，可视为癌前病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "多见于经产妇，40～50岁为多",
+        "symptom": [
+          "泌乳障碍",
+          "乳房肿块",
+          "乳腺刺痛",
+          "乳头发炎",
+          "乳房肿块"
+        ],
+        "complication": [
+          "乳管内乳头状瘤",
+          "乳头状小汗腺腺瘤",
+          "乳房导管内乳头状瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "肿瘤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 ——90000元）",
+        "ratio": "70%",
+        "duration": "10-30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "乳房摄片",
+          "乳腺导管造影",
+          "乳房触诊",
+          "乳房视诊",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "平消片",
+          "平消胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "尿道肉阜",
+    "information": {
+      "introduction": "尿道肉阜(caruncle of urethra)又称尿道肉芽肿或血管性息肉，是女性尿道末端良性的息肉状赘生物，常位于尿道口的后方。是女性常见的尿道疾病。其发生可能与外阴部慢性炎症刺激、雌激素水平严重降低、局部黏膜下静脉曲张以及尿道黏膜脱垂外翻等因素有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "尿道肉芽肿,尿道血管性息肉",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "女性多见",
+        "symptom": [
+          "尿道变粗变硬",
+          "尿道口疼",
+          "尿道烧灼感",
+          "尿频",
+          "泌尿生殖窦"
+        ],
+        "complication": [
+          "外阴瘙痒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "80%",
+        "duration": "7--10天",
+        "method": [
+          "药物治疗、手术治疗、中医治疗"
+        ],
+        "examination": [
+          "尿道口检查",
+          "免疫病理检查",
+          "妇科疾病的病毒检查"
+        ],
+        "medicine": [
+          "复方莪术油栓（OTC）",
+          "妇科千金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾虚眩晕",
+    "information": {
+      "introduction": "肾虚眩晕是指肾虚精气不足，不能上充脑髓所致的眩晕。《医略六书·眩晕》：“肾水亏少，虚火炎上，眩晕耳鸣，此嗜欲人多肾虚眩晕。”治用鹿茸肾气丸、左归丸、右归丸、六味地黄丸、金匮肾气丸等方。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "性活跃人群多发",
+        "symptom": [
+          "肾气虚",
+          "肝火",
+          "痰火郁结",
+          "脾胃虚弱"
+        ],
+        "complication": [
+          "眩晕",
+          "中毒性眩晕",
+          "内耳膜迷路积水",
+          "副鼻窦炎",
+          "新生儿泪囊炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "六味地黄丸",
+          "六味地黄丸",
+          "抗衰复春片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "63",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "62",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "抗衰复春片",
+          "grade": "4.76",
+          "total": "18",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "抗衰复春片",
+          "grade": "4.87",
+          "total": "16",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "金锁固精丸(九芝堂)",
+          "grade": "3.97",
+          "total": "7",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "抗衰复春片(糖衣片)",
+          "grade": "4.87",
+          "total": "16",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "抗衰复春片",
+          "grade": "4.87",
+          "total": "17",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "眩晕宁片(三金)",
+          "grade": "4.57",
+          "total": "45",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "杞菊地黄口服液",
+          "grade": "3.28",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "心阳虚",
+    "information": {
+      "introduction": "心阳虚，中医术语，即“心阳不振”。是心气虚的重症。除了心气虚的症状外，还有四肢厥冷，大汗出，心悸加重，甚至昏迷不醒，脉微欲绝。多见于心力衰竭或休克等病症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "怕冷",
+          "四肢发冷",
+          "面色灰暗",
+          "胸闷",
+          "胸痛"
+        ],
+        "complication": [
+          "急性右侧心力衰竭",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "发作性睡病",
+          "充血性心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "50-60%",
+        "duration": "20-30天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": "?",
+        "medicine": [
+          "金匮肾气丸",
+          "柏子养心丸",
+          "四子填精胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金匮肾气丸(同仁堂)",
+          "grade": "2.20",
+          "total": "92",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "柏子养心丸(同仁堂)",
+          "grade": "3.32",
+          "total": "15",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "参倍固肠胶囊(易激健)",
+          "grade": "4.75",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益肾壮阳膏(新天夫)",
+          "grade": "1.12",
+          "total": "28",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "固本益肠片(新乐)",
+          "grade": "3.83",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "神衰康胶囊(秦丹)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肠胃宁片(四方箅)",
+          "grade": "4.04",
+          "total": "20",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "海狗丸(京果)",
+          "grade": "4.90",
+          "total": "422",
+          "secondary": "421"
+        },
+        {
+          "medicine_name": "强骨胶囊(歧黄)",
+          "grade": "4.53",
+          "total": "35",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "复方玄驹胶囊(施强)",
+          "grade": "1.19",
+          "total": "142",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "全鹿丸(江西民济)",
+          "grade": "1.02",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "营心丹(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "参雄温阳胶囊(柯迪)",
+          "grade": "1.69",
+          "total": "75",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "刺五加片",
+          "grade": "4.16",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "蚊子叮咬",
+    "information": {
+      "introduction": "蚊子叮咬在夏天是寻常事，叮咬后要注意避免过分挠抓，否则容易发生感染。蚊子叮咬可以传播疾病，如疟疾、丝虫病、流行性乙型脑炎等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "蚊虫叮咬",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "儿童多见",
+        "symptom": [
+          "皮肤搔痒",
+          "皮肤痛",
+          "红肿奇痒"
+        ],
+        "complication": [
+          "发作性睡病",
+          "嗜血流感杆菌的皮肤感染",
+          "颅咽管瘤",
+          "脑血管瘤",
+          "疟疾"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约(100--500元)",
+        "ratio": "100%",
+        "duration": "3~5天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "清凉油",
+          "六神丸",
+          "炉甘石洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清凉油(野虎牌)",
+          "grade": "2.85",
+          "total": "41",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "六神丸(雷氏)",
+          "grade": "3.64",
+          "total": "6",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "先天性白内障",
+    "information": {
+      "introduction": "出生后第一年发生的晶体部分或全部混浊，称为先天性白内障。先天性白内障是严重影响婴幼儿视力发育的常见眼病。由于病因比较复杂，先天性白内障在形态、混浊部位、混浊程度以及发病年龄方面有较大差异。本病有许多种类型，有不同的病因。为明确诊断，有时需做必要的实验室检查。由于先天性白内障在早期即可以发生剥夺性弱视，因此其治疗又不同于一般成人白内障。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "婴幼儿白内障",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "畏光",
+          "视力障碍",
+          "玻璃体经瞳孔向前房凸出",
+          "晶状体混浊",
+          "色觉丧失"
+        ],
+        "complication": [
+          "斜视",
+          "眼球震颤",
+          "视网膜病变"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "儿科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "角膜内皮细胞计数仪",
+          "前房深度",
+          "前房轴深检查法",
+          "瞳孔检查",
+          "常规小瞳孔检查"
+        ],
+        "medicine": [
+          "法可林滴眼液",
+          "法可林滴眼液",
+          "法可林滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

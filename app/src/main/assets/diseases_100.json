@@ -1,0 +1,769 @@
+[
+  {
+    "disease_name": "胃肠道癌",
+    "information": {
+      "introduction": "胃肠道癌(gastrointestinal carcinoma)，结肠和直肠癌为第二个最常见原发性肿瘤，而且也是最常转移到皮肤上的内脏肿瘤。大多发生于直肠，占男性皮肤转移癌的11%～19%，女性的1.3%～9%。大肠癌通常在皮肤转移癌之前发现。来自胆囊和胆管的皮肤转移癌可见于原发肿瘤被发现时，也可晚至原发肿瘤切除后的40年。来自胃及胰腺的皮肤转移癌通常在原发肿瘤发现前发生。通常来自胃肠的皮肤转移癌的发病部位为腹壁、会阴和脐部。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "50岁以上，男性发病率比女性",
+        "symptom": [
+          "皮肤转移",
+          "无汗腺导管角质护膜分化",
+          "炎性细胞浸润",
+          "胃肠淋巴回流受阻",
+          "炎性损害"
+        ],
+        "complication": [
+          "化脓性汗腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（30000 —— 50000元）",
+        "ratio": "30-40%",
+        "duration": "1-2个月",
+        "method": [
+          "放疗、化疗、手术治疗。"
+        ],
+        "examination": [
+          "气钡双对比造影",
+          "血清前列腺特异性抗原",
+          "腹部叩诊音",
+          "血清前列腺酸性磷酸酶",
+          "血清癌胚抗原"
+        ],
+        "medicine": [
+          "去氧氟尿苷胶囊",
+          "抗癌平丸",
+          "食道平散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗癌平丸(龙圣堂)",
+          "grade": "3.50",
+          "total": "42",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "食道平散(欧珂)",
+          "grade": "1.99",
+          "total": "61",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "黄斑病变",
+    "information": {
+      "introduction": "黄斑区是视网膜的一个重要区域，位于眼后极部，主要与精细视觉及色觉等视功能有关。一旦黄斑区出现病变，常常出现视力下降、眼前黑影或视物变形。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "老年人多发",
+        "symptom": [
+          "视力障碍"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "Nd:YAG倍频激光治疗机",
+          "自动电脑视野检查仪",
+          "数字眼底照相及荧光造影检查仪"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨结核",
+    "information": {
+      "introduction": "骨结核大多是由肺结核继发的。但也有患者没有肺结核病史，属于结核菌的隐匿性感染。结核菌核大多首先发生在肺部，在肺部感染后通过血液的传播可以到全身很多系统去，可以导致骨骼系统结核、泌尿系统结核、消化系统结核等。所以骨结核不是单纯的病变，是全身疾病在局部的表现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "骨"
+        ],
+        "infection": "有传染性",
+        "people": "颈椎结核多见于儿童，腰椎结...",
+        "symptom": [
+          "关节疼痛",
+          "关节肿胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "治愈率91%",
+        "duration": "治疗周期9个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "结核丸",
+          "结核丸",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "结核丸(浓缩丸)(劳克)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "结核丸(扶正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "复方柳菊片(赣鹰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十六味马蔺子丸",
+          "grade": "2.28",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗痨颗粒(济仁)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草口服液(即瑞)",
+          "grade": "3.55",
+          "total": "12",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "蚂蚁叮咬",
+    "information": {
+      "introduction": "蚂蚁叮咬是在人群中约有10%的个体对某些抗原刺激特别敏感而引起变态反应。本文报告1例因被蚂蚁叮咬后发生过敏性休克，经全力抢救后康复的患者。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "皮肤瘙痒",
+          "昏迷",
+          "喉头水肿"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "副鼻窦炎",
+          "颅咽管瘤",
+          "鼠螨叮咬",
+          "发作性睡病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "据不同医院，收费标准不一致，约50--100元",
+        "ratio": "90--98%",
+        "duration": "2--5天",
+        "method": [
+          "外用药物"
+        ],
+        "examination": "?",
+        "medicine": [
+          "地塞米松片",
+          "盐酸肾上腺素注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "输尿管炎",
+    "information": {
+      "introduction": "输尿管炎是单侧或双侧输尿管的炎症，是由大肠埃希杆菌，变形杆菌、铜绿假单胞菌(绿脓杆菌)和葡萄球菌等致病菌所引起的输尿管管壁的炎性病变。常继发于泌尿系其他部位的感染，内源性或外源性损伤。 肾脏或膀胱感染的扩散是其最常见的原因。另一原因是部分输尿管神经支配缺陷引起的尿流迟缓(尿流停顿)。潜在的肾脏或膀胱感染需进行治疗，神经支配缺陷的输尿管节段需行手术切除。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "输尿管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "输尿管间脊肥大",
+          "输尿管囊肿",
+          "尿急",
+          "尿频",
+          "尿痛"
+        ],
+        "complication": [
+          "尿路梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "99%",
+        "duration": "2-4周",
+        "method": [
+          "饮食治疗、药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "静脉尿路造影",
+          "泌尿感染类尿常规",
+          "尿细菌培养",
+          "输尿管超声检查"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "注射用拉氧头孢钠",
+          "盐酸屈他维林片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性劳损性腰背痛",
+    "information": {
+      "introduction": "慢性劳损性腰背痛又名慢性腰背肌劳损，是临床上常见的疾患之一。从症状上观察，它与胸背或腰骶部纤维织炎完全相似，尽管其发生机转属另一原因，更多见于潮湿、寒冷条件下的工作者，但在临床上常常难以区分，除非依据病史上的特点。作者以为：能区分则区分，因二者在防治上各有侧重;而对无法分别者，则可统称之为腰肌劳损。劳损一词，系指无明显外伤引起的腰背部疼痛，既往多称为过劳。发生在腰部的劳损称为腰劳损;发生在背部者，则称为背部劳损;两者情况同时存在者，则称为腰背部劳损。两者常呈延续状发生，因其发生是逐渐地形成，所以又有慢性腰背部劳损之称。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "慢性腰背肌劳损",
+        "part": [
+          "腰部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "潮湿、寒冷条件下工作的中青...",
+        "symptom": [
+          "背痛",
+          "结节",
+          "肌肉紧张性疼痛",
+          "腰背酸痛",
+          "剧烈运动后腰痛"
+        ],
+        "complication": [
+          "急性腰扭伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "针灸科"
+        ],
+        "cost": "市三甲医院约（500-800元）",
+        "ratio": "76%",
+        "duration": "7-21天",
+        "method": [
+          "物理治疗"
+        ],
+        "examination": [
+          "腰背部检查",
+          "血沉"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "复方水杨酸甲酯乳膏",
+          "双氯芬酸钠缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "巴雷特食管",
+    "information": {
+      "introduction": "食管下端有不正常的柱状上皮覆盖，称之为Barrett食管。普遍认为是获得性，并与反流性食管炎密切相关，并有发生腺癌的可能，异位柱状上皮残留于食管可在食管任何部位发生。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "巴雷特氏食管,食管下段粘膜柱状上皮化",
+        "part": [
+          "食管",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "中、老年男性",
+        "symptom": [
+          "便血",
+          "胸骨后疼痛",
+          "吞咽困难",
+          "烧心",
+          "反酸"
+        ],
+        "complication": [
+          "反流性食管炎",
+          "吸入性肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "内镜检查",
+          "食管造影",
+          "食管压力",
+          "食管24小时pH监测"
+        ],
+        "medicine": [
+          "多潘立酮",
+          "西沙必利"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "出血性输卵管炎",
+    "information": {
+      "introduction": "出血性输卵管炎是急性输卵管炎的一种特殊类型，在输卵管间质层发生出血，突破黏膜上皮进入管腔，甚至由伞端流入腹腔，引起输卵管及腹腔积血。此病国外文献报道甚少，国内多误诊仅剩少数病例有报道。但近十年报道逐渐增多，已逐步为临床医生所认识，已不成为罕见病例，且作为妇产科新的急腹症之一。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性输卵管炎",
+        "part": [
+          "输卵管"
+        ],
+        "infection": "无传染性",
+        "people": "已婚青壮年妇女",
+        "symptom": [
+          "阴道不规则出血",
+          "肛门坠胀",
+          "持续性疼痛",
+          "恶心",
+          "肚子疼"
+        ],
+        "complication": [
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "91.1%",
+        "duration": "15天",
+        "method": [
+          "手术治疗、西药治疗、中药治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "生殖道分泌物培养",
+          "输卵管通气术",
+          "输卵管通液检查"
+        ],
+        "medicine": [
+          "金鸡胶囊",
+          "益母草胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金鸡胶囊(金鸡)",
+          "grade": "1.89",
+          "total": "84",
+          "secondary": "45"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "原位癌",
+    "information": {
+      "introduction": "原位癌一般指粘膜上皮层内或皮肤表皮层内的非典型增生（重度）累及上皮的全层，但尚未侵破基底膜向下浸润生长者。例如子宫颈、食管及皮肤的原位癌。此外，当乳腺小叶腺泡发生癌变而尚未浸润至小叶外者，亦可称为小叶原位癌。原位癌是一种早期癌，因而早期发现和积极治疗，可防止其发展为浸润性癌，从而提高癌瘤的治愈率。 常见的原位癌有皮肤原位癌、子宫颈原位癌、胃原位癌、直肠原位癌、乳腺导管内癌和乳房小叶间原位癌。 ",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "上皮内上皮癌 ",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "老年人 ",
+        "symptom": [
+          "癌性疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "肿瘤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "注射用盐酸表柔比星",
+          "治疗用卡介苗 ",
+          "膀胱癌细胞染色体及基因异常检测试剂盒(荧光原位杂交法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "气管、支气管狭窄",
+    "information": {
+      "introduction": "应用机械呼吸疗法可改善呼吸功能，临床疗效良好，治疗的病例日益增多。随着机械呼吸疗法的推广应用，气管切开及插管术后产生的并发症例如气管狭窄亦逐渐多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "气管",
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "气喘",
+          "气急",
+          "呼吸音低",
+          "咳泡沫黏液痰",
+          "干啰音"
+        ],
+        "complication": [
+          "气管食管瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "无特殊并发疾病"
+        ],
+        "examination": [
+          "一般摄片检查",
+          "支气管舒张试验",
+          "等流量容积"
+        ],
+        "medicine": [
+          "气管炎丸",
+          "气管炎丸",
+          "噻托溴铵粉吸入剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "气管炎丸",
+          "grade": "4.33",
+          "total": "18",
+          "secondary": "18"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病皮肤感染",
+    "information": {
+      "introduction": "糖尿病皮肤感染是糖尿病患者的一个常见，比较严重的并发症，有1/3的糖尿病病人，并发有皮肤感染。有许多患者因为护理不当或失治误治而致残。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者",
+        "symptom": [
+          "足癣",
+          "糖代谢紊乱"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "利奈唑胺片",
+          "注射用哌拉西林钠他唑巴坦钠",
+          "胸腺五肽"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "皮脂腺腺瘤",
+    "information": {
+      "introduction": "皮脂腺腺瘤是由成巢排列的皮脂腺细胞组成的良性肿瘤。皮脂腺腺瘤主要由成巢排列的皮脂腺细胞组成，多数形成小囊腔。间质丰富为纤维结缔组织。部分肿瘤可见组织细胞及异物巨细胞，不含胆固醇结晶。有的肿瘤可见多数导管扩张或呈明显的嗜酸细胞化生，此时囊腔常不明显。粘液卡红染色，导管上皮及腔内容物呈局灶性阳性，皮脂腺细胞呈阴性反应。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "皮脂腺瘤",
+        "part": [
+          "面部",
+          "颈部",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于男性。　",
+        "symptom": [
+          "结节",
+          "斑丘疹",
+          "丘疹",
+          "结节",
+          "斑丘疹"
+        ],
+        "complication": [
+          "皮脂腺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "治愈率99.7%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "皮损"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "白果中毒",
+    "information": {
+      "introduction": "白果又名银杏，味带香甜，可以煮或炒食，有祛痰、止咳、润肺、定喘等功效，但大量进食后可引起中毒。白果内含有氢氰酸毒素，毒性很强，遇热后毒性减小，故生食更易中毒。一般中毒剂量为10-50颗，中毒症状发生在进食白果后1-12小时。为预防白果中毒，不宜多吃更不宜生吃白果。本病多见于儿童。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "银杏中毒",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童多见",
+        "symptom": [
+          "恶心",
+          "肚子疼",
+          "烦躁不安",
+          "四肢无力",
+          "头痛"
+        ],
+        "complication": [
+          "白果中毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "50%",
+        "duration": "21--30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胃部检查"
+        ],
+        "medicine": [
+          "十滴水胶丸",
+          "解毒止泻胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "十滴水胶丸",
+          "grade": "4.16",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "解毒止泻胶囊",
+          "grade": "3.2",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "皮脂腺痣",
+    "information": {
+      "introduction": "皮脂腺痣(nevus sebaceus) 是皮肤中皮脂腺异常增多所致的增生性疾病。亦称皮脂腺错构瘤、器官样痣、先天性皮脂腺增生等。本病多于出生时或生后不久发生。好发于头面部。局部肿物呈淡黄色，有扩大的皮脂腺开口是本病的特征。手术切除可靠。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "毛汗管皮脂腺痣,皮脂腺错构瘤,器官样痣,先天性皮脂腺增生",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿人群",
+        "symptom": [
+          "结节",
+          "丘疹",
+          "丘疹",
+          "轻度精神发育迟滞",
+          "皮肤痣"
+        ],
+        "complication": [
+          "基底细胞癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "皮疹"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "春季卡他性结膜炎",
+    "information": {
+      "introduction": "春季卡他性结膜炎（veRNAl conjunctivitis）是变态反应性疾病，季节性很强，常侵犯双眼。每当春暖花开时发病，到秋末天寒时症状消失。每年复发，轻症者3～4年后即不再发，重症者可连续复发10余年。本病特点为双眼奇痒，睑结膜出现大而扁平的乳头及角膜缘附近结膜胶样增生，分泌物有大量嗜酸性粒细胞。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "男性儿童及青年",
+        "symptom": [
+          "流泪",
+          "结膜充血",
+          "角膜上点状暗灰色混浊",
+          "睑结膜硬而扁平的乳头",
+          "双眼难以忍受的奇痒"
+        ],
+        "complication": [
+          "白内障"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约500-1000元",
+        "ratio": "98%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼科检查",
+          "嗜酸性粒细胞数",
+          "结膜的检查"
+        ],
+        "medicine": [
+          "色甘酸钠滴眼液",
+          "色甘那敏滴眼液",
+          "色甘酸钠滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

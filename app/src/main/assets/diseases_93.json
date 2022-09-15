@@ -1,0 +1,836 @@
+[
+  {
+    "disease_name": "感染性心内膜炎",
+    "information": {
+      "introduction": "感染性心内膜炎（infective endocarditis）指因细菌、真菌和其它微生物（如病毒、立克次体、衣原体、螺旋体等）直接感染而产生心瓣膜或心室壁内膜的炎症，有别于由于风湿热、类风湿、系统性红斑性狼疮等所致的非感染性心内膜炎。过去将本病称为细菌性心内膜炎（bacterial endocarditis），由于不够全面现已不沿用。感染性心内膜炎典型的临床表现，有发热、杂音、贫血、栓塞、皮肤病损、脾肿大和血培养阳性等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "先天性心脏病或者做过瓣膜手...",
+        "symptom": [
+          "高热",
+          "不明原因发热",
+          "乏力",
+          "肌痛",
+          "收缩期杂音"
+        ],
+        "complication": [
+          "充血性心力衰竭",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000 —— 50000元）",
+        "ratio": "70%",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "血清冷凝集素试验",
+          "胸部CT",
+          "心电图",
+          "胸部平片",
+          "血液及骨髓细菌培养"
+        ],
+        "medicine": [
+          "青霉素V钾片",
+          "琥乙红霉素片",
+          "青霉素V钾胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胰腺肿瘤",
+    "information": {
+      "introduction": "胰腺肿瘤是消化道常见的恶性肿瘤之一，是恶性肿瘤中最常见的，多发生于胰头部。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "中青年多见",
+        "symptom": [
+          "肚子疼",
+          "乏力",
+          "食欲不振",
+          "腹胀",
+          "恶心"
+        ],
+        "complication": [
+          "老年人胰腺癌",
+          "胰腺肉瘤",
+          "胰腺癌",
+          "胰腺囊腺癌",
+          "胰腺多肽瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "肝胆外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "内视镜超音波术",
+          "腹部B超"
+        ],
+        "medicine": [
+          "注射用盐酸吉西他滨",
+          "醋酸奥曲肽注射液",
+          "替加氟注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消癌平颗粒(夏生萍)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "炎性乳腺癌",
+    "information": {
+      "introduction": "炎性乳腺癌(inflammatory breast cancer，IBC) 是乳腺癌的一种特殊类型，临床十分罕见。该病呈暴发性发病，以乳房皮肤的弥漫性红、肿、热，痛和水肿为特征，极似急性炎症。恶性程度高，预后很差。 炎性乳腺癌以侵犯淋巴管道为主要表现，转移几率高，是局部晚期乳腺癌中预后最恶劣的一类。发病率占所有乳腺癌的1%～10%，我国报告约占乳腺癌的0.9%。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "癌性乳腺炎,丹毒样乳腺癌,急性乳腺癌,乳腺炎样癌,乳腺真皮淋巴癌病,隐性乳腺癌",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "50～54岁妇女多发",
+        "symptom": [
+          "乳房硬化",
+          "乳房红肿热痛",
+          "乳房肿块",
+          "乳房胀痛",
+          "乳房硬化"
+        ],
+        "complication": [
+          "急性淋巴结炎",
+          "急性淋巴管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "外科手术治愈率约为65%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "液晶热图",
+          "乳房穿刺针活检"
+        ],
+        "medicine": [
+          "头孢地尼分散片",
+          "卡培他滨片",
+          "来曲唑片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "布病",
+    "information": {
+      "introduction": "布鲁菌病(brucellosis，布病)，也称波状热，是布鲁菌引起的急性或慢性传染病，属自然疫源性疾病，该疾病常见症状有发热、出汗异常、头痛、神经痛、腹泻、关节疼痛等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "波状热，布鲁菌病",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "动物密切接触的牧区多发",
+        "symptom": [
+          "发烧",
+          "睾丸触痛",
+          "白细胞增多",
+          "发烧",
+          "出汗异常"
+        ],
+        "complication": [
+          "脑膜炎",
+          "支气管肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约200-500元",
+        "ratio": "87%",
+        "duration": "?",
+        "method": [
+          "一般疗法、药物疗法、物理疗法"
+        ],
+        "examination": [
+          "直接抗人球蛋白试验",
+          "脑脊液细菌培养",
+          "补体结合试验",
+          "血液及骨髓细菌培养"
+        ],
+        "medicine": [
+          "盐酸土霉素片",
+          "盐酸四环素片",
+          "卡泊三醇软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "妇科千金片(千金)",
+          "grade": "1.93",
+          "total": "636",
+          "secondary": "470"
+        },
+        {
+          "medicine_name": "消糜栓(修正)",
+          "grade": "1.67",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎解痛巴布膏",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腮腺恶性肿瘤",
+    "information": {
+      "introduction": "腮腺恶性肿瘤(malignant tumor of parotid gland)多来源于腮腺腺体或腺管上皮细胞，以黏液表皮样癌、恶性混合瘤、腺样囊性癌和腺癌常见，占80%～90%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "腮腺恶性瘤,腮腺恶肿瘤",
+        "part": [
+          "面部",
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "中老年多见",
+        "symptom": [
+          "腮腺无痛性肿块",
+          "腮颊肿胀",
+          "腮腺肿大",
+          "腮腺区肿大",
+          "腮腺无痛性肿块"
+        ],
+        "complication": [
+          "面瘫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "口腔科"
+        ],
+        "cost": "市三甲医院约30000--80000",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "放射治疗、化学治疗、手术治疗"
+        ],
+        "examination": [
+          "CT造影增强扫描",
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "注射用盐酸平阳霉素",
+          "转移因子胶囊",
+          "转移因子胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨瘤",
+    "information": {
+      "introduction": "骨瘤多发于膜内成骨的骨骼，最多见于颅面骨，称骨旁骨瘤;偶尔也见软组织，则称骨外骨瘤。膜内成骨的骨瘤可随骨骼发育成熟而停止生长，并且无恶变，其预后一般良好。然而，颈椎发生骨瘤极少见。另外，多发性骨瘤如合并肠道息肉病则称Garder综合征，此病有遗传性。骨瘤是骨膜性成骨过程异常引起骨组织过度增殖形成的一种良性肿瘤，Wills(1953)、Paron(1964)认为它不是真正肿瘤，而是一种错构瘤，也有认为是一种骨组织异常的致密性增殖。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "骨旁骨瘤,骨外骨瘤,Garder综合征",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "多为少年和青年",
+        "symptom": [
+          "骨质破坏",
+          "弥漫性骨质疏松",
+          "生长缓慢",
+          "颅骨增生",
+          "晕眩"
+        ],
+        "complication": [
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "99%",
+        "duration": "2-4月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "头颅平片",
+          "眼及眶区CT",
+          "MRI"
+        ],
+        "medicine": [
+          "平消胶囊",
+          "华蟾素胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "华蟾素胶囊(东泰)",
+          "grade": "1.73",
+          "total": "42",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "尿道上裂",
+    "information": {
+      "introduction": "尿道上裂(epispadias)是指尿道背侧壁部分或全部缺如，尿道开口于阴茎背侧，尿道口的远端呈沟状，是极为少见的一种先天性尿道畸形。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴茎"
+        ],
+        "infection": "无传染性",
+        "people": "尿道上裂在胚胎早期发生，多...",
+        "symptom": [
+          "男子性功能障碍",
+          "泌尿生殖窦",
+          "耻骨联合分离",
+          "尿外渗",
+          "泌尿道狭窄"
+        ],
+        "complication": [
+          "尿失禁",
+          "脱水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "泌尿外科",
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "50%",
+        "duration": "10-30天",
+        "method": [
+          "手术、药物治疗"
+        ],
+        "examination": [
+          "尿色",
+          "尿细菌培养"
+        ],
+        "medicine": [
+          "注射用硫酸头孢匹罗",
+          "注射用头孢哌酮钠舒巴坦钠(2:1)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "先天性髋关节脱位",
+    "information": {
+      "introduction": "    本病简称CDH，又称发育性髋关节脱位或发育性髋关节发育不良(displasia dislocation of the hip，DDH)及髋发育不全，是较常见的先天性畸形，股骨头在关节囊内丧失其与髋臼的正常关系，以致在出生前及出生后不能正常发育。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "发育性髋关节发育不良,发育性髋关节脱位,髋发育不全",
+        "part": [
+          "大腿",
+          "下肢骨",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "胎儿期及婴幼儿期",
+        "symptom": [
+          "关节响痛",
+          "关节僵直",
+          "关节强硬",
+          "下肢短缩"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "治愈率87%",
+        "duration": "手术治疗周期90天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "髋臼指数",
+          "CT检查",
+          "单腿站立试验"
+        ],
+        "medicine": [
+          "聚左旋乳酸可吸收骨固定系统",
+          "磷酸钙涂层人工髋关节",
+          "人工髋关节"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "主动脉瘤",
+    "information": {
+      "introduction": "主动脉瘤（aortic aneurysm）指主动脉壁局部或弥漫性的异常扩张，压迫周围器官而引起症状，瘤状破裂为其主要危险。常发生在升主动脉、主动脉弓、胸部降主动脉、胸腹主动脉和腹主动脉。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "多见于老年男性动脉粥样硬化...",
+        "symptom": [
+          "血栓脱落",
+          "消瘦",
+          "硬化",
+          "血管杂音",
+          "消瘦"
+        ],
+        "complication": [
+          "神经系统的放射性损伤",
+          "动脉瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心血管内科",
+          "血管外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "10%",
+        "duration": "10-30天",
+        "method": [
+          "手术、药物治疗"
+        ],
+        "examination": [
+          "血管杂音",
+          "CT检查",
+          "格哈德征",
+          "MRI",
+          "腹部血管超声检查"
+        ],
+        "medicine": [
+          "参芍片",
+          "洋参保肺口服液",
+          "大动脉覆膜支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参芍片",
+          "grade": "3.80",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "洋参保肺口服液",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "舒心口服液",
+          "grade": "4.28",
+          "total": "5",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "氰化物中毒",
+    "information": {
+      "introduction": "氰化物(cyanide)为剧毒物，包括氰化氢、氰化钠、氰化钾、氰化铵和丙烯腈等。氰化氢和丙烯腈烟雾可通过皮肤和呼吸道快速吸收。氰化物在工业上应用广泛，多种水果的果仁中含有进入人体后能转化成氰化物的苦杏仁苷，其中以苦杏仁含量最高。氰化物能引起组织细胞缺氧、能量代谢等障碍，造成“细胞内窒息”，而血氧饱和度不受影响，血液仍呈鲜红色。中枢神经系统首先受累，呼吸中枢麻痹是氢氰酸中毒死亡的主要原因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "接触或吸入氰化物者",
+        "symptom": [
+          "恶心",
+          "头晕",
+          "烦躁不安",
+          "腱反射亢进",
+          "血压下降"
+        ],
+        "complication": [
+          "偏瘫型偏头痛",
+          "药物性呼吸衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 10000元）",
+        "ratio": "40%",
+        "duration": "2-3个月",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "氧分压",
+          "一氧化碳",
+          "血液生化六项",
+          "胸透",
+          "胸部平片"
+        ],
+        "medicine": [
+          "细胞色素C注射液",
+          "注射用硫代硫酸钠",
+          "注射用硫代硫酸钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "猫抓病",
+    "information": {
+      "introduction": "猫抓病是由汉赛巴通体感染所致。其病原体主要通过猫等家畜的接触或抓、咬破皮肤感染人体。典型临床特征为原发性皮肤损害、淋巴结肿大，一般为良性自限性。但少数患者可出现严重全身性损害，如肉芽肿性肝炎、肝脾肿大、神经炎及脑膜脑炎等。整个病程1～4个月。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身",
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "发烧",
+          "丘疹",
+          "恶心与呕吐",
+          "淋巴结肿大",
+          "斑丘疹"
+        ],
+        "complication": [
+          "骨髓炎",
+          "脑炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "65%-75%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "扫描电子显微镜",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "盐酸环丙沙星片",
+          "盐酸环丙沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝肾综合征",
+    "information": {
+      "introduction": "肝肾综合征(hepatorenal syndrome，HRS)是严重肝病患者病程后期出现的以进行性少尿或无尿、血尿素氮及肌酐升高等为主要表现，但肾脏病理检查无明显器质性病变的一种进行性、功能性的肾功能不全。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肝肾综合症",
+        "part": [
+          "肾",
+          "肝",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "原有肝病患者",
+        "symptom": [
+          "食欲不振",
+          "乏力",
+          "厌食",
+          "氮质血症",
+          "血压低"
+        ],
+        "complication": [
+          "消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "肾内科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（10000 ——50000元）",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "药物、手术、血液净化、肝移植治疗"
+        ],
+        "examination": [
+          "尿钠",
+          "血肌酐",
+          "尿酸碱度"
+        ],
+        "medicine": [
+          "氨茶碱",
+          "葡萄糖",
+          "双价肾综合征出血热纯化疫苗(Vero细胞)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "女珍颗粒",
+          "grade": "2.76",
+          "total": "17",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "地贞颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "金黄色葡萄球菌肺炎",
+    "information": {
+      "introduction": "金黄色葡萄球菌肺炎简称金葡肺炎，占成人肺炎的2～3%，幼儿、老年体弱及手术后者发病率较高。一般病死率为30%～40%。造成死亡的部分原因是大多数病人伴有严重的合并症。然而有些成年人本来很健康。但在流感后得了这种肺炎。病情发展快。最后导致死亡。抗生素疗效慢。恢复期长。临床上分为原发性与继发性两类。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肺感染,金葡肺炎,金葡肺",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于有基础疾病如糖尿病...",
+        "symptom": [
+          "持续性发热",
+          "咳嗽",
+          "咳血痰",
+          "咳嗽伴胸痛",
+          "咳嗽伴呼吸困难"
+        ],
+        "complication": [
+          "ARDS",
+          "脓毒性休克",
+          "脓胸",
+          "心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约5000--10000元",
+        "ratio": "治愈率96%",
+        "duration": "治疗周期14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "痰液病原体",
+          "胸部CT",
+          "痰培养",
+          "胸部平片",
+          "痰液细菌涂片"
+        ],
+        "medicine": [
+          "麦白霉素颗粒剂",
+          "盐酸金霉素眼膏",
+          "左氧氟沙星片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "副乳乳腺癌",
+    "information": {
+      "introduction": "副乳乳腺癌(mammary of accessory mamma)是指发生于副乳腺的癌肿，多发生于腋区，少见部位为锁骨下区、腹部及外阴区。王发恒(1993)报道4例副乳腺癌，有乳头、乳晕、乳腺俱全者，也有仅有乳头者，有的有泌乳功能。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "40-60岁女性人群",
+        "symptom": [
+          "多发性结节",
+          "胀痛",
+          "乳腺隐痛",
+          "胸大肌外侧缘处如花生米大小的肿块",
+          "乳腺隐痛"
+        ],
+        "complication": [
+          "湿疹"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 20000元）",
+        "ratio": "60%",
+        "duration": "3-5月",
+        "method": [
+          "手术治疗、放射治疗、化疗、中药治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "乳腺肿瘤标记（CA 15-3）",
+          "乳腺超声",
+          "乳腺检查"
+        ],
+        "medicine": [
+          "多西他赛注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骶骨骨折",
+    "information": {
+      "introduction": "骶骨骨折可单独发生，亦可与骨盆损伤同时出现;前者较少见，而后者在骨盆骨折中约占30%～40%，因此，其绝对发生率远较单发者为高，且以男性多见;在治疗上亦较复杂，需与骨盆骨折的治疗一并考虑。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "臀部",
+          "盆骨"
+        ],
+        "infection": "无传染性",
+        "people": "多发于成年人、男性多见",
+        "symptom": [
+          "持续性疼痛",
+          "骶骨处持续性疼痛",
+          "骶骨裂",
+          "粉碎性骨折",
+          "骶骨处持续性疼痛"
+        ],
+        "complication": [
+          "骨折",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "急诊科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 10000元）",
+        "ratio": "70%",
+        "duration": "30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "X线碘油造影",
+          "骨与关节MRI",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "伤科接骨片",
+          "云南白药胶囊",
+          "脊柱后路内固定系统组件"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "伤科接骨片(美罗)",
+          "grade": "2.17",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "云南白药胶囊",
+          "grade": "2.42",
+          "total": "31",
+          "secondary": "8"
+        }
+      ]
+    }
+  }
+]

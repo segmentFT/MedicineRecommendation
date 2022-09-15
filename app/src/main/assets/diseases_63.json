@@ -1,0 +1,928 @@
+[
+  {
+    "disease_name": "干槽症",
+    "information": {
+      "introduction": "干槽症主要发生于下颌阻生智齿拔除后，是由口腔细菌引起的骨创感染。目前多认为创伤和感染及拔牙窝大是其主要病因。因此，为了预防干槽症的发生，在拔牙过程中应尽量减少创伤，拔牙后应尽量缩小拔牙创口，应压迫颊、舌侧骨板，使之复位以缩小创口，并应拉拢缝合牙龈，缝合不可过紧过密，以防术后肿胀;拔牙前后可使用抗生素，以预防感染。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "牙槽骨炎、纤维蛋白溶解性牙槽炎",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": " 发生于下颌阻生智齿拔除后...",
+        "symptom": [
+          "疼痛",
+          "淋巴结肿大",
+          "张口困难",
+          "低烧",
+          "周身不适"
+        ],
+        "complication": [
+          "牙周炎",
+          "牙齿感觉过敏症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约(100-500元)",
+        "ratio": "75%(外科手术治疗)",
+        "duration": "4-6周",
+        "method": [
+          "药物治疗，手术治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "胶质银止血明胶海绵"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阿米巴性宫颈炎",
+    "information": {
+      "introduction": "由阿米巴原虫感染引起的宫颈炎为阿米巴性子宫颈炎，多继发于肠道阿米巴感染，常与阿米巴性阴道炎并存。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "有传染性",
+        "people": "有性生活史的妇女多见",
+        "symptom": [
+          "阴道分泌物增多",
+          "外阴烧灼刺激感",
+          "脓肿",
+          "脓血性白带",
+          "溃疡外观呈火山口样"
+        ],
+        "complication": [
+          "阿米巴性阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约2000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗，局部冲洗"
+        ],
+        "examination": [
+          "阿米巴原虫抗原和抗体",
+          "宫颈分泌物培养",
+          "子宫颈涂片测试",
+          "宫颈妇科常规检查",
+          "白带常规"
+        ],
+        "medicine": [
+          "抗宫炎片",
+          "妇宁栓",
+          "聚甲酚磺醛阴道栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "妇宁栓(贵妃舒)",
+          "grade": "1.91",
+          "total": "27",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "皮肤康洗液",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "新生儿惊厥",
+    "information": {
+      "introduction": "新生儿惊厥是指新生儿中枢神经系统的异常放电，通常表现为刻板样肌肉活动或自律性改变，由多种因素所致的中枢神经系统功能失常的一种症状，是新生儿期常见急症之一，常提示存在严重的原发病，同时惊厥另一方面可造成脑损伤，是围生期最重要死亡原因之一，因而应及时诊断和处理。常伴有直接或间接影响中枢神经系统的疾病。随着诊疗技术的改进，病死率有所下降，但后遗症仍减少不明显，故仍为新生儿急救医学中的重要课题。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "新生儿抽风",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "抽搐",
+          "新生儿两眼上翻凝视",
+          "婴幼儿抽风",
+          "颤抖"
+        ],
+        "complication": [
+          "癫痫",
+          "脑瘫",
+          "吸入性肺炎",
+          "新生儿窒息"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 30000元）",
+        "ratio": "99%",
+        "duration": "3-6月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "维生素B6",
+          "新生儿体格检查",
+          "肌电图",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "万氏牛黄清心丸",
+          "羚羊角口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "万氏牛黄清心丸(冯了性)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚羊角口服液(山丹)",
+          "grade": "2.11",
+          "total": "26",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脊髓空洞症",
+    "information": {
+      "introduction": "由于多种原因的影响使脊髓内形成管状空腔，称为脊髓空洞症，在空洞周围常有神经胶质增生。本症发病较为缓慢，临床表现为受累的脊髓节段神经损害症状，以痛、温觉减退与消失、而深感觉保存的分离性感觉障碍为特点，兼有脊髓长束损害的运动障碍与神经营养障碍。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脊髓",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "31～50岁，男性多于女性",
+        "symptom": [
+          "温觉丧失",
+          "节段性分离性感觉障碍",
+          "遇冷后排汗增多",
+          "肌张力降低",
+          "肌肉萎缩"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "骨科"
+        ],
+        "cost": "市三甲医院约（50000-100000元）",
+        "ratio": "60%",
+        "duration": "3-6月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "肌电图",
+          "脊柱MRI"
+        ],
+        "medicine": [
+          "天麻素片",
+          "甲钴胺片",
+          "巴氯芬片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益髓颗粒(新宇)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒(健今)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒(易草堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益髓颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "四环素牙",
+    "information": {
+      "introduction": "四环素是由金霉素催化脱卤生物合成的抗生素，毒性低，早在1948年即开始用于临床。1950年，国外有报道四环素族药物引起牙着色；其后又陆续报道四环素沉积于牙、骨骼以至指甲等，而且还能引起釉质发育不全。在这方面，国内直至70年代中期方引起注意。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "牙齿颜色异常",
+          "牙齿萌出异常",
+          "牙齿异常",
+          "牙釉质腐蚀",
+          "牙齿发黄"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元",
+        "ratio": "80%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "冰硼含片",
+          "万通炎康片",
+          "四环素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "冰硼含片(交大药业)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万通炎康片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "睑缘炎",
+    "information": {
+      "introduction": "为睑缘皮肤、睫毛毛囊及其腺体的亚急性或慢性炎症。临床上，分为鳞屑性、溃疡性及眦角性三种类型。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "烂眼边，眠弦赤烂",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "烂眼边",
+          "眼睑浮肿",
+          "早晨上下眼睑粘连",
+          "眼睑异物",
+          "眼袋"
+        ],
+        "complication": [
+          "结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "眼睑检查",
+          "泪液分泌试验",
+          "上睑翻转法"
+        ],
+        "medicine": [
+          "磺胺醋酰钠滴眼液",
+          "红霉素眼膏",
+          "氯霉素滴眼液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腹主动脉瘤",
+    "information": {
+      "introduction": "腹主动脉瘤(abdominal aortic aneurysm)为老年性疾病之一，常发生于男性，发病年龄多在60岁以上。该病绝大多数在动脉硬化基础上发生，为威胁老年人生命的疾病之一，诊疗上应强调早期发现，早期治疗，并应长期随诊。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "老年人腹主动脉瘤,主动脉壁局部异常扩张",
+        "part": [
+          "腹部",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "好发于老年男性，男女之比为...",
+        "symptom": [
+          "弛张热",
+          "腹部肿块",
+          "腹水",
+          "腹部不适",
+          "胸痛"
+        ],
+        "complication": [
+          "肾积水",
+          "黄疸",
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（80000—— 150000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "手术治疗、介入治疗、药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "磁共振血管造影",
+          "螺旋CT",
+          "腹部血管杂音",
+          "心血管造影"
+        ],
+        "medicine": [
+          "酒石酸美托洛尔片",
+          "注射用硝普钠",
+          "腹主动脉瘤支架系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "第三腰椎横突综合征",
+    "information": {
+      "introduction": "第三腰椎横突综合征是腰痛或腰腿痛病人常见的一种疾病，好发于青壮年体力劳动者。由于第三腰椎横突特别长，且水平位伸出，附近有血管神经束经过，还有较多的肌筋膜附着。在正位上第三腰椎处于腰椎生理前凸弧度的顶点，为承受力学传递的重要部位，因此易受外力作用的影响，容易受损伤而引起该处附着肌肉撕裂、出血、瘢痕粘连、筋膜增厚挛缩，使血管神经束受摩擦、刺激和压迫而产生症状。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "腰部",
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "成年人多常见",
+        "symptom": [
+          "肌肉撕裂",
+          "黄韧带肥厚",
+          "第3腰椎横突的深部有明显压痛",
+          "腰椎膨出",
+          "腰椎膨出"
+        ],
+        "complication": [
+          "急性腰扭伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "30%",
+        "duration": "?",
+        "method": [
+          "药物治疗、理疗"
+        ],
+        "examination": [
+          "趾背屈试验",
+          "腰背部麻醉试验",
+          "深反射检查",
+          "抬腿试验",
+          "脑膜刺激征"
+        ],
+        "medicine": [
+          "骨刺消痛液",
+          "骨筋丸胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨刺消痛液(同仁堂)",
+          "grade": "3.40",
+          "total": "42",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨筋丸胶囊(远达)",
+          "grade": "1.75",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "房间隔缺损",
+    "information": {
+      "introduction": "房间隔缺损是左右心房之间的间隔发育不全，遗留缺损造成血流可相通的先天性畸形。房间隔缺损根据胚胎发育可分为继发孔型及原发孔型缺损两大类，前者居多数。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿及青少年，亦有中年才...",
+        "symptom": [
+          "紫绀",
+          "气短",
+          "心悸",
+          "疲劳",
+          "心悸"
+        ],
+        "complication": [
+          "肺炎",
+          "肺水肿",
+          "心内膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "治愈率82%",
+        "duration": "手术治疗周期14天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "胸部CT",
+          "心电图",
+          "胸部平片",
+          "多普勒超声心动图"
+        ],
+        "medicine": [
+          "黄芪颗粒",
+          "七叶神安片",
+          "房间隔缺损封堵器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄芪颗粒(汉方)",
+          "grade": "2.86",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七叶神安片",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "视网膜色素变性",
+    "information": {
+      "introduction": "本病为一慢性进行性，双侧性毯层视网膜变性。确定遗传类型常有困难，大多数病例为常染色体隐性遗传，但也可为常染色体显性遗传或X-连锁遗传，而后者不常见。本病也可为某些综合征（例如Bassen-Kornzweig综合征，Laurence-Moon-Biedl综合征）的一部分。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "为毯层视网膜变性视网膜变性",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "男性患者及近亲通婚的子女多...",
+        "symptom": [
+          "夜盲",
+          "视力障碍",
+          "中心暗点扩大",
+          "病理性近视"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（20000--50000）",
+        "ratio": "40%",
+        "duration": "1-2个月",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "视网膜检影法",
+          "眼底荧光血管造影",
+          "眼底检查",
+          "色觉",
+          "暗适应曲线"
+        ],
+        "medicine": [
+          "龙泽熊胆胶囊(熊胆丸)",
+          "血栓通注射液",
+          "注射用胞磷胆碱钠肌苷"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "龙泽熊胆胶囊(熊胆丸)(熊胆丸(金鸡)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血栓通注射液",
+          "grade": "3.68",
+          "total": "47",
+          "secondary": "47"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膝关节创伤性滑膜炎",
+    "information": {
+      "introduction": "膝关节是全身关节中滑膜面积最大的关节，滑膜反应也最明显。膝关节创伤性滑膜炎是指膝关节囊纤维的内衬滑膜在外伤后引起的滑膜非感染性炎症反应。临床上分为急性创伤性炎症和慢性劳损性炎症两种。若确诊为本病应积极治疗，防止膝关节功能障碍。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "瘀血",
+          "不能屈膝",
+          "创伤",
+          "青少年膝痛",
+          "膝及小腿部有广泛的瘀血斑"
+        ],
+        "complication": [
+          "膝关节骨性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "X线碘油造影",
+          "骨与关节MRI",
+          "CT检查",
+          "WBC",
+          "MRI"
+        ],
+        "medicine": [
+          "布洛芬缓释胶囊",
+          "双氯芬酸钠缓释片",
+          "膝关节拔罐器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胰腺囊肿",
+    "information": {
+      "introduction": "分假性囊肿与真性囊肿两类。前者系外伤、炎症后胰液外渗被邻近组织包裹而成，囊壁内无胰腺上皮细胞，后者由胰腺组织发生，囊壁内层为胰腺上皮细胞。按病因可分为先天性囊肿，滞留性囊肿，退行性囊肿，赘生性囊肿与寄生虫性囊肿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "胰腺"
+        ],
+        "infection": "无传染性",
+        "people": "多见于见于急性胰腺炎和慢性...",
+        "symptom": [
+          "双侧肾内痛",
+          "恶心",
+          "横结肠移位",
+          "腹胀",
+          "肚子疼"
+        ],
+        "complication": [
+          "胰腺脓肿",
+          "休克",
+          "黄疸",
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "95%",
+        "duration": "1-3月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "便常规",
+          "CT检查",
+          "胰腺CT",
+          "胃钡餐造影"
+        ],
+        "medicine": [
+          "甲硝唑片",
+          "甲硝唑片",
+          "一次性使用吸引活检针"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "阴道癌",
+    "information": {
+      "introduction": "阴道癌是指发生在阴道部位的恶性肿瘤。阴道癌常常是继发性的，可自子宫颈癌直接蔓延，或来自子宫内膜癌、卵巢癌及绒毛膜癌，另外膀胱、尿道或直肠癌亦常可转移至阴道。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "四十至七十岁之间的女性患者...",
+        "symptom": [
+          "阴道不规则出血",
+          "阴道分泌物增多",
+          "便血",
+          "阴道口局部红肿热痛"
+        ],
+        "complication": [
+          "青少年及小儿阴道透明细胞癌",
+          "阴道腺癌",
+          "阴道黑色素瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "0.3%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "阴道B超",
+          "阴道分泌物涂片",
+          "阴道窥器检查",
+          "阴道活检",
+          "阴道镜"
+        ],
+        "medicine": [
+          "重组人干扰素α2b阴道泡腾胶囊",
+          "重组人干扰素α2a栓",
+          "重组人干扰素α2a栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "近视眼",
+    "information": {
+      "introduction": "近视眼(myopia)也称短视眼，因为这种眼只能看近而视远不清。处在休息状态时，从无限远处来的平行光，经过眼的屈光系统折光后在视网膜之前集合成焦点，在视网膜上则形成不清楚的像。远视力明显降低，但近视力尚正常。按动态屈光分：假性近视、真性近视、混合性近视。按病变性质分：单纯性近视、病理性近视、进行性近视。按屈光成分分：曲率性近视、屈光率性近视、轴性近视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "近视,屈光不正",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "儿童和青少年，尤其是常看电...",
+        "symptom": [
+          "病理性近视",
+          "视物模糊",
+          "视力障碍",
+          "晶状体突出",
+          "眼球调节功能减退或消失"
+        ],
+        "complication": [
+          "视网膜病变",
+          "弱视",
+          "视网膜脱落",
+          "开角型青光眼",
+          "白内障"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "90%",
+        "duration": "6个月",
+        "method": [
+          "验光配镜"
+        ],
+        "examination": [
+          "检影镜",
+          "前房轴深检查法",
+          "近视力检查法",
+          "视力",
+          "眼功能"
+        ],
+        "medicine": [
+          "夏天无滴眼液",
+          "萘敏维滴眼液",
+          "增光片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "夏天无滴眼液(金珍视明)",
+          "grade": "3.36",
+          "total": "62",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "增光片(德海)",
+          "grade": "2.11",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "增光片",
+          "grade": "3.93",
+          "total": "18",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "增光胶囊(葆视龙)",
+          "grade": "3.87",
+          "total": "15",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光胶囊(吉春)",
+          "grade": "3.93",
+          "total": "17",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光胶囊(银诺克)",
+          "grade": "4.6",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光咀嚼片(鹰氏明)",
+          "grade": "4.12",
+          "total": "14",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "增光胶囊(斯威)",
+          "grade": "3.43",
+          "total": "18",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光胶囊(福瑞堂)",
+          "grade": "2.99",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光胶囊(德海)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "增光胶囊",
+          "grade": "4.00",
+          "total": "10",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "代谢性酸中毒",
+    "information": {
+      "introduction": "代谢性酸中毒是最常见的一种酸碱平衡紊乱，是细胞外液H+增加或HCO3-丢失而引起的以原发性HCO3-降低(<21mmol/L)和PH值降低(<7.35)为特征。在代谢性酸中毒的临床判断中，阴离子间隙(AG)有重要的临床价值。按不同的AG值可分为高AG正常氯型及正常AG高氯型代谢性酸中毒。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "酮症酸中毒多见于糖尿病患者",
+        "symptom": [
+          "恶心",
+          "酮症酸中毒",
+          "正弦胎心率",
+          "肚子疼",
+          "心动过缓"
+        ],
+        "complication": [
+          "高钾血症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "98%",
+        "duration": "2-5周",
+        "method": [
+          "病因治疗、对症治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肝功能",
+          "血液电解质",
+          "动脉血气分析"
+        ],
+        "medicine": [
+          "枸橼酸钾缓释片",
+          "枸橼酸钾口服溶液",
+          "乳酸钠林格注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

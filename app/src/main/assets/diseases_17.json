@@ -1,0 +1,1109 @@
+[
+  {
+    "disease_name": "支原体肺炎",
+    "information": {
+      "introduction": "支原体肺炎(mycoplasmal pneumonia)是由肺炎支原体(mycoplasmal pneumonia，MP)引起的肺炎，曾称原发性非典型性肺炎(primary atypical pneumonia)。起病缓慢，有发热、阵发性刺激性咳嗽，少量黏液性或黏液脓性痰(偶有血痰)。肺部体征多不明显，但易引起肺外多系统受累，也可威胁生命或死亡。好发于儿童或青少年，约占肺炎总数的15%～30%，流行年可高达40%～60%;一般预后良好，为自限性疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "伊顿肺炎,伊顿氏肺炎,原发性非典型性肺炎，冷凝集阳性肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发作性咳嗽",
+          "头痛",
+          "周身不适",
+          "黏液脓性痰",
+          "气短"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "60-80%",
+        "duration": "6-8周",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "痰液病原体",
+          "冷凝集试验",
+          "结核杆菌基因检测",
+          "血支原体抗体",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "麦迪霉素片",
+          "白头翁止痢片",
+          "依托红霉素颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "白头翁止痢片(灵泰)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "百日咳",
+    "information": {
+      "introduction": "百日咳(pertussis，whooping cough)是小儿常见的急性呼吸道传染病，百日咳杆菌是本病的致病菌。其特征为阵发性痉挛性咳嗽，咳嗽末伴有特殊的吸气吼声，病程较长，可达数周甚至3个月左右，故有百日咳之称。幼婴患本病时易有窒息、肺炎、脑病等并发症，病死率高。近年来幼婴及成人发病有增多趋势。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "疫咳，顿咳",
+        "part": [
+          "肺"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，大多是儿童",
+        "symptom": [
+          "咳嗽",
+          "喉部痉挛",
+          "流鼻涕",
+          "打喷嚏",
+          "口唇发绀"
+        ],
+        "complication": [
+          "脑出血",
+          "脑疝",
+          "气胸",
+          "肺气肿",
+          "脐疝"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "100%",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "聚合酶链反应技术",
+          "淋巴细胞数",
+          "淋巴细胞计数",
+          "耳、鼻、咽拭子细菌培养 ",
+          "胸部平片"
+        ],
+        "medicine": [
+          "穿心莲软胶囊",
+          "大蒜素肠溶胶囊",
+          "百日咳片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "穿心莲软胶囊(彤罗)",
+          "grade": "1.61",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百日咳片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "骨折",
+    "information": {
+      "introduction": "所谓骨折，顾名思义，就是指骨头或骨头的结构完全或部分断裂。多见于儿童及老年人，中青年也时有发生。病人常为—个部位骨折，少数为多发性骨折。经及时恰当处理，多数病人能恢复原来的功能，少数病人可留有不同程度的后遗症。骨折发生后，离医院较近者，可直接送医院或叫救护车。离医院比较远的病人，必须进行简单的处理，以防在送医院途中加重病情，甚至造成不可逆的后果。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "感染性发热",
+          "瘀血斑",
+          "瘀血",
+          "声音嘶哑",
+          "吞咽困难"
+        ],
+        "complication": [
+          "褥疮",
+          "骨质疏松",
+          "骨化性肌炎",
+          "尿道损伤",
+          "脾破裂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "95%",
+        "duration": "1-3个月",
+        "method": [
+          "保守治疗、手术治疗"
+        ],
+        "examination": [
+          "猩红热红疹消退转白试验"
+        ],
+        "medicine": [
+          "正骨水",
+          "骨康胶囊",
+          "云南白药"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "愈伤灵胶囊",
+          "grade": "4.16",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伤科接骨片(美罗)",
+          "grade": "2.17",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "独一味胶囊(独一味)",
+          "grade": "2.2",
+          "total": "24",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "云南白药胶囊",
+          "grade": "2.42",
+          "total": "31",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "支气管肺炎",
+    "information": {
+      "introduction": "支气管肺炎(bronchopneumonia)又称小叶肺炎，为小儿最常见的肺炎。发展中国家小儿肺炎的发病率明显高于发达国家，病死率和玹死亡率更高于发达国家。和其他发展中国家相似，小儿肺炎是威胁我国儿童健康的严重疾病，无论是发病率还是病死率均居首位。在我国，肺炎占儿科住院患者24.5%～65.2%;5岁以下儿童每年105万死亡病例中，死于肺炎者占30万为此年龄组儿童第一位死因。根据国内16个单位的儿科统计，22504例肺炎住院病例中支气管肺炎占93.7%，多见于婴幼儿。肺炎多发生于冬春季节及气候骤变时，有些华南地区反而在夏天发病较多。室内居住拥挤、通风不良、空气污浊、致病性微生物较多，容易发生肺炎。支气管肺炎可由细菌或病毒引起。按病理形态的改变分为一般支气管肺炎和间质性支气管肺炎两类。前者多由细菌所致，后者则以病毒为主。临床常笼统地诊断为支气管肺炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "小叶肺炎，小叶性肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人，儿童占多数",
+        "symptom": [
+          "咳嗽",
+          "咳痰",
+          "呼吸困难",
+          "烦躁不安",
+          "发烧"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约3000--6000元",
+        "ratio": "治愈率80%",
+        "duration": "治疗周期10-20天）",
+        "method": [
+          "西药治疗、中药治疗、饮食调理"
+        ],
+        "examination": [
+          "儿童支气管镜",
+          "痰液病原体",
+          "痰培养",
+          "胸部平片",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "阿莫西林克拉维酸钾干混悬剂(7:1)",
+          "阿莫西林双氯西林钠胶囊",
+          "小儿肺热咳喘颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小儿肺热咳喘颗粒4克(葫芦娃)",
+          "grade": "2.94",
+          "total": "14",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "3.6",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "百蕊颗粒(柏美星)(无糖型)",
+          "grade": "2.73",
+          "total": "104",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "3.75",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "半枝莲片(德昌祥)",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "小儿肺闭宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿肺闭宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鼻息肉",
+    "information": {
+      "introduction": "鼻息肉是鼻部常见疾病，也与某些全身疾病有关。它是由于鼻粘膜长期炎性反应引起组织水肿的结果。鼻息肉多来源于中鼻道窦口、鼻道复合体和筛窦，高度水肿的鼻粘膜由中鼻道、窦口向鼻腔膨出下垂而形成息肉。由于病因的多元性和明显的术后复发倾向，故在鼻科疾病中占有重要地位。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼻痔",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "息肉",
+          "鼻内似有擤不出的鼻涕",
+          "鼻塞",
+          "头痛",
+          "蛙状鼻"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（300-1000元）",
+        "ratio": "85%",
+        "duration": "3--7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "前鼻镜",
+          "头颅平片",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "鼻炎通喷雾剂",
+          "七叶皂苷钠片",
+          "布地奈德鼻喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鼻炎通喷雾剂(德众)",
+          "grade": "3.42",
+          "total": "99",
+          "secondary": "71"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "功血",
+    "information": {
+      "introduction": "功能失调性子宫出血(dysfunctional uterine bleeding，DUB)，简称功血，系指由于HPOU轴(即下丘脑-垂体-卵巢-子宫轴简称HPOU)功能失调，而非为生殖道器质性病变所引起的，以月经失调为特征的异常性子宫出血。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "异常性子宫出血，功能性子宫出血 ",
+        "part": [
+          "子宫",
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "女性，大多是中年女性",
+        "symptom": [
+          "肚子疼",
+          "子宫出血",
+          "经期出血",
+          "晚发月经"
+        ],
+        "complication": [
+          "子宫肌瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（5000 —— 20000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "宫颈粘液检查",
+          "排卵预测试纸",
+          "阴道细胞学检查",
+          "宫颈刮片",
+          "子宫颈黏液检查"
+        ],
+        "medicine": [
+          "断血流片",
+          "益母草胶囊",
+          "黄体酮胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "断血流片(司空山)",
+          "grade": "3.62",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛周脓肿",
+    "information": {
+      "introduction": "肛管、直肠周围软组织内或其周围间隙内发生急性化脓性感染，并形成脓肿，称为肛管、直肠周围脓肿。其特点是自行破溃，或在手术切开引流后常形成肛瘘。是常见的肛管直肠疾病，也是肛管、直肠炎症病理过程的急性期，肛瘘是慢性期。常见的致病菌有大肠杆菌、金黄色葡萄球菌、链球菌和绿脓杆菌，偶有厌氧性细菌和结核杆菌，常是多种病菌混合感染。肛门周围皮下脓肿最常见，多由肛腺感染经外括约肌皮下部向外或直接向外扩散而成。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肛门剧痛",
+          "直肠肛门内胀痛不适",
+          "肛门疼痛",
+          "肛门病变",
+          "肛周囊肿"
+        ],
+        "complication": [
+          "肛瘘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "83%",
+        "duration": "14天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "直肠镜",
+          "直肠指检",
+          "脓汁和创伤感染标本细菌学检查",
+          "胃肠道疾病的超声检查",
+          "肛门指检"
+        ],
+        "medicine": [
+          "甲磺酸左氧氟沙星片",
+          "乳酸左氧氟沙星片",
+          "复方荆芥熏洗剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方荆芥熏洗剂(荣昌制药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "面瘫",
+    "information": {
+      "introduction": "颜面肌分表情肌和咀嚼肌两部分，前者由面神经支配，后者由三叉神经运动支支配。此处所叙述面肌瘫痪仅讨论表情肌麻痹，即面神经麻痹的有关内容，面神经麻痹在脑神经疾患中较为多见，依据病因将其分成特发性(Bell)、外伤、感染、肿瘤、神经源性等5种主要类型。特发性面神经麻痹即Bell麻痹，作为单独的疾病详细介绍。其他类型面神经麻痹在此处叙述。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "Bell麻痹,特发性面神经麻痹,面神经麻痹,面神经炎,歪嘴巴,歪歪嘴,吊线风,吊斜风,歪嘴风",
+        "part": [
+          "面部",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "早上起床突然发现面颊动作不灵或歪斜",
+          "口角下垂",
+          "鼻唇沟变浅",
+          "口角歪斜，无法说话"
+        ],
+        "complication": [
+          "面肌痉挛",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "20%",
+        "duration": "14-30天",
+        "method": [
+          "药物治疗、针灸治疗"
+        ],
+        "examination": [
+          "眼科检查",
+          "眼睑检查",
+          "面神经的运动检查",
+          "面神经检查",
+          "三叉神经运动功能"
+        ],
+        "medicine": [
+          "大活络丸",
+          "天蚕胶囊",
+          "沉香十七味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大活络丸(中联)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "沉香十七味丸(阜药)",
+          "grade": "4.15",
+          "total": "86",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊",
+          "grade": "4.55",
+          "total": "63",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "沉香十七味丸",
+          "grade": "4.37",
+          "total": "30",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鼻出血",
+    "information": {
+      "introduction": "鼻出血(epistaxis)又称鼻衄，是临床常见症状之一，多因鼻腔病变引起，也可由全身疾病所引起，偶有因鼻腔邻近病变出血经鼻腔流出者。鼻出血多为单侧，亦可为双侧;可间歇反复出血，亦可持续出血;出血量多少不一，轻者仅鼻涕中带血，重者可引起失血性休克;反复出血则可导致贫血。多数出血可自止。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼻衄",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鼻溢液",
+          "鼻塞排出脓性或血性分泌物",
+          "下鼻甲或中鼻甲肥大",
+          "恶心与呕吐",
+          "带血粘脓鼻涕"
+        ],
+        "complication": [
+          "创伤性鼻出血",
+          "新生儿窒息",
+          "创伤窒息综合征",
+          "创伤性窒息"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "98%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "升血小板胶囊",
+          "血宁糖浆",
+          "康复新液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "升血小板胶囊(郝其军)",
+          "grade": "2.06",
+          "total": "15",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "血宁糖浆",
+          "grade": "2.72",
+          "total": "21",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "抗宫炎片(康乃馨)",
+          "grade": "4.56",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "补肾固齿丸(九芝堂)",
+          "grade": "4.17",
+          "total": "32",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "西帕依固龈液(奇康)",
+          "grade": "4.40",
+          "total": "22",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "云南红药胶囊(云植)",
+          "grade": "4.25",
+          "total": "9",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(同仁堂)",
+          "grade": "2.24",
+          "total": "84",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "抗宫炎软胶囊(ATIE)",
+          "grade": "2.25",
+          "total": "7",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "智齿冠周炎",
+    "information": {
+      "introduction": "智齿(第三磨牙)牙冠周围的软组织炎症为智齿冠周炎。常发生于18-25岁的青年，是常见口腔疾病之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": ".多发生于年轻人，尤以18～25...",
+        "symptom": [
+          "牙龈肿胀",
+          "进食困难",
+          "食欲不振",
+          "牙齿臭",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "市三甲医院约（1000 —— 3000元）",
+        "ratio": "80%",
+        "duration": "1-2周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "丁硼乳膏",
+          "维生素C泡腾片",
+          "齿痛消炎灵颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "齿痛消炎灵颗粒(无蔗糖)",
+          "grade": "2.91",
+          "total": "31",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "齿痛消炎灵颗粒(雅风宁)",
+          "grade": "2.70",
+          "total": "27",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "齿痛消炎灵颗粒(雅风宁)",
+          "grade": "2.45",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "齿痛消炎灵颗粒",
+          "grade": "3.94",
+          "total": "14",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "传染性软疣",
+    "information": {
+      "introduction": "传染性软疣(molluscum contagiosum)是一种由痘病毒引起的自身接种性病毒性皮肤病。其特点为散在多发的半球状，蜡样光泽丘疹，中央呈脐窝状，可挤出乳酪状软疣小体。好发于儿童和青年人。俗称水瘊子。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "水瘊子",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "圆形或卵圆形丘疹或结节",
+          "丘疹",
+          "红色或紫色，稍高起的丘疹或结节"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "西药治疗，中药治疗、物理治疗"
+        ],
+        "examination": [
+          "涂片",
+          "补体结合试验"
+        ],
+        "medicine": [
+          "五妙水仙膏",
+          "维A酸片",
+          "冷冻除疣喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五妙水仙膏(楚克)",
+          "grade": "2.45",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性胃炎",
+    "information": {
+      "introduction": "急性胃炎(acute gestritis)系由没病因引起的胃粘膜急性炎症。临床可分为急性化脓性胃炎、急性糜烂性胃炎、急性单纯性胃炎、急性腐蚀性胃炎，以单纯性最为常见。有人将其分为急性外因性与急性内因性两类。凡致病因子经口进入胃内引起的胃炎称外因性胃炎，包括细菌性胃炎、中毒性胃炎、腐蚀性胃炎、药物性胃炎等;凡有害因子通过血循环到达胃粘膜而引起的胃炎，称内因性胃炎，包括急性传染病合并胃炎、全身性疾病(如尿毒症、肝硬化、肺心病、呼吸衰竭等)合并胃炎，化脓性胃炎、过敏性胃炎和就激性病变。近年来由于内镜的广泛应用，发现应激性病变很常见，是急性上消化道出血的常见病因之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性腐蚀性胃炎，胃瘅",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胃粘膜充血",
+          "食欲不振",
+          "嗳气",
+          "胃脘饱胀"
+        ],
+        "complication": [
+          "消化道出血",
+          "休克",
+          "脱水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "95%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肝功能",
+          "便常规",
+          "血脂",
+          "胸透"
+        ],
+        "medicine": [
+          "庆大霉素普鲁卡因维B12颗粒",
+          "曲昔匹特片",
+          "瑞巴派特片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清胰利胆颗粒(林海)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "荆花胃康胶丸(天力士)",
+          "grade": "2.84",
+          "total": "21",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "清胰利胆颗粒(银诺克)",
+          "grade": "2.63",
+          "total": "4",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "EB病毒感染",
+    "information": {
+      "introduction": "Epstein-Barr病毒(EBV) 又称人类疱疹病毒,为疱疹病毒科嗜淋巴细胞病毒属的成员。它在世界各地都有分布，在人群中的感染非常普遍，为95%以上的成人所携带。EBV是传染性单核细胞增多症的病原体，更为重要的是，EBV与鼻咽癌、儿童淋巴瘤的发生有密切相关性，被列为可能致癌的人类肿瘤病毒之一。1956年上海曾有本病流行。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身",
+          "鼻"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "食欲减退",
+          "恶心",
+          "肝脾肿大",
+          "淋巴结肿大",
+          "发烧"
+        ],
+        "complication": [
+          "脑膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血清EB病毒壳抗原IgA抗体",
+          "嗜异性凝集试验",
+          "血清EB病毒抗体",
+          "结核杆菌基因检测"
+        ],
+        "medicine": [
+          "阿昔洛韦片",
+          "重组人干扰素α2b阴道泡腾胶囊",
+          "利巴韦林气雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "软下疳",
+    "information": {
+      "introduction": "软下疳(chancroid)又称第3性病，是经典性病之一，由杜克雷嗜血杆菌引起，主要通过性接触传播。本病以1个或多个生殖器疼痛性溃疡为特征，常伴有腹股沟淋巴结化脓性病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "软下疳，杜克雷嗜血杆菌感染",
+        "part": [
+          "外阴",
+          "阴茎",
+          "其他"
+        ],
+        "infection": "有传染性",
+        "people": "所有人，大多男性，女性比男...",
+        "symptom": [
+          "脓疱",
+          "阴部溃疡",
+          "淋巴结肿大",
+          "阴茎表浅性溃疡",
+          "阴茎龟头橡皮肿"
+        ],
+        "complication": [
+          "生殖器疱疹",
+          "尿瘘",
+          "腹股沟肉芽肿",
+          "尿道狭窄",
+          "包茎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "中医科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "75%",
+        "duration": "15--30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "阿奇霉素干混悬剂",
+          "阿奇霉素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "气胸",
+    "information": {
+      "introduction": "气胸是指无外伤或人为因素情况下，脏层胸膜破裂，气体进入胸膜腔导致胸腔积气而引起的病理生理状况.肺无明显病变由胸膜下气肿泡破裂形成者称特发性气胸;继发于慢阻肺肺结核等胸膜及肺疾病者称继发性气胸.按病理生理变化又分为闭合性(单纯性) 、开放性(交通性)和张力性(高压性)三类。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "自发性气胸",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "老年人",
+        "symptom": [
+          "胸痛",
+          "胸闷",
+          "烦躁不安",
+          "紫绀",
+          "呼吸困难"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "86.2%",
+        "duration": "15天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "肺弥散功能",
+          "胸部CT",
+          "动脉血气分析",
+          "胸部平片",
+          "胸部磁共振"
+        ],
+        "medicine": [
+          "复方丹参滴丸",
+          "止咳丸",
+          "冠心苏合胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方丹参滴丸(薄膜衣)",
+          "grade": "2.98",
+          "total": "106",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "止咳丸(云中)",
+          "grade": "3.86",
+          "total": "32",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "冠心苏合胶囊",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

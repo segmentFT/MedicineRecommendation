@@ -1,0 +1,1105 @@
+[
+  {
+    "disease_name": "温热",
+    "information": {
+      "introduction": "温热是因感受温热之邪而引起的以热象偏重，易于化燥伤阴为特点的急性外感疾病的总称。包括多种外感急性热病，如风温、春温、暑温、湿温、秋燥、伏暑、冬温、温疫、温毒 、大头瘟、烂喉痧等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "温病",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "强硬舌",
+          "烦热",
+          "高热",
+          "尿黄似浓茶",
+          "舌质红绛"
+        ],
+        "complication": [
+          "麻疹样红斑",
+          "阴虚发热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "清开灵颗粒",
+          "血必净注射液",
+          "清开灵颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清开灵颗粒(白云山)",
+          "grade": "2.58",
+          "total": "95",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "血必净注射液",
+          "grade": "3.20",
+          "total": "14",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清开灵颗粒(远达)",
+          "grade": "4.5",
+          "total": "8",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "平痔胶囊",
+          "grade": "2.55",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚羊清肺散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "石淋通颗粒",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "新雪片",
+          "grade": "2.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三子散(安友)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "皮肤病血毒片",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "新雪片(博祥)<!--根据ClassCode动态展示标签-->)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "新雪片(康诺清)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚羊清肺散",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "听神经瘤",
+    "information": {
+      "introduction": "听神经瘤是指起源于听神经鞘的肿瘤，多源于第Ⅷ脑神经内耳道段，亦可发自内耳道口神经鞘膜起始处或内耳道底，听神经瘤极少真正发自听神经，而多来自前庭上神经，其次为前庭下神经，一般为单侧，两侧同时发生者较少，肿瘤外观呈灰红色，大小不一，形状各异，质底视脂肪性变与囊变的有无和程度的差异而软硬不同，瘤体表面有膜，显微镜下瘤细胞多呈纺锤形、核长杆状，排列成栅栏或漩涡状，胞浆似纵纤维状，内含粗面内质网等细胞，瘤细胞边缘有很多长突起、交错伸延于细胞间隙内，和胶原纤维与罗斯小体并存，有的瘤细胞为多形，成团群集、界限不清，组成大小形状各异的团网，细胞间有含粘液的微空隙两型细胞可共存，唯多以其一为主，肿瘤增长较缓慢，不同时期速度可不同，若发展过快，其中心可液化囊变，瘤体本身血管分布不多，源于神经但无神经从中穿行。是颅内神经瘤最多见的一种，占颅内肿瘤的7%-12%，占桥小脑角肿瘤的80-95%。临床以桥小脑角综合征和颅内压增高征为主要表现。是良性肿瘤，早诊早治疗效好，肿瘤较大合并颅内高压者手术是唯一出路。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "高峰在30～50岁，女性约为男...",
+        "symptom": [
+          "发作性眩晕",
+          "震颤",
+          "视乳头水肿",
+          "头痛",
+          "脑桥小脑角综合征"
+        ],
+        "complication": [
+          "眩晕",
+          "面瘫",
+          "耳聋"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 —— 100000元）",
+        "ratio": "30%",
+        "duration": "1-2个月",
+        "method": [
+          "影像随访观察、显微手术、立体定向放射、药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "小气脑CT扫描",
+          "颅脑CT",
+          "正电子发射计算机断层扫描"
+        ],
+        "medicine": [
+          "耳聋左慈丸(浓缩丸)",
+          "氯霉素耳栓"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "耳聋左慈丸(浓缩丸)(耳聋左慈丸(佛慈)(浓缩丸)",
+          "grade": "3.83",
+          "total": "104",
+          "secondary": "76"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外耳湿疹",
+    "information": {
+      "introduction": "外耳湿疹是耳湿疹的一种，好发于婴幼儿。此病具有反复发作的特点，时轻时重，有时在孩子出牙时，可加重病情，但一般2～3岁左右外耳湿疹多可以逐渐减轻或自愈。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "好发于婴幼儿",
+        "symptom": [
+          "结痂",
+          "丘疹",
+          "耳痒",
+          "耳痛",
+          "瘙痒"
+        ],
+        "complication": [
+          "睡眠障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤性病",
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（4000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "7-21天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "耳镜检查法",
+          "外耳检查"
+        ],
+        "medicine": [
+          "曲安奈德益康唑乳膏",
+          "耳炎药膏",
+          "盐酸西替利嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "耳炎药膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "软组织损伤",
+    "information": {
+      "introduction": "软组织损伤是指各种急性外伤或慢性劳损以及自己疾病病理等原因造成人体的皮肤、皮下浅深筋膜、肌肉、肌腱、腱鞘、韧带、关节囊、滑膜囊、椎间盘、周围神经血管等组织的病理损害，称为软组织损伤。临床表现：疼痛，肿胀，畸形，功能障碍。﻿",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "运动人群",
+        "symptom": [
+          "肢体疼痛",
+          "肢体肿胀",
+          "关节肿胀",
+          "活动受限"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "普外科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "80--95%",
+        "duration": "10--21天",
+        "method": [
+          "保守治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "云南白药胶囊",
+          "十三味红花丸",
+          "伤科灵喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药胶囊",
+          "grade": "2.42",
+          "total": "31",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "伤科灵喷雾剂",
+          "grade": "2.15",
+          "total": "34",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "骨质宁搽剂(摩美得)",
+          "grade": "3.42",
+          "total": "7",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "疏痛安涂膜剂(天龙)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "疏痛安涂膜剂(津奉)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨友灵贴膏(金寿)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹芎跌打膏(舒笑)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "麝香舒活精(七里香)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "解痉镇痛酊(信龙)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨友灵巴布膏(哈药六)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经纤维瘤病",
+    "information": {
+      "introduction": "神经纤维瘤病(neurofibromatosis，NF)系发生于神经主干或末梢神经轴索鞘神经膜细胞及神经束膜细胞的良性肿瘤,是一种常染色体显性遗传性疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "多发性神经纤维瘤，冯·雷克林豪森病，雷克林霍曾病，雷克林霍曾氏病，纤维化软疣，橡皮病样神经瘤 ",
+        "part": [
+          "皮肤",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "常染色体显性遗传病家族中常...",
+        "symptom": [
+          "咖啡斑",
+          "雀斑",
+          "结节",
+          "疼痛",
+          "压痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（10000 —— 50000元）",
+        "ratio": "95%治愈率",
+        "duration": "3-7月",
+        "method": [
+          "手术治疗、化疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "脑干听觉诱发电位",
+          "CT检查",
+          "染色体",
+          "MRI"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "自身免疫性溶血性贫血",
+    "information": {
+      "introduction": "自身免疫性溶血性贫血(AIHA)是一组B淋巴细胞功能异常亢进、产生抗自身红细胞抗体、使红细胞破坏增加而引起的贫血。有时红细胞的破坏能被骨髓红细胞生成所代偿，临床上不发生贫血，即仅有自身免疫性溶血(AIH)。也有人仅可测及抗自身红细胞抗体(AI)，而无明显溶血迹象。当机体既产生抗自身红细胞抗体，又产生抗自身血小板抗体(甚至白细胞抗体)，进而同时出现贫血和血小板减少(或全细胞减少)时，称之为Evans。本病临床表现多端，温抗体型AIHA多为慢性起病，易于反复，部分患者有急性发作史，发作期间可见畏寒、发热、黄疸、腰背酸痛等，血红蛋白尿常见于阵发性冷性血红蛋白尿，少见于冷凝集素病，病情常反复，后期不易控制。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "免疫系统",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "青年多见",
+        "symptom": [
+          "腰背酸痛",
+          "血红蛋白尿",
+          "免疫力下降",
+          "腰膝酸软",
+          "头晕"
+        ],
+        "complication": [
+          "黄疸",
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科"
+        ],
+        "cost": "市三甲医院约（5000-10000元） ",
+        "ratio": "75% ",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "球形红细胞",
+          "血清间接胆红素",
+          "血红蛋白",
+          "血浆游离血红蛋白"
+        ],
+        "medicine": [
+          "甲泼尼龙片",
+          "抗人T细胞猪免疫球蛋白",
+          "注射用甲泼尼龙琥珀酸钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "骨囊肿",
+    "information": {
+      "introduction": "骨囊肿为骨的良性病变，又名孤立性骨囊肿、单纯性骨囊肿(simplebonecyst)，囊壁为一层纤维包膜，囊内为黄色或褐色液体。骨囊肿好发于长骨的干骺端和骨干的髓腔，发生在椎体者甚少见。好发于20岁的青少年，男性多于女性。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "单纯性骨囊肿,孤立性骨囊肿",
+        "part": [
+          "骨"
+        ],
+        "infection": "无传染性",
+        "people": "好发于4——20岁，多见于5—...",
+        "symptom": [
+          "关节疼痛",
+          "儿童反复骨折",
+          "颈背疼痛",
+          "肌腱囊肿",
+          "关节肿胀"
+        ],
+        "complication": [
+          "骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "外科手术治愈率约为70%",
+        "duration": "1-2个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "骨关节及软组织CT"
+        ],
+        "medicine": [
+          "骨刺丸",
+          "肾骨胶囊",
+          "异维A酸软胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨刺丸(同仁堂)",
+          "grade": "3.09",
+          "total": "30",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾骨胶囊",
+          "grade": "3.72",
+          "total": "14",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "消结安胶囊(良方制药)",
+          "grade": "2.60",
+          "total": "11",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "红金消结浓缩丸(云中)",
+          "grade": "1.88",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红金消结胶囊(老方)",
+          "grade": "1.74",
+          "total": "33",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "红金消结片(泰康)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "得生胶囊",
+          "grade": "1.68",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "得生胶囊(兴邦)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "得生胶囊(意诺)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳安片(瑞龙)",
+          "grade": "2.07",
+          "total": "8",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "得生胶囊(吉春)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颅咽管瘤",
+    "information": {
+      "introduction": "颅咽管瘤是由外胚叶形成的颅咽管残余的上皮细胞发展起来的一种常见的胚胎残余组织肿瘤，为颅内最常见的先天性肿瘤。在鞍区肿瘤中占第二位。好发于儿童，成年人较少见。好发于鞍上，占整个颅内肿瘤的5～7%，占儿童颅内肿瘤的12～13%。其主要临床特点有下丘脑-垂体功能紊乱、颅内压增高、视力及视野障碍、尿崩症以及神经和精神症状。CT扫描可明确诊断。治疗主要为手术切除肿瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鞍上囊肿,造釉细胞瘤,埃尔德海姆瘤,垂体管瘤,腊特克瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "以6～14岁最多见",
+        "symptom": [
+          "乏力",
+          "消瘦",
+          "拒食",
+          "多饮",
+          "新陈代谢低下"
+        ],
+        "complication": [
+          "脑膜炎",
+          "意识障碍",
+          "脑积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（50000 —— 100000元）",
+        "ratio": "30%",
+        "duration": "10-30天",
+        "method": [
+          "外科手术、放射、化学、药物疗法"
+        ],
+        "examination": [
+          "头颅平片",
+          "血清生长激素",
+          "黄体生成素",
+          "血清卵泡刺激素",
+          "血清促甲状腺激素"
+        ],
+        "medicine": [
+          "注射用三磷酸胞苷二钠",
+          "替莫唑胺胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "踝关节骨折",
+    "information": {
+      "introduction": "踝部骨折(fracture of ankle joint)较为多见，无论在日常生活中或运动场上均易发生。有人统计，踝部骨折加上踝部韧带损伤，占全身损伤的4%～5%。踝部骨折多由间接暴力引起，如外翻、内翻或外旋等。根据暴力作用的大小、方向和受伤时足的位置而产生不同类型和程度的骨折。踝关节是负重关节，骨折均为关节内骨折，若对位不好，将形成创伤性踝关节炎，伤踝僵硬疼痛、行走困难、痛苦甚大。再者此类损伤，多为骨与韧带的合并伤，应对骨折和韧带损伤同样重视和处理。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节",
+          "足部"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "关节疼痛",
+          "剧烈疼痛",
+          "踝关节肿胀",
+          "关节疼痛",
+          "剧烈疼痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "跟骨叩击试验",
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "关节止痛膏",
+          "足踝系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "关节止痛膏(东阿阿胶)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "门静脉高压",
+    "information": {
+      "introduction": "门静脉高压(portal hypertension)是一组由门静脉压力持久增高引起的症候群。绝大多数病人由肝硬化引起，少数病人继发于门静脉主干或肝静脉梗阻以及一些原因不明的因素。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肝",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "肝炎病史、酗酒史或血吸虫病...",
+        "symptom": [
+          "食欲不振",
+          "胀感",
+          "酒精性肝硬化",
+          "静脉曲张",
+          "腹水"
+        ],
+        "complication": [
+          "肝肾综合征",
+          "食管胃底静脉曲张及其破裂出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科"
+        ],
+        "cost": "市三甲医院约（30000 —— 50000元",
+        "ratio": "60%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "肝纤维化指标检查",
+          "便常规",
+          "食管压力",
+          "腹水检查"
+        ],
+        "medicine": [
+          "甘草甜素片",
+          "门冬氨酸钾镁片",
+          "一次性食管套扎吻合器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "甘草甜素片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "月劳病",
+    "information": {
+      "introduction": "月劳病即(月家痨、月子病、月痨、月中伤、干耳病，)妇女在生产、引产、剖宫、流产后35天左右受寒、受气及过性生活留下的疾病，每人的体质不同，表现的症状不同，如：胃胀满、食欲减退、四肢无力、浮肿、消化不好、贫血、心烦、心慌、长期腹泻、小腹疼痛、有的小腹有结块、身体逐渐消瘦等，病情的轻重及出世长短不一，有的满月后病情出世，有的数年后病情出世。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "月家痨，月子病，月痨，月中伤",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "产后妇女",
+        "symptom": [
+          "心慌",
+          "食欲减退",
+          "四肢无力",
+          "下腹胀痛",
+          "宫颈黏液脓性分泌物"
+        ],
+        "complication": [
+          "发作性睡病",
+          "副鼻窦炎",
+          "新生儿泪囊炎",
+          "脑血管瘤",
+          "脑囊虫病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "80%",
+        "duration": "10-30天",
+        "method": [
+          "对症治疗、中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "膀胱湿热",
+    "information": {
+      "introduction": "膀胱湿热证，湿热蕴结膀胱所表现的证候。多因感受湿热，或饮食不节，湿热内生，下注膀胱所致。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "膀胱"
+        ],
+        "infection": "无传染性",
+        "people": "女性",
+        "symptom": [
+          "小便短赤",
+          "腹胀",
+          "尿血",
+          "苔黄腻",
+          "脉数"
+        ],
+        "complication": [
+          "大肠湿热",
+          "腺性膀胱炎",
+          "膀胱气痛",
+          "膀胱与尿道结石",
+          "急性膀胱炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "90%",
+        "duration": "4周",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "尿细菌培养"
+        ],
+        "medicine": [
+          "复方石淋通片",
+          "清淋颗粒",
+          "益母草颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方石淋通片",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清淋颗粒(远达)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "益母草颗粒(金砂五淋丸(克迈龙)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "尿感宁颗粒(正大青春宝)",
+          "grade": "3.09",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "清淋颗粒(清迈苏)",
+          "grade": "3.2",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "复方石淋通胶囊(弗素克)",
+          "grade": "3.0",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石淋通胶囊(奇特)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾茶袋泡茶(版纳)",
+          "grade": "2.11",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金砂五淋丸(泾渭金砂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清淋颗粒(长城)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金砂五淋丸(卓玛丹)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清淋颗粒(莫愁)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "尿感宁颗粒(信邦)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑囊虫病",
+    "information": {
+      "introduction": "脑猪囊尾蚴病是由猪带绦虫的幼虫囊尾蚴寄生于中枢神经系统引起的疾病，是我国中枢神经系统寄生虫病中最常见的一种。本病临床症状多样，常引起严重病变，甚至可能危及生命。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "生食猪肉习惯者多见，发病年...",
+        "symptom": [
+          "慢性头痛",
+          "单瘫",
+          "视乳头水肿",
+          "头痛",
+          "癫痫和癫痫样发作"
+        ],
+        "complication": [
+          "癫痫",
+          "老年人颅内压增高",
+          "外伤性脑室内出血",
+          "神经性肌强直"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "68%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "便常规",
+          "颅脑MRI",
+          "囊虫病补体结合试验",
+          "脑脊液一般性状",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "吡喹酮片",
+          "甲苯咪唑片",
+          "吡喹酮片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "囊虫丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膝关节结核",
+    "information": {
+      "introduction": "膝关节结核与其他骨关节结核一样是一种继发性病变，绝大多数由肺结核转变而来。在国内大宗结核病例的报道中，膝关节结核的发病率仅次于脊柱结核，在6大关节中居首位。国外文献报告，膝关节结核的发病率也是在脊柱之后，居于6大关节的首位或第2位。膝关节结核以10岁以下儿童多发，性别上无明显差别，儿童膝关节结核由于病程长，易累及骨骺，故常常引起患肢的发育生长畸形。膝关节结核一般单侧发生，双侧同时患结核的病例罕见。通常分为单纯滑膜结核、单纯骨结核和全关节结核。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "膝部"
+        ],
+        "infection": "有传染性",
+        "people": "以10岁以下儿童儿童及青壮年...",
+        "symptom": [
+          "低烧",
+          "消瘦",
+          "食欲不振",
+          "淋巴结肿大",
+          "淋巴结结核"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "治愈率92%",
+        "duration": "治疗周期9个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "夫欧契试验",
+          "浮髌试验",
+          "MRI"
+        ],
+        "medicine": [
+          "滑膜炎颗粒",
+          "复方杜仲健骨颗粒",
+          "人工膝关节假体"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方杜仲健骨颗粒(伯司庄)",
+          "grade": "4.28",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈椎管狭窄症",
+    "information": {
+      "introduction": "构成颈椎管各解剖结构因发育性或退变因素造成骨性或纤维性退变引起一个或多个平面管腔狭窄，导致脊髓血液循环障碍、脊髓及神经根压迫症者为颈椎管狭窄症。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部",
+          "脊柱"
+        ],
+        "infection": "无传染性",
+        "people": "成年人群",
+        "symptom": [
+          "脊髓受压",
+          "四肢瘫痪",
+          "四肢无力",
+          "呼吸困难",
+          "四肢麻木"
+        ],
+        "complication": [
+          "颈椎病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "针灸科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约20000--50000",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "针推治疗、西药治疗、中药治疗"
+        ],
+        "examination": [
+          "颈部活动度",
+          "颈部MRI",
+          "颈椎CT",
+          "脊椎平片",
+          "MRI"
+        ],
+        "medicine": [
+          "舒筋活血片",
+          "麝香追风膏",
+          "脊柱后路内固定系统 (全合)\"Aaxter\"A3 Posterior Spinal System"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "舒筋活血片(瑞诺林)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "麝香追风膏(吉民)",
+          "grade": "2.17",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "丹鹿通督片(羚锐)",
+          "grade": "2.18",
+          "total": "113",
+          "secondary": "16"
+        }
+      ]
+    }
+  }
+]

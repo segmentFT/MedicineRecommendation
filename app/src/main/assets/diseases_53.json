@@ -1,0 +1,967 @@
+[
+  {
+    "disease_name": "慢性肾盂肾炎",
+    "information": {
+      "introduction": "慢性肾盂肾炎是细菌感染肾脏引起的慢性炎症，病变主要侵犯肾间质和肾盂、肾盏组织。由于炎症的持续进行或反复发生导致肾间质、肾盂、肾盏的损害，形成疤痕，以至肾发生萎缩和出现功能障碍。平时病人可能仅有腰酸和(或)低热，可没有明显的尿路感染的尿痛，尿频和尿急症状，其主要表现是夜尿增多及尿中有少量白细胞和蛋白等。病人有长期或反复发作的尿路感染病史，在晚期可出现尿毒症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肾盂肾炎，肾著，肾着",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "反复尿路感染患者",
+        "symptom": [
+          "尿中磷酸盐排出增多",
+          "尿隐血",
+          "尿酸代谢亢进",
+          "尿渗透压下降",
+          "尿钙增多"
+        ],
+        "complication": [
+          "糖尿病",
+          "尿路梗阻",
+          "菌血症",
+          "高血压",
+          "肾结石"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "放射性核素肾扫描",
+          "尿路平片",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "盐酸左氧氟沙星氯化钠注射液",
+          "三金片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "强肾片",
+          "grade": "1.75",
+          "total": "24",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石韦胶囊(新石伟)",
+          "grade": "4.23",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血尿胶囊(和美)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "泌尿宁胶囊(东泰)",
+          "grade": "4.54",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾舒颗粒(伊典)(无糖型)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎安胶囊(中华)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金钱通淋颗粒(星辰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "金钱通淋颗粒(白马)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "恙虫病",
+    "information": {
+      "introduction": "恙虫病(tsutsugamushi disease)又名丛林斑疹伤寒(scrub typhus)，是由恙虫病立克次体(Rickettsia tsutsugamushi)引起的急性传染病。属于自然疫源性疾病，主要传染源是啮齿类，传播媒介为恙螨幼虫。其临床特点为急性起病、发热、皮疹、淋巴结肿大、肝脾肿大和被恙螨幼虫叮咬处出现焦痂(eschar)等。我国古代名医晋葛洪在1600余年前已述及本病流行于华南一带，称之为“沙虱热”。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "丛林斑疹伤寒,沙虱热,红河热,洪水热,沙螨皮炎",
+        "part": [
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "剧烈头痛",
+          "出血倾向",
+          "细菌感染",
+          "斑丘疹",
+          "不规则热"
+        ],
+        "complication": [
+          "支气管肺炎",
+          "胸膜炎",
+          "中耳炎",
+          "流产",
+          "脉管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "75%-85%",
+        "duration": "6-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "涂片",
+          "外-斐二氏反应",
+          "立克次体补体结合试验",
+          "冷凝集试验",
+          "ELISA"
+        ],
+        "medicine": [
+          "盐酸多西环素片",
+          "四环素片",
+          "盐酸多西环素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肠套叠",
+    "information": {
+      "introduction": "肠套叠是指一段肠管套入与其相连的肠腔内，并导致肠内容物通过障碍。肠套叠占肠梗阻的15%～20%。有原发性和继发性两类。原发性肠套叠多发生于婴幼儿，继发性肠套叠则多见于成人。绝大数肠套叠是近端肠管向远端肠管内套入，逆性套叠较罕见，不及总例数的10%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": " 急性常见于4~10个月婴儿，慢...",
+        "symptom": [
+          "肚子疼",
+          "进食呕吐",
+          "便血",
+          "腹部肿块",
+          "小儿哭闹不安"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "胃肠外科",
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（10000--20000元）",
+        "ratio": "外科手术治愈率约为80%",
+        "duration": "2-4周",
+        "method": [
+          "灌肠治疗、手术治疗、药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "上消化道X线钡餐",
+          "粪便隐血试验",
+          "大便红细胞",
+          "肛门指检"
+        ],
+        "medicine": [
+          "枸橼酸莫沙必利分散片",
+          "胆汁槟榔维B1胶囊",
+          "一次性使用可视微创肛肠吻合器及辅件"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "预激综合征",
+    "information": {
+      "introduction": "预激是一种房室传导的异常现象，冲动经附加通道下传，提早兴奋心室的一部分或全部，引起部分心室肌提前激动。有预激现象者称为预激综合征（pre-excitation syndrome）或WPW（Wolf-Parkinson-White）综合征，常合并室上性阵发性心动过速发作。预激是一种较少见的心律失常，诊断主要靠心电图。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "预激,WPW综合征",
+        "part": [
+          "心脏"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "胸闷",
+          "急性呼吸困难",
+          "心悸",
+          "心动过速",
+          "室上性心律失常"
+        ],
+        "complication": [
+          "心律失常",
+          "预激综合征",
+          "房颤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科",
+          "心胸外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "心音图",
+          "心血管疾病的超声诊断",
+          "动态心电图",
+          "心电图"
+        ],
+        "medicine": [
+          "硫酸奎尼丁片",
+          "盐酸胺碘酮胶囊",
+          "盐酸胺碘酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "痒疹",
+    "information": {
+      "introduction": "痒疹（Prurigo）是一组急性或慢性炎症性皮肤病的总称。好发于四肢伸侧瘙痒性的皮肤病。皮肤损害多是孤立的丘疹或结节，愈后留以色素沉着，局部皮损处有剧烈瘙痒。病程慢性，有时数月或数年不愈。痒疹有不同的命名，没有一致的分类方法。由于临床表现不同，在本书中把痒疹分称为小儿痒疹、寻常痒诊、结节性痒疹、妊娠痒疹和夏季痒疹等。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "小儿痒疹,寻常痒疹,结节性痒疹,妊娠痒疹,夏季痒疹，马疥",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "皮肤敏感人群",
+        "symptom": [
+          "小儿痒疹",
+          "瘙痒",
+          "丘疹",
+          "痘疮",
+          "结节"
+        ],
+        "complication": [
+          "皮肤病",
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "皮肤性病",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "98%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "嗜酸性粒细胞数"
+        ],
+        "medicine": [
+          "丙酸氟替卡松乳膏",
+          "乌蛇止痒丸",
+          "苯磺贝他斯汀片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乌蛇止痒丸(中一牌)",
+          "grade": "2.46",
+          "total": "22",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "天疱疮",
+    "information": {
+      "introduction": "天疱疮(pemphigus)是一类重症的皮肤病。特征为薄壁、易于破裂的大疱，组织病理为棘刺松解所致的表皮内水疱，有特征性的免疫学所见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "皮肤",
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "鳞屑",
+          "结痂",
+          "红晕",
+          "瘙痒",
+          "黏膜损害"
+        ],
+        "complication": [
+          "败血症",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "90%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清胆碱酯酶 ",
+          "血清抗桥粒自身抗体"
+        ],
+        "medicine": [
+          "氨苯砜片",
+          "甲泼尼龙片",
+          "醋酸泼尼松片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "贲门失弛缓症",
+    "information": {
+      "introduction": "贲门失弛缓症(esophageal achalasia) 又称贲门痉挛或巨食管，是以食管下段括约肌松弛障碍和替补无蠕动为主要特征的原发性食管动力紊乱性疾病。它的发病原因不是十分清楚，有先天性，肌源性和神经源性三种学说。目前人们广泛接受的是神经源性学说。临床主要表现为咽下困难、食物反流和下端胸骨后不适或疼痛。本病为一种少见病(估计每10万人人中仅约1人)，可发生于任何年龄，但最常见于20～39岁的年龄组。儿童很少发病，男女发病大致相等，较多见于欧洲和北美。该病治疗不及时有潜在发生食管癌的危险。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "贲门弛缓不能,贲门痉挛",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "20~50岁的青壮年",
+        "symptom": [
+          "气急",
+          "干咳",
+          "进食困难",
+          "疼痛",
+          "溃疡"
+        ],
+        "complication": [
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "70%",
+        "duration": "?",
+        "method": [
+          "　手术治疗"
+        ],
+        "examination": [
+          "气钡双对比造影",
+          "食管钡餐透视",
+          "食管造影",
+          "食管压力",
+          "胸部平片"
+        ],
+        "medicine": [
+          "硝酸异山梨酯片",
+          "硝苯地平片",
+          "食道失弛缓症球囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "口吃",
+    "information": {
+      "introduction": "口吃多发生于儿童，50%的口吃患者于5岁前发病，而1～3岁的小儿在情绪紧张时出现一时性的口吃是比较多见的。一般随着年龄的增长逐渐改善或消失，少数可持续至成年。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "言语中断",
+          "发音障碍"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "心理咨询",
+          "体检保健科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "语调与语态"
+        ],
+        "medicine": [
+          "同仁牛黄清心丸",
+          "十香返生丸",
+          "口吃矫正器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "同仁牛黄清心丸(同仁堂)",
+          "grade": "3.26",
+          "total": "22",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十香返生丸(同仁堂)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "副鼻窦炎",
+    "information": {
+      "introduction": "副鼻窦炎包括急性副鼻窦炎和慢性副鼻窦炎。鼻窦炎也称做副鼻窦炎，据估计每年有14%的美国人和大约相同比例的中国人得过或轻或重的鼻窦炎，有1-2%的人因为鼻窦炎丧失嗅觉，鼻窦炎是已经成为严重影响人们身体健康的疾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鼻窦炎",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "发烧",
+          "流黄鼻涕",
+          "鼻孔流脓",
+          "鼻窦压痛",
+          "幻味"
+        ],
+        "complication": [
+          "慢性鼻炎",
+          "鼻炎",
+          "干燥性鼻炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "市三甲医院约（1000——5000元）",
+        "ratio": "85%-95%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗 支持性治疗"
+        ],
+        "examination": [
+          "血清EB病毒壳抗原IgA抗体",
+          "儿童五官科检查",
+          "厌氧菌检测",
+          "耳、鼻、咽拭子细菌培养 ",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "荔花鼻窦炎片",
+          "鼻窦炎口服液",
+          "炎宁颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荔花鼻窦炎片",
+          "grade": "2.05",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鼻窦炎口服液(太极)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "164"
+        },
+        {
+          "medicine_name": "炎宁颗粒(九惠)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "鼻渊通窍颗粒(鲁南)",
+          "grade": "2.85",
+          "total": "14",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "香菊胶囊(步长)",
+          "grade": "2.15",
+          "total": "55",
+          "secondary": "33"
+        },
+        {
+          "medicine_name": "香菊片(东泰牌)",
+          "grade": "2.58",
+          "total": "9",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "辛芳鼻炎胶囊(立效)",
+          "grade": "3.44",
+          "total": "35",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "双辛鼻窦炎颗粒",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "香菊片(甲清)",
+          "grade": "4.38",
+          "total": "14",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "双辛鼻窦炎颗粒(速必欣)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "非霍奇金淋巴瘤",
+    "information": {
+      "introduction": "非霍奇金淋巴瘤(non-hodgkin’s lymphoma， NHL)是恶性淋巴瘤的一大类型，在我国恶性淋巴瘤中非霍奇金淋巴瘤所占的比例远高于霍奇金病(HD)。近年来很多国家NHL的发病率有一定增高趋向。NHL的病理类型、临床表现和治疗上远比HD复杂。从现有的资料看来，NHL是一组很不均一的疾病，病因、病理、临床表现和治疗都有差异。迄今，总的治愈率也低于HD。病程长短不一，从无明显症状和早期可耐受到迅速死亡。在某些类型NHL，50%的患儿和约20%的成年患者出现白血病样的变化。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "非何杰金淋巴瘤，非霍奇金恶性淋巴肿瘤",
+        "part": [
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "骨痛",
+          "颅内压增高",
+          "消瘦",
+          "淋巴结肿大"
+        ],
+        "complication": [
+          "白血病",
+          "肠梗阻",
+          "尿毒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "内科",
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000 —— 50000元）",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清乳酸脱氢酶",
+          "CT检查",
+          "本周蛋白",
+          "大生化检查",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "重组人粒细胞刺激因子注射液",
+          "利妥昔单抗注射液",
+          "利妥昔单抗注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝吸虫病",
+    "information": {
+      "introduction": "华支睾吸虫病也称肝吸虫病，是由华支睾吸虫寄生在人体肝内胆管所引起的寄生虫病，因进食未煮熟的淡水鱼虾而感染。临床特征为消化不良、肝肿大、上腹隐痛、疲乏以及精神不振。轻度感染者可无症状，严重者可发生胆管炎、胆结石以及肝硬化等并发症。华支睾吸虫首次发现于印度加尔各答一华侨尸体的肝胆管内，我国于1908年首次发现本病患者。通过对古尸的检查，考古学证实华支睾吸虫病在我国至少存在2300年以上。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "乏力",
+          "肚子疼",
+          "肝脏肿大",
+          "食欲不振"
+        ],
+        "complication": [
+          "胰腺炎",
+          "胆管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "60-80%",
+        "duration": "4-8周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "十二指肠液和胆汁寄生虫",
+          "皮内试验",
+          "血清总蛋白",
+          "肝脏B超",
+          "免疫电泳"
+        ],
+        "medicine": [
+          "马洛替酯片",
+          "吡喹酮片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "乳腺囊性增生病",
+    "information": {
+      "introduction": "乳腺囊性增生病(cystic hyperplasia of breast)，又称慢性囊性乳腺病、囊肿性脱皮性乳腺增生病、纤维囊性乳腺病等。是以乳腺小叶、小导管及末端导管高度扩张形成的囊肿为特征，伴有乳腺结构不良病变的疾病。本病是妇女常见、多发病之一，多见于25～45岁女性，其本质上是一种生理增生与复旧不全造成的乳腺正常结构的紊乱。与单纯性乳腺增生相比较，该病乳腺增生与不典型增生共存，存在恶变的危险，是区别所在。应视为癌前病变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性囊性乳腺病,囊肿性脱皮性乳腺增生病,纤维囊性乳腺病",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "多见于25-45岁女性",
+        "symptom": [
+          "背痛",
+          "结节",
+          "囊肿",
+          "乳腺内无痛单发的硬肿块",
+          "乳腺外上象限腺体增厚"
+        ],
+        "complication": [
+          "乳腺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "乳头溢液检查",
+          "乳腺检查",
+          "乳房活检",
+          "乳房触诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "散结乳癖膏",
+          "乳康片",
+          "乳癖消贴膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "散结乳癖膏(散结乳癖贴膏(粉红丝秀)",
+          "grade": "2.92",
+          "total": "22",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "乳康片",
+          "grade": "3.83",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "乳癖消贴膏(金玛神)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "乳癖消颗粒",
+          "grade": "1.69",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "青乳消颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "嗜睡症",
+    "information": {
+      "introduction": "嗜睡症为白昼睡眠过度（并非由于睡眠量的不适）或醒来时达到完全觉醒状态的过渡时间延长的一种状况。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "年轻人",
+        "symptom": [
+          "嗜睡",
+          "头昏想睡觉",
+          "昏睡",
+          "昏睡病",
+          "猝倒"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "神经内科"
+        ],
+        "cost": "市三甲医院约2000--6000元",
+        "ratio": "98%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "颅脑MRI",
+          "颅脑CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "噻奈普汀钠片",
+          "盐酸氟西汀分散片",
+          "草酸艾司西酞普兰片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "中风回春胶囊",
+          "grade": "4.71",
+          "total": "116",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "中风回春胶囊(香雪)",
+          "grade": "4.64",
+          "total": "41",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "疱疹样湿疹",
+    "information": {
+      "introduction": "疱疹样湿疹于1845年由Kaposi提出，又称Kaposi水痘样疹，种痘性湿疹及柯萨奇湿疹等名称。指在原有的皮肤病基础上感染单纯疱疹病毒或牛痘病毒而发生的一种皮肤病。多发生于5岁以内的儿童，亦可见于成人。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "湿疹,Kaposi水痘样疹，种痘性湿疹,柯萨奇湿疹",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多发生于5岁以内的儿童、亦...",
+        "symptom": [
+          "脓疱",
+          "白细胞减少",
+          "婴儿头皮结血痂",
+          "恶心",
+          "水痘样皮疹"
+        ],
+        "complication": [
+          "咽炎",
+          "结膜炎",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500——1000元）",
+        "ratio": "对症治疗为主，根治率约为30%",
+        "duration": "3-6个月",
+        "method": [
+          "全身和局部用药治疗、中医药治疗"
+        ],
+        "examination": [
+          "单纯疱疹病毒",
+          "白细胞数"
+        ],
+        "medicine": [
+          "消风止痒颗粒",
+          "复方醋酸地塞米松乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "消风止痒颗粒(不养)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑血栓形成",
+    "information": {
+      "introduction": "脑血栓形成(cerebral thrombosis，CT)是脑梗死最常见的类型。是脑动脉主干或皮质支动脉粥样硬化导致血管增厚、管腔狭窄闭塞和血栓形成，引起脑局部血流减少或供血中断，脑组织缺血缺氧导致软化坏死，出现局灶性神经系统症状体征。故而临床上又称为“动脉粥样硬化性脑血栓”，或“血栓性脑梗死”。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "动脉粥样硬化性脑血栓，血栓性脑梗死，脑血栓",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "中老年，男性发病率高于女性",
+        "symptom": [
+          "无力",
+          "吞咽困难",
+          "感觉过度",
+          "感觉障碍",
+          "反应迟钝"
+        ],
+        "complication": [
+          "褥疮",
+          "抑郁症",
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 20000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "尿常规",
+          "便常规",
+          "颅脑MRI",
+          "大生化检查"
+        ],
+        "medicine": [
+          "银杏达莫注射液",
+          "注射用盐酸川芎嗪",
+          "脑安颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑安颗粒(百泉)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

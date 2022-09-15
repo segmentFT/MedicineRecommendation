@@ -1,0 +1,1035 @@
+[
+  {
+    "disease_name": "眶上神经痛",
+    "information": {
+      "introduction": "眶上神经痛是指眶上神经分布范围内（前额部）持续性或阵发性疼痛。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "面部",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眼眶疼痛",
+          "神经痛",
+          "前额头痛",
+          "眼眶疼痛",
+          "神经痛"
+        ],
+        "complication": [
+          "细菌感染性肺炎",
+          "肌肉肌腱单位的急性损伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "70%",
+        "duration": "1个月",
+        "method": [
+          "病因治疗、对症治疗 暂无"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "颅脑CT",
+          "脑诱发电位"
+        ],
+        "medicine": [
+          "止痛水",
+          "萘普生胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "止痛水",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "踝关节扭伤",
+    "information": {
+      "introduction": "在外力作用下，关节骤然向一侧活动而超过其正常活动度时，引起关节周围软组织如关节囊、韧带、肌腱等发生撕裂伤，称为关节扭伤。轻者仅有部分韧带纤维撕裂、重者可使韧带完全断裂或韧带及关节囊附着处的骨质撕脱，甚至发生关节脱位。关节扭伤日常最为常见，其中以踝关节最多，其次为膝关节和腕关节。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "儿童及成年人均可发生",
+        "symptom": [
+          "关节扭伤",
+          "踝部及足背水肿",
+          "踝关节疼痛",
+          "外踝前下方肿胀和疼痛",
+          "踝关节屈曲挛缩畸形"
+        ],
+        "complication": [
+          "创伤性关节炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "98%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "健康体检",
+          "骨与关节MRI",
+          "关节检查",
+          "踝关节背伸试验"
+        ],
+        "medicine": [
+          "正骨水",
+          "消肿止痛酊",
+          "医用踝部固定支具"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "消肿止痛酊(花红)",
+          "grade": "3.72",
+          "total": "167",
+          "secondary": "140"
+        },
+        {
+          "medicine_name": "跌打万花油(敬修堂)",
+          "grade": "4.35",
+          "total": "233",
+          "secondary": "220"
+        },
+        {
+          "medicine_name": "复方三七胶囊(万通)",
+          "grade": "3.23",
+          "total": "8",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺部良性肿瘤",
+    "information": {
+      "introduction": "肺部良性肿瘤比较少见，其种类很多，可起源肺和支气管的所有各种不同类型细胞，以错构瘤为最常见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肺良性肿瘤",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "淋巴结肿大",
+          "乏力",
+          "低烧",
+          "肺部感染",
+          "呼吸困难"
+        ],
+        "complication": [
+          "肺脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "治愈率96%",
+        "duration": "治疗周期7天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "肿瘤标志物",
+          "胸部CT",
+          "胸部平片"
+        ],
+        "medicine": [
+          "呋塞米注射液",
+          "螺内酯片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "下肢静脉血栓",
+    "information": {
+      "introduction": "由下肢静脉血栓形成所致静脉炎称为血栓性静脉炎，常见于下肢浅静脉，可由药物静脉注射，或由大、小隐静脉曲张的并发症或脉管炎的伴发病或自身免疫性疾病的一部分而存在着。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "下肢静脉血栓形成",
+        "part": [
+          "下肢",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "经常需要站立的职业工作者",
+        "symptom": [
+          "剧痛",
+          "静脉血栓",
+          "持续性疼痛",
+          "迁徙性浅静脉血栓形成",
+          "静脉回流障碍"
+        ],
+        "complication": [
+          "肺栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血管外科"
+        ],
+        "cost": "市三甲医院约（5000 —— 10000元）",
+        "ratio": "30%",
+        "duration": "1-2个月",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "中心静脉压",
+          "血浆纤维蛋白原"
+        ],
+        "medicine": [
+          "右旋糖酐40葡萄糖注射液",
+          "脉络舒通颗粒",
+          "脉络舒通丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脉络舒通颗粒",
+          "grade": "3.38",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络舒通丸(脉络舒通丸(鲁南))",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "丹王颗粒(哈药六)",
+          "grade": "2.49",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络宁颗粒(康之选)",
+          "grade": "2.79",
+          "total": "14",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络宁口服液",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脉络宁口服液",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "格林－巴利综合征",
+    "information": {
+      "introduction": "格林-巴利综合征（Guillian-Barre综合征）是常见的脊神经和周围神经的脱髓鞘疾病。又称急性特发性多神经炎或对称性多神经根炎。临床上表现为进行性上升性对称性麻痹、四肢软瘫，以及不同程度的感觉障碍。病人成急性或亚急性临床经过，多数可完全恢复，少数严重者可引起致死性呼吸麻痹和双侧面瘫。脑脊液检查，出现典型的蛋白质增加而细胞数正常，又称蛋白细胞分离现象。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性炎症性脱髓鞘性多发性神经根炎，Guillain－Barre综合征",
+        "part": [
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "各年龄组均可发病，以儿童和...",
+        "symptom": [
+          "呼吸困难",
+          "吞咽障碍",
+          "感觉障碍",
+          "尿潴留",
+          "水肿"
+        ],
+        "complication": [
+          "抑郁症",
+          "焦虑症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "50-70%，有自限性",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "WBC",
+          "心电图",
+          "白细胞分类计数"
+        ],
+        "medicine": [
+          "汉桃叶片",
+          "七十味珍珠丸",
+          "肾炎安胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "汉桃叶片(益尔)",
+          "grade": "2.53",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "七十味珍珠丸(金诃)",
+          "grade": "1.74",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "肾炎安胶囊(中华)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎安胶囊(修正)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "肾炎安颗粒",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳头皲裂",
+    "information": {
+      "introduction": "乳头皲裂(cracked nipple)是哺乳期乳头发生的浅表溃疡。常在哺乳的第1周发生，初产妇多于经产妇。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乳癣，乳头风",
+        "part": [
+          "乳房",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "哺乳期女性",
+        "symptom": [
+          "婴儿含吮时乳头刀割样疼痛并渗血",
+          "结痂",
+          "剧痛",
+          "肝炎导致的化脓结痂",
+          "婴儿含吮时乳头刀割样疼痛并渗血"
+        ],
+        "complication": [
+          "急性乳腺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "95%",
+        "duration": "7天",
+        "method": [
+          "中药治疗、西药治疗"
+        ],
+        "examination": [
+          "乳房触诊",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "复方薄荷脑软膏",
+          "肝素钠乳膏",
+          "聚甲酚磺醛栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脾功能亢进",
+    "information": {
+      "introduction": "脾功能亢进(简称脾亢)是一种不同的疾病引起脾脏肿大和血细胞减少的综合征，临床表现为脾肿大、一种或多种血细胞减少，而骨髓造血细胞相应增生，可经脾切除而缓解。本病经治疗原发病后，部分病例临床症状可减轻。一般认为脾功能亢进多伴有不同程度的脾脏肿大，这种肿大的脾脏对血细胞有滞留作用，脾窦的增生增强了对血细胞吞噬及破坏作用，是产生脾功能亢进临床表现的重要原因。脾脏切除后，临床症状可得到纠正。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "脾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肝脾肿大",
+          "脾肾阳虚",
+          "出血倾向",
+          "鼻子黄色或棕色",
+          "全血细胞减少"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "血液科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "治愈率在70%以上。",
+        "duration": "治疗周期咋2-4个月。",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "脾显象",
+          "脾脏触诊",
+          "骨髓象分析",
+          "MRI",
+          "脾脏B超"
+        ],
+        "medicine": [
+          "驴胶补血颗粒",
+          "浓缩当归丸",
+          "海藻酸钠微球血管栓塞剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "驴胶补血颗粒(九芝堂)",
+          "grade": "2.26",
+          "total": "139",
+          "secondary": "79"
+        },
+        {
+          "medicine_name": "浓缩当归丸(仲景)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "恋物癖",
+    "information": {
+      "introduction": "恋物癖是指以某些非生命物体作为性唤起及性满足的刺激物，且以其作为屡用的偏爱的或唯一的手段。恋物对象多为女人的头发、毛绒织品、女式鞋子、手套、内衣裤、乳罩、月经带之类的东西，且多半是用过的、脏的东西。该症的患病率尚未见报道。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "成年",
+        "symptom": [
+          "恋足癖",
+          "恋足癖",
+          "恋毛巾被癖"
+        ],
+        "complication": [
+          "露阴癖",
+          "窥阴癖",
+          "性厌恶",
+          "阳痿",
+          "早泄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（2000 —— 10000元）",
+        "ratio": "70%",
+        "duration": "3-6月",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "性别观察",
+          "头颅大小"
+        ],
+        "medicine": [
+          "五氟利多片",
+          "盐酸氯丙嗪片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "恶性黑色素瘤",
+    "information": {
+      "introduction": "恶性黑色素瘤好发于白色人种。澳大利亚的QueenS-Land是世界上著名的恶性黑色素瘤高发地区。我国恶性黑色素瘤的发病率不高，但由于医生及病人对其严重性认识不足，一般在就诊时往往已为时太晚，治疗效果极不满意。本病好发于30～60岁。罕见的幼年性恶性黑色素瘤Spity报道了13例，年龄为1．5～12岁。年龄小者一般其恶性程度较低，手术切除后预后较好。在发病性别上几乎无差别，唯病灶部位与性别有关，发生在躯干者以男性居多，发生在肢体者女多于男，尤以面部雀斑型黑色素瘤多见于老年妇女。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "恶性黑素瘤",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "脑力劳动者、低头工作者",
+        "symptom": [
+          "水肿",
+          "色素性皮损",
+          "皮肤多痣",
+          "皮肤痣",
+          "前房色素沉积"
+        ],
+        "complication": [
+          "青光眼"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（20000 —— 50000元）",
+        "ratio": "50%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "CT检查",
+          "色觉",
+          "巩膜透照",
+          "MRI"
+        ],
+        "medicine": [
+          "羟基脲片",
+          "司莫司汀胶囊",
+          "羟基脲片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "枕大神经痛",
+    "information": {
+      "introduction": "枕大神经痛是指枕大神经分布范围内（后枕部）阵发性或持续性疼痛，也可在持续痛基础上阵发性加剧。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "不能转颈",
+          "颅外头痛",
+          "面下部头痛",
+          "枕部和颈后疼痛",
+          "头颈部剧痛"
+        ],
+        "complication": [
+          "胸锁关节脱位",
+          "视神经病变"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（200—— 1000元）",
+        "ratio": "70%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、中医治疗"
+        ],
+        "examination": [
+          "脑脊液的化学检查",
+          "脑脊液一般性状",
+          "肌电图",
+          "MRI"
+        ],
+        "medicine": [
+          "汉桃叶片",
+          "萘普生胶囊",
+          "沙利度胺片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "汉桃叶片(益尔)",
+          "grade": "2.53",
+          "total": "9",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈型颈椎病",
+    "information": {
+      "introduction": "颈型颈椎病实际上是各型颈椎病的早期阶段，大多处于颈椎椎节退行性变开始时，通过窦椎神经反射而引起颈部症状。但如处理不当，易发展成其他更为严重的类型。颈椎病包括：颈型颈椎病、神经根型颈椎病、脊髓型颈椎病、椎动脉型颈椎病、交感神经型颈椎病、食管压迫型颈椎病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "局部型颈椎病",
+        "part": [
+          "颈部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "颈部酸痛",
+          "头颈分离感",
+          "颈项强直",
+          "颈椎变形",
+          "下肢无力"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "椎间孔挤压试验",
+          "颈部活动度",
+          "颈部MRI",
+          "颈椎CT",
+          "颈项强直"
+        ],
+        "medicine": [
+          "颈复康颗粒",
+          "藤黄健骨丸",
+          "颈痛颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "颈复康颗粒(颈复康)",
+          "grade": "2.44",
+          "total": "286",
+          "secondary": "220"
+        },
+        {
+          "medicine_name": "藤黄健骨丸(益馨康)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈痛颗粒(明仁)",
+          "grade": "2.5",
+          "total": "18",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "颈痛片(明仁)",
+          "grade": "4.98",
+          "total": "24",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "壮骨伸筋胶囊(金马)",
+          "grade": "1.41",
+          "total": "8",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "颈舒颗粒(同济堂)",
+          "grade": "3.06",
+          "total": "33",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "根痛平片(创盈)",
+          "grade": "4.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈痛胶囊",
+          "grade": "4.9",
+          "total": "20",
+          "secondary": "20"
+        },
+        {
+          "medicine_name": "丹葛颈舒胶囊(格拉丹东)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抑眩宁胶囊(元和)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抑眩宁胶囊(双鼎)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "芪葛颗粒(康缘)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "位置性眩晕",
+    "information": {
+      "introduction": "位置性眩晕是指头部运动到某一特定位置所诱发的旋转性眩晕，持续时间约30秒—2分钟。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "壶腹嵴顶耳石症",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "恶心",
+          "体位性眩晕",
+          "旋转性眩晕",
+          "剧烈眩晕，站立不稳",
+          "出冷汗"
+        ],
+        "complication": [
+          "眩晕"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500——1000元）",
+        "ratio": "40-60%，以药物控制症状为主",
+        "duration": "1-2年",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "眼震电图描记法",
+          "Frenzel氏眼镜检查法",
+          "裸眼检查法",
+          "耳鼻咽喉CT",
+          "前庭功能"
+        ],
+        "medicine": [
+          "盐酸异丙嗪片",
+          "前庭功能检查系统",
+          "良性阵发性位置性眩晕诊疗系统"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝硬化男性性功能减弱综合征",
+    "information": {
+      "introduction": "肝硬化男性性功能减退综合征，又称内分泌缺乏-肝硬变综合征，Silvestrini-corda综合征。其主要临床特点为在肝硬变的基础上出现男性乳房发育，睾丸萎缩和性机能减退等表现。本征较为常见，男性远远多于女性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "内分泌缺乏-肝硬变综合征,Silvestrini-corda综合征，西-科二氏综合征",
+        "part": [
+          "肝",
+          "男性生殖"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "食欲减退",
+          "疲乏",
+          "睾丸萎缩",
+          "性欲减退",
+          "腹胀"
+        ],
+        "complication": [
+          "肝性脑病",
+          "原发性肝癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "男科",
+          "肝胆外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "肝功能",
+          "LHRH试验",
+          "睾酮",
+          "孕尿雌三醇",
+          "雌二醇"
+        ],
+        "medicine": [
+          "肝喜乐胶囊",
+          "心肝宝胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "肝喜乐胶囊(德元堂)",
+          "grade": "2.20",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心肝宝胶囊(保药)",
+          "grade": "3.10",
+          "total": "45",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "病毒性咽炎",
+    "information": {
+      "introduction": "病毒性咽炎系病毒所引起的咽部急性感染。多在咽部、口腔粘膜及其周围皮肤发生疱疹，也可发生于角膜及外生殖器。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "咽部灼热疼痛",
+          "咽部粘膜弥漫充血",
+          "疱疹",
+          "喉咙痒",
+          "咽喉干燥充血"
+        ],
+        "complication": [
+          "恶寒发热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（300 —— 500元）",
+        "ratio": "80-90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "纤维鼻咽镜",
+          "耳鼻咽喉CT",
+          "耳、鼻、咽拭子细菌培养 "
+        ],
+        "medicine": [
+          "一清颗粒",
+          "蓝芩口服液",
+          "清开灵滴丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "一清颗粒(绿雨)",
+          "grade": "2.44",
+          "total": "81",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "蓝芩口服液",
+          "grade": "4.34",
+          "total": "174",
+          "secondary": "169"
+        },
+        {
+          "medicine_name": "清开灵滴丸(瑞亿)",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清开灵片",
+          "grade": "2.62",
+          "total": "15",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "清开灵分散片",
+          "grade": "2.10",
+          "total": "22",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "清开灵软胶囊(神威)",
+          "grade": "3.15",
+          "total": "11",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "清开灵口服液",
+          "grade": "4.05",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清开灵胶囊(白云山)",
+          "grade": "3.30",
+          "total": "31",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "清开灵口服液(白云山)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清开灵滴丸",
+          "grade": "3.62",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清开灵滴丸(赛立克)",
+          "grade": "3.5",
+          "total": "5",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清开灵片",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "清开灵口服液(福乐)",
+          "grade": "4.5",
+          "total": "7",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "清开灵片(一洲)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清开灵口服液",
+          "grade": "4.14",
+          "total": "8",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鲍温样丘疹病",
+    "information": {
+      "introduction": "本症首先由Lloyd于1970年所描述，他称之为多中心性色素性鲍温病，以后相继有可逆性女阴异型、生殖器多中心鲍温病、伴原位变化的色素阴茎丘疹等名称。公认以鲍温样丘疹病较为简练。本症特点为在生殖器部位发生多发性斑丘疹，良性经过，可自行消退，而病理组织呈原位癌样改变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "外阴",
+          "阴茎",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "发病年龄为1～64岁，多好发于...",
+        "symptom": [
+          "丘疹",
+          "烧灼性疼痛",
+          "环状肉芽肿",
+          "丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "妇科",
+          "男科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "60%",
+        "duration": "2个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮损",
+          "HPV检查",
+          "细胞免疫检查"
+        ],
+        "medicine": [
+          "甲硝唑凝胶",
+          "一次性载液抗菌器"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

@@ -1,0 +1,973 @@
+[
+  {
+    "disease_name": "肌萎缩侧索硬化症",
+    "information": {
+      "introduction": "肌萎缩侧索硬化症，又称渐冻人症，简称ALS病，是运动神经元病的一种，是累及上运动神经元（大脑、脑干、脊髓），又影响到下运动神经元（颅神经核、脊髓前角细胞）及其支配的躯干、四肢和头面部肌肉的一种慢性进行性变性疾病。临床上常表现为上、下运动神经元合并受损的混合性瘫痪。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "ALS,渐冻人症,肌肉萎缩性侧面硬化病",
+        "part": [
+          "颅脑",
+          "脊髓"
+        ],
+        "infection": "无传染性",
+        "people": "40岁以上的中老年多发，男女...",
+        "symptom": [
+          "肌肉的失用性萎缩",
+          "吞咽困难",
+          "构音不清",
+          "感觉障碍",
+          "舌肌萎缩"
+        ],
+        "complication": [
+          "运动神经元病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "对症治疗、药物治疗、物理治疗"
+        ],
+        "examination": [
+          "心肌酶",
+          "脑脊液检查-化学检查-蛋白质检查",
+          "红细胞乙酰胆碱脂酶",
+          "肌电图",
+          "MRI"
+        ],
+        "medicine": [
+          "利鲁唑片",
+          "痹祺胶囊",
+          "利鲁唑片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "痹祺胶囊(痹祺)",
+          "grade": "3.33",
+          "total": "60",
+          "secondary": "7"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "腹膜炎",
+    "information": {
+      "introduction": "腹膜炎是腹腔壁层腹膜和脏层腹膜的炎症，可由细菌、化学、物理损伤等引起。按发病机制可分为原发性腹膜炎和继发性腹膜炎。急性化脓性腹膜炎累及整个腹腔称为急性弥漫性腹膜炎。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "腹膜"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "弥漫性系膜硬化",
+          "弥漫性脐周疼痛",
+          "肚子疼",
+          "腹部不适",
+          "左腹屈曲"
+        ],
+        "complication": [
+          "膈下脓肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60-80%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "腹壁反射",
+          "呼吸运动检查",
+          "腹部叩诊"
+        ],
+        "medicine": [
+          "磷霉素钙胶囊",
+          "奥硝唑胶囊",
+          "氟康唑胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "蜘蛛痣",
+    "information": {
+      "introduction": "蜘蛛痣形态似蜘蛛，痣体旁有放射状排列的毛细血管扩张。蜘蛛痣是肝功能衰竭的警示灯，因为蜘蛛痣常见于急、慢性肝炎或肝硬化。蜘蛛痣大小不一，大者直径可达1.5cm，中央的痣体隆起皮面，玻片压诊可见搏动，肉眼可见痣体周围的毛细血管扩张，呈放射状排列，好发于躯干以上部位，尤以面，颈和手部多见，亦可发生于外伤部位，常呈一侧性，单发，也可多发，多发者不论年龄大小应疑有肝病存在，于唇，鼻黏膜可发生类似损害，但缺乏明显的典型形态。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "动脉性蜘蛛痣,动脉性痣,蜘蛛状毛细血管扩张症,蛛状痣",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "急、慢性肝炎或肝硬变",
+        "symptom": [
+          "血管痣",
+          "毛细血管搏动",
+          "特殊面痣",
+          "病理性黄疸",
+          "出血性丘疹"
+        ],
+        "complication": [
+          "溃疡病出血",
+          "出血热",
+          "心力衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝病",
+          "消化内科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "3-6月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "肝脏超声检查",
+          "肝功能"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "男子乳房发育症",
+    "information": {
+      "introduction": "一、症状：本症是一种常见的内分泌疾病，乳房增大为临床上唯一的表现，正常男性在新生儿期、青春期及老年期，乳房可生理性增大;但介于青春期和老年期之间的男子，若发生乳房增大，则多为病理性，应及时查找病因。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "男性，于青春期和老年期之间...",
+        "symptom": [
+          "乳房肿块",
+          "乳房硬化",
+          "乳房胀痛"
+        ],
+        "complication": [
+          "乳腺增生"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "乳腺超声",
+          "睾丸检查",
+          "睾酮",
+          "乳腺检查",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "达那唑胶囊",
+          "催乳素(PRL)诊断试剂盒(化学发光法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肋软骨炎",
+    "information": {
+      "introduction": "肋软骨炎是指发生在肋软骨部位的慢性炎症。无菌性肋软骨炎是一种非特异性、非化脓性肋软骨炎性病变。感染性肋软骨炎又称化脓性肋软骨炎, 是一种较少见的外科感染, 分为原发性和继发性2 种。文献报道以继发性占多数。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "泰齐(Tietze)综合征；肋软骨疼痛性非化脓性肿胀；胸软骨痛",
+        "part": [
+          "肋骨"
+        ],
+        "infection": "无传染性",
+        "people": " 20~ 30岁患者，40~ 50岁患者 ",
+        "symptom": [
+          "肋骨痛",
+          "骨痛",
+          "钝痛",
+          "压痛",
+          "刺痛"
+        ],
+        "complication": [
+          "无菌性肋软骨炎",
+          "感染性肋软骨炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "心胸外科"
+        ],
+        "cost": "市三甲医院约（6000 —— 10000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "胸部平片"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "腹股沟肉芽肿",
+    "information": {
+      "introduction": "腹股沟肉芽肿(granuloma inguinale)是一种慢性、轻度传染的性传播疾病，由肉芽肿荚膜杆菌引起，此菌在感染组织中的单核细胞内表现为一卵圆行小体，称为杜诺凡小体(Donoyan body)，故本病又叫杜诺凡病(Donovanosis)。它是一种慢性传染病，以肉芽组织增生性斑块为主征，肛门、外阴处为好发部位，形成无痛性溃疡，并可自身接种。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "杜诺凡病",
+        "part": [
+          "腹部"
+        ],
+        "infection": "无传染性",
+        "people": " 多见于男性，男女之比2～3∶...",
+        "symptom": [
+          "丘疹",
+          "淋巴结肿大",
+          "色素脱失",
+          "浆液脓性分泌物",
+          "皮下结节"
+        ],
+        "complication": [
+          "鳞状细胞癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科",
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "20-40%",
+        "duration": "1-3个月",
+        "method": [
+          "西药治疗、中药治疗"
+        ],
+        "examination": [
+          "尿液细菌培养",
+          "阴道细胞学检查",
+          "脓汁和创伤感染标本细菌学检查"
+        ],
+        "medicine": [
+          "硫唑嘌呤片",
+          "五妙水仙膏",
+          "注射用硫酸链霉素"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "五妙水仙膏(楚克)",
+          "grade": "2.45",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "白塞病",
+    "information": {
+      "introduction": "白塞病(Behcet’s disease, BD)是一种全身性、慢性、血管炎症性疾病，主要临床表现为复发性口腔溃疡、生殖器溃疡、眼炎及皮肤损害，也可累及血管、神经系统、消化道、关节、肺、肾、附睾等器官，大部分患者预后良好，眼、中枢神经及大血管受累者预后不佳。好发于男性青壮年。本病根据其内脏的系统损害不同而分为血管型、神经型、胃肠型等。血管型指有大、中型动脉、静脉受累者;神经型指有中枢或周围神经受累者;胃肠型指有胃肠道溃疡、出血、穿孔等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "丝绸之路病，白赛综合征，白塞氏病，贝赫切特氏病，眼-口-生殖器综合征",
+        "part": [
+          "血液血管",
+          "口",
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "关节疼痛",
+          "传导阻滞",
+          "痤疮样皮疹",
+          "肠麻痹",
+          "角膜溃疡"
+        ],
+        "complication": [
+          "毛囊炎",
+          "视网膜静脉阻塞",
+          "视网膜血管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血管造影",
+          "肠镜",
+          "针刺试验",
+          "心电图",
+          "血常规"
+        ],
+        "medicine": [
+          "雷公藤多甙片",
+          "秋水仙碱片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "雷公藤多甙片(雷公藤多苷片)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "感冒",
+    "information": {
+      "introduction": "感冒，是由多种病毒引起的一种呼吸道常见病，总体分为普通感冒和流行感冒。平常所说的都是普通感冒，俗称伤风。感冒大多在人们着凉后引起，开始有鼻咽部干、痒、灼热感，继而出现喷嚏、鼻塞、鼻流清涕、流眼泪等症状。1-2天后可伴有咽痛、咳嗽、或有发热、头\n痛、全身酸痛、食欲减退，或有恶心呕吐、腹泻等症状。如无合并症，5-7天可痊愈。不论年龄大小，一年四季都可以感冒，但在秋冬季节气温变化明显时发病较多。一般每人一年可感冒2-5次，小儿、老人和体质不好的人感冒的次数则会增加。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "急性鼻咽炎,急性上呼吸道感染,上感,卡他性鼻炎,普通感冒,伤风",
+        "part": [
+          "鼻",
+          "咽喉"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群,一般体弱的人经常...",
+        "symptom": [
+          "打喷嚏",
+          "发烧",
+          "咳嗽",
+          "怕冷",
+          "流鼻涕"
+        ],
+        "complication": [
+          "中耳炎",
+          "心肌炎",
+          "鼻窦炎",
+          "支气管炎",
+          "气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "97%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "细菌学检验",
+          "药敏试验",
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "痰液细菌培养"
+        ],
+        "medicine": [
+          "荆防颗粒",
+          "盐酸氨溴索片",
+          "感冒灵颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "荆防颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒灵颗粒(999)",
+          "grade": "2.98",
+          "total": "88",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒软胶囊(同仁堂)",
+          "grade": "3.11",
+          "total": "75",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒(无蔗糖)(同仁堂)",
+          "grade": "2.72",
+          "total": "42",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "复方感冒灵颗粒(双蚁)",
+          "grade": "3.34",
+          "total": "69",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(双蚁)",
+          "grade": "3.56",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "连花清瘟胶囊(以岭)",
+          "grade": "2.11",
+          "total": "168",
+          "secondary": "115"
+        },
+        {
+          "medicine_name": "感冒清热软胶囊(欧意)",
+          "grade": "2.75",
+          "total": "13",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "感冒清片",
+          "grade": "4.42",
+          "total": "46",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒清热颗粒",
+          "grade": "1.84",
+          "total": "39",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "感冒灵胶囊",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "滑囊炎",
+    "information": {
+      "introduction": "滑囊炎是指滑囊的急性或慢性炎症。滑囊是结缔组织中的囊状间隙，是由内皮细胞组成的封闭性囊，内壁为滑膜，有少许滑液。少数与关节相通，位于关节附近的骨突与肌腱或肌肉、皮肤之间。凡摩擦力或压力较大的地方，都可有滑囊存在，其作用主要是有利于滑动，从而减轻或避免关节附近的骨隆突和软组织间的摩擦和压迫。许多关节的病变都可以引起本病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "粘液囊炎",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "剧烈疼痛",
+          "滑膜黑染",
+          "肌肉萎缩",
+          "脚外侧疼",
+          "伸臂握手疼痛"
+        ],
+        "complication": [
+          "肿胀"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（100-500元）",
+        "ratio": "90%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "关节检查",
+          "关节腔液检查"
+        ],
+        "medicine": [
+          "双氯芬酸钠缓释片",
+          "双氯芬酸钠缓释片",
+          "复方片仔癀软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方片仔癀软膏(片仔癀)",
+          "grade": "2.11",
+          "total": "20",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "胆舒胶囊(康弘)",
+          "grade": "2.15",
+          "total": "19",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鸡骨草胶囊(玉林)",
+          "grade": "4.19",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆舒软胶囊(迪菲特)",
+          "grade": "4.66",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(罗浮山国药)",
+          "grade": "1.91",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "藏茵陈胶囊(蒂达)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎利胆片(万年青牌)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "结石清胶囊(贵州百灵)",
+          "grade": "4.16",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "胆胃康胶囊(保元堂)",
+          "grade": "2.52",
+          "total": "6",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "激素依赖性皮炎",
+    "information": {
+      "introduction": "皮质类固醇激素依赖性皮炎(简称激素依赖性皮炎)是因由于长期反复不当的外用激素引起的皮炎。近年来，因发病呈逐年上升趋势，且又顽固难治愈，已成为医学专家们关注的焦点。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "激素性皮炎",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "长期反复使用外用激素人群",
+        "symptom": [
+          "皮肤发红",
+          "皮肤硬化",
+          "类戒断反应",
+          "糖激素依赖",
+          "药物依赖"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "20%-30%，多以对症治疗为主",
+        "duration": "3-6个月",
+        "method": [
+          "中药、西药"
+        ],
+        "examination": [
+          "维生素B3"
+        ],
+        "medicine": [
+          "注射用重组人生长激素",
+          "环孢素胶囊",
+          "醋酸环丙孕酮"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "隐睾",
+    "information": {
+      "introduction": "隐睾是指男婴出生后单侧或双侧睾丸未降至阴囊而停留在其正常下降过程中的任何一处。也就是说阴囊内没有睾丸或仅有一侧有睾丸。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "睾丸"
+        ],
+        "infection": "无传染性",
+        "people": "男婴",
+        "symptom": [
+          "雄激素过少",
+          "血清睾酮浓度低下",
+          "胀痛",
+          "无睾丸",
+          "胃肠道症状"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "男科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "男性生殖系X线检查",
+          "男科CT",
+          "男性不育HCG刺激试验",
+          "睾酮",
+          "染色体"
+        ],
+        "medicine": [
+          "黄体酮胶丸",
+          "注射用绒促性素",
+          "炔雌醇"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "大肠息肉",
+    "information": {
+      "introduction": "大肠息肉（Cokic Polyp）是所有向肠腔突出的赘生物总称，包括肿瘤性和非肿瘤性，前者与癌发生关系密切，是癌前期病变，后者与癌发生关系较少。由于这两种息肉在临床上并不容易区分，故常统以息肉作为初步诊断，待病理学检查明确诊断后再进一步分类，因此临床上所谓的大肠息肉并不说明息肉的病理性质，通常临床医生所说的息肉多为非肿瘤性息肉，肿瘤性息肉统称为腺瘤。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肠"
+        ],
+        "infection": "无传染性",
+        "people": "幼年性息肉多见于儿童",
+        "symptom": [
+          "排便频率异常",
+          "肚子疼",
+          "皮肤粘膜色素斑",
+          "息肉",
+          "大便习惯改变"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "普外科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "治愈率20%",
+        "duration": "治疗周期120天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "上消化道X线钡餐",
+          "内镜检查"
+        ],
+        "medicine": [
+          "注射用头孢曲松钠他唑巴坦钠",
+          "注射用头孢哌酮钠舒巴坦钠"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "幽门梗阻",
+    "information": {
+      "introduction": "幽门是消化道最狭窄的部位，正常的直径约1.5cm，因此容易发生梗阻。由于幽门通过障碍，胃内容物不能顺利入肠，而在胃内大量潴留，导致胃壁肌层肥厚，胃腔扩大及胃黏膜层的炎症，水肿及糜烂。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胃反",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "胃病患者",
+        "symptom": [
+          "反胃",
+          "腹胀",
+          "胃肠动力差",
+          "食物在胃的通过障碍",
+          "十二指肠有切迹或狭窄"
+        ],
+        "complication": [
+          "便秘"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（8000 ——30000元）",
+        "ratio": "一般正规三甲医院60%",
+        "duration": "轻者药物治疗7天，重者有效...",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "上消化道X线钡餐",
+          "胃游离盐酸",
+          "纤维胃镜检查"
+        ],
+        "medicine": [
+          "吗丁啉片剂10mg OTC",
+          "枸橼酸莫沙必利分散片",
+          "肠道支架"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "脑膜瘤",
+    "information": {
+      "introduction": "脑膜瘤(Meningiomas)很常见，占颅内肿瘤的15.31%，仅次于胶质瘤。成年较多，老年与儿童较少，婴幼儿更少。女性稍多于男性。是发生于脑膜细胞的良性肿瘤，也是眼眶内很重要的一种肿瘤。因其发病率较高，严重的破坏视力，侵犯范围较广，易于向骨管、骨裂隙和骨壁内蔓延，手术切除后常有复发，甚至引起死亡，而被眼科医生和神经科医生所重视。值得注意的是有些肿瘤很难确定其原发位置。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑脊膜瘤,硬脑脊膜肉瘤,硬脑膜肉瘤",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，多发生于中年女性...",
+        "symptom": [
+          "颅内压增高",
+          "头痛",
+          "继发性视神经萎缩",
+          "眼底改变",
+          "视野缩小"
+        ],
+        "complication": [
+          "神经纤维瘤病",
+          "嗅觉障碍"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "75%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "头颅平片",
+          "颅脑CT",
+          "眼及眶区CT",
+          "颅脑超声检查"
+        ],
+        "medicine": [
+          "甘露聚糖肽注射液",
+          "葡萄糖氯化钠注射液",
+          "卡莫司汀注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "崩漏",
+    "information": {
+      "introduction": "崩漏(metrorrhagia and metrostaxis)是指妇女非周期性子宫出血，其发病急骤,暴下如注，大量出血者为“崩”;病势缓，出血量少，淋漓不绝者为“漏”。崩与漏虽出血情况不同，但在发病过程中两者常互相转化，如崩血量渐少，可能转化为漏，漏势发展又可能变为崩，故临床多以崩漏并称。青春期和更年期妇女多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "青春期和更年期妇女",
+        "symptom": [
+          "阴道出血",
+          "子宫出血",
+          "阴道持续中量流血",
+          "阴道持续少量流血",
+          "阴道不规则出血"
+        ],
+        "complication": [
+          "副鼻窦炎",
+          "发作性睡病",
+          "青春期功能失调性子宫出血",
+          "围绝经期功能失调性子宫出血",
+          "无排卵型功血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 20000元）",
+        "ratio": "99.8%",
+        "duration": "10天",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "致康胶囊",
+          "定坤丹",
+          "云南白药"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "致康胶囊(致康)",
+          "grade": "3.93",
+          "total": "10",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "定坤丹(广誉远)",
+          "grade": "2.23",
+          "total": "63",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "云南白药",
+          "grade": "3.13",
+          "total": "27",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "坤灵丸(雪缘)",
+          "grade": "2.16",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "坤灵丸(天士力)",
+          "grade": "1.57",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天紫红女金胶囊(云南白药)",
+          "grade": "2.28",
+          "total": "25",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "鹿角胶",
+          "grade": "3.07",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "参茸卫生丸(同仁堂)(大蜜丸)",
+          "grade": "4.2",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "独一味胶囊(独一味)",
+          "grade": "2.2",
+          "total": "24",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "宫血宁胶囊(云丰)",
+          "grade": "1.84",
+          "total": "12",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "云南白药胶囊",
+          "grade": "2.42",
+          "total": "31",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "同仁乌鸡白凤口服液",
+          "grade": "2.82",
+          "total": "75",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "归脾合剂(雷氏)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "速溶阿胶颗粒3g×10",
+          "grade": "2.73",
+          "total": "15",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "鹿角胶(老中医)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  }
+]

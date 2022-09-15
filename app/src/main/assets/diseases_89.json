@@ -1,0 +1,991 @@
+[
+  {
+    "disease_name": "股骨干骨折",
+    "information": {
+      "introduction": "股骨是人体中最长的管状骨。股骨干包括粗隆下2～5cm至股骨髁上2～5cm的骨干。股骨干为三组肌肉所包围，其中伸肌群最大，由股神经支配;屈肌群次之，由坐骨神经支配;内收肌群最小，由闭孔神经支配。由于大腿的肌肉发达，骨折后多有错位及重叠。股骨干周围的外展肌群，与其它肌群相比其肌力稍弱，外展肌群位于臀部附着在大粗隆上，由于内收肌的作用，骨折远端常有向内收移位的倾向，已对位的骨折，常有向外弓的倾向，这种移位和成角倾向，在骨折治疗中应注意纠正和防止。股骨下1/3骨折时，由于血管位于股骨折的后方，而且骨折远断端常向后成角，故易刺伤该处的腘动、静脉。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "好发于青少年及老年人",
+        "symptom": [
+          "大腿局部肿胀变形",
+          "下肢短缩",
+          "老人髋部疼痛",
+          "血压下降",
+          "面色苍白"
+        ],
+        "complication": [
+          "股骨干骨折",
+          "失血性休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "本病经过系统治疗99%都可以治愈",
+        "duration": "2-5个月",
+        "method": [
+          "手术治疗、保守治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "克利曼征",
+          "一般摄片检查",
+          "普通透视检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "伸筋丹胶囊",
+          "交锁髓内钉系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "弱智",
+    "information": {
+      "introduction": "弱智又称精神发育迟缓(mental retardation)和精神发育不全，主要表现是在发育期内智力明显低于平均水平，并伴有适应行为的缺损。上述所谓发育期是指18岁以前，所谓智力明显低于平均水平是指智商低于正常平均值的两个标准差(即低于70)，所谓适应行为缺损是指根据其年龄及文化背景，不能符合社交的和个人的要求标准。此病可由多种原因引起。主要症状是智力缺损，所以又称为\"智力不足\"。这是儿童期最常见的精神障碍之一，并延续终生。由于各家调查统计方法不同，所以患病率的报道差异很大。诊断的确定常依据智力测验，目前我国因为智力测验尚未普遍开展，未能根据智商进行筛选，因此常常只注意到较重的患者。根据一些地区的调查资料，中度及重度患者的患病率略高于0.1%，男性多于女性。有人认为，轻度的精神发育迟缓对社会影响不大，与正常的界线有时也不易划清，因此其患病率很难准确地获得，它主要是一个教育问题，而不是临床医学问题。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "精神发育迟缓,精神发育不全",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "儿童",
+        "symptom": [
+          "极重度精神发育迟滞",
+          "轻度精神发育迟滞",
+          "中度精神发育迟滞",
+          "重度精神发育迟滞",
+          "智力发育迟缓"
+        ],
+        "complication": [
+          "触电",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌",
+          "宫颈糜烂"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000——10000元）",
+        "ratio": "1%",
+        "duration": "3~5年",
+        "method": [
+          "病因治疗、教育锻炼、中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "新生儿体格检查",
+          "婴儿智力测试",
+          "国际标准智力测试",
+          "脑脊液一般性状"
+        ],
+        "medicine": [
+          "奥拉西坦注射液",
+          "益智温肾十味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "益智温肾十味丸",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "卵巢过度刺激综合征",
+    "information": {
+      "introduction": "卵巢过度刺激综合征(OHSS)为体外受孕辅助生育的主要并发症之一，是一种人体对促排卵药物产生的过度反应，以双侧卵巢多个卵泡发育、卵巢增大、毛细血管通透性异常、异常体液和蛋白外渗进入人体第三间隙为特征而引起的一系列临床症状的并发症。OHSS主要临床表现为卵巢囊性增大、毛细血管通透性增加、体液积聚于组织间隙，引起腹腔积液、胸腔积液，伴局部或全身水肿。近年来，OHSS的发生呈上升趋势，越来越引起临床医务工作者的重视。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "卵巢过度刺激综合症",
+        "part": [
+          "卵巢"
+        ],
+        "infection": "无传染性",
+        "people": "使用促排卵药物的女性",
+        "symptom": [
+          "肚子疼",
+          "体重增加",
+          "腹部不适",
+          "腹肌紧张",
+          "腹腔积液"
+        ],
+        "complication": [
+          "脑梗死",
+          "颅内高压综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（2000—— 5000元）",
+        "ratio": "40%",
+        "duration": "7-10天",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "肝功能",
+          "卵巢检查",
+          "盆腔和阴道B超",
+          "雌二醇"
+        ],
+        "medicine": [
+          "小金胶囊",
+          "桂枝茯苓胶囊",
+          "促卵泡生成素(FSH)诊断试剂盒(化学发光法)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "小金胶囊(天基)",
+          "grade": "4.33",
+          "total": "10",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "颈淋巴结炎",
+    "information": {
+      "introduction": "        急性淋巴结炎是多是继发于其他炎症病灶，由化脓性细菌沿淋巴管侵入到局部淋巴结所致。因此，本病常伴见有原发感染的病灶，如咽喉、口腔、头面部等有感染时，可伴有颌下或颈部的淋巴结肿大、疼痛。致病菌多为金黄色葡萄球菌和链球菌。易发部位为项部、腋窝和腹股沟部的淋巴结。本病属中医痈的范畴。 ",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颈部",
+          "淋巴"
+        ],
+        "infection": "无传染性",
+        "people": "急性淋巴结炎常见于儿童",
+        "symptom": [
+          "淋巴结肿大"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科",
+          "儿科",
+          "普外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "局部淋巴显象"
+        ],
+        "medicine": [
+          "清热散结片",
+          "益肺止咳胶囊",
+          "清热散结片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热散结片(奇星)",
+          "grade": "4.85",
+          "total": "27",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "益肺止咳胶囊(飞云岭)",
+          "grade": "4.8",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "清热散结片(鹅城)",
+          "grade": "1.54",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "2.99",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(普正)",
+          "grade": "3.03",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕胶囊(御海肤)",
+          "grade": "4.65",
+          "total": "52",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(司贝尔)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天蚕片(丁教授)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结胶囊(柴宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "加味西黄丸",
+          "grade": "4.44",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "西黄胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清热散结片(巨虹)",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "女性尿道癌",
+    "information": {
+      "introduction": "原发性尿道肿瘤临床上较少见，女性尿道较短、但癌发病率比男性尿道癌为高。好发于40～60岁，恶性肿瘤包括癌、肉瘤、黑色素瘤等。病理分类以鳞状细胞癌最多见，达40%左右。其次为移行上皮细胞癌、占30%;腺癌占23%;未分化癌占1%。其发病率比男性高4～5倍，占妇科恶性肿瘤的0.017%。早期即可有尿道流血、尿频、尿急、尿痛等症状。肿瘤增大，也会引起排尿困难。治疗困难，预后较差。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "尿道"
+        ],
+        "infection": "无传染性",
+        "people": "多见于老年妇女",
+        "symptom": [
+          "性交困难",
+          "尿频",
+          "尿痛",
+          "脓肿",
+          "尿道流血"
+        ],
+        "complication": [
+          "尿道狭窄"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "泌尿外科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "10%",
+        "duration": "30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "盆腔MRI",
+          "尿道分泌物检查",
+          "淋巴显像",
+          "盆腔CT",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "注射用重组人白介素-2(Ⅰ)",
+          "替尼泊苷注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "癌肿性关节炎",
+    "information": {
+      "introduction": "癌肿性关节炎的临床症状和类风湿关节炎相似，可发生于任何类型的癌瘤患者，但特别好发于支气管肺癌、前列腺癌和乳腺癌。早期发现原发病灶，进行治疗是很重要的。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "好发于50～65岁，男女发病率...",
+        "symptom": [
+          "关节肿痛",
+          "关节僵直",
+          "关节强硬",
+          "关节强直",
+          "关节肿胀"
+        ],
+        "complication": [
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "骨科"
+        ],
+        "cost": "根据不同的医院，收费标准不一致，市三甲医院约（10000-30000元）",
+        "ratio": "67%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "静态骨显像",
+          "骨与关节MRI",
+          "踝关节背伸试验",
+          "髋关节超伸试验"
+        ],
+        "medicine": [
+          "西黄丸",
+          "壮骨麝香止痛膏",
+          "骨肽片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "西黄丸(同仁堂)",
+          "grade": "4.10",
+          "total": "41",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "壮骨麝香止痛膏(九寨沟)",
+          "grade": "4.84",
+          "total": "25",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "穿龙骨刺片(太极)",
+          "grade": "4.2",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "十味乳香胶囊(同济堂)",
+          "grade": "2.08",
+          "total": "58",
+          "secondary": "16"
+        },
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通络开痹片(上岗)",
+          "grade": "3.61",
+          "total": "8",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肩关节脱位",
+    "information": {
+      "introduction": "肩关节脱位最常见，约占全身关节脱位的50％，这与肩关节的解剖和生理特点有关，如肱骨头大，关节盂浅而小，关节囊松弛，其前下方组织薄弱，关节活动范围大，遭受外力的机会多等。肩关节脱位多发生在青壮年、男性较多。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "肩关节脱位多发生在青壮年、...",
+        "symptom": [
+          "肩胛骨酸痛",
+          "肩关节活动受限",
+          "搭肩试验阳性",
+          "肩背痛",
+          "方肩畸形"
+        ],
+        "complication": [
+          "肱骨外科颈骨折"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "治愈率100%",
+        "duration": "治疗周期1天",
+        "method": [
+          "手法复位、手术治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "肩胛骨检查",
+          "方肩检查",
+          "三角试验",
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "骨友灵搽剂",
+          "按摩软膏(按摩乳)",
+          "四味通络胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨友灵搽剂(曙光)",
+          "grade": "2.63",
+          "total": "9",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "按摩软膏(按摩乳)(按摩乳(全力制药)",
+          "grade": "1.99",
+          "total": "21",
+          "secondary": "12"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "掌跖脓疱病",
+    "information": {
+      "introduction": "掌跖脓疱病(pustulosis palmariset plantaris)是一种慢性复发性脓疱性皮肤病，位于掌跖部位。组织学以表皮内水疱和充以大量中性粒细胞为特征。以在红斑的基础上出现周期性的无菌性小脓疱，伴角化、鳞屑为临床特征。好发于50～60岁，女性多见于男性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "限局性脓疱型银屑病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "好发于50～60岁，女性多见于...",
+        "symptom": [
+          "瘙痒",
+          "皮肤轻度糜烂",
+          "红晕",
+          "脓疱",
+          "鳞屑"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约1000--5000",
+        "ratio": "85%-90%",
+        "duration": "4-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "细菌学检验",
+          "皮肤斑贴实验",
+          "皮肤涂片显微镜检查"
+        ],
+        "medicine": [
+          "秋水仙碱片",
+          "丙酸氯倍他索乳膏",
+          "丙酸氯倍他索乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性蝶窦炎",
+    "information": {
+      "introduction": "过去认为蝶窦炎是罕见鼻病。据刘君谦（1958）660例鼻窦X线片观察，单独慢性蝶窦炎者只有6例，占0.9％。由于蝶窦位置较深，鼻镜检查照明不足，看不到其开口情况，再加蝶窦炎的症状不明确，因而认为蝶窦炎的发病率是最低的。近年来由于冷光源鼻内窥镜的问世，可以利用各种视角，以提高其鼻内各处的照明度和可见度，克服了视野的限制，因而慢性蝶窦炎的发病率也明显提高。据赵绰然等资料（1988），在700例常规鼻内窥镜检查中，蝶窦炎者58例，占8.3％。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "脓性分泌物",
+          "粘膜充血",
+          "头痛",
+          "面痛",
+          "神经痛"
+        ],
+        "complication": [
+          "脑萎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约(20000-50000元)",
+        "ratio": "经过系统治疗后95%可以治愈",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "鼻窦检查",
+          "鼻部功能检查",
+          "鼻粘膜及鼻腔分泌物",
+          "耳鼻咽喉CT",
+          "鼻腔内镜"
+        ],
+        "medicine": [
+          "阿莫西林双氯西林钠胶囊",
+          "阿莫西林胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "神经内分泌肿瘤",
+    "information": {
+      "introduction": "神经内分泌肿瘤罕见，在全部恶性肿瘤中的比例不足1%，多发生于胃、肠、胰腺。在这类肿瘤中最常见的是类癌，其发生率大约为2.5/100000，占全部胃肠胰神经内分泌肿瘤的50%，根据起源的部位不同，可将类癌分为前肠(肺、支气管及直到空肠的上部胃肠道)、中肠(回肠和阑尾)和后肠(直肠和直肠)。此类肿瘤可发生于整个神经内分泌系统，但最常见的累及部位是胰腺。根据肿瘤分泌的物质是否引起典型的临床症状可以将神经内分泌肿瘤分为两大类——有功能性和无功能性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "周围神经系统",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "唇干裂",
+          "毛细血管扩张",
+          "痛性红舌",
+          "血小板减少",
+          "皮肤潮红肿胀"
+        ],
+        "complication": [
+          "肾结石",
+          "阳痿",
+          "月经失调性不孕症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "脑外科"
+        ],
+        "cost": "市三甲医院约（10000-50000元）",
+        "ratio": "80%",
+        "duration": "2-4月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "盆腔充气造影",
+          "血清胰多肽"
+        ],
+        "medicine": [
+          "注射用磷酸氟达拉滨",
+          "注射用磷酸氟达拉滨",
+          "注射用醋酸兰瑞肽"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "股骨粗隆间骨折",
+    "information": {
+      "introduction": "股骨转子间骨折多发生在66～76岁。女性发生率较男性高3倍。Griffin和Boyd对300例股骨转子间骨折的研究表明：伤后3个月内的病人病死率为16.7%，大约是股骨颈骨折病人病死率的2倍。如此高病死率的原因为病人年龄较大;造成骨折的创伤较重;骨折后失血量大;治疗手术相对较大。由此可见，转子间骨折是较为严重的骨折。股骨转子间骨折的治疗，如仅考虑骨折愈合，保守治疗即可奏效。但由于老年病人的病死率较高，保守治疗中肢体活动长期受限，骨折合并症较多。因此，近年来一致认为，股骨转子间骨折的治疗原则是，骨折的坚强内固定及病人术后早期肢体活动。Horowitz报道，在转子间骨折病人中，牵引治疗组病死率达34.6%，而内固定组病死率为17.5%。由于手术技术的提高，内固定材料的不断发展，手术合并症的发生大大减少。手术治疗股骨转子间骨折已成为首选方法。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "股骨转子间骨折",
+        "part": [
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "60岁以上老年人常见、女性多...",
+        "symptom": [
+          "髋内翻",
+          "下腹局部疼痛",
+          "关节肿胀",
+          "剧烈疼痛",
+          "髋外侧可见皮下瘀血斑"
+        ],
+        "complication": [
+          "褥疮",
+          "下肢深静脉血栓形成"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 20000元）",
+        "ratio": "95%",
+        "duration": "＞１２０天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "骨与关节MRI",
+          "CT检查"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "伸筋丹胶囊",
+          "角度型接骨板系统"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "伸筋丹胶囊(新光)",
+          "grade": "4.21",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "副银屑病",
+    "information": {
+      "introduction": "副银屑病(parapsoriasis)是一组较为少见的慢性皮肤病，病因尚不完全明确。临床表现为红斑、丘疹、浸润、鳞屑性皮损，自觉症状轻微。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "类牛皮癣,类银屑病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "以30～39岁年龄多发",
+        "symptom": [
+          "乏力",
+          "肉芽肿",
+          "淋巴结肿大",
+          "脓疱",
+          "斑疹"
+        ],
+        "complication": [
+          "银屑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（10000-15000元）",
+        "ratio": "40%",
+        "duration": "6个月",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "细胞组织化学染色"
+        ],
+        "medicine": [
+          "氨肽素片",
+          "卤米松乳膏",
+          "卡泊三醇软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "隐匿性肾炎",
+    "information": {
+      "introduction": "隐匿型肾小球肾炎(Latent glomerulonephritis)又称无症状性蛋白尿及(或)血尿，指轻至中度蛋白尿和(或)血尿，临床表现为反复持续性血尿，伴或不伴轻度蛋白尿，或者其中一种表现突出。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "无症状性蛋白尿或血尿,无症状性蛋白尿及血尿,隐匿型肾炎,隐匿性肾小球肾炎",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "多见于青年人，男性较为常见",
+        "symptom": [
+          "腰酸",
+          "蛋白尿",
+          "水肿",
+          "疼痛",
+          "血尿伴蛋白尿"
+        ],
+        "complication": [
+          "高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（6000 —— 8000元",
+        "ratio": "对症治疗为主，根治率约为20-30%",
+        "duration": "3-5年",
+        "method": [
+          "饮食、药物、血液透析、腹膜透析治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "肾血管造影",
+          "尿液细菌培养",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "八正合剂",
+          "硝普钠"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "八正合剂",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "跟腱后滑囊炎",
+    "information": {
+      "introduction": "发生在跟腱上方的滑囊炎症，是足跟位置与功能异常的结果。跟腱后滑囊炎最多见于青年女性，但男性也可发生。由于足跟在整个步伐周期中容易以内翻的位置活动，过度压迫跟骨外后侧面与鞋帮之间的软组织（形成跟部硬茧）。跟骨的这一面变得隆起，易于触及，常被误认为外生骨疣。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "足部",
+          "下肢骨"
+        ],
+        "infection": "无传染性",
+        "people": "多见于青年女性",
+        "symptom": [
+          "发炎",
+          "足部肿胀压痛",
+          "足跟的后上方疼痛的红色肿块",
+          "足跟的后上方疼痛的红色肿块",
+          "足跟痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000--5000",
+        "ratio": "以缓解症状为主，完全治愈率约20-40%",
+        "duration": "8-12个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "四肢的骨和关节平片",
+          "CT检查",
+          "关节检查",
+          "血液检查",
+          "WBC"
+        ],
+        "medicine": [
+          "双氯芬酸钠缓释片",
+          "双氯芬酸钠缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "热咳",
+    "information": {
+      "introduction": "热咳是指因风热引起的咳嗽为“热咳”，主要症状为痰厚且黄，鼻涕也带黄，这时就要用凉寒性质的药物来把人体内的热降下来;而因风寒引起的就叫“寒咳”，患者的痰多为白色且稀薄，流出鼻涕也是清水样，这样的病人就必须用温性药来祛除体内的寒气。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "柠檬色痰",
+          "口燥咽干",
+          "发烧",
+          "头痛",
+          "头晕"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "寒饮咳嗽",
+          "新生儿泪囊炎",
+          "咳嗽变异性哮喘",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "70%",
+        "duration": "15-20天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "麻杏止咳片",
+          "小儿热咳口服液",
+          "熊胆川贝口服液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "麻杏止咳片(唐龙)",
+          "grade": "3.28",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿热咳口服液(可信)",
+          "grade": "2.75",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "熊胆川贝口服液(一品红)",
+          "grade": "4.64",
+          "total": "95",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘口服液(葵花)",
+          "grade": "2.89",
+          "total": "250",
+          "secondary": "206"
+        },
+        {
+          "medicine_name": "感冒疏风片(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "感冒疏风丸(云昆)",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "24"
+        },
+        {
+          "medicine_name": "桔贝合剂(鹿迪)",
+          "grade": "3.1",
+          "total": "9",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿清肺止咳片(同仁堂)",
+          "grade": "3.88",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒4克(葫芦娃)",
+          "grade": "2.94",
+          "total": "14",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "羚黄宝儿丸(敬修堂)",
+          "grade": "2.36",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "3.63",
+          "total": "12",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "风热咳嗽胶囊",
+          "grade": "4.2",
+          "total": "17",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "八宝惊风散(伍豪)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "3.58",
+          "total": "12",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "小儿肺热咳喘颗粒",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        }
+      ]
+    }
+  }
+]

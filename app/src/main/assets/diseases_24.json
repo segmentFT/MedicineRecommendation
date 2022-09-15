@@ -1,0 +1,1008 @@
+[
+  {
+    "disease_name": "急性心肌梗死",
+    "information": {
+      "introduction": "急性心肌梗死(acute myocardial infarction，AMI)是指因持久而严重的心肌缺血所致的部分心肌急性坏死。在临床上常表现为胸痛、急性循环功能障碍以及反映心肌损伤、缺血和坏死等一系列特征性的心电图改变。临床表现常有持久的胸骨后剧烈疼痛、急性循环功能障碍、心律失常、心功能衰竭、发热、白细胞计数和血清心肌损伤标记酶的升高以及心肌急性损伤与坏死的心电图进行性演变。按梗死范围，心肌梗死可分为透壁性心肌梗死和心内膜下心肌梗死两类。按病变发展过程，心肌梗死可分为急性心肌梗死与陈旧性心肌梗死。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "急性心肌梗塞,急性心梗",
+        "part": [
+          "心脏",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "胸痛",
+          "心肺栓塞",
+          "心肌坏死广泛",
+          "上腹部疼痛",
+          "胸闷憋气"
+        ],
+        "complication": [
+          "心肌梗塞",
+          "心力衰竭",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心胸外科",
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "30%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心肌酶",
+          "冠状动脉造影",
+          "肌酸激酶",
+          "心电图",
+          "二维超声心动图"
+        ],
+        "medicine": [
+          "果糖二磷酸钠胶囊",
+          "单硝酸异山梨酯胶囊",
+          "心脏型脂肪酸结合蛋白(H-FABP)快速检测试剂盒(胶体金法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "糖尿病酮症酸中毒",
+    "information": {
+      "introduction": "指糖尿病患者在各种诱因的作用下，胰岛素明显不足，生糖激素不适当升高，造成的高血糖、高血酮、酮尿、脱水、电解质紊乱、代谢性酸中毒等病理改变的征候群，系内科常见急症之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "酮症酸中毒",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者",
+        "symptom": [
+          "肚子疼",
+          "胃肠道症状",
+          "昏睡",
+          "呼气中有甜臭味",
+          "头痛"
+        ],
+        "complication": [
+          "代谢性酸中毒",
+          "乳酸性酸中毒",
+          "糖尿病乳酸性酸中毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科",
+          "中西医结合科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "85%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "缓冲液",
+          "葡萄糖可的松耐量试验",
+          "二氧化碳总量",
+          "糖化血红蛋白组分（GHb,HbA1c）",
+          "血清谷氨酸脱羧酶抗体"
+        ],
+        "medicine": [
+          "碳酸氢钠注射液",
+          "胰岛素注射液",
+          "格列美脲片(科德平)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "手足癣",
+    "information": {
+      "introduction": "手足癣是发生于掌、跖与指、趾间皮肤的浅部真菌感染。致病菌主要有红色毛癣菌、须癣毛癣菌和絮状表皮癣菌。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "手癣,足癣,香港脚",
+        "part": [
+          "手部",
+          "足部"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "指甲有红色或黑色斑点",
+          "表皮角化",
+          "鳞屑",
+          "手、足部厚壁水疱",
+          "足癣"
+        ],
+        "complication": [
+          "接触性皮炎",
+          "脚气病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "70-85%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "偏振光显微镜检查",
+          "扫描电子显微镜",
+          "皮损",
+          "真菌培养",
+          "真菌检查"
+        ],
+        "medicine": [
+          "硝酸咪康唑乳膏",
+          "曲安奈德益康唑乳膏",
+          "尿素软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "足光散(九芝堂)",
+          "grade": "2.90",
+          "total": "82",
+          "secondary": "68"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "病毒性肝炎",
+    "information": {
+      "introduction": "病毒性肝炎(包括甲型、乙型和非甲非乙型)是法定传染病，具有传染性较强、传播途径复杂、流行面广泛、发病率较高等特点;部分乙型和非甲非乙型肝炎病人可演变成慢性，对人民健康危害甚大。根据病原学诊断，肝炎病毒至少有5种，即甲、乙、丙、丁、戊型肝炎病毒，分别引起甲、乙、丙、丁、戊型病毒性肝炎，即甲型肝炎(hepatitis A)、乙型肝炎(hepatitis B)、丙型肝炎(hepatitis C)、丁型肝炎(hepatitis D)及戊型肝炎(hepatitis E)。 另外一种称为庚型病毒性肝炎，较少见。其中甲型和戊型主要表现为急性肝炎，乙、丙、丁型主要表现为慢性肝炎并有可能发展为肝炎肝硬化和肝细胞癌，庚型肝炎病毒和TTV病毒的致病性问题目前尚有争议。除此很多其他已知病毒，如巨细胞病毒、EB病毒、黄热病毒、风疹病毒、单纯疱疹病毒、柯萨奇病毒、艾柯(ECHO)病毒等，也可引起肝脏炎症。临床上主要表现为乏力、食欲减退、恶心、呕吐、肝肿大及肝功能损害，部分病人可有黄疸和发热。有些患者出现荨麻疹、关节痛或上呼吸道症状。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肝"
+        ],
+        "infection": "有传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "肝被膜紧张",
+          "大块肝细胞坏死",
+          "蛋白尿",
+          "大三阳",
+          "恶心"
+        ],
+        "complication": [
+          "糖尿病",
+          "脂肪肝",
+          "再生障碍性贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "肝炎",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肝功能",
+          "丙氨酸氨基转移酶(ALT）",
+          "血清谷草转氨酶",
+          "血清甲型肝炎病毒抗原",
+          "白细胞分类计数"
+        ],
+        "medicine": [
+          "鸡骨草肝炎颗粒",
+          "茵白肝炎颗粒",
+          "甘草酸二铵胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "鸡骨草肝炎颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "茵白肝炎颗粒",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "云芝菌胶囊(神华维康)",
+          "grade": "2.2",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "茵栀黄颗粒(鲁南)",
+          "grade": "2.04",
+          "total": "60",
+          "secondary": "3"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性腰扭伤",
+    "information": {
+      "introduction": "急性腰背部扭伤在民间俗称闪腰，在临床上较为多见，尤其是在体力劳动者;偶然参加运动或劳动而事先又未做体力活动准备者发生尤多，此种情况则多见于常年坐办公室者。本病的发生率根据各医院的收治范围不同相差较大，约占骨科门诊病例的5%～20%。但近年来由于劳动条件的不断改善，其发生率已明显降低。急性腰背部扭伤患者男性较女性多见。年龄以青壮年为多，年幼及年老患者均较少。本病患者虽可见于各行各业，但60%以上为重体力劳动者及运动员等活动量较大的人，偶然干重活的脑力劳动者亦易发生。本病病变的范围包括下背部至骶髂部的肌筋膜组织，即胸腰段及腰骶部两个解剖区。但在临床上由于其表现及治疗原则基本相似，故现将其一并阐述。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "腰部"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年、老年人",
+        "symptom": [
+          "扭伤",
+          "瘀血",
+          "剧痛",
+          "腰大肌肿胀",
+          "脊柱侧弯"
+        ],
+        "complication": [
+          "急性腰扭伤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（200 —— 500元）",
+        "ratio": "90%",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗、休息治疗、物理治疗、中医治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "腰背痛体格检查",
+          "CT检查",
+          "脊椎平片",
+          "MRI"
+        ],
+        "medicine": [
+          "壮骨麝香止痛膏",
+          "正骨水",
+          "医用腰腹固定带"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "壮骨麝香止痛膏(羚锐)",
+          "grade": "3.40",
+          "total": "41",
+          "secondary": "25"
+        },
+        {
+          "medicine_name": "正骨水(玉林)",
+          "grade": "3.52",
+          "total": "117",
+          "secondary": "109"
+        },
+        {
+          "medicine_name": "麝香活血化瘀膏(活化高)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "白化病",
+    "information": {
+      "introduction": "白化病(albinism)是一种较常见的皮肤及其附属器官黑色素缺乏所引起的疾病，由于先天性缺乏酪氨酸酶，或酪氨酸酶功能减退，黑色素合成发生障碍所导致的遗传性白斑病。这类病人通常是全身皮肤、毛发、眼睛缺乏黑色素，因此表现为眼睛视网膜五色素，虹膜和瞳孔呈现淡粉色，怕光，看东西时总是眯着眼睛。皮肤、眉毛、头发及其他体毛都呈白色或白里带黄。人们将这类病人俗称为“羊白头”。白化病属于家族遗传性疾病，为常染色体隐性遗传，常发生于近亲结婚的人群中。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "白斑病",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "近亲结婚的家族及有家族遗传...",
+        "symptom": [
+          "鼻毛变白",
+          "虹膜异色",
+          "畏光",
+          "畏光及流泪",
+          "虹膜蓝色"
+        ],
+        "complication": [
+          "白点病",
+          "外阴白化病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（30000 —— 80000元）",
+        "ratio": "20%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗、物理治疗"
+        ],
+        "examination": "?",
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝胆管结石",
+    "information": {
+      "introduction": "胆管结石是指肝内外胆管内有结石形成，是最常见的胆道系统疾病。结石阻塞胆管引起胆汁淤滞，继发细菌感染而导致急性胆管炎发生。胆管反复炎症可造成局部管壁增厚或疤痕性狭窄，而胆管炎症和狭窄又可以促进结石形成。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肝内胆管结石",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "肚子疼",
+          "高热寒战",
+          "胆管梗阻",
+          "胆绞痛",
+          "突发性绞痛"
+        ],
+        "complication": [
+          "急性化脓性胆管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肝胆外科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "胆道造影",
+          "经皮肤穿刺胆道造影",
+          "血清总蛋白",
+          "肝、胆、脾CT",
+          "MRI"
+        ],
+        "medicine": [
+          "胆石片",
+          "胆康片",
+          "排石利胆胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胆石片(旭华)",
+          "grade": "3.80",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胆康片",
+          "grade": "1.31",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "排石利胆胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "重度宫颈糜烂",
+    "information": {
+      "introduction": "Ⅲ度宫颈糜烂是指子宫颈糜烂面积占整个宫颈面积2/3以上者，也称作重度宫颈糜烂。重度宫颈糜烂若不及时的治疗，炎症扩散还会引起盆腔炎、附件炎、子宫内膜炎等，严重的甚至导致不孕或癌变。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "Ⅲ度宫颈糜烂",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "中年女性",
+        "symptom": [
+          "白带增多",
+          "阴道出血",
+          "盆腔坠痛",
+          "尿频",
+          "尿急"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "宫颈妇科常规检查",
+          "阴道镜",
+          "妇科常规检查",
+          "宫颈刮片",
+          "TCT"
+        ],
+        "medicine": [
+          "银离子妇用抗菌凝胶",
+          "银离子抗菌水凝胶",
+          "银离子抗菌洗液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "血栓形成",
+    "information": {
+      "introduction": "血栓形成是指人体或动物在存活期间因某些诱因，血液有形成分在循环血中发生异常的血凝块，或者在心脏内壁或血管壁上发生血液沉积物。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "血栓症",
+        "part": [
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "呼吸困难",
+          "动脉粥样硬化",
+          "静脉曲张",
+          "颈内动脉创伤性血栓",
+          "胸痛"
+        ],
+        "complication": [
+          "肺栓塞"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "心血管内科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "血管造影",
+          "内皮素",
+          "电阻抗体积描记",
+          "血浆凝血酶调节蛋白活性",
+          "血小板检查项目"
+        ],
+        "medicine": [
+          "肝素钠注射液",
+          "肝素钠封管注射液",
+          "脑安颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑安颗粒(百泉)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脉络宁注射液",
+          "grade": "2.35",
+          "total": "60",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "神经官能症",
+    "information": {
+      "introduction": "神经官能症又称神经症、精神症，是一组非精神病功能性障碍。其共同特征是：是一组心因性障碍，人格因素、心理社会因素是致病主要因素，但非应激障碍，是一组机能障碍，障碍性质属功能性非器质性;具有精神和躯体两方面症状;具有一定的人格特质基础但非人格障碍;各亚型有其特征性的临床相;神经症是可逆的，外因压力大时加重，反之症状减轻或消失;社会功能相对良好，自制力充分。　神经症是常见病，患病率相当高。WHO根据各国和调查资料推算：人口中的5%～8%有神经症或人格障碍，是重性精神病的5倍。西方国家的患病率10‰～20‰，我国为13‰～22‰。神经症也是门诊中最常见疾病之一。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "神经症，精神神经症",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "职业神经症",
+          "焦虑",
+          "内向性思维",
+          "疲劳",
+          "惊恐发作"
+        ],
+        "complication": [
+          "便秘",
+          "阳痿",
+          "月经不调",
+          "卵巢炎",
+          "神经衰弱"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "精神病科",
+          "内科",
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 8000元）",
+        "ratio": "90%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "心脏血管超声检查",
+          "神经系统检查",
+          "颅脑CT",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": [
+          "谷维素片",
+          "解郁安神颗粒",
+          "谷维素片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "解郁安神颗粒(速必欣)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "晕痛定胶囊(龙都)",
+          "grade": "2.92",
+          "total": "18",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "安神丸(金诃)",
+          "grade": "4.25",
+          "total": "103",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(万通)",
+          "grade": "4.13",
+          "total": "37",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(大峻)",
+          "grade": "4.28",
+          "total": "5",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(旷世)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(大洋)",
+          "grade": "4.73",
+          "total": "16",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(金爵)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(入梦香)",
+          "grade": "4.71",
+          "total": "14",
+          "secondary": "14"
+        },
+        {
+          "medicine_name": "解郁安神颗粒(平康)",
+          "grade": "3.8",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "舒神灵胶囊(瑞和)<!--根据ClassCode动态展示标签-->)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "真两性畸形",
+    "information": {
+      "introduction": "两性畸形是一种先天性的生殖器官畸形并有第二性征的异常，两性畸形的类型繁多、表现各异，早期确定性别畸形的实质，适时地进行治疗是非常重要的。两性畸形可分为真两性畸形和假两性畸形，真两性畸形是在机体内同时存在卵巢和睾丸组织，染色体核型可以为正常男性型，女性型或嵌合型，生殖导管和外生殖器往往为两性畸形。真两性畸形生殖腺必须是完整的，即睾丸必须有正常的结构，有曲细精管、间质细胞及生殖细胞的迹象;卵巢必须有各种卵泡并有卵细胞生长的现象，至于仅有卵巢或睾丸的残遗组织，不属于真两性畸形。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "真两性体",
+        "part": [
+          "女性生殖",
+          "男性生殖",
+          "其他"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿，倾向于男性，约3/4的...",
+        "symptom": [
+          "乳房肥大",
+          "男性化",
+          "阴蒂肥大"
+        ],
+        "complication": [
+          "隐睾",
+          "腹股沟疝"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "生殖健康",
+          "外科"
+        ],
+        "cost": "市三甲医院约（50000 —— 100000元）",
+        "ratio": "手术治疗，切除卵巢或者睾丸，治愈率30-70%",
+        "duration": "1-3年",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "中性粒细胞核鼓槌小体",
+          "性激素六项检查",
+          "Y染色质",
+          "嗜中性粒细胞核鼓槌小体",
+          "性激素六项 "
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "多汗症",
+    "information": {
+      "introduction": "是由于交感神经过度兴奋引起汗腺过多分泌的一种疾病。交感神经支配全身的出汗。正常情况下交感神经通过控制出汗散热来调节人体的体温。但是多汗症病人的出汗和面部潮红完全失去了正常的控制。多汗和面部潮红使患者每日处在无奈、焦躁或恐慌之中。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "自汗,盗汗，汗证",
+        "part": [
+          "皮肤",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "多在青少年时发病",
+        "symptom": [
+          "掌跖多汗",
+          "交感神经高度紧张",
+          "发绀",
+          "肌肉萎缩",
+          "盗汗"
+        ],
+        "complication": [
+          "毛囊炎",
+          "疖"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "皮肤性病"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "4-8周",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "自主神经功能检查"
+        ],
+        "medicine": [
+          "六味地黄丸",
+          "六味地黄丸",
+          "复方聚维酮碘搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "63",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "六味地黄丸",
+          "grade": "4.12",
+          "total": "62",
+          "secondary": "62"
+        },
+        {
+          "medicine_name": "舒肝解郁胶囊(*1盒+汤臣倍健维生素B族片*1瓶)",
+          "grade": "3.18",
+          "total": "112",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "龙牡壮骨颗粒(健民)",
+          "grade": "3.06",
+          "total": "661",
+          "secondary": "497"
+        },
+        {
+          "medicine_name": "麦味地黄丸(同仁堂)(大蜜丸)",
+          "grade": "4.79",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "六味地黄丸(同仁堂)",
+          "grade": "4.27",
+          "total": "31",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "虚汗停颗粒(奇星)",
+          "grade": "1.93",
+          "total": "17",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "健脾生血颗粒(健民)",
+          "grade": "3.43",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "坤宝丸(同仁堂)",
+          "grade": "2.57",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桂龙药膏",
+          "grade": "2.66",
+          "total": "134",
+          "secondary": "31"
+        },
+        {
+          "medicine_name": "生脉饮(党参方)(生脉饮)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "生脉饮(汇仁)",
+          "grade": "2.33",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳腺囊性增生症",
+    "information": {
+      "introduction": "本病是妇女常见、多发病之一，多见于25～45岁女性，其本质上是一种生理增生与复旧不全造成的乳腺正常结构的紊乱。在我国，囊性改变少见，多以腺体增生为主，故多称“乳腺增生症”。世界卫生组织(WHO)统称“良性乳腺结构不良”。本病恶变的危险性较正常妇女增加2～4倍，临床症状和体征有时与乳癌相混。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乳腺增生症,良性乳腺结构不良",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "多见于25～45岁女性",
+        "symptom": [
+          "乳痛症",
+          "乳房胀痛",
+          "乳房胀痛",
+          "乳房肿块",
+          "乳腺囊性增生"
+        ],
+        "complication": [
+          "绝经期乳腺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科",
+          "妇科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500—— 1000元）",
+        "ratio": "98%",
+        "duration": "2-5月",
+        "method": [
+          "针灸治疗、药物治疗"
+        ],
+        "examination": [
+          "女性性发育自我检查",
+          "乳腺检查",
+          "乳房触诊",
+          "乳房检查"
+        ],
+        "medicine": [
+          "乳块消胶囊",
+          "乳增宁片",
+          "散结止痛膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳块消胶囊(强健)",
+          "grade": "1.83",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳增宁片(大鹏)",
+          "grade": "2.90",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "散结止痛膏",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "乳癖消贴膏(金玛神)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "桂枝茯苓胶囊(康缘)",
+          "grade": "1.99",
+          "total": "187",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "散结乳癖膏(散结乳癖贴膏(粉红丝秀)",
+          "grade": "2.92",
+          "total": "22",
+          "secondary": "6"
+        },
+        {
+          "medicine_name": "小金胶囊(健民)",
+          "grade": "2.54",
+          "total": "24",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "青乳消颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "糖尿病肾病",
+    "information": {
+      "introduction": "由于糖尿病糖代谢异常为主因所致的肾小球硬化，并伴尿蛋白含量超过正常，称为糖尿病肾病。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "糖尿病患者",
+        "symptom": [
+          "蛋白尿",
+          "糖尿",
+          "胰岛细胞破坏",
+          "腹水",
+          "食欲减退"
+        ],
+        "complication": [
+          "肾病综合征",
+          "糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "中西医结合科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 30000元）",
+        "ratio": "40%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿白蛋白清除率",
+          "尿素氮",
+          "内生肌酐清除率",
+          "肾小球滤过率"
+        ],
+        "medicine": [
+          "呋塞米片",
+          "胰岛素注射液",
+          "厄贝沙坦片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "癔症",
+    "information": {
+      "introduction": "分离(转换)性障碍[dissociative(conversion )disorders]是一类由明显精神因素如重大生活事件、内心冲突、情绪激动、暗示或自我暗示，和作用于易病个体所导致的以解离和转换症状为主的精神疾病。解离症状又称为癔症性精神症状，是指病人部分或完全丧失对自我身份的识别和对过去的记忆，而表现为意识范围缩小、选择性遗忘或精神暴发等。转换症状又称为癔症性躯体症状，是指病人将遭遇无法解决的问题和冲突时所产生的不快，以各种各样躯体症状的方式表现出来。它可以出现类似任何疾病的症状表现，故有人把癔症喻为“伟大的疾病”或“疾病模仿家”。主要表现为各种各样的躯体症状，意识范围缩小，暗示性强，选择性遗忘或情感爆发等精神症状，但不能查出相应的器质性损害作为其病理基础。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": " 青年，女性 ",
+        "symptom": [
+          "情感暴发",
+          "躁狂与昏睡交替",
+          "癔症步态",
+          "狂笑",
+          "不自主运动"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询",
+          "精神心理科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "60-70%(以心理疏导治疗为主)",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颅脑MRI",
+          "脑神经检查"
+        ],
+        "medicine": [
+          "尼麦角林",
+          "氟哌啶醇片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

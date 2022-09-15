@@ -1,0 +1,989 @@
+[
+  {
+    "disease_name": "农药中毒",
+    "information": {
+      "introduction": "农药（pesticide）的指用于消灭、控制危害农作物的害虫、病菌、鼠类、杂草及其他有害动植物和调节植物生长的药物。按其用途可分为杀虫剂、杀螨剂、杀线虫剂、杀软体动物剂、杀鼠剂、除草剂、脱叶剂和植物生长调节剂等。农药用途广泛，其中以杀虫剂品种最多，用量最大。我国目前杀虫剂用量居前四位的为有机磷、有机氯、杀虫脒及氨基甲酸酯类。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "主要发生于农药厂生产的包装...",
+        "symptom": [
+          "酩酊感",
+          "共济失调",
+          "脑细胞出现营养不良性蜕变",
+          "烦躁不安",
+          "恶心"
+        ],
+        "complication": [
+          "肺水肿",
+          "猝死"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "85%，具体情况根据中毒的轻重以及急救的时间来定。百草枯无法治愈，死亡率100%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "大生化检查",
+          "视力",
+          "血清胆碱酯酶"
+        ],
+        "medicine": [
+          "转化糖注射液",
+          "转化糖注射液",
+          "复方氯解磷定注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胸椎间盘突出症",
+    "information": {
+      "introduction": "    患者多为40岁左右的中年人，男女比例相近。据文献报道，胸椎间盘突出的病例有75%发生在胸8以下。有许多人虽有胸椎间盘突出却无临床表现，这主要是由于这些患者的胸椎椎管矢状径较大，以致突出的髓核组织尚不足以达到压迫脊髓的程度之故。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "胸部",
+          "脊柱",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "多见于40～50岁左右成年人，...",
+        "symptom": [
+          "胸椎疼痛",
+          "肋间肩胛带疼痛",
+          "背痛",
+          "下肢无力",
+          "脊柱侧弯"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（2000 —— 6000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%，有 8%～35%的患者 1～4年复发）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "脊柱椎体平扫",
+          "CT检查",
+          "肌电图",
+          "MRI"
+        ],
+        "medicine": [
+          "参芍片",
+          "洋参保肺口服液",
+          "腰痛宁胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "参芍片",
+          "grade": "3.80",
+          "total": "4",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "洋参保肺口服液",
+          "grade": "3.66",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "腰痹通胶囊(康缘)",
+          "grade": "1.21",
+          "total": "71",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "恒古骨伤愈合剂(克雷斯)",
+          "grade": "1.96",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "正骨膏(娄峰)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "当归拈痛丸(老专家)",
+          "grade": "4.14",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "蟾马正痛酊(欧珂)",
+          "grade": "4.77",
+          "total": "39",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "鼻骨骨折",
+    "information": {
+      "introduction": "鼻骨骨折多因外伤所致，临床皆有鼻腔的撕裂及鼻出血，可为闭合性或开放性。亦常伴有其他面骨或颅底骨折。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "鼻"
+        ],
+        "infection": "无传染性",
+        "people": "受外力所伤小儿及青年多见",
+        "symptom": [
+          "鼻孔外露",
+          "鼻翼上方缺损",
+          "鼻端形态不佳",
+          "塌鼻梁",
+          "鼻中隔或鼻腔内软骨暴露"
+        ],
+        "complication": [
+          "鼻骨骨折",
+          "休克"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-8000元）",
+        "ratio": "85%",
+        "duration": "4周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "鼻中隔",
+          "耳鼻咽喉CT",
+          "鼻咽部MRI"
+        ],
+        "medicine": [
+          "骨康胶囊",
+          "骨折挫伤胶囊",
+          "鼻骨复位器"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨康胶囊(奥奇宁)",
+          "grade": "1.35",
+          "total": "50",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "骨折挫伤胶囊",
+          "grade": "3.81",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "坐骨神经损伤",
+    "information": {
+      "introduction": "坐骨神经由腰4，5和骶1～3神经根组成，为全身最粗大的神经，其起始处直径为15mm左右。经坐骨大孔穿出骨盆，坐骨神经一般自梨状肌下孔穿至臀部，亦有少数情况(36.21%)坐骨神经分成2股，一股穿梨状肌，一股出梨状肌下孔;也有分成多股出骨盆者。进入臀部后，位于闭孔内肌、上下孖肌和股方肌的表面，为臀大肌覆盖，此处为臀部坐骨神经最浅表部位，此段无较粗分支、周围组织疏松、紧邻髋关节，肌内注射、髋关节脱位、骨盆骨折等均易造成该处坐骨神经损伤。在其疏松的结缔组织鞘内，胫神经位于内后侧，腓总神经位于前外侧，胫神经较腓总神经粗大。坐骨神经呈弧形向外下走行，约在坐骨结节与大转子连线中内1/3交点处下行，临床常用此点来检查坐骨神经的压痛点。坐骨神经垂直而下，至股骨下1/3分成胫腓2支。坐骨神经分支点的变异很大，有的由骶神经丛即分为2支，有的则在股部下段才分为2支。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "下肢",
+          "周围神经系统"
+        ],
+        "infection": "无传染性",
+        "people": "男性青壮年多见",
+        "symptom": [
+          "大腿以下或膝以下肌肉瘫痪",
+          "小腿外侧及足背感觉丧失",
+          "步态异常",
+          "步态异常",
+          "干性坐骨神经痛"
+        ],
+        "complication": [
+          "足跟瘀斑"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "中医科",
+          "急诊科"
+        ],
+        "cost": "市三甲医院约（6000 —— 10000元）",
+        "ratio": "50--70%",
+        "duration": "10--21天",
+        "method": [
+          "药物、手术治疗"
+        ],
+        "examination": [
+          "踝反射",
+          "直腿抬高加强试验",
+          "肌电图"
+        ],
+        "medicine": [
+          "腰痛宁胶囊",
+          "汉桃叶片",
+          "沉香十七味丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "腰痛宁胶囊(颈复康)",
+          "grade": "2.01",
+          "total": "130",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "汉桃叶片(益尔)",
+          "grade": "2.53",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "沉香十七味丸(阜药)",
+          "grade": "4.15",
+          "total": "86",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无片(天施康)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无片",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "夏天无注射液",
+          "grade": "1.96",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无胶囊(敖东)",
+          "grade": "3.83",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "十三味红花丸(神水藏药)",
+          "grade": "3.11",
+          "total": "179",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无胶囊(可复通)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无胶囊(龙门)",
+          "grade": "2.5",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏天无胶囊(奇特)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "口腔白斑病",
+    "information": {
+      "introduction": "白斑（leukoplakia）是指仅仅发生在粘膜上的白色或灰白色角化性病变的斑块状损害，口腔粘膜上的这种斑块是不能被擦掉的，在临床和组织病理学上又不能列入其它疾病分类之中者，是一种常见的非传染性慢性疾病。口腔各部粘膜均可发生，但以颊、舌部最多。国内1980年普查结果患病率为10.47％（包括烟斑）。长期以来曾将口腔粘膜上所发生的白色斑块都称为“白斑”，使许多白色损害混同于白斑，从而造成流行病学和治疗方法上的不恰当结果。白斑的色泽除了白色以外，还可表现为红白间杂的损害。应该明确，白斑是肉眼所见的临床术语，在组织病理上的变化，应该符合癌前损害的特征——上皮异常增生，而不是单纯的上皮增生。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "中老年男性",
+        "symptom": [
+          "白色念珠菌感染",
+          "口腔难愈的白色片状物",
+          "口腔黏膜纤维化",
+          "口腔粘膜上白色较硬的隆起斑块",
+          "咬嘴唇或舌"
+        ],
+        "complication": [
+          "口腔癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "对症治疗为主，治愈率约为25%-35%",
+        "duration": "1-2年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "口腔内窥镜"
+        ],
+        "medicine": [
+          "喉康散",
+          "度米芬含片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "喉康散(白云山)",
+          "grade": "4.36",
+          "total": "19",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳房导管内乳头状瘤",
+    "information": {
+      "introduction": "乳房导管内乳头状瘤(intraductal papilloma of breast)又称大导管乳头状瘤、囊内乳头状瘤等，是发生于乳头及乳晕区大导管的良性乳头状瘤。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乳房大导管乳头状瘤,乳房囊内乳头状瘤,乳衄",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "生育期女性",
+        "symptom": [
+          "乳房肿块",
+          "结节",
+          "乳晕深部可扪及肿块",
+          "疼痛",
+          "疼痛"
+        ],
+        "complication": [
+          "乳头溢液"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（5000—— 10000元）",
+        "ratio": "85%(外科手术治疗)",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "乳房摄片",
+          "乳头溢液检查",
+          "乳腺导管造影",
+          "乳管镜",
+          "乳腺B超"
+        ],
+        "medicine": [
+          "枸橼酸他莫昔芬口服溶液",
+          "注射用胸腺五肽"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "耻骨炎",
+    "information": {
+      "introduction": "耻骨联合由两侧的耻骨和中间的纤维软骨盘三者结合而成，在此联合的上方及下方均有韧带增强。软骨盘常有一矢状位的裂隙样腔，但没有滑膜，因此，耻骨联合具有一定的可动性。此对女性分娩时扩大盆腔有一定的意义。耻骨联合构造上的特点使其在受到暴力冲击时，常引起耻骨骨折，而不易发生耻骨联合分离。但在外力未能产生骨盆骨折的情况下，包括骶髂关节移位，则必然同时引起耻骨联合移位而易引起本病。耻骨炎(pubic ostitis)是发生于耻骨联合区的非化脓性病变，表现为耻骨联合和耻骨支处疼痛，以女性为多发。病情可延续数年，最终多可自愈。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "耻骨骨炎,耻骨硬化",
+        "part": [
+          "盆骨",
+          "关节"
+        ],
+        "infection": "无传染性",
+        "people": "女性为多发",
+        "symptom": [
+          "耻骨联合分离",
+          "耻骨上痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "MRI"
+        ],
+        "medicine": [
+          "云南白药胶囊",
+          "活血止痛散",
+          "骨筋丸胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云南白药胶囊",
+          "grade": "2.42",
+          "total": "31",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "活血止痛散(同仁堂)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "骨筋丸胶囊(久正)",
+          "grade": "3.18",
+          "total": "4",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑疝",
+    "information": {
+      "introduction": "当颅腔内某一分腔有占位性病变时，该分腔的压力比邻近分腔的压力高，脑组织从高压区向低压区移位，从而引起一系列临床综合征，称为脑疝。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "无传染性",
+        "people": "无特殊发病群体",
+        "symptom": [
+          "脑疝危象",
+          "烦躁不安",
+          "昏迷",
+          "去大脑强直",
+          "脑干损害体征"
+        ],
+        "complication": [
+          "血虚头痛",
+          "风寒头痛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "10--30%",
+        "duration": "2--4周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "健康体检",
+          "颅脑CT"
+        ],
+        "medicine": [
+          "甘露醇注射液",
+          "银丹心脑通软胶囊",
+          "甘露醇"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "银丹心脑通软胶囊(百灵)",
+          "grade": "2.96",
+          "total": "90",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "子痫",
+    "information": {
+      "introduction": "子痫是妊娠20周以后“妊娠高血压综合征”(简称妊高征)的特殊表现，包括水肿、高血压和蛋白尿，特别于妊娠晚期发展呈最严重而紧急情况时，以抽搐及昏迷为特点，可并发肾功能衰竭、心力衰竭、肺水肿、颅内出血、胎盘早期剥离等。先兆子痫则是于抽搐前，在妊高征基础上伴有头痛、头晕、眼花、上腹不适、恶心等症状，预示子痫即将发生的阶段。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "先兆子痫",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "妊娠中、晚期多见",
+        "symptom": [
+          "头晕",
+          "眼前冒金花",
+          "右上腹痛",
+          "恶心与呕吐",
+          "头痛"
+        ],
+        "complication": [
+          "白大衣高血压",
+          "盐敏感性高血压",
+          "恶性高血压视网膜病变",
+          "老年人原发性恶性高血压引起的恶性小动脉肾硬化",
+          "肾实质性高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "中医科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "雌三醇",
+          "胎儿体重预测"
+        ],
+        "medicine": [
+          "羚羊角胶囊",
+          "盐酸拉贝洛尔片",
+          "硫酸镁"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "羚羊角胶囊(克比奇)",
+          "grade": "3.29",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚羊角滴丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "羚羊角胶囊(克比奇)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "淋菌性咽炎",
+    "information": {
+      "introduction": "淋菌性咽炎表现为急性咽炎或急性扁桃体炎，偶伴发热和颈淋巴结肿大。绝大多数是口交接吻感染的，也有极小一部分是通过接触有病菌的洗漱用品感染。在西方由于性行为开放，性病患者中，咽部感染淋球菌占有一定比例，而我国近年来，由于性交多样化和同性恋增多，淋菌性咽喉炎患者也在增多。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "咽喉"
+        ],
+        "infection": "有传染性",
+        "people": "性活跃人群多见",
+        "symptom": [
+          "咽部灼热疼痛",
+          "吞咽痛",
+          "扁桃体充血肥大",
+          "口燥咽干",
+          "吞咽困难"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "性病科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": [
+          "尿道分泌物检查",
+          "宫颈分泌物培养",
+          "淋菌培养"
+        ],
+        "medicine": [
+          "乙酰螺旋霉素片",
+          "乙酰螺旋霉素片",
+          "乙酰螺旋霉素片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "缺血性视神经病变",
+    "information": {
+      "introduction": "缺血性视神经病变(ischemic optico-neuropathy)系指视神经的营养血管发生循环障碍的急性营养不良性疾病)，过去常将这种疾病误诊为颅内肿瘤或视盘炎。一般以视网膜中央动脉在球后约9～11mm进入视神经处为界，临床上分前段和后段缺血性视神经病变两型。它是50岁以上人群视盘水肿的最常见原因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "前段/后段缺血性视神经病变，缺血性视神经乳头病变，缺血性视神经炎",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "多见于老年人，超过60岁，女...",
+        "symptom": [
+          "盲点",
+          "眼痛",
+          "偏盲",
+          "眼角膜反射消失",
+          "眼底改变"
+        ],
+        "complication": [
+          "视神经乳头水肿及视盘水肿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约10000--30000",
+        "ratio": "80%",
+        "duration": "2-4月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "视神经检查",
+          "视野检查",
+          "视力",
+          "眼底镜检查法"
+        ],
+        "medicine": [
+          "复方樟柳碱注射液",
+          "注射用胰激肽原酶",
+          "氢溴酸樟柳碱注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "唇裂",
+    "information": {
+      "introduction": "唇裂是口腔颌面部常见的先天性畸形，发生率约为1:1000。正常的胎儿，在第五周以后开始由一些胚胎突起逐渐互相融合形成面部，如未能正常发育便可发生畸形，其中包括唇裂。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "兔唇",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "新生儿",
+        "symptom": [
+          "唇外翻",
+          "巨口",
+          "吞咽困难"
+        ],
+        "complication": [
+          "唇裂",
+          "腭裂",
+          "特发性低促性腺激素性性腺功能减退症",
+          "小儿神经管畸形",
+          "小儿小颌畸形综合征"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "口腔科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "系统胎儿超声检查",
+          "颌面五官CT",
+          "儿童五官科检查",
+          "颞下颌关节造影",
+          "胎儿镜检查"
+        ],
+        "medicine": [
+          "健民咽喉片",
+          "口炎清颗粒",
+          "唇齿清胃丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健民咽喉片(咽喉片(健民)",
+          "grade": "4.28",
+          "total": "37",
+          "secondary": "32"
+        },
+        {
+          "medicine_name": "口炎清颗粒(大神)",
+          "grade": "4.05",
+          "total": "86",
+          "secondary": "78"
+        },
+        {
+          "medicine_name": "唇齿清胃丸(普林松)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸(药都)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸(老君炉)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "唇齿清胃丸",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "眼球突出",
+    "information": {
+      "introduction": "眼眶的炎症，水肿，肿瘤或外伤，海绵窦血栓形成或眼球增大(如先天性青光眼和单侧高度近视)皆可引起一眼或两眼眼球突出。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "突眼",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "好发于中年人，女性多发",
+        "symptom": [
+          "恶心",
+          "耳鸣",
+          "复视",
+          "畏光及流泪",
+          "结膜充血"
+        ],
+        "complication": [
+          "角膜炎",
+          "结膜炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科",
+          "外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500 —— 1000元）",
+        "ratio": "30%",
+        "duration": "2-3个月",
+        "method": [
+          "药物治疗、手术治疗、I131治疗"
+        ],
+        "examination": [
+          "Hertel氏眼球突出计",
+          "眼及眶区CT",
+          "MRI",
+          "甲状腺显像"
+        ],
+        "medicine": [
+          "盐酸环丙沙星滴眼液",
+          "复方硫酸软骨素滴眼液",
+          "YZ9眼球突出计"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肾上腺皮质功能减退症",
+    "information": {
+      "introduction": "肾上腺皮质功能减退症按病因可分为原发性和继发性，按病程可分为急性和慢性。原发性肾上腺皮质功能减退症中最常见的是艾迪生(Addison)病，其常见病因为肾上腺结核或自身免疫性肾上腺炎;少见的病因包括深部真菌感染、免疫缺陷、病毒感染、恶性肿瘤、肾上腺广泛出血、手术切除、肾上腺脑白质营养不良及POEMS病等。继发性肾上腺皮质功能减退症，最常见于长期应用超生理剂量的糖皮质激素，也可继发于下丘脑-垂体疾病，如鞍区肿瘤、自身免疫性垂体炎、外伤、手术切除、产后大出血引起垂体大面积梗死坏死，即希恩(Sheehan)综合征等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肾上腺"
+        ],
+        "infection": "无传染性",
+        "people": "男性略少于女性",
+        "symptom": [
+          "背痛",
+          "发绀",
+          "烦躁不安",
+          "肚子疼",
+          "腋毛和阴毛脱落"
+        ],
+        "complication": [
+          "尿崩症",
+          "阳痿"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "30%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "促肾上腺皮质激素兴奋试验",
+          "血清促肾上腺皮质激素",
+          "心电图",
+          "血清钾",
+          "血清钠"
+        ],
+        "medicine": [
+          "氢化可的松注射液",
+          "氢化可的松注射液",
+          "氢化可的松注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "甘草流浸膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "甘草流浸膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "寻常型银屑病",
+    "information": {
+      "introduction": "寻常型银屑病(牛皮癣)是临床上最为常见的牛皮癣类型。占牛皮癣患者的96%。多层银白色鳞屑，刮除薄膜即见点状出血，是本病的重要特征。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "寻常型牛皮癣",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "牛皮癣初发年龄男性为 20-39岁...",
+        "symptom": [
+          "鳞屑",
+          "点状出血",
+          "斑丘疹",
+          "丘疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "醋酸曲安奈德尿素乳膏",
+          "维胺酯胶囊",
+          "卡泊三醇软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "丹青胶囊",
+          "grade": "1.68",
+          "total": "27",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "镇银膏",
+          "grade": "4.92",
+          "total": "25",
+          "secondary": "25"
+        }
+      ]
+    }
+  }
+]

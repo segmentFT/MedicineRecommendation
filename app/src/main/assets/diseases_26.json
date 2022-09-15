@@ -1,0 +1,1209 @@
+[
+  {
+    "disease_name": "阴道白斑",
+    "information": {
+      "introduction": "阴道白斑(leukoplakia of vagina)即各种因素所致的外阴部皮肤和粘膜的不同程度的变白或粗糙萎缩的状态它的癌变率并不高，一般只有2%，仅在上皮增生时可视为癌前病变。人们觉得外阴白斑这一名称不太理想，于是把它改称为慢性外阴营养不良。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "女阴白斑,阴道白斑病",
+        "part": [
+          "阴道",
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "多见于更年期妇女",
+        "symptom": [
+          "阴道分泌物增多",
+          "急性阴道感染",
+          "阴部溃疡",
+          "瘙痒"
+        ],
+        "complication": [
+          "阴道炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "治愈率87%",
+        "duration": "手术治疗周期7天",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "阴道分泌物涂片",
+          "阴道窥器检查",
+          "阴道镜"
+        ],
+        "medicine": [
+          "诺氟沙星药膜",
+          "复方莪术油栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "性变态",
+    "information": {
+      "introduction": "性心理障碍(psychosexual disorder)也称性变态(sexual deviation，paraphilia)，泛指以两性行为的心理和行为明显偏离正常，并以这类性偏离作为性兴奋、性满足的主要或惟一方式为主要特征的一组精神障碍。除此之外与之无关的精神活动并无其他明显异常。主要包括性身份障碍、性偏好障碍和性指向障碍3种类型，涵盖了性身份异常、性对象异常、性目的异常、性行为手段方法异常等4个方面。它包括露阴癖、窥阴癖、恋物癖、异性装扮癖等多种类型。其共同特征是性兴奋的唤起、性对象的选择以及两性行为方式等出现反复、持久性异乎常态的表现。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "性活跃人群尤为多见",
+        "symptom": [
+          "摩擦型性变态",
+          "性施虐癖",
+          "窥淫癖",
+          "恋兽癖",
+          "窥淫癖"
+        ],
+        "complication": [
+          "人格障碍",
+          "摩擦黑变病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心理咨询"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000—— 10000元）",
+        "ratio": "60%-80%",
+        "duration": "1-2年",
+        "method": [
+          "心理治疗"
+        ],
+        "examination": [
+          "男性生殖系X线检查",
+          "外生殖器检查",
+          "内生殖器检查",
+          "神经系统检查",
+          "脑电图"
+        ],
+        "medicine": [
+          "茴拉西坦胶囊",
+          "尼麦角林片",
+          "曲尼司特胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "阿娜尔妇洁液(仁仁)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "阿娜尔妇洁液(沙利舒)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "阿娜尔妇洁液(健得)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "阿娜尔妇洁液(雅康丽)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "阿娜尔妇洁液(在田)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "阿娜尔妇洁液",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肺热咳嗽",
+    "information": {
+      "introduction": "肺热咳嗽是由于各种原因导致肺内郁热、肺气失宣、出现咳嗽为主的一种症候，临床主要表现为咳嗽、咳黄痰或白粘痰，伴有口干、咽痛、便秘、尿赤、身热或伴有喘息等症状，舌质红、苔薄黄或黄腻、少津、脉滑数或细数，这需要中医专家来辨证明确，中药治疗肺热咳嗽疗效显著。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "咳嗽",
+          "咳出黄色痰液",
+          "口干",
+          "咽痛",
+          "尿赤"
+        ],
+        "complication": [
+          "新生儿泪囊炎",
+          "咳嗽变异性哮喘",
+          "副鼻窦炎",
+          "小儿便秘",
+          "脑血管瘤"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "治愈率99%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "清肺消炎丸",
+          "清肺十八味丸",
+          "桔贝合剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清肺十八味丸(阜药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "桔贝合剂(鹿迪)",
+          "grade": "3.1",
+          "total": "9",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "蛇胆川贝胶囊",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "川贝止咳露(同仁堂)",
+          "grade": "3.33",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "蛇胆川贝散",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "川贝雪梨糖浆(本草纲目)",
+          "grade": "2.96",
+          "total": "8",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清肺抑火片(修正)",
+          "grade": "2.24",
+          "total": "50",
+          "secondary": "42"
+        },
+        {
+          "medicine_name": "清热镇咳糖浆(中华)",
+          "grade": "4.16",
+          "total": "6",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "蛇胆川贝软胶囊(白云山)",
+          "grade": "2.99",
+          "total": "7",
+          "secondary": "7"
+        },
+        {
+          "medicine_name": "蛇胆川贝胶囊(纽兰)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清肺化痰丸(云昆)",
+          "grade": "3.22",
+          "total": "27",
+          "secondary": "23"
+        },
+        {
+          "medicine_name": "小儿牛黄清肺片(红药)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "蛇胆川贝胶囊(神鹿)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清肺止咳丸",
+          "grade": "2.83",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "低钾血症",
+    "information": {
+      "introduction": "血清钾浓度低于3.5mmol/L(3.5mEq/L，正常人血清钾浓度的范围为3.5～5.5mmol/L)称为低钾血症。低钾血症时，机体的含钾总量不一定减少，细胞外钾向细胞内转移时，情况就是如此。但是，在大多数情况下，低钾血症的患者也伴有体钾总量的减少——缺钾(potassium deficit)。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "钾缺乏",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "排钾过多",
+          "代谢性低钾",
+          "表情淡漠",
+          "恶心",
+          "肠蠕动减慢"
+        ],
+        "complication": [
+          "高钾血症",
+          "心律失常"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "80%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿钾",
+          "动态心电图",
+          "心电图",
+          "血清钾",
+          "血清钠"
+        ],
+        "medicine": [
+          "芪苈强心胶囊",
+          "复方卡托普利片",
+          "补达秀氯化钾缓释片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "芪苈强心胶囊(以岭)",
+          "grade": "2.45",
+          "total": "90",
+          "secondary": "6"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "视网膜病变",
+    "information": {
+      "introduction": "又称Rieger中心性视网膜炎、青年性出血性黄斑病变。本病为发生于黄斑部及其周围的弧立的渗出性脉络膜视网膜病灶，伴有视网膜下新生血管及出血。临床上并不少见，一般为单眼发病，年龄多在50岁以下。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "黄斑病变,Rieger中心性视网膜炎,青年性出血性黄斑病变",
+        "part": [
+          "眼"
+        ],
+        "infection": "无传染性",
+        "people": "老年患者常见",
+        "symptom": [
+          "夜盲",
+          "视力障碍",
+          "中心暗点扩大",
+          "光反射消失",
+          "眼底出血和渗出"
+        ],
+        "complication": [
+          "视网膜病变",
+          "糖尿病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "中医药物治疗、西医药物治疗、手术治疗"
+        ],
+        "examination": [
+          "眼底镜检查法"
+        ],
+        "medicine": [
+          "羟苯磺酸钙胶囊",
+          "曲克芦丁氯化钠注射液",
+          "卵磷脂络合碘胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "芪明颗粒(万马)",
+          "grade": "4.38",
+          "total": "29",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "硬皮病",
+    "information": {
+      "introduction": "硬皮病(scleroderma)，是以局限性或弥漫性皮肤及内脏器官结缔组织纤维化、硬化及萎缩为特点的结缔组织病，其主要特点为皮肤、滑膜、骨骼肌、血管和食道出现纤维化或硬化。有些内脏器官，如肺、心脏、肾脏和大小动脉也可有类似的病变。有些病人只发生皮肤硬化，称为局限性硬皮病;而有些病人还同时发生心、肺、胃肠和肾等内脏纤维化和硬化，这种情况被称为系统性硬皮病，往往病情严重，预后较差。本病在结缔组织病中仅次于红斑狼疮而居第二位。患者以女性较多，女性与男性之比约为3∶1。发病年龄以20～50岁多见。生育年龄的妇女发病最为多见，儿童、老人也可发病。有报道矿工和接触硅的工人得硬皮病的病人较多。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痹症，胶原沉着病，皮痹，系统性硬化症，血痹，进行性全身性硬化症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "皮肤硬化",
+          "毛发稀少",
+          "皮肤萎缩和色素沉着",
+          "皮肤受累",
+          "皮肤苍白"
+        ],
+        "complication": [
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "脑血管瘤",
+          "发作性睡病",
+          "副鼻窦炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "风湿科",
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约10000--50000元",
+        "ratio": "30%",
+        "duration": "10-30天",
+        "method": [
+          "生活调理、药物治疗"
+        ],
+        "examination": [
+          "血红蛋白",
+          "血清抗硬皮病-70抗体",
+          "抗核抗体",
+          "血小板计数"
+        ],
+        "medicine": [
+          "脉管复康片",
+          "积雪苷霜软膏",
+          "积雪苷霜软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脉管复康片(太阳)",
+          "grade": "3.05",
+          "total": "23",
+          "secondary": "11"
+        },
+        {
+          "medicine_name": "积雪苷霜软膏(现代)",
+          "grade": "2.20",
+          "total": "37",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "积雪苷霜软膏(芙原)",
+          "grade": "2.27",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "积雪苷片(SHYNDEC)",
+          "grade": "2.29",
+          "total": "8",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "薄芝片(浙南)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "脉管复康胶囊(林克风)",
+          "grade": "2.24",
+          "total": "9",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "外阴白色病变",
+    "information": {
+      "introduction": "外阴白色病变又叫外阴白色病损、外阴白斑或外阴营养不良，既往认为是血管营养失调，但是随着对该病的进一步认识，并未发现上述改变，而是外阴皮肤和黏膜组织发生色素改变和变性的病变，属于外阴上皮内瘤变的范畴，包括硬化性苔藓和鳞状上皮增生。前者是以外阴、肛周皮肤萎缩变薄为主要特征的疾病，是最常见的外阴白色病变，见于任何年龄，40岁左右多见，其次为幼女，国外绝经后女性多见，很少进展到浸润癌。后者曾称为增生性营养不良，是以外阴瘙痒为主要症状，病因不明的鳞状上皮细胞良性增生为主的外因疾病，50岁以前的妇女多见，而国外报道绝经后女性多见，恶变率为2%～5%。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "外阴白色病损,外阴白斑,外阴营养不良",
+        "part": [
+          "外阴"
+        ],
+        "infection": "无传染性",
+        "people": "见于任何年龄，多见于40岁左...",
+        "symptom": [
+          "外阴皮肤肿胀",
+          "外阴萎缩",
+          "外阴烧灼刺激感",
+          "外阴皮肤肿胀"
+        ],
+        "complication": [
+          "外阴肿瘤",
+          "外阴良性肿瘤",
+          "外阴湿疹",
+          "梅毒",
+          "绝经"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（5000 —— 8000元）",
+        "ratio": "70%",
+        "duration": "1-3个月",
+        "method": [
+          "药物治疗 手术治疗 放射性治疗 支持性治疗"
+        ],
+        "examination": [
+          "皮肤涂片显微镜检查",
+          "阴道分泌物涂片",
+          "阴道活检",
+          "直接涂片检查",
+          "血常规"
+        ],
+        "medicine": [
+          "抗妇炎胶囊",
+          "抗宫炎片",
+          "竹红菌素软膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "抗妇炎胶囊(远程)",
+          "grade": "1.56",
+          "total": "42",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "抗宫炎片(天施康)",
+          "grade": "2.18",
+          "total": "28",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "竹红菌素软膏(振华制药)",
+          "grade": "1.64",
+          "total": "27",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "竹红菌素软膏(白药)",
+          "grade": "4.61",
+          "total": "14",
+          "secondary": "12"
+        },
+        {
+          "medicine_name": "竹红菌素软膏",
+          "grade": "4.85",
+          "total": "8",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "手癣",
+    "information": {
+      "introduction": "手癣(tinea manuum)是手掌及指间的皮肤癣菌感染，可蔓延到手背。手癣与足癣相似，但也有差别。如手癣发病率低于足癣，并发症少见。足癣多为双侧累及，而手癣则多见于单侧，即使两侧受累，也轻重不一，鳞屑角化较多见，糜烂、渗出少见。此外，手部因经常洗刷和治疗，致使皮损不典型，查菌阳性率也比较低。中医鹅掌风属于手癣范畴。《外科正宗》记载：鹅掌风由足阳明胃经火热、血燥、外受寒凉所凝，致皮枯槁，破裂不已。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "鹅掌风",
+        "part": [
+          "皮肤",
+          "上肢"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群，多见于中老年人，...",
+        "symptom": [
+          "手脱皮",
+          "皮肤瘙痒",
+          "皮肤皲裂",
+          "脓疱",
+          "鳞屑"
+        ],
+        "complication": [
+          "股癣",
+          "手足癣"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "60--80%",
+        "duration": "7--14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "真菌组织病理学",
+          "真菌检查"
+        ],
+        "medicine": [
+          "珊瑚癣净",
+          "华佗膏",
+          "盐酸特比萘芬乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "珊瑚癣净(神奇)",
+          "grade": "2.63",
+          "total": "97",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(集佳)",
+          "grade": "3.96",
+          "total": "111",
+          "secondary": "92"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "接触性皮炎",
+    "information": {
+      "introduction": "接触性皮炎(contact dermatitis)亦称毒物性皮炎(dermatitis venenata)，为皮肤或黏膜接触某些外界刺激物质或变应原发生的炎症反应。引起本病的物质主要有动物性、植物性和化学性物质三大类，其中尤以化学物质致病为多见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "马桶癣,漆疮,膏药风,粉花疮",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "红斑样皮疹",
+          "光感性皮肤损害",
+          "痤疮样皮疹",
+          "尿中组织胺排泄增加",
+          "带状疱疹样外观"
+        ],
+        "complication": [
+          "瘙痒症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中西医结合科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（500-1000元）",
+        "ratio": "60%",
+        "duration": "3个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫病理检查",
+          "皮肤病的物理检查",
+          "过敏原检测",
+          "皮肤试验"
+        ],
+        "medicine": [
+          "倍他米松新霉素乳膏",
+          "复方曲安奈德乳膏",
+          "地奈德乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "肝阳上亢",
+    "information": {
+      "introduction": "肝阳上亢,病证名。又称肝阳上逆，肝阳偏旺。为肝阴不足，肝阳上亢所致的病证。既有肝阴不足的症状，又有肝阳上亢的表现，但以肝阳上亢表现为主，是本虚标实证。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "肝阳上逆，肝阳偏旺",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "眼睛胀痛",
+          "头痛",
+          "面红升火",
+          "目赤",
+          "健忘"
+        ],
+        "complication": [
+          "肝热病",
+          "肝火眩晕",
+          "肝火犯肺",
+          "肝咳"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科"
+        ],
+        "cost": "市三甲医院约（100 —— 500元）",
+        "ratio": "100%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "动态血压监测(ABPM)",
+          "甲种胎儿球蛋白试验",
+          "尿睾酮",
+          "尿环磷酸鸟苷",
+          "尿谷氨酰胺"
+        ],
+        "medicine": [
+          "天麻素胶囊",
+          "龙胆泻肝丸",
+          "天麻钩藤颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "龙胆泻肝丸(同仁堂)",
+          "grade": "3.35",
+          "total": "58",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "天麻钩藤颗粒(无糖型)",
+          "grade": "3.27",
+          "total": "22",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "正天丸(三九)",
+          "grade": "2.15",
+          "total": "179",
+          "secondary": "71"
+        },
+        {
+          "medicine_name": "冠心康片(麒麟牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑立清胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "罗布麻降压片",
+          "grade": "3.89",
+          "total": "23",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫降压丸(同仁堂)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "天智颗粒(仲景)",
+          "grade": "2.01",
+          "total": "11",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "丹珍头痛胶囊(益欣药业)",
+          "grade": "3.18",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑立清丸",
+          "grade": "3.76",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "清脑降压片(药都)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清脑降压片(鼎劲)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清脑降压片(明复)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "清脑降压片(恼忆维)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "高血压危象",
+    "information": {
+      "introduction": "高血压危象是高血压患者并发的一种极其危急的症候，常在不良诱因影响下，血压骤然升到26.6/16千帕(200/120毫米汞柱)以上，出现心、脑、肾的急性损害危急症候。病人感到突然头痛、头晕、视物不清或失明;恶心、呕吐、心慌、气短、面色苍白或潮红;两手抖动、烦躁不安;严重的可出现暂时性瘫痪、失语、心绞痛、尿混浊;更重的则抽搐、昏迷。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "血液血管",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "有高血压基础病",
+        "symptom": [
+          "恶心",
+          "嗜睡",
+          "烦躁不安",
+          "颈部搏动",
+          "基底节出血"
+        ],
+        "complication": [
+          "高血压脑病",
+          "肾衰"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "心血管内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "治愈率94%",
+        "duration": "治疗周期15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "肾功能",
+          "动态血压监测(ABPM)",
+          "血压测量",
+          "CT检查"
+        ],
+        "medicine": [
+          "山楂精降脂片",
+          "呋塞米片",
+          "利血平注射液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "山楂精降脂片(三元)",
+          "grade": "4.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "膝关节骨性关节炎",
+    "information": {
+      "introduction": "膝关节骨性关节炎是指由于膝关节软骨变性、骨质增生而引起的一种慢性骨关节疾患，又称为膝关节增生性关节炎、退行性关节炎及骨性关节病等。本病多发生于中老年人，也可发生于青年人;可单侧发病，也可双侧发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "膝痹",
+        "part": [
+          "膝部"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人",
+        "symptom": [
+          "膝关节疼痛",
+          "关节肿胀",
+          "膝关节肿大",
+          "间歇性跛行",
+          "关节疼痛"
+        ],
+        "complication": [
+          "骨质增生",
+          "膝关节半月板损伤",
+          "膝关节脱位"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗、微创治疗、物理治疗、中医治疗"
+        ],
+        "examination": [
+          "关节镜",
+          "四肢的骨和关节平片",
+          "髋关节超伸试验",
+          "髋关节弹响试验"
+        ],
+        "medicine": [
+          "硫酸氨基葡萄糖胶囊",
+          "骨肽片",
+          "氨糖美辛肠溶片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方杜仲健骨颗粒(伯司庄)",
+          "grade": "4.28",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "通络祛痛膏(羚锐)",
+          "grade": "3.04",
+          "total": "20",
+          "secondary": "10"
+        },
+        {
+          "medicine_name": "鹿川活络胶囊(老专家)",
+          "grade": "4.95",
+          "total": "6",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛周湿疹",
+    "information": {
+      "introduction": "肛周湿疹是一种常见的非传染性皮肤病，病变多局限于肛门周围皮肤，亦偶有蔓延至臀部、会阴及阴蒂，局部可出现红疹、红斑、糜烂、渗出、结痂、脱屑。病程长，肛门周围皮肤常增厚，颜色灰白或暗红、粗糙，以致发生皲裂、渗出、瘙痒、反复发作为主要特点，任何年龄均可发病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肛周皮肤有湿疹",
+          "瘙痒",
+          "肛周皮肤潮红",
+          "肛门湿疹瘙痒",
+          "脓疱"
+        ],
+        "complication": [
+          "蜂窝织炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "肛肠外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约1000--5000",
+        "ratio": "60--80%",
+        "duration": "7--10天",
+        "method": [
+          "药物治疗、局部治疗、中药治疗"
+        ],
+        "examination": [
+          "肛门拭子检查法",
+          "肛门视诊",
+          "肛门指检"
+        ],
+        "medicine": [
+          "冰黄肤乐软膏",
+          "当归苦参丸",
+          "马应龙麝香痔疮膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "当归苦参丸(水蜜丸)",
+          "grade": "3.31",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "马应龙麝香痔疮膏(马应龙)",
+          "grade": "2.84",
+          "total": "375",
+          "secondary": "332"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "细菌性痢疾",
+    "information": {
+      "introduction": "细菌性痢疾简称菌痢;是志贺菌属(痢疾杆菌)引起的肠道传染病。有全身中毒症状、腹痛、腹泻、里急后重、排脓血便等临床表现。中毒型菌痢起病急骤、突然高热、反复惊厥、嗜睡、昏迷、迅速发生循环衰竭和呼吸衰竭，而肠道症状轻或缺如，病情凶险。本病有有效的抗菌药治疗，治愈率高。疗效欠佳或慢性变多是因为未经正规治疗、未及时治疗、使用药物不当或耐药菌株感染。全年均可发生，但以夏秋季为多见。儿童发病率一般较高，其次是20～39岁青壮年，老年患者较少。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "菌痢，志贺菌病",
+        "part": [
+          "胃",
+          "肠"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "黏液便",
+          "稀便",
+          "阵发性腹痛",
+          "大便酸臭",
+          "恶心"
+        ],
+        "complication": [
+          "甲营养不良"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科",
+          "消化内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "经过治疗后99%可以痊愈治疗。",
+        "duration": "7-14天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "便常规",
+          "大便颜色",
+          "粪便性状",
+          "粪便量",
+          "小肠造影"
+        ],
+        "medicine": [
+          "清热消炎宁胶囊",
+          "穿心莲内酯滴丸",
+          "虎地肠溶胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清热消炎宁胶囊(敬修堂)",
+          "grade": "3.04",
+          "total": "40",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "穿心莲内酯滴丸(天士力)",
+          "grade": "2.30",
+          "total": "52",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "虎地肠溶胶囊(九方)",
+          "grade": "3.15",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "金荞麦片(庆瑞)",
+          "grade": "4.0",
+          "total": "8",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "肠炎宁丸(摩美得)",
+          "grade": "3.5",
+          "total": "5",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "肠炎宁颗粒2克(葫芦娃)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "莲胆消炎胶囊(圣方)",
+          "grade": "5.0",
+          "total": "6",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "肠炎宁颗粒(康恩贝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "莲胆消炎胶囊",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "猴耳环消炎颗粒",
+          "grade": "3.04",
+          "total": "15",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "清热消炎宁胶囊(竹安)",
+          "grade": "3.12",
+          "total": "17",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "喜炎平注射液",
+          "grade": "2.53",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄芩胶囊",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "汞中毒",
+    "information": {
+      "introduction": "汞中毒（mercury poisoning）以慢性为多见，主要发生在生产活动中，长期吸入汞蒸气和汞化合物粉尘所致。以精神-神经异常、齿龈炎、震颤为主要症状。大剂量汞蒸气吸入或汞化合物摄入即发生急性汞中毒。对汞过敏者，即使局部涂沫汞油基质制剂，亦可发生中毒。接触汞机会较多的有汞矿开采，汞合金冶炼，金和银提取，汞整流器，以及真空泵、照明灯、仪表、温度计、补牙汞合金、雷汞、颜料、制药、核反应堆冷却剂和防原子辐射材料等的生产工人。有机汞化合物以往主要用作农业杀菌剂，但毒性大，我国已不再生产和使用。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "肚子疼",
+          "酩酊感",
+          "汞毒性震颤",
+          "焦虑",
+          "齿龈肿胀"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约2000-5000元",
+        "ratio": "30%",
+        "duration": "10天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿汞",
+          "血清汞",
+          "脑电图",
+          "血清胆碱酯酶 "
+        ],
+        "medicine": [
+          "葡醛内酯片",
+          "盐酸丙哌维林片",
+          "多烯磷脂酰胆碱胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

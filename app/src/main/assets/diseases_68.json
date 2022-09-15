@@ -1,0 +1,953 @@
+[
+  {
+    "disease_name": "股外侧皮神经炎",
+    "information": {
+      "introduction": "股外侧皮神经炎(lateral femoral cutaneous neuritis)又称感觉异常性股痛、Bernhardt病、Roth病。为一种股外侧皮肤感觉异常的疾病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "感觉异常股痛症，Bernhardt病",
+        "part": [
+          "皮肤",
+          "周围神经系统",
+          "大腿"
+        ],
+        "infection": "无传染性",
+        "people": "20～50岁较肥胖的男性",
+        "symptom": [
+          "出汗减少",
+          "浅感觉减退或缺失",
+          "大腿刺痛",
+          "大腿外侧痛",
+          "股前外侧麻木、蚁行感"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（3000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "10天",
+        "method": [
+          "中医理疗、药物、物理治疗"
+        ],
+        "examination": [
+          "脊椎平片",
+          "病理反射检查"
+        ],
+        "medicine": [
+          "他克莫司软膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "死胎",
+    "information": {
+      "introduction": "孕妇在怀孕20周以后，胎死宫内称死胎，大约每两百个怀孕案例之中有一例。(胎儿在分娩过程中死亡者称为死产，亦属死胎之一种。)由于大约半数的死胎案例妊娠时期根本没有任何征兆显示存在问题，所以多数父母是在完全没意识到的情况下丧失胎儿。当胎动突然停止时孕妇则可能会怀疑出了状况。半数以上死胎为胎儿缺氧所致，缺氧原因有胎盘因素如前置胎盘、胎盘早期剥离、脐带脱垂、脐带打结、脐带绕颈影响供血;胎儿因素如多胎、胎儿宫内发育迟缓，畸胎;母体因素如妊娠高血压综合征、糖尿病、过期妊娠;子宫局部因素如子宫张力过大或收缩力过强，子宫破裂等。胎儿死亡后，孕妇自觉胎动停止，乳房胀感消失，检查子宫不再继续增大，体重下降，胎心消失，则可考虑死胎可能。B型超声检查提示胎动、胎心消失，有时胎头已变形则可确诊。死胎多数能自行排出，若死后3周未排出，退变的胎盘和羊水释放凝血活酶进入母体血循环，引起弥散性血管内凝血(DIC)。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "胎死宫内",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "孕妇人群",
+        "symptom": [
+          "胎儿宫内窒息",
+          "体重减轻",
+          "胎心音消失（无胎心音）",
+          "胎动减少",
+          "疲乏"
+        ],
+        "complication": [
+          "子宫收缩乏力"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "明确原因后，通常有激素的分泌异常，治愈率约70-80%",
+        "duration": "1周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "胎心胎动",
+          "胎心音",
+          "产科B超",
+          "β1-妊娠特异蛋白",
+          "血清类固醇结合β-球蛋白"
+        ],
+        "medicine": [
+          "胎宝胶囊",
+          "嗣育保胎丸",
+          "氨甲环酸片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "胎宝胶囊",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "嗣育保胎丸(同仁堂)",
+          "grade": "3.86",
+          "total": "5",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "慢性淋巴细胞白血病",
+    "information": {
+      "introduction": "慢淋是一种B淋巴细胞的克隆性恶性疾病(T淋巴细胞少见)。本病常为无痛性的，伴有缓慢进展的成熟的小淋巴细胞的进行性蓄积，这种细胞的免疫机能不全，并且对抗原性刺激反应低下。免疫机能不全与异常的B细胞不适当的抗体形成有关，这些抗体对机体的免疫功能有抑制作用。慢淋的进展期可导致骨髓功能衰竭和直接的组织器官浸润。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢淋,慢性淋巴细胞性白血病",
+        "part": [
+          "淋巴",
+          "血液血管",
+          "骨髓"
+        ],
+        "infection": "无传染性",
+        "people": "60岁以上的人群最常见男性比...",
+        "symptom": [
+          "腹胀",
+          "皮肤瘙痒",
+          "皮肤浸润",
+          "皮肤紫癜"
+        ],
+        "complication": [
+          "多发性骨髓瘤",
+          "肉瘤",
+          "软组织肉瘤",
+          "肺癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "血液科",
+          "肿瘤科"
+        ],
+        "cost": "市三甲医院约（8000 —— 10000元）",
+        "ratio": "治疗后5年生存率在70%左右",
+        "duration": "2-4月",
+        "method": [
+          "药物、化学、放射治疗"
+        ],
+        "examination": [
+          "CT检查",
+          "红细胞检查",
+          "血小板计数",
+          "骨髓象分析",
+          "淋巴细胞计数"
+        ],
+        "medicine": [
+          "注射用磷酸氟达拉滨",
+          "乌苯美司胶囊",
+          "人类T淋巴细胞白血病病毒抗体检测试剂盒(酶联免疫法)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "毛状白斑",
+    "information": {
+      "introduction": "毛状白斑是指发生在舌侧缘的一种呈毛状的白色斑块状损害，是艾滋病患者常见的口腔黏膜病变，又称口腔毛状黏膜白斑、口腔舌侧湿疣。常见于同性恋、异性恋、吸毒者、血友病患者、接受输血和使用血液制品者以及HIV感染的性伴侣等人群中。在20至50岁之间高发。毛状白斑是艾滋病特异性相当高的早期临床症状，患者无自觉症状或伴轻度烧灼疼痛感。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "口"
+        ],
+        "infection": "无传染性",
+        "people": "HIV患者，20至50岁之间高发",
+        "symptom": [
+          "烧灼性疼痛",
+          "舌两侧边缘毛状白斑"
+        ],
+        "complication": [
+          "人乳头瘤病毒"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "传染科"
+        ],
+        "cost": "市三甲医院约(1000--2000元)",
+        "ratio": "40%",
+        "duration": "1-2年",
+        "method": [
+          "中医药物治疗、西医药物治疗"
+        ],
+        "examination": [
+          "皮肤病的物理检查"
+        ],
+        "medicine": [
+          "阿巴卡韦双夫定片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "坏血病",
+    "information": {
+      "introduction": "长期缺乏维生素C可表现为坏血病(scurvy)，现时一般少见，但在缺少青菜、水果的北方牧区，或城、乡对人工喂养儿忽视辅食补充，特别在农村边远地区，仍因喂养不当而致发病。自1970年Pauling发表感冒与维生素C的关系以来，有关维生素C在体内的功能及大剂量临床应用等问题，引起了许多学者的关注。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "维生素C缺乏病,抗坏血酸缺乏,抗坏血酸缺乏病,维生素C营养缺陷病，青腿牙疳",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "维生素C缺乏者易发生",
+        "symptom": [
+          "皮肤皴裂",
+          "皮肤干而发红",
+          "维生素C缺乏",
+          "细菌感染",
+          "衰弱"
+        ],
+        "complication": [
+          "骨质疏松",
+          "营养不良",
+          "中耳炎",
+          "疖",
+          "肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "营养科"
+        ],
+        "cost": "市三甲医院约（1000 —— 2000元）",
+        "ratio": "90%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清酪氨酸",
+          "四肢透视",
+          "毛细血管脆性试验",
+          "尿维生素C",
+          "血清碱性磷酸酶"
+        ],
+        "medicine": [
+          "口服五维葡萄糖",
+          "维生素B2片",
+          "多维元素片(29)"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "男性乳腺癌",
+    "information": {
+      "introduction": "男性乳腺癌(male mammary cancer)是少见的恶性肿瘤，占男性全部癌肿的0.2%～1.5%，占乳腺癌的1%左右。正是由于“男性不会患乳腺癌”这种错误认识，往往导致人们丧失警惕，直到男性乳腺癌癌症晚期才发现罹患乳癌，从而错过了最佳的治疗时机。从理论上说，乳癌的发生是由于乳房细胞内出现恶性肿瘤组织。男性也具备乳腺组织，所以同样也可能导致乳癌。只是由于生理结构的差异，女性罹患乳癌的几率远远大于男性。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "男性乳癌",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "家族中都有亲人患有类似的疾...",
+        "symptom": [
+          "瘙痒",
+          "溃疡",
+          "皮肤发红",
+          "乳头湿疹",
+          "瘙痒"
+        ],
+        "complication": [
+          "乳头溢液"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（10000 —— 100000元）",
+        "ratio": "50%",
+        "duration": "1-2个月",
+        "method": [
+          "药物治疗、手术治疗、支持治疗"
+        ],
+        "examination": [
+          "钼靶X线检查",
+          "p53基因",
+          "血清抗普肯耶细胞抗体"
+        ],
+        "medicine": [
+          "次硝酸铋",
+          "己烯雌酚片",
+          "己烯雌酚片"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "进行性肌营养不良症",
+    "information": {
+      "introduction": "进行性肌营养不良症(progressive myodystrophy)是一组由遗传因素所致的原发性骨骼肌疾病，其临床主要表现为缓慢进行的肌肉萎缩、肌无力及不同程度的运动障碍。本病可由多种遗传方式引起，其临床表现各具有不同的特点，因而形成许多类型。本节仅就其中较主要的类型进行概要介绍。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "进行性肌萎缩,进行性肌营养不良",
+        "part": [
+          "肌肉"
+        ],
+        "infection": "无传染性",
+        "people": "为性连锁隐性遗传型、常染色...",
+        "symptom": [
+          "表情淡漠",
+          "易跌倒",
+          "“鸭步”步态",
+          "关节强硬"
+        ],
+        "complication": [
+          "多重肺部感染",
+          "褥疮",
+          "老年褥疮"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "60%",
+        "duration": "1-3年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "免疫印迹技术",
+          "CT检查",
+          "肌电图",
+          "MRI",
+          "心电图"
+        ],
+        "medicine": [
+          "维生素E软胶囊",
+          "苯丙酸诺龙",
+          "薄芝糖肽注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "食道癌",
+    "information": {
+      "introduction": "食管癌是(esophageal carcinoma)人类常见的恶性肿瘤占所有恶性肿瘤的2%，占食管肿瘤的90%以上，在全部恶性肿瘤死亡回顾调查中仅次于胃癌而居第2位。据估计全世界每年大约有20万人死于食管癌，我国是食管癌高发区，是对人民的生命和健康危害极大的最常见的恶性肿瘤之一。发病年龄多在40岁以上，男性多于女性。但近年来40岁以下发病者有增长趋势。食管癌的发生与亚硝胺慢性刺激、炎症与创伤、遗传因素以及饮水、粮食和蔬菜中的微量元素含量有关。但确切原因不甚明了，有待研究探讨。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "食管癌,膈症,噎膈",
+        "part": [
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "中老年人群",
+        "symptom": [
+          "梗噎",
+          "进食困难",
+          "吞咽困难",
+          "吞咽障碍",
+          "消瘦"
+        ],
+        "complication": [
+          "黄疸",
+          "吸入性肺炎",
+          "肥大性骨关节病",
+          "食管穿孔"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肿瘤科",
+          "消化内科",
+          "胃肠外科"
+        ],
+        "cost": "市三甲医院约（50000-80000元）",
+        "ratio": "3%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗、放化疗"
+        ],
+        "examination": [
+          "血清肿瘤特异性生长因子",
+          "上消化道功能测定和显像",
+          "色素内镜检查",
+          "胃部检查",
+          "多药耐药基因"
+        ],
+        "medicine": [
+          "云芝糖肽胶囊",
+          "复方天仙胶囊",
+          "卡莫氟片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "云芝糖肽胶囊",
+          "grade": "3.16",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方天仙胶囊(春花牌)",
+          "grade": "2.10",
+          "total": "29",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "食道平散(欧珂)",
+          "grade": "1.99",
+          "total": "61",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "抗癌平丸(龙圣堂)",
+          "grade": "3.50",
+          "total": "42",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方红豆杉胶囊(赛诺)",
+          "grade": "2.45",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗癌平丸(鹏鹞)",
+          "grade": "3.47",
+          "total": "21",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "仙蟾片(鹤王山)",
+          "grade": "1.30",
+          "total": "13",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "消癌平口服液(得进)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "消癌平注射液",
+          "grade": "4.60",
+          "total": "42",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗癌平丸",
+          "grade": "3.43",
+          "total": "24",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "消癌平注射液",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消癌平丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "苯中毒",
+    "information": {
+      "introduction": "苯（benzene）是从煤焦油分馏及石油裂解所得的一种芳香烃化合物，系无色有芳香气味的油状液体。挥发甚速，易燃易爆。工业上用作溶剂、稀释剂和化工原料。苯属中等毒类，可引起急性或慢性中毒。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "步态不稳",
+          "恶心",
+          "白细胞减少",
+          "抽搐",
+          "感觉障碍"
+        ],
+        "complication": [
+          "贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科",
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "一般在正规综合三甲医院的典型病例治愈率（治愈率20%）",
+        "duration": "国内最认可的有效治疗手段的...",
+        "method": [
+          "药物治疗、支持疗法"
+        ],
+        "examination": [
+          "先令氏指数",
+          "职业病检查项目",
+          "骨髓象分析"
+        ],
+        "medicine": [
+          "多烯磷脂酰胆碱胶囊",
+          "强肝胶囊",
+          "水飞蓟宾葡甲胺片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "强肝胶囊(奥皇)",
+          "grade": "2.30",
+          "total": "51",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "仁青常觉(甘露)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "放射性肺炎",
+    "information": {
+      "introduction": "放射性肺炎(radiation pneumonitis)系由于肺癌、乳腺癌、食管癌、恶性淋巴瘤或胸部其他恶性肿瘤经放射治疗后，在放射野内的正常肺组织受到损伤而引起的炎症反应。轻者无症状，炎症可自行消散;重者肺脏发生广泛纤维化，导致呼吸功能损害，甚致呼吸衰竭。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "辐射性肺炎",
+        "part": [
+          "肺"
+        ],
+        "infection": "无传染性",
+        "people": "放射性治疗患者，老年和儿童...",
+        "symptom": [
+          "高热",
+          "胸痛",
+          "低烧",
+          "干性咳嗽",
+          "肺纤维化"
+        ],
+        "complication": [
+          "支气管肺炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（10000 —— 50000元）",
+        "ratio": "50%",
+        "duration": "3个月",
+        "method": [
+          "饮食、药物治疗"
+        ],
+        "examination": [
+          "通气/血流比值",
+          "每分钟最大通气量",
+          "PaO2",
+          "肺通气功能",
+          "胸部平片"
+        ],
+        "medicine": [
+          "氟康唑氯化钠注射液",
+          "氟康唑葡萄糖注射液"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "色素痣",
+    "information": {
+      "introduction": "色素痣亦称痣细胞痣(nevocytic nevus)是由痣细胞组成的色素性病变，通常称痣、黑素细胞痣(melanocytic nevus)或痣黑素细胞痣等，是最常见的皮肤良性肿瘤。色素痣几乎每个人均有，可发生于身体任何部位的皮肤，但以面颈部最为常见。少数可发生于黏膜，如口唇、阴唇、睑结合膜等处。可先天具有，也可后天获得。多数生长缓慢，或多年不变，较少自然消退。个别类型的痣，存在交界活力，可发生恶变。通常有一个发展和退化的过程。在幼儿期为扁平的交界痣，以后至青春期随年龄增长痣增大为复合痣或皮内痣。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "痣细胞痣,黑素细胞痣,痣细胞痣,痣黑素细胞痣",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "几乎每人都有，从婴儿期到年...",
+        "symptom": [
+          "斑丘疹",
+          "皮肤含铁血黄素沉着",
+          "斑疹",
+          "胎痣",
+          "血管痣"
+        ],
+        "complication": [
+          "皮肤癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "80%",
+        "duration": "15-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "物理检查"
+        ],
+        "medicine": [
+          "司莫司汀胶囊",
+          "羟基脲片",
+          "氢醌乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "上睑下垂",
+    "information": {
+      "introduction": "眼皮下垂，又称上睑下垂，是指提起上眼睑的肌肉功能部分或全部丧失，以致上睑部分或完全不能上提，当双眼平视前方时，上眼睑遮盖角膜上缘超过2mm以上。提上睑的肌肉有提上睑肌和Müler氏肌，提上睑肌由动眼神经支配，Müler氏肌受颈交感神经支配，当这二个肌肉的功能不全或丧失时，就会出现上眼皮下垂。上睑下垂轻者可遮盖部分瞳孔，严重者则全部瞳孔被遮盖，不但有碍美观，而且还影响视力，为了克服视力障碍，患者常常要紧缩额肌，皱额耸眉以提高上睑位置，严重时则必须仰头甚至用手指抚起上睑才能视物。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "眼",
+          "周围神经系统",
+          "免疫系统"
+        ],
+        "infection": "无传染性",
+        "people": "肌无力症患者多见",
+        "symptom": [
+          "眼睑松弛",
+          "上眼睑增厚松弛",
+          "剥夺性弱视",
+          "霍纳综合征"
+        ],
+        "complication": [
+          "角膜炎",
+          "暴露性角膜炎",
+          "尿道癌",
+          "人流后妇科病",
+          "女性尿道癌"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "眼科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元",
+        "ratio": "60%",
+        "duration": "6个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "眼睑检查",
+          "血清卵泡刺激素",
+          "血清鳞状上皮细胞癌抗原",
+          "产科B超",
+          "眼睑肌力测量计"
+        ],
+        "medicine": [
+          "维生素B1片",
+          "溴新斯的明片",
+          "软性亲水接触镜"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "慢性化脓性中耳炎",
+    "information": {
+      "introduction": "凡因急性化脓性中耳炎治疗不当，细菌毒性过强，机体抵抗力过弱或并发了乳突炎，以致持续流脓1～2个月以上者，都称为慢性化脓性中耳炎。本病发病率较高，国内近年普查小学生千余名，发病变为0.5%～4.3%，山东、河南、贵州省调查农民发病率为1.6%。英国调查小学生发病率为0.9%。罹患者多是青壮年，40岁以后很少发生。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脓耳",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "耳内闭塞感",
+          "耳内发胀",
+          "蠕动感",
+          "耳道流脓",
+          "挖耳出血"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000-5000元）",
+        "ratio": "50%--70%",
+        "duration": "2--3周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "语言检查法",
+          "耳廓检查",
+          "药敏试验",
+          "电测听",
+          "细菌对抗生素敏感试验"
+        ],
+        "medicine": [
+          "盐酸克林霉素棕榈酸酯颗粒",
+          "金莲花分散片",
+          "呋喃西林"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "金莲花分散片(烟霞)",
+          "grade": "3.47",
+          "total": "10",
+          "secondary": "4"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "潮热",
+    "information": {
+      "introduction": "潮热是指发病按时而至，一日一次，按时而发，按时而止，如潮水按时来潮一样，故称为潮热。多为午后潮热，系阴虚、湿热、胃肠实热而引起。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "更年期女性",
+        "symptom": [
+          "午后潮热",
+          "焦虑",
+          "心跳加快",
+          "颧红盗汗",
+          "干咳"
+        ],
+        "complication": [
+          "慢性咳嗽",
+          "发作性睡病",
+          "颅咽管瘤",
+          "恶寒发热",
+          "小儿风湿热"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 1000元）",
+        "ratio": "60-70%",
+        "duration": "3-6个月",
+        "method": [
+          "中医治疗、药物治疗"
+        ],
+        "examination": [
+          "雌激素"
+        ],
+        "medicine": [
+          "脑力宝丸",
+          "六味地黄丸",
+          "定坤丹"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "脑力宝丸(聪宁丹)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "六味地黄丸(仲景)",
+          "grade": "1.82",
+          "total": "63",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "定坤丹(广誉远)",
+          "grade": "2.23",
+          "total": "63",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "坤泰胶囊",
+          "grade": "2.97",
+          "total": "94",
+          "secondary": "65"
+        },
+        {
+          "medicine_name": "六味地黄丸(九芝堂)",
+          "grade": "3.99",
+          "total": "244",
+          "secondary": "242"
+        },
+        {
+          "medicine_name": "六味地黄丸(同仁堂)",
+          "grade": "1.34",
+          "total": "46",
+          "secondary": "26"
+        },
+        {
+          "medicine_name": "麦味地黄丸(同仁堂)(大蜜丸)",
+          "grade": "4.79",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "知柏地黄丸(同仁堂)",
+          "grade": "2.70",
+          "total": "153",
+          "secondary": "142"
+        },
+        {
+          "medicine_name": "坤宝丸(同仁堂)",
+          "grade": "2.57",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "杞菊地黄丸(同仁堂)(水蜜丸)",
+          "grade": "3.09",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "归芍地黄丸(同仁堂)",
+          "grade": "3.54",
+          "total": "6",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "更年安片(乐仁堂)",
+          "grade": "3.14",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大补阴丸(胡庆余堂)",
+          "grade": "3.06",
+          "total": "4",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "知柏地黄丸(同仁堂)(大蜜丸)",
+          "grade": "4.32",
+          "total": "149",
+          "secondary": "142"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "原发性胆汁性肝硬化",
+    "information": {
+      "introduction": "原发性肝内硬化（Hanot）综合征系指肝内胆管的非特异性炎症、纤维化而致肝内胆汁淤积、肝硬化伴结节性增生而产生的一组症候群。现习惯称为原发性胆汁性肝硬化、另名为慢性非化脓性破坏性胆管炎、胆管性肝炎、胆管胆汁性肝硬化、肝内梗阻性胆汁性肝硬化等。本征可能是由于自身免疫异常而致隔胆管及小叶间胆管非化脓性破坏性炎症，伴胆小管增生；破坏、瘢痕形成；肝小叶结构破坏、再生结节形成；呈现明显胆汁淤滞的肝硬化组织学改变。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肥大性肝硬化，汉诺特肝硬化",
+        "part": [
+          "肝"
+        ],
+        "infection": "无传染性",
+        "people": "无特发人群",
+        "symptom": [
+          "肝叶萎缩",
+          "门静脉血流郁滞",
+          "肝星状细胞增生",
+          "肝脏轻度脂肪变性",
+          "巩膜黄染"
+        ],
+        "complication": [
+          "皮肤瘙痒症",
+          "骨质疏松",
+          "上消化道出血",
+          "肝性脑病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "肝病",
+          "内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（20000 ——50000元）",
+        "ratio": "85%",
+        "duration": "3-6月",
+        "method": [
+          "药物治疗、肝移植"
+        ],
+        "examination": [
+          "血清抗线粒体抗体",
+          "血清抗组蛋白抗体",
+          "血脂",
+          "血清结合胆红素",
+          "血清免疫球蛋白M"
+        ],
+        "medicine": [
+          "注射用丁二磺酸腺苷蛋氨酸",
+          "氨苯蝶啶片",
+          "熊去氧胆酸胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  }
+]

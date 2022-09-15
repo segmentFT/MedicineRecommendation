@@ -1,0 +1,1077 @@
+[
+  {
+    "disease_name": "苯丙酮尿症",
+    "information": {
+      "introduction": "苯丙酮尿症(phenyl ketonuria，PKU)是由于肝脏苯丙氨酸羟化酶(phenylalanine hydroxylase，PAH)缺乏或活性减低而导致苯丙氨酸代谢障碍的一种遗传性疾病。在遗传性氨基酸代谢缺陷疾病中比较常见，遗传方式为常染色体隐性遗传。临床表现不均一，主要临床特征为智力低下、精神神经症状、湿疹、皮肤抓痕征及色素脱失和尿液中鼠气味等，脑电图异常。如果能得到早期诊断和早期治疗，则前述临床表现可不发生，智力正常，脑电图异常也可得到恢复。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "苯丙氨酸羟化酶缺乏症,苯酮尿症",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": " 儿童 ",
+        "symptom": [
+          "毛发色淡而呈棕色",
+          "尿中有特殊鼠臭味",
+          "智力发育迟缓",
+          "皮肤苍白",
+          "烦躁不安"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "内分泌科"
+        ],
+        "cost": "市三甲医院约20000--50000元",
+        "ratio": "10%",
+        "duration": "1-6个月",
+        "method": [
+          "西药治疗、食疗"
+        ],
+        "examination": [
+          "CT检查",
+          "苯丙酮尿症筛查",
+          "血清苯丙氨酸",
+          "MRI",
+          "脑电图"
+        ],
+        "medicine": "?"
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "胃病",
+    "information": {
+      "introduction": "    所谓胃病，是与胃相关的许多疾病的统称。它们有相似的症状，如上腹部不适、疼痛、暖气、返酸等。临床上常见的胃病有：急性胃炎、慢性胃炎、功能性消化不良、胃潴留、胃溃疡、急性胃扩张、胃息肉和胃癌等。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "疣状胃炎伴米烂",
+        "part": [
+          "胃"
+        ],
+        "infection": "无传染性",
+        "people": "40～50岁之间。没按时吃饭的...",
+        "symptom": [
+          "腹部不适",
+          "肚子疼",
+          "恶心与呕吐",
+          "胃部隐痛",
+          "间歇性胃痛"
+        ],
+        "complication": [
+          "幽门梗阻",
+          "消化性溃疡",
+          "上消化道出血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "75%",
+        "duration": "10-15天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "胃电图",
+          "胃充盈及排空功能",
+          "便常规",
+          "胃肠道CT",
+          "胃镜检查"
+        ],
+        "medicine": [
+          "康复新液",
+          "胃炎宁颗粒",
+          "三九胃泰颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "康复新液(好医生)",
+          "grade": "4.17",
+          "total": "229",
+          "secondary": "21"
+        },
+        {
+          "medicine_name": "胃炎宁颗粒(远达)",
+          "grade": "3.99",
+          "total": "172",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "三九胃泰颗粒(无糖型)",
+          "grade": "2.15",
+          "total": "155",
+          "secondary": "111"
+        },
+        {
+          "medicine_name": "胃病丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "良附丸(同仁堂)",
+          "grade": "3.70",
+          "total": "9",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "胃病丸",
+          "grade": "2.96",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "开胸顺气丸(同仁堂)",
+          "grade": "4.09",
+          "total": "23",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "气滞胃痛颗粒(999)",
+          "grade": "2.82",
+          "total": "17",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "胃苏颗粒",
+          "grade": "2.25",
+          "total": "23",
+          "secondary": "19"
+        },
+        {
+          "medicine_name": "健脾丸(仲景)",
+          "grade": "2.11",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "小儿惊厥",
+    "information": {
+      "introduction": "小儿惊厥是指由于脑神经功能紊乱导致的全身或局部肌群呈强直性和阵挛性抽搐，常伴有意识障碍。惊厥是小儿常见的急诊，尤多见于婴幼儿。发病率很高，约5～6%的小儿曾有过一次或多次惊厥。惊厥频繁发作或持续状态危及生命或可使患儿遗留严重的后遗症，影响小儿智力发育和健康。小儿惊厥发病率为成人的10倍，尤以婴幼儿多见。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "颅脑",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "以婴幼儿多见",
+        "symptom": [
+          "牙关紧闭",
+          "意识丧失",
+          "瞳孔大小不等",
+          "呼吸衰竭",
+          "烦躁不安"
+        ],
+        "complication": [
+          "脑瘫",
+          "癫痫"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 10000元）",
+        "ratio": "80%",
+        "duration": "1-7天",
+        "method": [
+          "药物治疗、支持治疗"
+        ],
+        "examination": [
+          "脑脊液检查-化学检查-蛋白质检查",
+          "尿常规",
+          "便常规",
+          "血液生化六项",
+          "心电图"
+        ],
+        "medicine": [
+          "羚羊角口服液",
+          "卡马西平片",
+          "万氏牛黄清心丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "羚羊角口服液(山丹)",
+          "grade": "2.11",
+          "total": "26",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸(冯了性)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "珠珀惊风散",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸(达仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸(方健)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "牛黄醒脑丸",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "婴儿安片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "婴儿安片",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸(大蜜丸)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "万氏牛黄清心丸",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "乳腺结核",
+    "information": {
+      "introduction": "乳腺结核，多继发于肺结核、肠结核或肠系膜淋巴结构，经血行传播至乳房所引起的结核，临床较少见。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "20～40岁妇女",
+        "symptom": [
+          "皮肤粘连",
+          "结节",
+          "脓肿",
+          "乳痛症",
+          "低烧"
+        ],
+        "complication": [
+          "肺结核",
+          "骨结核",
+          "肠结核"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（15000-20000元）",
+        "ratio": "60%",
+        "duration": "1-3个月",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "乳腺超声",
+          "乳房摄片",
+          "乳腺导管造影",
+          "乳腺检查",
+          "乳房检查"
+        ],
+        "medicine": [
+          "异烟肼",
+          "异烟肼",
+          "夏枯草膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "夏枯草膏(本草纲目牌)",
+          "grade": "2.24",
+          "total": "49",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草口服液(即瑞)",
+          "grade": "3.55",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "乳核内消液(同仁堂)",
+          "grade": "2.0",
+          "total": "23",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草胶囊(紫辰宣)",
+          "grade": "2.0",
+          "total": "9",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "夏枯草颗粒(雪立丁)",
+          "grade": "4.7",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草片",
+          "grade": "2.07",
+          "total": "11",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "2.07",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏(同仁堂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草膏(飞云)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏(方健)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "夏枯草颗粒",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏枯草膏",
+          "grade": "1.99",
+          "total": "6",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "食管压迫型颈椎病",
+    "information": {
+      "introduction": "食管压迫型颈椎病又称吞咽困难型颈椎病，在临床上相对少见。正是因为其少见，因而易被误诊或漏诊。因此，应引起注意。颈椎病包括：颈型颈椎病、神经根型颈椎病、脊髓型颈椎病、椎动脉型颈椎病、交感神经型颈椎病、食管压迫型颈椎病。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "吞咽困难型颈椎病",
+        "part": [
+          "颈部",
+          "脊柱",
+          "食管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "仰颈时吞咽困难",
+          "吞咽困难"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（5000 — 10000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "颈椎CT",
+          "食管钡餐透视",
+          "MRI"
+        ],
+        "medicine": [
+          "骨筋丸胶囊",
+          "颈复康颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "骨筋丸胶囊(远达)",
+          "grade": "1.75",
+          "total": "5",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "颈复康颗粒(颈复康)",
+          "grade": "2.44",
+          "total": "286",
+          "secondary": "220"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "急性支气管炎",
+    "information": {
+      "introduction": "急性支气管炎是病毒或细菌等病原体感染所致的支气管粘膜炎症。是婴幼儿时期的常见病、多发病，往往继发于上呼吸道感染之后，也常为肺炎的早期表现。本病多同时累及气管、支气管，故正确命名应为急性气管支气管炎。临床以咳嗽伴(或不伴)有支气管分泌物增多为特征。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "气管"
+        ],
+        "infection": "无传染性",
+        "people": "婴幼儿，及体弱者多见",
+        "symptom": [
+          "咳嗽",
+          "鼻塞",
+          "寒战",
+          "低烧",
+          "干咳"
+        ],
+        "complication": [
+          "小儿急性支气管炎",
+          "急性细支气管炎",
+          "小儿急性气管支气管炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "治愈率97%",
+        "duration": "治疗周期7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "电子支气管镜",
+          "血液生化六项",
+          "胸透",
+          "胸部平片",
+          "等流量容积"
+        ],
+        "medicine": [
+          "阿莫西林片",
+          "罗红霉素胶囊",
+          "氨溴特罗口服溶液"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "清肺消炎丸(清肺消炎丸(达仁堂))",
+          "grade": "3.5",
+          "total": "4",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "3.99",
+          "total": "114",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "4.29",
+          "total": "26",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "支气管炎片",
+          "grade": "4.46",
+          "total": "54",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "支气管炎片(苗仁堂)",
+          "grade": "3.98",
+          "total": "63",
+          "secondary": "18"
+        },
+        {
+          "medicine_name": "急支糖浆",
+          "grade": "3.25",
+          "total": "24",
+          "secondary": "17"
+        },
+        {
+          "medicine_name": "百令胶囊(百令)",
+          "grade": "2.59",
+          "total": "65",
+          "secondary": "33"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "儿童睡眠障碍",
+    "information": {
+      "introduction": "睡眠障碍一般发生在2-12岁的儿童身上，不只是成年人的“专利”。当然，儿童睡眠障碍不如成年人睡眠障碍那样，不是以入睡困难、早醒为主，而是以有效睡眠时间短，睡眠质量降低为主。良好的作息习惯和睡眠卫生能够促进大脑正常发育并得到充分休息。生理需要睡眠时间与年龄因素密切相关，但睡眠时间长短和深浅，可有个体差异。婴儿及儿童可有多种形式的睡眠障碍，如入睡困难、睡眠不安、梦魇、夜惊、梦行症等。　",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "心理"
+        ],
+        "infection": "无传染性",
+        "people": "2-12岁的儿童",
+        "symptom": [
+          "婴儿睡觉不踏实",
+          "婴儿睡眠少",
+          "保持睡眠障碍性失眠",
+          "梦游",
+          "紧张性疲劳"
+        ],
+        "complication": [
+          "失眠症"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科",
+          "神经内科"
+        ],
+        "cost": "根据不同医院，收费是不一样的，市三甲医院约（1000-2000元）",
+        "ratio": "90%",
+        "duration": "7-10天",
+        "method": [
+          "药物治疗、精神治疗"
+        ],
+        "examination": [
+          "必需微量元素",
+          "耳鼻咽喉CT",
+          "颅脑CT",
+          "脑电图"
+        ],
+        "medicine": [
+          "景志安神口服液",
+          "复方枣仁胶囊",
+          "豆腐果苷片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "复方枣仁胶囊(遇而安)",
+          "grade": "4.54",
+          "total": "185",
+          "secondary": "184"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "胎盘早剥",
+    "information": {
+      "introduction": "妊娠20周后或分娩期，正常位置的胎盘在胎儿娩出前，部分或全部从子宫壁剥离，称为胎盘早剥。胎盘早剥是妊娠晚期的一种严重并发症，具有起病急、进展快，若处理不及时，可危及母儿生命。国内报道的发生率为4.6‰～21‰，国外的发生率为5.1‰～23.3‰。发生率高低与分娩后是否仔细检查胎盘有关。有些轻型胎盘早剥于临产前可无明显症状，只在产后检查胎盘时，发现早剥处有凝血块压迹，此类患者易被忽略。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "胎盘的过早分离,胎盘早期剥离,胎盘早期脱离",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "孕妇人群",
+        "symptom": [
+          "阴道流血过多",
+          "妊娠时伴有腹痛的阴道流血",
+          "阴道出血",
+          "子宫有局限性轻压痛",
+          "妊娠时持续性腹痛或腰酸腰痛"
+        ],
+        "complication": [
+          "妊娠期急性肾功能衰竭"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000-5000元）",
+        "ratio": "70-80%",
+        "duration": "6-12周",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "二氧化碳结合力",
+          "尿酸",
+          "腹部外形触诊",
+          "产科B超"
+        ],
+        "medicine": [
+          "安胎丸",
+          "保胎灵"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安胎丸(中华)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "保胎灵(皇甫谧)",
+          "grade": "1.72",
+          "total": "3",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "婴幼儿阴道炎",
+    "information": {
+      "introduction": "婴幼儿阴道炎，多发生在2-9岁的幼女，是女性婴幼儿的常见病。多伴有外阴炎，因此，常统称为婴幼儿外阴、阴道炎。常见的阴道炎有：非特异性阴道炎 、细菌性阴道炎、念珠菌性阴道炎、滴虫性阴道炎、霉菌性阴道炎、蛲虫性阴道炎、过敏性阴道炎、 结核性阴道炎、阴道嗜血杆菌性阴道炎、阿米巴性阴道炎、老年性阴道炎。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "多发生在2～9岁的幼女",
+        "symptom": [
+          "外阴烧灼刺激感",
+          "外阴肿胀",
+          "婴幼儿外阴疼痛",
+          "阴道分泌物增多",
+          "阴道分泌物增多"
+        ],
+        "complication": [
+          "拉肚子"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "儿科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 7000元）",
+        "ratio": "100%",
+        "duration": "7天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "线索细胞",
+          "阴道分泌物涂片",
+          "阴道镜",
+          "外阴部妇科常规检查"
+        ],
+        "medicine": [
+          "甲硝唑氯己定洗剂",
+          "甲硝唑氯己定洗剂(浓)",
+          "重组人干扰素α2a栓"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "子宫破裂",
+    "information": {
+      "introduction": "子宫破裂是指子宫体部或子宫下段于分娩期或妊娠期发生裂伤，为产科严重并发症，威胁母儿生命。主要死于出血、感染休克。随着产科质量的提高，城乡妇幼卫生保健网的建立和逐步健全发生率显著下降。城市医院已很少见到，而农村偏远地区时有发生。子宫破裂绝大多数发生于妊娠28周之后，分娩期最多见，目前发生率控制在1‰以下，产妇病死率为5%，婴儿病死率高达50%～75%甚至更高。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "产妇",
+        "symptom": [
+          "先兆子宫破裂",
+          "下腹疼痛",
+          "烦躁不安",
+          "子宫压痛",
+          "子宫破裂征象"
+        ],
+        "complication": [
+          "胎死不下"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "产科",
+          "急诊科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000-10000元）",
+        "ratio": "75%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗"
+        ],
+        "examination": [
+          "盆腔和阴道B超",
+          "产科B超",
+          "腹腔穿刺术"
+        ],
+        "medicine": [
+          "卡络磺钠片",
+          "卡络磺钠",
+          "氨甲环酸"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "热射病",
+    "information": {
+      "introduction": "“热射病”是最严重的一种中暑类型。中暑后如治疗不及时，将引发“热射病”，如得不到及时妥善的救治，死亡率高达50%。“热射病”是指在高温高湿的天气下，人的皮肤散热功能下降，引起肌肉温度升高，继而影响全身各器官组织的功能，出现发热、哮喘、呼吸困难、血压升高、呼吸衰竭等病症。该病通常发生在夏季高温同时伴有高湿的天气。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "重症中暑",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "高热",
+          "血压高",
+          "呼吸衰竭",
+          "热衰竭",
+          "出汗异常"
+        ],
+        "complication": [
+          "中暑",
+          "产褥中暑",
+          "中暑衰竭",
+          "小儿中暑和暑热症",
+          "中暑痉挛"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "急诊科"
+        ],
+        "cost": "市三甲医院约1000-3000元",
+        "ratio": "70%",
+        "duration": "2-4周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "体温"
+        ],
+        "medicine": [
+          "复方青蒿安乃近片",
+          "紫雪散"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "紫雪散(紫雪)",
+          "grade": "2.26",
+          "total": "5",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "阴道前壁膨出",
+    "information": {
+      "introduction": "阴道前壁膨出(bulge of paries anterior vaginase)非常多见，实际上是膀胱和尿道膨出常合并排尿功能的紊乱。轻度膨出一般没有任何症状;当脱出严重时，则出现临床症状，这时则需要治疗。妇女为了将尿排净，常需要压迫阴道或用手还纳脱垂的组织。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "膀胱疝",
+        "part": [
+          "阴道"
+        ],
+        "infection": "无传染性",
+        "people": "顺产的妇女多见",
+        "symptom": [
+          "盆腔坠痛",
+          "括约肌功能障碍",
+          "排尿不畅",
+          "性交困难"
+        ],
+        "complication": [
+          "膀胱炎",
+          "肾积水"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科"
+        ],
+        "cost": "市三甲医院约（500 —— 2000元）",
+        "ratio": "92%",
+        "duration": "5天",
+        "method": [
+          "子宫托治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "内镜检查",
+          "子宫及附件检查",
+          "阴道细胞学检查"
+        ],
+        "medicine": [
+          "尿感宁颗粒",
+          "四季草颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "尿感宁颗粒(信邦)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "四季草颗粒(本草经方)",
+          "grade": "3.18",
+          "total": "3",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "浆细胞性乳腺炎",
+    "information": {
+      "introduction": "乳腺导管扩张症(dilation of mammary duct)是一种并不少见的病程冗长、病变复杂而多样化的慢性乳腺病，常见于中、老年女性，高峰年龄为 50-60岁。曾被命名为“静脉扩张肿”、“浆细胞性乳腺炎”、“粉刺性乳腺炎”等，被命名为“乳腺导管扩张症”是因为Haagensen和Stout根据其病理特点认为，浆细胞浸润仅是本病后期的一种炎症反应，其始发病变及其病理特征是以乳腺导管扩张为其基本病变。近来有学者认为浆细胞性乳腺炎不是乳腺导管扩张症的必然过程，浆细胞性乳腺炎有其特征性的形态和临床表现，而将其作为乳腺炎的一种特殊类型。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "乳腺导管扩张症,闭塞性乳腺炎,粉刺性乳腺炎,静脉扩张肿",
+        "part": [
+          "乳房"
+        ],
+        "infection": "无传染性",
+        "people": "中、老年女性居多",
+        "symptom": [
+          "淋巴结肿大",
+          "皮肤粘连",
+          "乳腺退化不全",
+          "脓肿",
+          "高热"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "乳腺外科"
+        ],
+        "cost": "市三甲医院约（3000—— 8000元）",
+        "ratio": "80%",
+        "duration": "?",
+        "method": [
+          "手术治疗、药物治疗"
+        ],
+        "examination": [
+          "乳房摄片",
+          "乳腺导管造影",
+          "近红外线乳腺扫描",
+          "乳管镜",
+          "乳腺检查"
+        ],
+        "medicine": [
+          "乳宁片",
+          "乳宁片",
+          "盐酸左氧氟沙星胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "乳宁片",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳宁片",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乳宁片(众悦)",
+          "grade": "2.73",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肛周炎",
+    "information": {
+      "introduction": "肛周炎是大汗腺的化脓性细菌感染性疾病，常发生于中青年，其特点是结节溃疡，甚则形成瘘管。此病为大汗腺闭塞，继发细菌感染。多半由金黄色葡萄球菌引起，有时可因链球菌、大肠杆菌、变形杆菌感染所致。与出汗过多、卫生状况差、磨擦、搔抓、外伤有关。初起形成皮下结节，化脓破溃后形成局部溃疡，最终疤痕愈合。初起单个或数个豌豆大皮下结节，局部呈半球状隆起，可增大至胡桃大，红肿疼痛，全身症状轻微，经数周或数月结节软化，深部化脓，破溃后形成溃疡。也右缠绵日久呈慢性过程，或形成广泛瘘道。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "肛门"
+        ],
+        "infection": "无传染性",
+        "people": "常发生于中青年",
+        "symptom": [
+          "肛门瘙痒",
+          "肛门疼痛",
+          "肛周皮肤有湿疹"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肛肠外科",
+          "皮肤科"
+        ],
+        "cost": "?",
+        "ratio": "?",
+        "duration": "?",
+        "method": "?",
+        "examination": "?",
+        "medicine": [
+          "京万红痔疮膏",
+          "头孢泊肟酯片",
+          "头孢泊肟酯胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "京万红痔疮膏(京万红)",
+          "grade": "4.05",
+          "total": "41",
+          "secondary": "2"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "结核性腹膜炎",
+    "information": {
+      "introduction": "结核性腹膜炎(Tuberculous peritonitis)是由结核杆菌引起的慢性弥漫性腹膜感染。以儿童、青壮年多见。女略多于男，为1.2~2.0：1。临床表现主要为倦怠、发热、腹痛与腹胀等，可引起肠梗阻、肠穿孔和形成瘘管等并发症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "腹膜"
+        ],
+        "infection": "有传染性",
+        "people": "20～40岁，女性多于男性",
+        "symptom": [
+          "腹部“柔韧感”体征",
+          "急性腹痛",
+          "肠子粘连",
+          "强迫仰卧位",
+          "腹水"
+        ],
+        "complication": [
+          "肠梗阻"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "消化内科",
+          "普外科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "70-80%",
+        "duration": "2年",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "腹部平片",
+          "结核菌素皮内试验",
+          "十二指肠钡餐造影",
+          "腹水检查",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "磷霉素钙胶囊",
+          "氟康唑片",
+          "大黄  虫丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "大黄  虫丸(大黄庶虫丸(丽夫宝)",
+          "grade": "0.0",
+          "total": "1",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄  虫丸",
+          "grade": "3.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "大黄庶虫丸",
+          "grade": "3.73",
+          "total": "12",
+          "secondary": "0"
+        }
+      ]
+    }
+  }
+]

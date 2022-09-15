@@ -1,0 +1,1326 @@
+[
+  {
+    "disease_name": "肾盂肾炎",
+    "information": {
+      "introduction": "肾盂肾炎(pyelonephritis)是指肾脏盂的炎症，大都由细菌感染引起，一般伴下泌尿道炎症，临床上不易严格区分。根据临床病程及疾病，肾盂肾炎可分为急性及慢性两期，慢性肾盂肾炎是导致慢性肾功能不全的重要原因。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "成年人",
+        "symptom": [
+          "腰酸背痛",
+          "肾区压痛",
+          "高热寒战",
+          "发烧",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "市三甲医院约（500-1000元）",
+        "ratio": "治愈率82%",
+        "duration": "治疗周期90天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾病类尿常规",
+          "尿酸",
+          "尿浓缩试验",
+          "尿液细胞学检查"
+        ],
+        "medicine": [
+          "复方α-酮酸片",
+          "吗替麦考酚酯胶囊",
+          "尿石通丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "尿石通丸(亚洲制药)",
+          "grade": "4.65",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "热淋清颗粒(威门)",
+          "grade": "1.72",
+          "total": "78",
+          "secondary": "30"
+        },
+        {
+          "medicine_name": "石淋通片(万年青)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "强肾片",
+          "grade": "1.75",
+          "total": "24",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "复方石韦片(颈复康)",
+          "grade": "2.95",
+          "total": "11",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "三金片(三金)",
+          "grade": "2.54",
+          "total": "134",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "三金片",
+          "grade": "3.15",
+          "total": "51",
+          "secondary": "49"
+        },
+        {
+          "medicine_name": "益肾化湿颗粒(康臣)",
+          "grade": "4.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石韦颗粒(金扬沙)",
+          "grade": "2.92",
+          "total": "3",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方石韦胶囊(新石伟)",
+          "grade": "4.23",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银蒲解毒片(玉林)",
+          "grade": "1.5",
+          "total": "3",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "石淋通片(新峰药业)",
+          "grade": "5.0",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑动脉硬化症",
+    "information": {
+      "introduction": "脑动脉硬化症指脑动脉硬化后，因脑部多发性梗塞、软化、坏死和萎缩引起神经衰弱综合征、动脉硬化性痴呆、假性延髓麻痹等慢性脑病。脑动脉硬化症可引起TCIA、脑卒中等急性脑循环障碍以及慢性脑缺血症状，症状体征与TCIA、脑卒中及血管性痴呆等不同，有TCIA或轻症脑卒中既往史但无明显后遗症时，诊断脑动脉硬化症更恰当。因此，脑动脉硬化症的诊断目前仍有保留的必要，有利于提醒病人和医生早期防治脑卒中。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "脑动脉硬化，脑络痹",
+        "part": [
+          "颅脑",
+          "血液血管"
+        ],
+        "infection": "无传染性",
+        "people": "于40岁以上的中老年人，男性...",
+        "symptom": [
+          "脑缺血",
+          "脑功能不全",
+          "疲乏",
+          "记忆力障碍",
+          "伴高血压"
+        ],
+        "complication": [
+          "高脂血症",
+          "糖尿病和高血压"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（30000 —— 50000元）",
+        "ratio": "70%",
+        "duration": "3-6周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "便常规",
+          "颈动脉彩超",
+          "大生化检查",
+          "血液生化六项"
+        ],
+        "medicine": [
+          "通脉颗粒",
+          "尼麦角林片",
+          "脑心清片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "通脉颗粒(通脉冲剂)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑心清片(白云山)",
+          "grade": "3.87",
+          "total": "11",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "脑络通胶囊(白云山)",
+          "grade": "3.87",
+          "total": "43",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心脑康胶囊",
+          "grade": "3.64",
+          "total": "44",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "银丹心脑通软胶囊(百灵)",
+          "grade": "2.96",
+          "total": "90",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "脑心清片(白云山)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "乐脉片(维朗)",
+          "grade": "2.30",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "心脑康胶囊",
+          "grade": "2.11",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "跖疣",
+    "information": {
+      "introduction": "跖疣是发生在足底部的寻常疣。跖疣是发生于足底的赘生物。古医籍有称之为牛程蹇。本病西医称为跖疣。疣是人类乳头状瘤病毒（HPV）感染引起，可通过直接或间接接触传播，外伤或皮肤破损对HPV感染也是一个重要的因素。疣的病程与机体免疫有重要的关系。疣在相对健康人群长期不消退的机制目前尚未清楚，可能与局部或全身的免疫功能低下或产生免疫耐受有关。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "牛程蹇,瘊子",
+        "part": [
+          "足部"
+        ],
+        "infection": "有传染性",
+        "people": "所有人群",
+        "symptom": [
+          "掌跖角化过度",
+          "压痛",
+          "掌趾皮肤黄色角化物",
+          "表皮角化",
+          "角质增厚"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "外科"
+        ],
+        "cost": "市三甲医院约（500 —— 800元）",
+        "ratio": "85%",
+        "duration": "1-2周",
+        "method": [
+          "手术治疗、激光治疗、药物治疗"
+        ],
+        "examination": "?",
+        "medicine": [
+          "疣体剥离刀"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "猩红热",
+    "information": {
+      "introduction": "猩红热是由一种A组乙型溶血性链球菌引起的急性出疹性呼吸道传染病，中医称它为“烂喉痧”，主要发生在冬春季节。任何年龄均可患病，但2～8岁的宝宝最容易被感染。临床以发热、咽峡炎、全身弥漫性猩红色皮疹和疹退后皮肤脱屑为特征。少数人在病后可出现变态反应性心、肾并发症。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "烂喉丹痧",
+        "part": [
+          "咽喉",
+          "全身"
+        ],
+        "infection": "有传染性",
+        "people": "儿童 ",
+        "symptom": [
+          "高热",
+          "杨梅样舌",
+          "猩红热样皮疹",
+          "咽痛",
+          "头痛"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "传染科"
+        ],
+        "cost": "市三甲医院约10000--30000元",
+        "ratio": "85%",
+        "duration": "?",
+        "method": [
+          "西药治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "狄克试验",
+          "腹部皮肤检查",
+          "抗链球菌溶血素“O”试验",
+          "耳、鼻、咽拭子细菌培养 "
+        ],
+        "medicine": [
+          "头孢克洛干混悬剂",
+          "青霉素V钾片",
+          "头孢克肟颗粒(达力芬)"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "子宫脱垂",
+    "information": {
+      "introduction": "子宫下垂也叫子宫脱垂，子宫内壁不能良好收缩复原，下垂到阴道中，严重的可能伸到体外。子宫下垂一般的症状,至少会有下坠感 (下腹有东西要掉出来的感觉),平时就会腰酸背痛,严重时还会拖累膀胱及直肠,而会有频尿、小便解不干净或大便不顺之感。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "子宫脱出",
+        "part": [
+          "子宫"
+        ],
+        "infection": "无传染性",
+        "people": "女性人群",
+        "symptom": [
+          "子宫呈葫芦状",
+          "子宫附件肿块",
+          "腰骶部酸痛",
+          "白带增多"
+        ],
+        "complication": [
+          "子宫脱垂",
+          "流产",
+          "卵巢早衰",
+          "中气不足",
+          "子宫性不孕"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "妇科",
+          "生殖健康"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（1000 —— 3000元）",
+        "ratio": "外科手术治愈率约为60-70%",
+        "duration": "8-12周",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "阴道窥器检查",
+          "盆腔和阴道B超",
+          "妇科常规检查",
+          "盆腔CT",
+          "妇科B超"
+        ],
+        "medicine": [
+          "酒石酸托特罗定片",
+          "聚甲酚磺醛溶液",
+          "黄芪颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "黄芪颗粒(无蔗糖)",
+          "grade": "2.17",
+          "total": "18",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "黄芪片(传国神麒)",
+          "grade": "1.2",
+          "total": "4",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "黄芪颗粒(汉方)",
+          "grade": "2.86",
+          "total": "9",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "黄芪颗粒(好好)",
+          "grade": "3.83",
+          "total": "10",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "补中益气颗粒(吉灵参)",
+          "grade": "3.80",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "北芪片(丹宁)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "北芪片(亚宝)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄芪片",
+          "grade": "1.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "黄芪颗粒",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "黄芪颗粒(乐家老铺)",
+          "grade": "3.0",
+          "total": "3",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "黄芪颗粒",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "亚急性甲状腺炎",
+    "information": {
+      "introduction": "亚急性甲状腺炎又称病毒性甲状腺炎，De Quervain甲状腺炎，肉芽肿性甲状腺炎或巨细胞性甲状腺炎等，系1904年由De Quervain首先报告。本病近年来逐渐增多，临床变化复杂，可有误诊及漏诊，且易复发，导致健康水平下降，但多数患者可得到痊愈。本病可因季节或病毒流行而有人群发病的特点。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "肉芽肿性甲状腺炎,瘿痈，亚急性肉芽肿性甲状腺炎",
+        "part": [
+          "甲状腺"
+        ],
+        "infection": "无传染性",
+        "people": "30-50岁女性为发病高峰",
+        "symptom": [
+          "甲状腺机能亢进",
+          "甲状腺肿",
+          "低烧",
+          "头痛",
+          "怕冷"
+        ],
+        "complication": [
+          "甲亢",
+          "眼球突出"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "内分泌科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（3000 —— 5000元）",
+        "ratio": "治愈率81%",
+        "duration": "治疗周期180天",
+        "method": [
+          "饮食、运动、药物治疗"
+        ],
+        "examination": [
+          "血清促甲状腺激素",
+          "甲状腺素(T4)",
+          "血清TRAb",
+          "白细胞数",
+          "血沉方程K值"
+        ],
+        "medicine": [
+          "蒲地蓝消炎片",
+          "消炎片",
+          "注射用甲泼尼龙琥珀酸钠"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "蒲地蓝消炎片",
+          "grade": "1.19",
+          "total": "16",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "消炎片(平康)",
+          "grade": "0.8",
+          "total": "3",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "脑膜炎",
+    "information": {
+      "introduction": "脑膜炎是一种娇嫩的脑膜或脑脊膜(头骨与大脑之间的一层膜)被感染的疾病。此病通常伴有细菌或病毒感染身体任何一部分的并发症，比如耳部、窦或上呼吸道感染。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "颅脑"
+        ],
+        "infection": "有传染性",
+        "people": "中老年人",
+        "symptom": [
+          "头痛",
+          "颈部僵硬",
+          "抽搐",
+          "脑脊液白细胞增加",
+          "食欲不振"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "脑外科",
+          "传染科",
+          "营养科"
+        ],
+        "cost": "市三甲医院约（3000-5000元）",
+        "ratio": "50%",
+        "duration": "2-4个月",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "脑脊液的化学检查",
+          "脑脊液一般性状",
+          "脑膜刺激征",
+          "脑脊液脑膜炎球菌抗原",
+          "脑脊液结核性脑膜炎抗体"
+        ],
+        "medicine": [
+          "伊曲康唑胶囊",
+          "利福喷丁胶囊",
+          "安宫牛黄丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "安宫牛黄丸(木盒金衣)",
+          "grade": "2.30",
+          "total": "13",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "安宫牛黄丸(中一)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "网球肘",
+    "information": {
+      "introduction": "肱骨外上髁炎(exteRNAl humeral epicondylitis)又称网球肘或桡侧伸腕肌肌腱损伤。该病与职业有关，多见于需反复用力伸腕活动的成年人，尤其是频繁地用力旋转前臂者易罹患。如网球、高尔夫球运动员，小提琴手、瓦木工人等。本病属于中医痹证范畴。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "桡侧伸腕肌肌腱损伤,肱骨外上髁炎,桡肱骨粘液囊炎",
+        "part": [
+          "肘部"
+        ],
+        "infection": "无传染性",
+        "people": "青壮年、运动员",
+        "symptom": "?",
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "骨科"
+        ],
+        "cost": "市三甲医院约（1000-5000元）",
+        "ratio": "治愈率20%",
+        "duration": "治疗周期120天",
+        "method": [
+          "物理治疗、药物治疗"
+        ],
+        "examination": [
+          "网球肘试验",
+          "前臂伸肌紧张试验",
+          "骨关节及软组织CT",
+          "一般摄片检查"
+        ],
+        "medicine": [
+          "洛索洛芬钠片",
+          "双氯芬酸二乙胺",
+          "复方水杨酸甲酯苯海拉明喷雾剂"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "皮炎",
+    "information": {
+      "introduction": "皮炎和湿疹常作为同义词用来指一种皮肤炎症，代表皮肤对于化学制剂、蛋白、细菌与真菌等种种物质的变应性反应。湿疹一词没有特殊的含义，而皮炎则有限定的意义。若用皮炎代替湿疹作为诊断术语，则指的是真皮、表皮联合反应，它可以是急性、亚急性和慢性。这三者可以联合存在。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "皮肤炎症",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "有传染性",
+        "people": "所有人",
+        "symptom": [
+          "皮肤瘙痒",
+          "丘疹",
+          "慢性湿疹样变",
+          "红斑样皮疹",
+          "瘙痒"
+        ],
+        "complication": [
+          "离位皮炎",
+          "急性视网膜色素上皮炎",
+          "水母皮炎",
+          "发疱性甲虫皮炎",
+          "茶毛虫皮炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科"
+        ],
+        "cost": "市三甲医院约（100 —— 300元）",
+        "ratio": "?",
+        "duration": "?",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "皮内试验",
+          "嗜酸性粒细胞数",
+          "皮肤划痕试验",
+          "T淋巴细胞亚群",
+          "维生素B3"
+        ],
+        "medicine": [
+          "洁尔阴洗液",
+          "发用洗剂",
+          "复方醋酸地塞米松乳膏"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "洁尔阴洗液(恩威)",
+          "grade": "2.84",
+          "total": "216",
+          "secondary": "159"
+        },
+        {
+          "medicine_name": "金菌灵胶囊(大洋)",
+          "grade": "4.37",
+          "total": "7",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "百癣夏塔热片(奇康)",
+          "grade": "1.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "八宝五胆药墨",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "血尿",
+    "information": {
+      "introduction": "正常的尿液含有极少量的红细胞。中段尿离心后沉渣在显微镜下每个高倍视野可有红细胞0～2个，如果超过此数，即为血尿。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "?",
+        "part": [
+          "肾",
+          "膀胱",
+          "输尿管"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿血",
+          "小儿尿血",
+          "无痛性尿血"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科",
+          "泌尿外科"
+        ],
+        "cost": "市三甲医院约（1000-3000元）",
+        "ratio": "95%(一般经过有效治疗95%可以治愈)",
+        "duration": "7-14天",
+        "method": [
+          "西医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血清甲状旁腺激素",
+          "尿三杯试验",
+          "静脉肾盂造影",
+          "尿红细胞"
+        ],
+        "medicine": [
+          "结石通片",
+          "二十八味槟榔丸",
+          "黄葵胶囊"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "结石通片(恒诚制药)",
+          "grade": "2.59",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "二十八味槟榔丸(神水藏药)",
+          "grade": "2.79",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "黄葵胶囊(苏中)",
+          "grade": "2.44",
+          "total": "52",
+          "secondary": "9"
+        },
+        {
+          "medicine_name": "肾炎康复片(太阳)",
+          "grade": "2.64",
+          "total": "17",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "痛风舒胶囊(唐古绿康)",
+          "grade": "3.33",
+          "total": "114",
+          "secondary": "61"
+        },
+        {
+          "medicine_name": "复方肾炎片(葫芦博士)",
+          "grade": "4.03",
+          "total": "5",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "鹿角胶",
+          "grade": "3.07",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "血尿胶囊(和美)",
+          "grade": "3.5",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "血尿安胶囊(理想)",
+          "grade": "3.99",
+          "total": "7",
+          "secondary": "2"
+        },
+        {
+          "medicine_name": "肾炎康复片",
+          "grade": "2.16",
+          "total": "20",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "速溶阿胶颗粒3g×10",
+          "grade": "2.73",
+          "total": "15",
+          "secondary": "15"
+        },
+        {
+          "medicine_name": "排石颗粒(乐家老铺)",
+          "grade": "2.26",
+          "total": "10",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "鹿角胶(老中医)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "鹿角胶(东健)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "耳聋",
+    "information": {
+      "introduction": "临床上将听力障碍分为两类：传导性耳聋和神经性(感音性)耳聋。传导性耳聋是指外耳道至中耳的“鼓膜-听骨链”系统损害引起的听力下降;神经性耳聋属于感音器病变，是指内耳中的耳蜗或听神经至听觉中枢有关的神经传导径路损害，导致听力减退或消失，也称为感音性耳聋。前者声波还可由颅骨通过骨传导传至内耳引起感觉，后者因神经损害，听力均减弱或丧失。耳鸣是自觉的听到耳内有响声，是耳蜗神经干或神经末梢的刺激性病变。目前多数学者也主张归类于听力障碍范围。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "聋,听力障碍,重听",
+        "part": [
+          "耳"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群，中老年人为多",
+        "symptom": [
+          "神经性耳聋",
+          "中枢性耳聋",
+          "传导性耳聋",
+          "耳蜗性耳聋"
+        ],
+        "complication": [
+          "肾炎",
+          "耳鼻咽喉创伤",
+          "工业毒物中毒性周围神经病",
+          "听小骨创伤",
+          "小儿遗传性慢性进行性肾炎"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "耳鼻喉科",
+          "五官科"
+        ],
+        "cost": "市三甲医院约（5000-10000元）",
+        "ratio": "20--30%",
+        "duration": "1--6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "音叉检查",
+          "纯音听力计检查法",
+          "听力检查",
+          "电测听",
+          "前庭功能"
+        ],
+        "medicine": [
+          "人参鹿茸丸",
+          "愈风宁心片",
+          "耳聋左慈丸"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "人参鹿茸丸(同仁堂)",
+          "grade": "1.44",
+          "total": "6",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "愈风宁心片(燕峰)",
+          "grade": "5.0",
+          "total": "2",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(同仁堂)",
+          "grade": "2.77",
+          "total": "86",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "耳聋通窍丸(花溪)",
+          "grade": "5.0",
+          "total": "19",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "耳聋胶囊(景忠山)",
+          "grade": "2.98",
+          "total": "32",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(同仁堂)",
+          "grade": "3.42",
+          "total": "15",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(浓缩丸)(耳聋左慈丸(佛慈)(浓缩丸)",
+          "grade": "3.83",
+          "total": "104",
+          "secondary": "76"
+        },
+        {
+          "medicine_name": "益气聪明丸(摩美得)",
+          "grade": "3.64",
+          "total": "12",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "耳聋通窍丸",
+          "grade": "2.67",
+          "total": "32",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "耳聋通窍丸",
+          "grade": "3.92",
+          "total": "30",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(浓缩丸)(耳聋左慈丸(太极)",
+          "grade": "4.95",
+          "total": "82",
+          "secondary": "76"
+        },
+        {
+          "medicine_name": "耳聋通窍丸",
+          "grade": "4.62",
+          "total": "26",
+          "secondary": "8"
+        },
+        {
+          "medicine_name": "耳聋左慈丸(浓缩丸)(耳聋左慈丸(玉仁)",
+          "grade": "4.93",
+          "total": "79",
+          "secondary": "76"
+        },
+        {
+          "medicine_name": "耳聋左慈丸",
+          "grade": "4.33",
+          "total": "4",
+          "secondary": "0"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "斑秃",
+    "information": {
+      "introduction": "斑秃（Alopecia areata）是一种骤然发生的局限性斑片状的脱发性毛发病。其病变处头皮正常，无炎症及自觉症状。本病病程经过缓慢，可自行缓解和复发。若整个头皮毛发全部脱落，称全秃（alopecia totalis）；若全身所有毛发均脱落者，称普秃（alopecia universalis）。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "圆形脱发，圆秃，鬼剃头",
+        "part": [
+          "皮肤"
+        ],
+        "infection": "无传染性",
+        "people": "可发生在从婴儿到老人的任何...",
+        "symptom": [
+          "全秃",
+          "毛发脱落",
+          "毛发稀少",
+          "梳头或洗头时头发脱落增加",
+          "永久性秃发"
+        ],
+        "complication": "?"
+      },
+      "diagnosis_information": {
+        "department": [
+          "皮肤科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（3000 —— 5000元）",
+        "ratio": "60%",
+        "duration": "10-30天",
+        "method": [
+          "药物治疗"
+        ],
+        "examination": [
+          "血清白介素2",
+          "微量元素",
+          "必需微量元素",
+          "T淋巴细胞亚群",
+          "血清促肾上腺皮质激素"
+        ],
+        "medicine": [
+          "固肾生发丸",
+          "甘草甜素片",
+          "米诺地尔搽剂"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "固肾生发丸(白云山)",
+          "grade": "2.43",
+          "total": "57",
+          "secondary": "13"
+        },
+        {
+          "medicine_name": "甘草甜素片(晨牌)",
+          "grade": "3.82",
+          "total": "35",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸(敬修堂)",
+          "grade": "3.06",
+          "total": "101",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸(勃然)",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        },
+        {
+          "medicine_name": "斑秃丸",
+          "grade": "4.39",
+          "total": "70",
+          "secondary": "70"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "肾功能不全",
+    "information": {
+      "introduction": "慢性肾功能衰竭(chronic renal failure，CRF)是指各种肾脏疾病引起的缓慢进行性肾功能损害，最后导致尿毒症和肾功能完全丧失，引起一系列临床症状和生化、内分泌等代谢紊乱组成的临床综合征。从原发病起病到肾功能不全的开始，间隔时间可为数年到十余年。慢性肾功能衰竭是肾功能不全的严重阶段。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "慢性肾功能衰竭,慢性肾衰,肾衰",
+        "part": [
+          "肾"
+        ],
+        "infection": "无传染性",
+        "people": "所有人群",
+        "symptom": [
+          "尿酸代谢亢进",
+          "昏睡",
+          "嗜睡",
+          "血压下降",
+          "慢性肾功能不全"
+        ],
+        "complication": [
+          "高血压",
+          "贫血",
+          "心力衰竭",
+          "心包炎",
+          "心肌病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "肾内科"
+        ],
+        "cost": "不同医院收费标准不一致，市三甲医院约（5000 —— 8000元）",
+        "ratio": "60%",
+        "duration": "3-6个月",
+        "method": [
+          "药物治疗、手术治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "肾功能",
+          "尿液细胞学检查",
+          "血清免疫球蛋白G",
+          "血清免疫球蛋白M"
+        ],
+        "medicine": [
+          "氢氯噻嗪片",
+          "骨化三醇胶丸",
+          "聚磺苯乙烯钠散"
+        ]
+      },
+      "chinese_traditional_medicine": []
+    }
+  },
+  {
+    "disease_name": "风热感冒",
+    "information": {
+      "introduction": "风热感冒是风热之邪犯表、肺气失和所致。症状表现为发热重、微恶风、头胀痛、有汗、咽喉红肿疼痛、咳嗽、痰粘或黄、鼻塞黄涕、口渴喜饮、舌尖边红、苔薄白微黄。风热感冒多见于夏秋季，外感风热所致。中医认为，风热感冒是感受风热之邪所致的表证。",
+      "basic_information": {
+        "insurance": "否",
+        "alias": "?",
+        "part": [
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "感冒患者",
+        "symptom": [
+          "发烧",
+          "头痛",
+          "咽喉疼痛",
+          "咳嗽",
+          "痰呈粘液脓性"
+        ],
+        "complication": [
+          "脑血管瘤",
+          "流感",
+          "脑囊虫病",
+          "垂体性侏儒症",
+          "发作性睡病"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "中医科",
+          "呼吸内科"
+        ],
+        "cost": "市三甲医院约（100-400元）",
+        "ratio": "98%",
+        "duration": "7-14天",
+        "method": [
+          "中医药物治疗"
+        ],
+        "examination": [
+          "体温"
+        ],
+        "medicine": [
+          "板蓝根颗粒",
+          "板蓝根颗粒",
+          "复方金银花颗粒"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "板蓝根颗粒(腾药)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方金银花颗粒(双蚁)",
+          "grade": "3.56",
+          "total": "21",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "小儿感冒颗粒",
+          "grade": "2.43",
+          "total": "9",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "复方感冒灵颗粒(双蚁)",
+          "grade": "3.34",
+          "total": "69",
+          "secondary": "22"
+        },
+        {
+          "medicine_name": "感冒清片",
+          "grade": "4.42",
+          "total": "46",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "连花清瘟胶囊(以岭)",
+          "grade": "2.11",
+          "total": "168",
+          "secondary": "115"
+        },
+        {
+          "medicine_name": "清凉喉片(六棉牌)",
+          "grade": "0.0",
+          "total": "0",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "抗病毒口服液(安药)",
+          "grade": "5.0",
+          "total": "5",
+          "secondary": "5"
+        },
+        {
+          "medicine_name": "小儿热速清颗粒(圣泰)",
+          "grade": "4.0",
+          "total": "7",
+          "secondary": "4"
+        },
+        {
+          "medicine_name": "桑菊感冒片(同仁堂)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(星群(白云山)",
+          "grade": "4.49",
+          "total": "139",
+          "secondary": "136"
+        },
+        {
+          "medicine_name": "山蜡梅叶颗粒(佑美)",
+          "grade": "5.0",
+          "total": "1",
+          "secondary": "1"
+        },
+        {
+          "medicine_name": "安儿宁颗粒(金诃)",
+          "grade": "3.76",
+          "total": "13",
+          "secondary": "3"
+        },
+        {
+          "medicine_name": "夏桑菊颗粒(无糖)",
+          "grade": "3.0",
+          "total": "1",
+          "secondary": "1"
+        }
+      ]
+    }
+  },
+  {
+    "disease_name": "重症肌无力",
+    "information": {
+      "introduction": "重症肌无力(myasthenia gravis，MG)是一种横纹肌神经肌肉接头点处传导障碍的自身免疫性疾病,以肌肉易疲劳晨轻暮重、休息或用胆碱酯酶抑制药后减轻为特点。常累及眼外肌、咀嚼肌、吞咽肌和呼吸肌。严重者球麻痹。受累肌肉的分布因人因时而异，而并非某一神经受损时出现的麻痹表现。本病应称为获得性自身免疫性重症肌无力，通常简称重症肌无力。",
+      "basic_information": {
+        "insurance": "是",
+        "alias": "获得性自身免疫性重症肌无力,假麻痹性重症肌无力，肌痿，肉痿",
+        "part": [
+          "免疫系统",
+          "肌肉",
+          "全身"
+        ],
+        "infection": "无传染性",
+        "people": "儿童期较多见，20～40岁发病...",
+        "symptom": [
+          "无力",
+          "面肌无力",
+          "疲劳",
+          "吞咽困难"
+        ],
+        "complication": [
+          "重症肌无力危象",
+          "类风湿性关节炎",
+          "红斑狼疮",
+          "溶血性贫血"
+        ]
+      },
+      "diagnosis_information": {
+        "department": [
+          "神经内科",
+          "中医科"
+        ],
+        "cost": "市三甲医院约（8000 —— 20000元",
+        "ratio": "20--30%",
+        "duration": "2--6个月",
+        "method": [
+          "西医药物治疗、中医药物治疗"
+        ],
+        "examination": [
+          "尿常规",
+          "血清抗肌球蛋白抗体",
+          "脑脊液一般性状",
+          "腾喜龙试验",
+          "肌电图"
+        ],
+        "medicine": [
+          "健步强身丸",
+          "养心安神丸",
+          "溴吡斯的明片"
+        ]
+      },
+      "chinese_traditional_medicine": [
+        {
+          "medicine_name": "健步强身丸(北京同仁堂)",
+          "grade": "2.0",
+          "total": "2",
+          "secondary": "0"
+        },
+        {
+          "medicine_name": "养心安神丸(同仁堂)",
+          "grade": "4.19",
+          "total": "103",
+          "secondary": "57"
+        }
+      ]
+    }
+  }
+]

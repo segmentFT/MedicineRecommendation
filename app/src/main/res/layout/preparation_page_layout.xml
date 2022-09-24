@@ -22,16 +22,16 @@
         android:id="@+id/installingProgressValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TEST"
-        android:textSize="16sp"
         android:layout_below="@id/messageText1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
+        android:background="#56CFF3A5"
         android:paddingLeft="10dp"
-        android:paddingRight="10dp"
         android:paddingTop="5dp"
+        android:paddingRight="10dp"
         android:paddingBottom="5dp"
-        android:background="#56CFF3A5" />
+        android:text="TEST"
+        android:textSize="16sp" />
 
     <View
         android:layout_width="320dp"
@@ -59,13 +59,13 @@
     <Button
         android:id="@+id/finishInstallingButton"
         android:layout_width="160dp"
-        android:layout_height="35dp"
+        android:layout_height="40dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="140dp"
         android:background="@drawable/button_background1"
         android:enabled="false"
-        android:text="进入疾病查询界面"
+        android:text="返回到开始界面"
         android:textColor="#E6FFFFFF"
         android:textSize="14sp"
         android:textStyle="bold" />

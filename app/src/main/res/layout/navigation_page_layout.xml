@@ -107,21 +107,21 @@
                 android:id="@+id/queryWithPositionLabel"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="15dp"
                 android:text="通过疾病的发病部位查询: "
                 android:textSize="14sp"
-                android:textStyle="bold"
-                android:layout_marginTop="15dp"
-                android:layout_marginLeft="40dp" />
+                android:textStyle="bold" />
 
             <Button
                 android:id="@+id/queryWithPositionButton"
                 android:layout_width="120dp"
                 android:layout_height="25dp"
-                android:text="通过部位查询"
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="15dp"
                 android:layout_toRightOf="@id/queryWithPositionLabel"
-                android:background="#BFEC8B" />
+                android:background="#BFEC8B"
+                android:text="通过部位查询" />
 
             <TextView
                 android:id="@+id/queryWithDepartmentLabel"
@@ -140,11 +140,11 @@
                 android:layout_width="120dp"
                 android:layout_height="25dp"
                 android:layout_below="@id/queryWithPositionButton"
-                android:layout_toRightOf="@id/queryWithDepartmentLabel"
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="10dp"
-                android:text="通过科室查询"
-                android:background="#BFEC8B" />
+                android:layout_toRightOf="@id/queryWithDepartmentLabel"
+                android:background="#BFEC8B"
+                android:text="通过科室查询" />
 
         </RelativeLayout>
 

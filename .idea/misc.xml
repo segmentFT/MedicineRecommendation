@@ -16,19 +16,28 @@
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/display_positions_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/display_positoin_item_layout.xml" value="0.15" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/display_selection_item_layout.xml" value="0.18297101449275363" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/display_selections_layout.xml" value="0.17980072463768115" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/herb_information_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/horizontal_split_line1.xml" value="0.20199275362318841" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/individual_conditions_collected_layout.xml" value="0.264" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/medicine_information_layout.xml" value="0.2" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/medicine_item_layout.xml" value="0.2" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/navigation_page_layout.xml" value="0.2" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/no_message_layout.xml" value="0.1897644927536232" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/occupation_item_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/position_item_layout.xml" value="0.4" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/preparation_page_layout.xml" value="0.16530797101449277" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/queried_herb_item_layout.xml" value="0.17980072463768115" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/recommend_medicine_layout.xml" value="0.17980072463768115" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/recommendation_item_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/relative_symptom_item_layout.xml" value="0.264" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/select_herb_category_layout.xml" value="0.17980072463768115" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/select_herb_layout.xml" value="0.2" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/select_relative_symptom_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/select_symptom_layout.xml" value="0.2" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/selected_relative_symptom_item_layout.xml" value="0.4013840830449827" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/self_diagonsis_layout.xml" value="0.264" />
+        <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/start_page_layout.xml" value="0.264" />
         <entry key="..\:/android_application/MedicineRecommendation/app/src/main/res/layout/symptom_item_layout.xml" value="0.264" />
       </map>
     </option>

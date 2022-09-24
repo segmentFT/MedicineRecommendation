@@ -16,6 +16,27 @@
         android:theme="@style/Theme.MedicineRecommendation"
         tools:targetApi="31">
         <activity
+            android:name=".SelectHerbActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SelectHerbCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HerbInformationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MedicineInformationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StartPageActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".DisplayDepartmentsActivity"
             android:exported="false" />
         <activity
@@ -41,13 +62,7 @@
             android:exported="false" />
         <activity
             android:name=".NavigationPageActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".SelfDiagnosisActivity"
             android:exported="false" />

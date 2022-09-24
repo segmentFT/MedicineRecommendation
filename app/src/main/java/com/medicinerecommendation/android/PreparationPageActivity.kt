@@ -2,7 +2,6 @@ package com.medicinerecommendation.android
 
 import android.content.ContentValues
 import android.database.sqlite.SQLiteDatabase
-import android.os.AsyncTask
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -27,19 +26,30 @@ class PreparationPageActivity : AppCompatActivity() {
         setContentView(R.layout.preparation_page_layout)
 
         messageText = findViewById(R.id.messageText1)
-        messageText.text = "正在加载疾病数据库\n在此期间请勿关闭页面或者让程序进入后台"
 
         finishInstallingButton = findViewById(R.id.finishInstallingButton)
         finishInstallingButton.setOnClickListener {
             finish()
         }
-        finishInstallingButton.isEnabled = false
 
         installingProgressValue = findViewById(R.id.installingProgressValue)
         installingProgressbar = findViewById(R.id.installingProgressbar)
 
-        thread {
-            installDiseaseDatabase()
+        when(intent.getStringExtra("database")) {
+            "disease_database" -> {
+                messageText.text = "正在加载疾病数据库,在此期间请勿关闭页面或者让程序进入后台"
+                finishInstallingButton.isEnabled = false
+                thread {
+                    installDiseaseDatabase()
+                }
+            }
+            "medicine_database" -> {
+                finishInstallingButton.isEnabled = false
+                thread {
+                    installMedicineDatabase()
+                }
+            }
+            else -> {}
         }
     }
 
@@ -185,6 +195,208 @@ class PreparationPageActivity : AppCompatActivity() {
                 put("secondary_comment_count", jsonObject.getString("secondary").toInt())
             }
             db.insert("disease_to_medicine", null, diseaseToMedicineTableTuple)
+        }
+    }
+
+    fun installMedicineDatabase() {
+        val dbHelper = MedicineDatabaseOpenHelper(this, "medicine_database.db", 1)
+        val db = dbHelper.writableDatabase
+        val assetManager = assets
+
+        runOnUiThread {
+            messageText.text = "正在加载中药信息，在此期间请勿关闭程序或让程序进入后台"
+        }
+
+        for(i in 1..100) {
+            val file = assetManager.open("herbs_${i}.json")
+            val reader = BufferedReader(InputStreamReader(file))
+            val fileContent = StringBuilder()
+            reader.use {
+                reader.forEachLine {
+                    fileContent.append(it)
+                }
+            }
+            loadHerbData(fileContent.toString(), db)
+
+            runOnUiThread {
+                installingProgressbar.layoutParams = LinearLayout.LayoutParams(
+                    convertDpToPx(this, (i / 100.0 * 320).roundToInt()),
+                    convertDpToPx(this, 10))
+                installingProgressValue.text = i.toString() + "%"
+            }
+        }
+
+        runOnUiThread {
+            messageText.text = "正在加载中药种类信息，在此期间请勿关闭程序或让程序进入后台"
+        }
+
+        var file = assetManager.open("herb_classification.json")
+        var reader = BufferedReader(InputStreamReader(file))
+        val fileContent = StringBuilder()
+        reader.use {
+            reader.forEachLine {
+                fileContent.append(it)
+            }
+        }
+        loadHerbClassificationData(fileContent.toString(), db)
+        fileContent.clear()
+
+        runOnUiThread {
+            messageText.text = "正在加载药品成份信息，在此期间请勿关闭程序或让程序进入后台"
+        }
+
+        file = assetManager.open("medicines.json")
+        reader = BufferedReader(InputStreamReader(file))
+        reader.use {
+            reader.forEachLine {
+                fileContent.append(it)
+            }
+        }
+        loadMedicineIngredientData(fileContent.toString(), db)
+        fileContent.clear()
+
+        runOnUiThread {
+            messageText.text = "正在加载药品相似度信息，在此期间请勿关闭程序或让程序进入后台"
+        }
+
+        file = assetManager.open("similar_medicines.json")
+        reader = BufferedReader(InputStreamReader(file))
+        reader.use {
+            reader.forEachLine {
+                fileContent.append(it)
+            }
+        }
+        loadMedicineSimilarityData(fileContent.toString(), db)
+
+        runOnUiThread {
+            messageText.text = "药物数据库已经安装完成，可以进行下一步操作"
+            finishInstallingButton.isEnabled = true
+        }
+
+    }
+
+    fun loadHerbData(fileContent: String, db: SQLiteDatabase) {
+        val jsonArray  = JSONArray(fileContent)
+
+        for(i in 0 until jsonArray.length()) {
+            val jsonObject = jsonArray.getJSONObject(i)
+            val herbName = jsonObject.getString("name")
+            var alias = jsonObject.getString("alias")
+            alias = if(alias == "?") "没有别名信息" else alias
+            var ingredient = jsonObject.getString("ingredient")
+            ingredient = if(ingredient == "?") "没有成份信息" else ingredient
+            var process = jsonObject.getString("process")
+            process = if(ingredient == "?") "没有加工采集信息" else process
+            var distinguish = jsonObject.getString("distinguish")
+            distinguish = if(distinguish == "?") "没有药材鉴别信息" else distinguish
+            var pharmacologicalActions = jsonObject.getString("effect")
+            pharmacologicalActions =
+                if(pharmacologicalActions == "?") "没有药理作用信息" else pharmacologicalActions
+            var creationMethod = jsonObject.getString("creation")
+            creationMethod = if(creationMethod == "?") "没有药材炮制信息" else creationMethod
+            var function = jsonObject.getString("function")
+            function = if(function == "?") "没有功能主治信息" else function
+            var flavour = jsonObject.getString("taste")
+            flavour = if(function == "?") "没有性味信息" else flavour
+            var usage = jsonObject.getString("usage")
+            usage = if(usage == "?") "没有性味信息" else usage
+            var compatibility = jsonObject.getString("compatibility")
+            compatibility = if(compatibility == "?") "没有宜忌信息" else compatibility
+            var storageMethod = jsonObject.getString("storage")
+            storageMethod = if(storageMethod == "?") "没有贮藏方法信息" else storageMethod
+            var sideEffects = jsonObject.getString("side_effects")
+            sideEffects = if(sideEffects == "?") "没有副作用信息" else sideEffects
+            var category = jsonObject.getString("category")
+            category = if(category == "?") "没有药物归类信息" else category
+            var plant = jsonObject.getString("plant")
+            plant = if(plant == "?") "没有药物形态信息" else plant
+            var clinicalApplication = jsonObject.getString("application")
+            clinicalApplication =
+                if(clinicalApplication == "?") "没有临床应用信息" else clinicalApplication
+            var positionOfPlant = jsonObject.getString("position")
+            positionOfPlant = if(positionOfPlant == "?") "没有药用部位信息" else positionOfPlant
+            var sourceBook = jsonObject.getString("source")
+            sourceBook = if(sourceBook == "?") "没有来源书籍信息" else sourceBook
+
+            val insertedHerbTuple = ContentValues().apply {
+                put("name", herbName)
+                put("alias", alias)
+                put("ingredient", ingredient)
+                put("process", process)
+                put("distinguish", distinguish)
+                put("effect", pharmacologicalActions)
+                put("creation", creationMethod)
+                put("function", function)
+                put("taste", flavour)
+                put("usage", usage)
+                put("compatibility", compatibility)
+                put("storage", storageMethod)
+                put("side_effects", sideEffects)
+                put("category", category)
+                put("plant", plant)
+                put("application", clinicalApplication)
+                put("position", positionOfPlant)
+                put("source", sourceBook)
+            }
+            db.insert("herbs", null, insertedHerbTuple)
+        }
+    }
+
+    fun loadHerbClassificationData(fileContent: String, db: SQLiteDatabase) {
+        val jsonArray = JSONArray(fileContent)
+        for(i in 0 until jsonArray.length()) {
+            val jsonObject = jsonArray.getJSONObject(i)
+            val herbList = jsonObject.getJSONArray("herb")
+            val classificationName = jsonObject.getString("classification")
+
+            for(j in 0 until herbList.length()) {
+                val insertedClassificationTuple = ContentValues().apply {
+                    put("name", herbList.getString(j))
+                    put("classification", classificationName)
+                }
+                db.insert("classifications", null, insertedClassificationTuple)
+            }
+        }
+    }
+
+    fun loadMedicineIngredientData(fileContent: String, db: SQLiteDatabase) {
+        val jsonArray = JSONArray(fileContent)
+        for(i in 0 until jsonArray.length()) {
+            val jsonObject = jsonArray.getJSONObject(i)
+            val medicineName = jsonObject.getString("name")
+            val ingredientList = jsonObject.getJSONArray("ingredient")
+
+            if(ingredientList.length() > 0) {
+                for(j in 0 until ingredientList.length()) {
+                    val insertedIngredientTuple = ContentValues().apply {
+                        put("name", medicineName)
+                        put("ingredient", ingredientList.getString(j))
+                    }
+                    db.insert("medicines", null, insertedIngredientTuple)
+                }
+            }
+        }
+    }
+
+    fun loadMedicineSimilarityData(fileContent: String, db: SQLiteDatabase) {
+        val jsonArray = JSONArray(fileContent)
+        for(i in 0 until jsonArray.length()) {
+            val jsonObject = jsonArray.getJSONObject(i)
+            val medicineName = jsonObject.getString("medicine_name")
+            val similarMedicineList = jsonObject.getJSONArray("similar_medicines")
+
+            if(similarMedicineList.length() > 0) {
+                for(j in 0 until similarMedicineList.length()) {
+                    val similarMedicine = similarMedicineList.getJSONObject(j)
+                    val insertedSimilarMedicineTuple = ContentValues().apply {
+                        put("name", medicineName)
+                        put("similar_medicine", similarMedicine.getString("name"))
+                        put("similarity", similarMedicine.getString("similarity").toFloat())
+                    }
+                    db.insert(
+                        "similarities", null, insertedSimilarMedicineTuple)
+                }
+            }
         }
     }
 

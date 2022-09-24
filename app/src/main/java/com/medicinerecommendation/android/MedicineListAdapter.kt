@@ -1,11 +1,11 @@
 package com.medicinerecommendation.android
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.TextView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import kotlin.math.absoluteValue
@@ -28,8 +28,9 @@ class MedicineListAdapter(val medicines: MutableList<MedicineItem>, val activity
             R.layout.medicine_item_layout, parent, false)
         val viewHolder = ViewHolder(view)
         viewHolder.itemView.setOnClickListener {
-            Toast.makeText(
-                activity, medicines[viewHolder.adapterPosition].name, Toast.LENGTH_SHORT).show()
+            val intent = Intent(activity, MedicineInformationActivity::class.java)
+            intent.putExtra("name", medicines[viewHolder.adapterPosition].name)
+            activity.startActivity(intent)
         }
 
         return viewHolder

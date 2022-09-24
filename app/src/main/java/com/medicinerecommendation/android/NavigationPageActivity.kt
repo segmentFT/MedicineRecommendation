@@ -47,22 +47,5 @@ class NavigationPageActivity : AppCompatActivity() {
                 startActivity(intent)
             }
         }
-
-        val databaseFile = getDatabasePath("disease_database.db")
-        if (!databaseFile.exists()) {
-            val intent = Intent(this, PreparationPageActivity::class.java)
-            AlertDialog.Builder(this).apply {
-                setTitle("没有加载疾病数据库")
-                setMessage("程序没有加载疾病数据库，点击确定按钮将进行数据库安装\n点击取消按钮将退出程序")
-                setCancelable(false)
-                setPositiveButton("确定") { _, _ ->
-                    startActivity(intent)
-                }
-                setNegativeButton("取消") { _, _ ->
-                    finish()
-                }
-                show()
-            }
-        }
     }
 }
